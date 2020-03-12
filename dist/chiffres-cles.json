@@ -877,9 +877,217 @@
   },
   {
     "date": "2020-03-10",
+    "source": {
+      "nom": "Santé publique France"
+    },
+    "nom": "Saint-Barthélemy",
+    "code": "COM-977",
+    "casConfirmes": 1
+  },
+  {
+    "date": "2020-03-10",
+    "source": {
+      "nom": "Santé publique France"
+    },
+    "nom": "Saint-Martin",
+    "code": "COM-978",
+    "casConfirmes": 2
+  },
+  {
+    "date": "2020-03-10",
     "nom": "Oise",
     "code": "DEP-60",
     "deces": 10
+  },
+  {
+    "date": "2020-03-10",
+    "source": {
+      "nom": "Santé publique France"
+    },
+    "casConfirmes": 1794,
+    "deces": 33,
+    "nom": "France",
+    "code": "FRA"
+  },
+  {
+    "date": "2020-03-10",
+    "source": {
+      "nom": "Santé publique France"
+    },
+    "nom": "Guadeloupe",
+    "code": "REG-01",
+    "casConfirmes": 0
+  },
+  {
+    "date": "2020-03-10",
+    "source": {
+      "nom": "Santé publique France"
+    },
+    "nom": "Martinique",
+    "code": "REG-02",
+    "casConfirmes": 3
+  },
+  {
+    "date": "2020-03-10",
+    "source": {
+      "nom": "Santé publique France"
+    },
+    "nom": "Guyane",
+    "code": "REG-03",
+    "casConfirmes": 5
+  },
+  {
+    "date": "2020-03-10",
+    "source": {
+      "nom": "Santé publique France"
+    },
+    "nom": "La Réunion",
+    "code": "REG-04",
+    "casConfirmes": 0
+  },
+  {
+    "date": "2020-03-10",
+    "source": {
+      "nom": "Santé publique France"
+    },
+    "nom": "Mayotte",
+    "code": "REG-06",
+    "casConfirmes": 0
+  },
+  {
+    "date": "2020-03-10",
+    "source": {
+      "nom": "Santé publique France"
+    },
+    "nom": "Ile-de-France",
+    "code": "REG-11",
+    "casConfirmes": 334
+  },
+  {
+    "date": "2020-03-10",
+    "source": {
+      "nom": "Santé publique France"
+    },
+    "nom": "Centre-Val de Loire",
+    "code": "REG-24",
+    "casConfirmes": 18
+  },
+  {
+    "date": "2020-03-10",
+    "source": {
+      "nom": "Santé publique France"
+    },
+    "nom": "Bourgogne-Franche-Comté",
+    "code": "REG-27",
+    "casConfirmes": 146
+  },
+  {
+    "date": "2020-03-10",
+    "source": {
+      "nom": "Santé publique France"
+    },
+    "nom": "Normandie",
+    "code": "REG-28",
+    "casConfirmes": 37
+  },
+  {
+    "date": "2020-03-10",
+    "source": {
+      "nom": "Santé publique France"
+    },
+    "nom": "Hauts-de-France",
+    "code": "REG-32",
+    "casConfirmes": 209
+  },
+  {
+    "date": "2020-03-10",
+    "source": {
+      "nom": "Santé publique France"
+    },
+    "nom": "Grand Est",
+    "code": "REG-44",
+    "casConfirmes": 464
+  },
+  {
+    "date": "2020-03-10",
+    "source": {
+      "nom": "Santé publique France"
+    },
+    "nom": "Pays de la Loire",
+    "code": "REG-52",
+    "casConfirmes": 27
+  },
+  {
+    "date": "2020-03-10",
+    "source": {
+      "nom": "Santé publique France"
+    },
+    "nom": "Bretagne",
+    "code": "REG-53",
+    "casConfirmes": 81
+  },
+  {
+    "date": "2020-03-10",
+    "source": {
+      "nom": "Santé publique France"
+    },
+    "nom": "Nouvelle-Aquitaine",
+    "code": "REG-75",
+    "casConfirmes": 54
+  },
+  {
+    "date": "2020-03-10",
+    "source": {
+      "nom": "Santé publique France"
+    },
+    "nom": "Occitanie",
+    "code": "REG-76",
+    "casConfirmes": 61
+  },
+  {
+    "date": "2020-03-10",
+    "source": {
+      "nom": "Santé publique France"
+    },
+    "nom": "Auvergne-Rhône-Alpes",
+    "code": "REG-84",
+    "casConfirmes": 211
+  },
+  {
+    "date": "2020-03-10",
+    "source": {
+      "nom": "Santé publique France"
+    },
+    "nom": "Provence-Alpes-Côte d’Azur",
+    "code": "REG-93",
+    "casConfirmes": 89
+  },
+  {
+    "date": "2020-03-10",
+    "source": {
+      "nom": "Santé publique France"
+    },
+    "nom": "Corse",
+    "code": "REG-94",
+    "casConfirmes": 42
+  },
+  {
+    "date": "2020-03-11",
+    "source": {
+      "nom": "Santé publique France"
+    },
+    "nom": "Saint-Barthélemy",
+    "code": "COM-977",
+    "casConfirmes": 1
+  },
+  {
+    "date": "2020-03-11",
+    "source": {
+      "nom": "Santé publique France"
+    },
+    "nom": "Saint-Martin",
+    "code": "COM-978",
+    "casConfirmes": 2
   },
   {
     "date": "2020-03-11",
@@ -887,5 +1095,187 @@
     "code": "DEP-60",
     "deces": 11,
     "casConfirmes": 152
+  },
+  {
+    "date": "2020-03-11",
+    "source": {
+      "nom": "Santé publique France"
+    },
+    "casConfirmes": 2281,
+    "deces": 48,
+    "nom": "France",
+    "code": "FRA"
+  },
+  {
+    "date": "2020-03-11",
+    "source": {
+      "nom": "Santé publique France"
+    },
+    "nom": "Guadeloupe",
+    "code": "REG-01",
+    "casConfirmes": 0
+  },
+  {
+    "date": "2020-03-11",
+    "source": {
+      "nom": "Santé publique France"
+    },
+    "nom": "Martinique",
+    "code": "REG-02",
+    "casConfirmes": 3
+  },
+  {
+    "date": "2020-03-11",
+    "source": {
+      "nom": "Santé publique France"
+    },
+    "nom": "Guyane",
+    "code": "REG-03",
+    "casConfirmes": 5
+  },
+  {
+    "date": "2020-03-11",
+    "source": {
+      "nom": "Santé publique France"
+    },
+    "nom": "La Réunion",
+    "code": "REG-04",
+    "casConfirmes": 1
+  },
+  {
+    "date": "2020-03-11",
+    "source": {
+      "nom": "Santé publique France"
+    },
+    "nom": "Mayotte",
+    "code": "REG-06",
+    "casConfirmes": 0
+  },
+  {
+    "date": "2020-03-11",
+    "source": {
+      "nom": "Santé publique France"
+    },
+    "nom": "Ile-de-France",
+    "code": "REG-11",
+    "casConfirmes": 492
+  },
+  {
+    "date": "2020-03-11",
+    "source": {
+      "nom": "Santé publique France"
+    },
+    "nom": "Centre-Val de Loire",
+    "code": "REG-24",
+    "casConfirmes": 20
+  },
+  {
+    "date": "2020-03-11",
+    "source": {
+      "nom": "Santé publique France"
+    },
+    "nom": "Bourgogne-Franche-Comté",
+    "code": "REG-27",
+    "casConfirmes": 155
+  },
+  {
+    "date": "2020-03-11",
+    "source": {
+      "nom": "Santé publique France"
+    },
+    "nom": "Normandie",
+    "code": "REG-28",
+    "casConfirmes": 54
+  },
+  {
+    "date": "2020-03-11",
+    "source": {
+      "nom": "Santé publique France"
+    },
+    "nom": "Hauts-de-France",
+    "code": "REG-32",
+    "casConfirmes": 263
+  },
+  {
+    "date": "2020-03-11",
+    "source": {
+      "nom": "Santé publique France"
+    },
+    "nom": "Grand Est",
+    "code": "REG-44",
+    "casConfirmes": 578
+  },
+  {
+    "date": "2020-03-11",
+    "source": {
+      "nom": "Santé publique France"
+    },
+    "nom": "Pays de la Loire",
+    "code": "REG-52",
+    "casConfirmes": 34
+  },
+  {
+    "date": "2020-03-11",
+    "source": {
+      "nom": "Santé publique France"
+    },
+    "nom": "Bretagne",
+    "code": "REG-53",
+    "casConfirmes": 94
+  },
+  {
+    "date": "2020-03-11",
+    "source": {
+      "nom": "Santé publique France"
+    },
+    "nom": "Nouvelle-Aquitaine",
+    "code": "REG-75",
+    "casConfirmes": 66
+  },
+  {
+    "date": "2020-03-11",
+    "source": {
+      "nom": "Santé publique France"
+    },
+    "nom": "Occitanie",
+    "code": "REG-76",
+    "casConfirmes": 87
+  },
+  {
+    "date": "2020-03-11",
+    "source": {
+      "nom": "Santé publique France"
+    },
+    "nom": "Auvergne-Rhône-Alpes",
+    "code": "REG-84",
+    "casConfirmes": 264
+  },
+  {
+    "date": "2020-03-11",
+    "source": {
+      "nom": "Santé publique France"
+    },
+    "nom": "Provence-Alpes-Côte d’Azur",
+    "code": "REG-93",
+    "casConfirmes": 111
+  },
+  {
+    "date": "2020-03-11",
+    "source": {
+      "nom": "Santé publique France"
+    },
+    "nom": "Corse",
+    "code": "REG-94",
+    "casConfirmes": 51
+  },
+  {
+    "date": "2020-03-11",
+    "source": {
+      "nom": "Santé publique France"
+    },
+    "casConfirmes": 118628,
+    "deces": 4292,
+    "nom": "Monde",
+    "code": "WORLD"
   }
 ]
