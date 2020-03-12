@@ -1,0 +1,16 @@
+date: 2020-03-03
+source:
+  nom: ARS Bourgogne-Franche-Comté
+  url: https://www.bourgogne-franche-comte.ars.sante.fr/system/files/2020-03/2020.03.03_COVID19_SITUATION%20BFC.pdf
+donneesRegionales:
+  nom: Bourgogne-Franche-Comté
+  code: REG-27
+  casConfirmes: 15
+  deces: 0
+donneesDepartementales:
+  - nom: Côte-d'Or
+    code: DEP-21
+    nouveauxCasConfirmes: +4
+  - nom: Saône-et-Loire
+    code: DEP-71
+    nouveauxCasConfirmes: +1

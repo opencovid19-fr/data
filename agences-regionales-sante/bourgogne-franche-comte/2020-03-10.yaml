@@ -1,0 +1,19 @@
+date: 2020-03-10
+source:
+  nom: ARS Bourgogne-Franche-Comté
+  url: https://www.bourgogne-franche-comte.ars.sante.fr/system/files/2020-03/2020.03.10_COVID19_SITUATION%20BFC.pdf
+donneesRegionales:
+  nom: Bourgogne-Franche-Comté
+  code: REG-27
+  casConfirmes: 147
+  reanimation: 5
+  deces: 1
+donnesDepartementales:
+  - nom: Nièvre
+    code: DEP-58
+    casConfirmes: 2
+    deces: 0
+  - nom: Yonne
+    code: DEP-89
+    deces: 1
+    - date: 2020-03-10
