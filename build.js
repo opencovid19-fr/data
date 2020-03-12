@@ -88,8 +88,8 @@ function jsonToCsvRow(json) {
     granularite: getGranularite(json.code),
     maille_code: json.code,
     maille_nom: json.nom,
-    cas_confirmes: json.casConfirmes || '',
-    deces: json.deces || '',
+    cas_confirmes: 'casConfirmes' in json ? json.casConfirmes : '',
+    deces: 'deces' in json ? json.deces : '',
     source_nom: (json.source && json.source.nom) || '',
     source_url: (json.source && json.source.url) || ''
   }
