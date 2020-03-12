@@ -1,0 +1,27 @@
+date: 2020-03-11
+donneesRegionales:
+  nom: Bretagne
+  code: REG-53
+  source:
+    nom: ARS Bretagne
+    url: https://www.bretagne.ars.sante.fr/system/files/2020-03/2020-03-11-bulletin%20information%20COVID-19_numero5_VF.pdf
+  casConfirmes: 93
+  deces: 1
+donneesDepartementales:
+  - nom: Ille-et-Vilaine
+    code: DEP-35
+    casConfirmes: 13
+    deces: 0
+  - nom: Finistère
+    code: DEP-29
+    casConfirmes: 7
+    deces: 0
+  - nom: Morbihan
+    code: DEP-56
+    casConfirmes: 73
+    deces: 1
+  - nom: Côtes-d'Armor
+    code: DEP-22
+    casConfirmes: 0
+    deces: 0
+
