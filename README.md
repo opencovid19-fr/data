@@ -1,27 +1,52 @@
-# data
-Données nationales concernant l'épidémie de COVID19
+# Données nationales concernant l'épidémie de COVID19
 
-⚠️ Dépôt en cours d'initialisation - ouverture prévue dans la journée ⚠️
+L'information officielle sur la progression de l'épidémie en France est assez fragmentée, et n'est presque jamais structurée sous forme de données.
 
-## Bulletins Santé publique France
+L'objectif de ce dépôt est de consolider l'information officielle, et de la rendre disponible dans des formats ouverts et aisément réutilisables (JSON, CSV…).
 
-[Santé publique France](https://www.santepubliquefrance.fr) publie chaque jour un point épidémiologique. Ces derniers contiennent de nombreuses informations, structurées dans un fichier PDF ou dans un tableau HTML.
+Inutile de perdre du temps à écrire des scrappers, à ce stade il est plus efficace de recopier les données, et d'indiquer la source.
 
-Le dossier `bulletins-spf` contient la retranscription (partielle à ce stade) du contenu des points épidémiologiques. Le format `YAML` a été retenu pour se relative simplicité de saisie.
+## Données résultantes
 
-Un script permet de transformer ces données en un unique fichier `bulletins-spf.json`, contenu dans le dossier `dist`.
+- [chiffres-cles.json](https://github.com/opencovid19-fr/data/raw/master/dist/chiffres-cles.json)
+- [chiffres-cles.csv](https://github.com/opencovid19-fr/data/raw/master/dist/chiffres-cles.csv)
 
-### Produire le fichier JSON
+## Sources utilisées
 
-Prérequis :
-- Node.js et yarn (ou npm) installé
+- [Santé publique France](https://www.santepubliquefrance.fr)
+- Agences Régionales de Santé
+- Préfectures
+
+## Fichiers sources
+
+Les informations à la source sont au format PDF ou dans des communiqués au format HTML.
+
+Ces informations sont collectées et regroupées dans des fichiers YAML.
+
+1 fichier YAML par source et pas publication (donc par date).
+
+## Produire les fichiers JSON et CSV
+
+### Pré-requis
+
+- Node.js >= 10
+- yarn ou npm
+
+### En action
 
 ```
 yarn
-yarn bulletins-spf:build
+yarn build
 ```
 
-# Licence
+ou
+
+```
+npm install
+npm run build
+```
+
+## Licence
 
 Données sous Licence Ouverte (sauf mention du contraire)
 
