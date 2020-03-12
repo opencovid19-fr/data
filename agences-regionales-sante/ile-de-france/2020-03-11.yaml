@@ -1,0 +1,44 @@
+date: 2020-03-11
+source:
+  nom: ARS Ile-de-France
+  url: https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200311.pdf
+donneesRegionales:
+  nom: Ile-de-France
+  code: REG-11
+  casConfirmes: 512
+  deces: 4
+  - age: 85
+    date: 2020-03-10
+  - age: 90
+    date: 2020-03-10
+  - age: 95
+    date: 2020-03-10
+donneesDepartementales:
+  - nom: Paris
+    code: DEP-75
+    casConfirmes: 80
+  - nom: Seine-et-Marne
+    code: DEP-77
+    casConfirmes: 30
+  - nom: Yvelines
+    code: DEP-78
+    casConfirmes: 56
+  - nom: Essone
+    code: DEP-91
+    casConfirmes: 20
+  - nom: Hauts-de-Seine
+    code: DEP-92
+    casConfirmes: 47
+  - nom: Saint-Saint-Denis
+    code: DEP-93
+    casConfirmes: 29
+  - nom: Val-de-Marne
+    code: DEP-94
+    casConfirmes: 36
+  - nom: Val-d'Oise
+    code: DEP-95
+    casConfirmes: 59
+    deces: 1
+    - age: 86
+      sexe: homme
+      date: 2020-03-06
