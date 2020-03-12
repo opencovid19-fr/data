@@ -7,10 +7,11 @@
   "license": "MIT",
   "private": false,
   "scripts": {
-    "bulletins-spf:build": "node build-bulletins-spf"
+    "build": "node build"
   },
   "devDependencies": {
     "fs-extra": "^8.1.0",
+    "glob": "^7.1.6",
     "js-yaml": "^3.13.1",
     "lodash": "^4.17.15",
     "xo": "^0.28.0"
