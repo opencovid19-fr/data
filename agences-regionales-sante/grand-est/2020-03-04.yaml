@@ -1,0 +1,54 @@
+date: 2020-03-04
+source:
+  nom: ARS Grand-Est
+  url: https://www.grand-est.ars.sante.fr/system/files/2020-03/Communique%20Coronavirus%20covid%2019%20-%20point%20de%20situation%20en%20Grand%20Est%2004%2003%202020.pdf
+donneesRegionales:
+  nom: Grand-Est
+  code: REG-44
+  casConfirmes: 26
+  deces: 0
+donneesDepartementales:
+  - nom: Marne
+    code: DEP-51
+    casConfirmes: 1
+    deces: 0
+  - nom: Aube
+    code: DEP-10
+    casConfirmes: 0
+    deces: 0
+  - nom: Haute-Marne
+    code: DEP-52
+    casConfirmes: 0
+    deces: 0
+  - nom: Ardennes
+    code: DEP-08
+    casConfirmes: 0
+    deces: 0
+  - nom: Meuse
+    code: DEP-55
+    casConfirmes: 0
+    deces: 0
+  - nom: Meurthe-et-Moselle
+    code: DEP-54
+    casConfirmes: 0
+    deces: 0
+  - nom: Moselle
+    code: DEP-57
+    casConfirmes: 0
+    deces: 0
+  - nom: Vosges
+    code: DEP-88
+    casConfirmes: 1
+    deces: 0
+  - nom: Bas-Rhin
+    code: DEP-67
+    casConfirmes: 5
+    deces: 0
+  - nom: Haut-Rhin
+    code: DEP-68
+    casConfirmes: 16
+    deces: 0
+  - nom: Aisne
+    code: DEP-02
+    casConfirmes: 3
+    deces: 0
