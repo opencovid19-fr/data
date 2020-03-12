@@ -1,4 +1,4 @@
-date: 2020-03-08
+date: "2020-03-08"
 source:
   nom: ARS Grand-Est
   url: https://www.grand-est.ars.sante.fr/system/files/2020-03/Covid19_point_GrandEst080320.pdf
@@ -36,9 +36,10 @@ donneesDepartementales:
   - nom: Moselle
     code: DEP-57
     deces: 1
-    - age: 73
-      sexe: femme
-      date: 2020-03-08
+    victimes:
+      - age: 73
+        sexe: femme
+        date: "2020-03-08"
     casConfirmes: 16
   - nom: Vosges
     code: DEP-88
@@ -51,12 +52,13 @@ donneesDepartementales:
   - nom: Haut-Rhin
     code: DEP-68
     deces: 2
-    - age: 91
-      sexe: homme
-      date: 2020-03-07
-    - age: 86
-      sexe: femme
-      date: 2020-03-07
+    victimes:
+      - age: 91
+        sexe: homme
+        date: "2020-03-07"
+      - age: 86
+        sexe: femme
+        date: "2020-03-07"
     casConfirmes: 162
   - nom: Aisne
     code: DEP-02

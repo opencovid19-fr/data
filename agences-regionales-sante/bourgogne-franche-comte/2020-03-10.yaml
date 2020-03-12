@@ -1,4 +1,4 @@
-date: 2020-03-10
+date: "2020-03-10"
 source:
   nom: ARS Bourgogne-Franche-Comté
   url: https://www.bourgogne-franche-comte.ars.sante.fr/system/files/2020-03/2020.03.10_COVID19_SITUATION%20BFC.pdf
@@ -16,4 +16,5 @@ donnesDepartementales:
   - nom: Yonne
     code: DEP-89
     deces: 1
-    - date: 2020-03-10
+    victimes:
+      - date: "2020-03-10"

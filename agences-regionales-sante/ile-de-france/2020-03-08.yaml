@@ -1,4 +1,4 @@
-date: 2020-03-08
+date: "2020-03-08"
 source:
   nom: ARS Ile-de-France
   url: https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200308.pdf
@@ -33,6 +33,7 @@ donneesDepartementales:
     code: DEP-95
     casConfirmes: 39
     deces: 1
-    - age: 86
-      sexe: homme
-      date: 2020-03-06
+    victimes:
+      - age: 86
+        sexe: homme
+        date: "2020-03-06"
