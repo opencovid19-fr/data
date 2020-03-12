@@ -1,0 +1,891 @@
+[
+  {
+    "date": "2020-03-04",
+    "nom": "Oise",
+    "code": "DEP-60",
+    "deces": 3
+  },
+  {
+    "date": "2020-03-04",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/content/download/235529/2526819"
+    },
+    "casConfirmes": 285,
+    "deces": 4,
+    "nom": "France",
+    "code": "FRA"
+  },
+  {
+    "date": "2020-03-04",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/content/download/235529/2526819"
+    },
+    "nom": "Guadeloupe",
+    "code": "REG-01",
+    "casConfirmes": 3
+  },
+  {
+    "date": "2020-03-04",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/content/download/235529/2526819"
+    },
+    "nom": "Martinique",
+    "code": "REG-02",
+    "casConfirmes": 0
+  },
+  {
+    "date": "2020-03-04",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/content/download/235529/2526819"
+    },
+    "nom": "Guyane",
+    "code": "REG-03",
+    "casConfirmes": 0
+  },
+  {
+    "date": "2020-03-04",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/content/download/235529/2526819"
+    },
+    "nom": "La Réunion",
+    "code": "REG-04",
+    "casConfirmes": 0
+  },
+  {
+    "date": "2020-03-04",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/content/download/235529/2526819"
+    },
+    "nom": "Mayotte",
+    "code": "REG-06",
+    "casConfirmes": 0
+  },
+  {
+    "date": "2020-03-04",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/content/download/235529/2526819"
+    },
+    "nom": "Ile-de-France",
+    "code": "REG-11",
+    "casConfirmes": 55
+  },
+  {
+    "date": "2020-03-04",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/content/download/235529/2526819"
+    },
+    "nom": "Centre-Val de Loire",
+    "code": "REG-24",
+    "casConfirmes": 0
+  },
+  {
+    "date": "2020-03-04",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/content/download/235529/2526819"
+    },
+    "nom": "Bourgogne-Franche-Comté",
+    "code": "REG-27",
+    "casConfirmes": 16
+  },
+  {
+    "date": "2020-03-04",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/content/download/235529/2526819"
+    },
+    "nom": "Normandie",
+    "code": "REG-28",
+    "casConfirmes": 2
+  },
+  {
+    "date": "2020-03-04",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/content/download/235529/2526819"
+    },
+    "nom": "Hauts-de-France",
+    "code": "REG-32",
+    "casConfirmes": 65
+  },
+  {
+    "date": "2020-03-04",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/content/download/235529/2526819"
+    },
+    "nom": "Grand Est",
+    "code": "REG-44",
+    "casConfirmes": 38
+  },
+  {
+    "date": "2020-03-04",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/content/download/235529/2526819"
+    },
+    "nom": "Pays de la Loire",
+    "code": "REG-52",
+    "casConfirmes": 7
+  },
+  {
+    "date": "2020-03-04",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/content/download/235529/2526819"
+    },
+    "nom": "Bretagne",
+    "code": "REG-53",
+    "casConfirmes": 23
+  },
+  {
+    "date": "2020-03-04",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/content/download/235529/2526819"
+    },
+    "nom": "Nouvelle-Aquitaine",
+    "code": "REG-75",
+    "casConfirmes": 5
+  },
+  {
+    "date": "2020-03-04",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/content/download/235529/2526819"
+    },
+    "nom": "Occitanie",
+    "code": "REG-76",
+    "casConfirmes": 9
+  },
+  {
+    "date": "2020-03-04",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/content/download/235529/2526819"
+    },
+    "nom": "Auvergne-Rhône-Alpes",
+    "code": "REG-84",
+    "casConfirmes": 49
+  },
+  {
+    "date": "2020-03-04",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/content/download/235529/2526819"
+    },
+    "nom": "Provence-Alpes-Côte d’Azur",
+    "code": "REG-93",
+    "casConfirmes": 13
+  },
+  {
+    "date": "2020-03-04",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/content/download/235529/2526819"
+    },
+    "nom": "Corse",
+    "code": "REG-94",
+    "casConfirmes": 0
+  },
+  {
+    "date": "2020-03-04",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/content/download/235529/2526819"
+    },
+    "paysTouches": 77,
+    "casConfirmes": 93076,
+    "deces": 3202,
+    "nom": "Monde",
+    "code": "WORLD"
+  },
+  {
+    "date": "2020-03-05",
+    "nom": "Oise",
+    "code": "DEP-60",
+    "deces": 5
+  },
+  {
+    "date": "2020-03-05",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/content/download/235532/2526871"
+    },
+    "casConfirmes": 423,
+    "deces": 5,
+    "nom": "France",
+    "code": "FRA"
+  },
+  {
+    "date": "2020-03-05",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/content/download/235532/2526871"
+    },
+    "nom": "Guadeloupe",
+    "code": "REG-01",
+    "casConfirmes": 3
+  },
+  {
+    "date": "2020-03-05",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/content/download/235532/2526871"
+    },
+    "nom": "Martinique",
+    "code": "REG-02",
+    "casConfirmes": 0
+  },
+  {
+    "date": "2020-03-05",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/content/download/235532/2526871"
+    },
+    "nom": "Guyane",
+    "code": "REG-03",
+    "casConfirmes": 5
+  },
+  {
+    "date": "2020-03-05",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/content/download/235532/2526871"
+    },
+    "nom": "La Réunion",
+    "code": "REG-04",
+    "casConfirmes": 0
+  },
+  {
+    "date": "2020-03-05",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/content/download/235532/2526871"
+    },
+    "nom": "Mayotte",
+    "code": "REG-06",
+    "casConfirmes": 0
+  },
+  {
+    "date": "2020-03-05",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/content/download/235532/2526871"
+    },
+    "nom": "Ile-de-France",
+    "code": "REG-11",
+    "casConfirmes": 76
+  },
+  {
+    "date": "2020-03-05",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/content/download/235532/2526871"
+    },
+    "nom": "Centre-Val de Loire",
+    "code": "REG-24",
+    "casConfirmes": 2
+  },
+  {
+    "date": "2020-03-05",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/content/download/235532/2526871"
+    },
+    "nom": "Bourgogne-Franche-Comté",
+    "code": "REG-27",
+    "casConfirmes": 39
+  },
+  {
+    "date": "2020-03-05",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/content/download/235532/2526871"
+    },
+    "nom": "Normandie",
+    "code": "REG-28",
+    "casConfirmes": 6
+  },
+  {
+    "date": "2020-03-05",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/content/download/235532/2526871"
+    },
+    "nom": "Hauts-de-France",
+    "code": "REG-32",
+    "casConfirmes": 74
+  },
+  {
+    "date": "2020-03-05",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/content/download/235532/2526871"
+    },
+    "nom": "Grand Est",
+    "code": "REG-44",
+    "casConfirmes": 77
+  },
+  {
+    "date": "2020-03-05",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/content/download/235532/2526871"
+    },
+    "nom": "Pays de la Loire",
+    "code": "REG-52",
+    "casConfirmes": 8
+  },
+  {
+    "date": "2020-03-05",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/content/download/235532/2526871"
+    },
+    "nom": "Bretagne",
+    "code": "REG-53",
+    "casConfirmes": 29
+  },
+  {
+    "date": "2020-03-05",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/content/download/235532/2526871"
+    },
+    "nom": "Nouvelle-Aquitaine",
+    "code": "REG-75",
+    "casConfirmes": 8
+  },
+  {
+    "date": "2020-03-05",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/content/download/235532/2526871"
+    },
+    "nom": "Occitanie",
+    "code": "REG-76",
+    "casConfirmes": 11
+  },
+  {
+    "date": "2020-03-05",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/content/download/235532/2526871"
+    },
+    "nom": "Auvergne-Rhône-Alpes",
+    "code": "REG-84",
+    "casConfirmes": 64
+  },
+  {
+    "date": "2020-03-05",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/content/download/235532/2526871"
+    },
+    "nom": "Provence-Alpes-Côte d’Azur",
+    "code": "REG-93",
+    "casConfirmes": 18
+  },
+  {
+    "date": "2020-03-05",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/content/download/235532/2526871"
+    },
+    "nom": "Corse",
+    "code": "REG-94",
+    "casConfirmes": 3
+  },
+  {
+    "date": "2020-03-05",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/content/download/235532/2526871"
+    },
+    "paysTouches": 81,
+    "casConfirmes": 95315,
+    "deces": 3282,
+    "nom": "Monde",
+    "code": "WORLD"
+  },
+  {
+    "date": "2020-03-06",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/content/download/235535/2526923"
+    },
+    "nom": "Saint-Barthélemy",
+    "code": "COM-977",
+    "casConfirmes": 1
+  },
+  {
+    "date": "2020-03-06",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/content/download/235535/2526923"
+    },
+    "nom": "Saint-Martin",
+    "code": "COM-978",
+    "casConfirmes": 2
+  },
+  {
+    "date": "2020-03-06",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/content/download/235535/2526923"
+    },
+    "casConfirmes": 613,
+    "deces": 9,
+    "nom": "France",
+    "code": "FRA"
+  },
+  {
+    "date": "2020-03-06",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/content/download/235535/2526923"
+    },
+    "nom": "Guadeloupe",
+    "code": "REG-01",
+    "casConfirmes": 0
+  },
+  {
+    "date": "2020-03-06",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/content/download/235535/2526923"
+    },
+    "nom": "Martinique",
+    "code": "REG-02",
+    "casConfirmes": 2
+  },
+  {
+    "date": "2020-03-06",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/content/download/235535/2526923"
+    },
+    "nom": "Guyane",
+    "code": "REG-03",
+    "casConfirmes": 5
+  },
+  {
+    "date": "2020-03-06",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/content/download/235535/2526923"
+    },
+    "nom": "La Réunion",
+    "code": "REG-04",
+    "casConfirmes": 0
+  },
+  {
+    "date": "2020-03-06",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/content/download/235535/2526923"
+    },
+    "nom": "Mayotte",
+    "code": "REG-06",
+    "casConfirmes": 0
+  },
+  {
+    "date": "2020-03-06",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/content/download/235535/2526923"
+    },
+    "nom": "Ile-de-France",
+    "code": "REG-11",
+    "casConfirmes": 89
+  },
+  {
+    "date": "2020-03-06",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/content/download/235535/2526923"
+    },
+    "nom": "Centre-Val de Loire",
+    "code": "REG-24",
+    "casConfirmes": 11
+  },
+  {
+    "date": "2020-03-06",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/content/download/235535/2526923"
+    },
+    "nom": "Bourgogne-Franche-Comté",
+    "code": "REG-27",
+    "casConfirmes": 78
+  },
+  {
+    "date": "2020-03-06",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/content/download/235535/2526923"
+    },
+    "nom": "Normandie",
+    "code": "REG-28",
+    "casConfirmes": 11
+  },
+  {
+    "date": "2020-03-06",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/content/download/235535/2526923"
+    },
+    "nom": "Hauts-de-France",
+    "code": "REG-32",
+    "casConfirmes": 97
+  },
+  {
+    "date": "2020-03-06",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/content/download/235535/2526923"
+    },
+    "nom": "Grand Est",
+    "code": "REG-44",
+    "casConfirmes": 136
+  },
+  {
+    "date": "2020-03-06",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/content/download/235535/2526923"
+    },
+    "nom": "Pays de la Loire",
+    "code": "REG-52",
+    "casConfirmes": 16
+  },
+  {
+    "date": "2020-03-06",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/content/download/235535/2526923"
+    },
+    "nom": "Bretagne",
+    "code": "REG-53",
+    "casConfirmes": 32
+  },
+  {
+    "date": "2020-03-06",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/content/download/235535/2526923"
+    },
+    "nom": "Nouvelle-Aquitaine",
+    "code": "REG-75",
+    "casConfirmes": 11
+  },
+  {
+    "date": "2020-03-06",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/content/download/235535/2526923"
+    },
+    "nom": "Occitanie",
+    "code": "REG-76",
+    "casConfirmes": 18
+  },
+  {
+    "date": "2020-03-06",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/content/download/235535/2526923"
+    },
+    "nom": "Auvergne-Rhône-Alpes",
+    "code": "REG-84",
+    "casConfirmes": 75
+  },
+  {
+    "date": "2020-03-06",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/content/download/235535/2526923"
+    },
+    "nom": "Provence-Alpes-Côte d’Azur",
+    "code": "REG-93",
+    "casConfirmes": 26
+  },
+  {
+    "date": "2020-03-06",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/content/download/235535/2526923"
+    },
+    "nom": "Corse",
+    "code": "REG-94",
+    "casConfirmes": 3
+  },
+  {
+    "date": "2020-03-06",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/content/download/235535/2526923"
+    },
+    "paysTouches": 85,
+    "casConfirmes": 98171,
+    "deces": 3385,
+    "nom": "Monde",
+    "code": "WORLD"
+  },
+  {
+    "date": "2020-03-07",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/content/download/235538/2526975"
+    },
+    "nom": "Saint-Barthélemy",
+    "code": "COM-977",
+    "casConfirmes": 1
+  },
+  {
+    "date": "2020-03-07",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/content/download/235538/2526975"
+    },
+    "nom": "Saint-Martin",
+    "code": "COM-978",
+    "casConfirmes": 2
+  },
+  {
+    "date": "2020-03-07",
+    "nom": "Oise",
+    "code": "DEP-60",
+    "deces": 7
+  },
+  {
+    "date": "2020-03-07",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/content/download/235538/2526975"
+    },
+    "casConfirmes": 949,
+    "deces": 11,
+    "nom": "France",
+    "code": "FRA"
+  },
+  {
+    "date": "2020-03-07",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/content/download/235538/2526975"
+    },
+    "nom": "Guadeloupe",
+    "code": "REG-01",
+    "casConfirmes": 0
+  },
+  {
+    "date": "2020-03-07",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/content/download/235538/2526975"
+    },
+    "nom": "Martinique",
+    "code": "REG-02",
+    "casConfirmes": 2
+  },
+  {
+    "date": "2020-03-07",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/content/download/235538/2526975"
+    },
+    "nom": "Guyane",
+    "code": "REG-03",
+    "casConfirmes": 5
+  },
+  {
+    "date": "2020-03-07",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/content/download/235538/2526975"
+    },
+    "nom": "La Réunion",
+    "code": "REG-04",
+    "casConfirmes": 0
+  },
+  {
+    "date": "2020-03-07",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/content/download/235538/2526975"
+    },
+    "nom": "Mayotte",
+    "code": "REG-06",
+    "casConfirmes": 0
+  },
+  {
+    "date": "2020-03-07",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/content/download/235538/2526975"
+    },
+    "nom": "Ile-de-France",
+    "code": "REG-11",
+    "casConfirmes": 104
+  },
+  {
+    "date": "2020-03-07",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/content/download/235538/2526975"
+    },
+    "nom": "Centre-Val de Loire",
+    "code": "REG-24",
+    "casConfirmes": 16
+  },
+  {
+    "date": "2020-03-07",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/content/download/235538/2526975"
+    },
+    "nom": "Bourgogne-Franche-Comté",
+    "code": "REG-27",
+    "casConfirmes": 129
+  },
+  {
+    "date": "2020-03-07",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/content/download/235538/2526975"
+    },
+    "nom": "Normandie",
+    "code": "REG-28",
+    "casConfirmes": 11
+  },
+  {
+    "date": "2020-03-07",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/content/download/235538/2526975"
+    },
+    "nom": "Hauts-de-France",
+    "code": "REG-32",
+    "casConfirmes": 173
+  },
+  {
+    "date": "2020-03-07",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/content/download/235538/2526975"
+    },
+    "nom": "Grand Est",
+    "code": "REG-44",
+    "casConfirmes": 250
+  },
+  {
+    "date": "2020-03-07",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/content/download/235538/2526975"
+    },
+    "nom": "Pays de la Loire",
+    "code": "REG-52",
+    "casConfirmes": 18
+  },
+  {
+    "date": "2020-03-07",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/content/download/235538/2526975"
+    },
+    "nom": "Bretagne",
+    "code": "REG-53",
+    "casConfirmes": 40
+  },
+  {
+    "date": "2020-03-07",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/content/download/235538/2526975"
+    },
+    "nom": "Nouvelle-Aquitaine",
+    "code": "REG-75",
+    "casConfirmes": 17
+  },
+  {
+    "date": "2020-03-07",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/content/download/235538/2526975"
+    },
+    "nom": "Occitanie",
+    "code": "REG-76",
+    "casConfirmes": 36
+  },
+  {
+    "date": "2020-03-07",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/content/download/235538/2526975"
+    },
+    "nom": "Auvergne-Rhône-Alpes",
+    "code": "REG-84",
+    "casConfirmes": 102
+  },
+  {
+    "date": "2020-03-07",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/content/download/235538/2526975"
+    },
+    "nom": "Provence-Alpes-Côte d’Azur",
+    "code": "REG-93",
+    "casConfirmes": 38
+  },
+  {
+    "date": "2020-03-07",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/content/download/235538/2526975"
+    },
+    "nom": "Corse",
+    "code": "REG-94",
+    "casConfirmes": 5
+  },
+  {
+    "date": "2020-03-07",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/content/download/235538/2526975"
+    },
+    "paysTouches": 93,
+    "casConfirmes": 101855,
+    "deces": 3488,
+    "nom": "Monde",
+    "code": "WORLD"
+  },
+  {
+    "date": "2020-03-09",
+    "nom": "Oise",
+    "code": "DEP-60",
+    "deces": 8
+  },
+  {
+    "date": "2020-03-10",
+    "nom": "Oise",
+    "code": "DEP-60",
+    "deces": 10
+  },
+  {
+    "date": "2020-03-11",
+    "nom": "Oise",
+    "code": "DEP-60",
+    "deces": 11,
+    "casConfirmes": 152
+  }
+]
