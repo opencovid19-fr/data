@@ -7,6 +7,7 @@ const glob = require('glob')
 const Papa = require('papaparse')
 
 const sources = [
+  'agences-regionales-sante',
   'sante-publique-france',
   'prefectures'
 ]
