@@ -1,0 +1,68 @@
+date: "2020-03-10"
+source:
+  nom: Santé publique France
+donneesNationales:
+  casConfirmes: 1794
+  deces: 33
+donneesRegionales:
+  - nom: Auvergne-Rhône-Alpes
+    code: REG-84
+    casConfirmes: 211
+  - nom: Bourgogne-Franche-Comté
+    code: REG-27
+    casConfirmes: 146
+  - nom: Bretagne
+    code: REG-53
+    casConfirmes: 81
+  - nom: Centre-Val de Loire
+    code: REG-24
+    casConfirmes: 18
+  - nom: Corse
+    code: REG-94
+    casConfirmes: 42
+  - nom: Grand Est
+    code: REG-44
+    casConfirmes: 464
+  - nom: Hauts-de-France
+    code: REG-32
+    casConfirmes: 209
+  - nom: Ile-de-France
+    code: REG-11
+    casConfirmes: 334
+  - nom: Normandie
+    code: REG-28
+    casConfirmes: 37
+  - nom: Nouvelle-Aquitaine
+    code: REG-75
+    casConfirmes: 54
+  - nom: Occitanie
+    code: REG-76
+    casConfirmes: 61
+  - nom: Pays de la Loire
+    code: REG-52
+    casConfirmes: 27
+  - nom: Provence-Alpes-Côte d’Azur
+    code: REG-93
+    casConfirmes: 89
+  - nom: Guadeloupe
+    code: REG-01
+    casConfirmes: 0
+  - nom: Guyane
+    code: REG-03
+    casConfirmes: 5
+  - nom: Martinique
+    code: REG-02
+    casConfirmes: 3
+  - nom: Mayotte
+    code: REG-06
+    casConfirmes: 0
+  - nom: La Réunion
+    code: REG-04
+    casConfirmes: 0
+  - nom: Saint-Barthélemy
+    code: COM-977
+    casConfirmes: 1
+  - nom: Saint-Martin
+    code: COM-978
+    casConfirmes: 2
+
