@@ -70,7 +70,7 @@ donneesDepartementales:
     code: DEP-68
     casConfirmes: 359
     deces: 3
-    victimes
+    victimes:
       - age: 91
         sexe: homme
         date: "2020-03-07"

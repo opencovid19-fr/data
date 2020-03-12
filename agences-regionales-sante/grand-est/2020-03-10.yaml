@@ -36,9 +36,10 @@ donneesDepartementales:
     code: DEP-57
     casConfirmes: 47
     deces: 1
-    - age: 73
-      sexe: femme
-      date: "2020-03-08"
+    victimes:
+      - age: 73
+        sexe: femme
+        date: "2020-03-08"
   - nom: Vosges
     code: DEP-88
     casConfirmes: 28
