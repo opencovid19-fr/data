@@ -1,0 +1,14 @@
+date: 2020-03-02
+source:
+  nom: ARS Normandie
+  url: https://www.normandie.ars.sante.fr/system/files/2020-03/CP-ars-normandie-02.03.pdf
+donneesRegionales:
+  nom: Normandie
+  code: REG-28
+  casConfirmes: 2
+  deces: 0
+donneesDepartementales:
+  - nom: Eure
+    code: DEP-27
+    casConfirmes: 2
+    deces: 0
