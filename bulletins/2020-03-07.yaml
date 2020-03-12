@@ -58,10 +58,10 @@ donneesRegionales:
     code: REG-04
     casConfirmes: 0
   - nom: Saint-Barthélemy
-    code: COM-97-7
+    code: COM-977
     casConfirmes: 1
   - nom: Saint-Martin
-    code: COM-97-8
+    code: COM-978
     casConfirmes: 2
 donneesMondiales:
   paysTouches: 93
