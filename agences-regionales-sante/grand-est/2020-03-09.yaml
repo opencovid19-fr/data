@@ -1,4 +1,4 @@
-date: 2020-03-09
+date: "2020-03-09"
 source:
   nom: ARS Grand-Est
   url: https://www.grand-est.ars.sante.fr/system/files/2020-03/CP_Coronavirus_covid%2019_GrandEst_090320.pdf
@@ -36,16 +36,18 @@ donneesDepartementales:
     code: DEP-57
     casConfirmes: 22
     deces: 1
-    - age: 73
-      sexe: femme
-      date: 2020-03-08
+    victimes:
+      - age: 73
+        sexe: femme
+        date: "2020-03-08"
   - nom: Vosges
     code: DEP-88
     casConfirmes: 17
     deces: 1
-    - age: 94
-      sexe: femme
-      date: 2020-03-09
+    victimes:
+      - age: 94
+        sexe: femme
+        date: "2020-03-09"
   - nom: Bas-Rhin
     code: DEP-67
     casConfirmes: 53
@@ -54,12 +56,13 @@ donneesDepartementales:
     code: DEP-68
     casConfirmes: 193
     deces: 2
-    - age: 91
-      sexe: homme
-      date: 2020-03-07
-    - age: 86
-      sexe: femme
-      date: 2020-03-07
+    victimes:
+      - age: 91
+        sexe: homme
+        date: "2020-03-07"
+      - age: 86
+        sexe: femme
+        date: "2020-03-07"
   - nom: Aisne
     code: DEP-02
     casConfirmes: 3

@@ -7,6 +7,7 @@ const glob = require('glob')
 const Papa = require('papaparse')
 
 const sources = [
+  'agences-regionales-sante',
   'sante-publique-france',
   'prefectures'
 ]
@@ -21,11 +22,11 @@ async function readYamlFile(filePath) {
 function flattenData(initialData) {
   const rows = []
 
-  if (initialData.donneesRegionales) {
+  if (initialData.donneesRegionales && Array.isArray(initialData.donneesRegionales)) {
     initialData.donneesRegionales.forEach(row => rows.push(row))
   }
 
-  if (initialData.donneesDepartementales) {
+  if (initialData.donneesDepartementales && Array.isArray(initialData.donneesDepartementales)) {
     initialData.donneesDepartementales.forEach(row => rows.push(row))
   }
 
@@ -87,8 +88,8 @@ function jsonToCsvRow(json) {
     granularite: getGranularite(json.code),
     maille_code: json.code,
     maille_nom: json.nom,
-    cas_confirmes: json.casConfirmes || '',
-    deces: json.deces || '',
+    cas_confirmes: 'casConfirmes' in json ? json.casConfirmes : '',
+    deces: 'deces' in json ? json.deces : '',
     source_nom: (json.source && json.source.nom) || '',
     source_url: (json.source && json.source.url) || ''
   }
@@ -110,6 +111,7 @@ async function main() {
   const flattenedData = chain(sourcesData)
     .map(flattenSourcesData)
     .flatten()
+    .filter(r => 'casConfirmes' in r || 'deces' in r)
     .sortBy(r => `${r.date}-${r.code}`)
     .value()
 

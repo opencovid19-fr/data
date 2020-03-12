@@ -1,4 +1,4 @@
-date: 2020-03-08
+date: "2020-03-08"
 source:
   nom: ARS Normandie
   url: https://www.normandie.ars.sante.fr/system/files/2020-03/CPpointSituation20200308.pdf
@@ -20,9 +20,10 @@ donneesDepartementales:
     code: DEP-76
     casConfirmes: 8
     deces: 1
-    - age: 86
-      sexe: homme
-      date: 2020-03-06
+    victimes:
+      - age: 86
+        sexe: homme
+        date: "2020-03-06"
   - nom: Eure
     code: DEP-27
     casConfirmes: 6

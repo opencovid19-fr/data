@@ -1,4 +1,4 @@
-date: 2020-03-10
+date: "2020-03-10"
 source:
   nom: ARS Ile-de-France
   url: https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200310_0.pdf
@@ -7,12 +7,13 @@ donneesRegionales:
   code: REG-11
   casConfirmes: 283
   deces: 4
-  - age: 85
-    date: 2020-03-10
-  - age: 90
-    date: 2020-03-10
-  - age: 95
-    date: 2020-03-10
+  victimes:
+    - age: 85
+      date: "2020-03-10"
+    - age: 90
+      date: "2020-03-10"
+    - age: 95
+      date: "2020-03-10"
 donneesDepartementales:
   - nom: Paris
     code: DEP-75
@@ -39,6 +40,7 @@ donneesDepartementales:
     code: DEP-95
     casConfirmes: 55
     deces: 1
-    - age: 86
-      sexe: homme
-      date: 2020-03-06
+    victimes:
+      - age: 86
+        sexe: homme
+        date: "2020-03-06"

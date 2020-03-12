@@ -1,9 +1,299 @@
 [
   {
+    "date": "2020-03-02",
+    "source": {
+      "nom": "ARS Grand-Est",
+      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/CPCoronavirus_7_cas_valides_GrandEst_020320.pdf"
+    },
+    "nom": "Aisne",
+    "code": "DEP-02",
+    "casConfirmes": 2,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-02",
+    "source": {
+      "nom": "ARS Grand-Est",
+      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/CPCoronavirus_7_cas_valides_GrandEst_020320.pdf"
+    },
+    "nom": "Ardennes",
+    "code": "DEP-08",
+    "casConfirmes": 0,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-02",
+    "source": {
+      "nom": "ARS Grand-Est",
+      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/CPCoronavirus_7_cas_valides_GrandEst_020320.pdf"
+    },
+    "nom": "Aube",
+    "code": "DEP-10",
+    "casConfirmes": 0,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-02",
+    "source": {
+      "nom": "ARS Normandie",
+      "url": "https://www.normandie.ars.sante.fr/system/files/2020-03/CP-ars-normandie-02.03.pdf"
+    },
+    "nom": "Eure",
+    "code": "DEP-27",
+    "casConfirmes": 2,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-02",
+    "source": {
+      "nom": "ARS Grand-Est",
+      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/CPCoronavirus_7_cas_valides_GrandEst_020320.pdf"
+    },
+    "nom": "Marne",
+    "code": "DEP-51",
+    "casConfirmes": 0,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-02",
+    "source": {
+      "nom": "ARS Grand-Est",
+      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/CPCoronavirus_7_cas_valides_GrandEst_020320.pdf"
+    },
+    "nom": "Haute-Marne",
+    "code": "DEP-52",
+    "casConfirmes": 0,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-02",
+    "source": {
+      "nom": "ARS Grand-Est",
+      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/CPCoronavirus_7_cas_valides_GrandEst_020320.pdf"
+    },
+    "nom": "Meurthe-et-Moselle",
+    "code": "DEP-54",
+    "casConfirmes": 0,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-02",
+    "source": {
+      "nom": "ARS Grand-Est",
+      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/CPCoronavirus_7_cas_valides_GrandEst_020320.pdf"
+    },
+    "nom": "Meuse",
+    "code": "DEP-55",
+    "casConfirmes": 0,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-02",
+    "source": {
+      "nom": "ARS Grand-Est",
+      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/CPCoronavirus_7_cas_valides_GrandEst_020320.pdf"
+    },
+    "nom": "Moselle",
+    "code": "DEP-57",
+    "casConfirmes": 0,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-02",
+    "source": {
+      "nom": "ARS Grand-Est",
+      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/CPCoronavirus_7_cas_valides_GrandEst_020320.pdf"
+    },
+    "nom": "Bas-Rhin",
+    "code": "DEP-67",
+    "casConfirmes": 2,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-02",
+    "source": {
+      "nom": "ARS Grand-Est",
+      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/CPCoronavirus_7_cas_valides_GrandEst_020320.pdf"
+    },
+    "nom": "Haut-Rhin",
+    "code": "DEP-68",
+    "casConfirmes": 3,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-02",
+    "source": {
+      "nom": "ARS Grand-Est",
+      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/CPCoronavirus_7_cas_valides_GrandEst_020320.pdf"
+    },
+    "nom": "Vosges",
+    "code": "DEP-88",
+    "casConfirmes": 0,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-04",
+    "source": {
+      "nom": "ARS Grand-Est",
+      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/Communique%20Coronavirus%20covid%2019%20-%20point%20de%20situation%20en%20Grand%20Est%2004%2003%202020.pdf"
+    },
+    "nom": "Aisne",
+    "code": "DEP-02",
+    "casConfirmes": 3,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-04",
+    "source": {
+      "nom": "ARS Grand-Est",
+      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/Communique%20Coronavirus%20covid%2019%20-%20point%20de%20situation%20en%20Grand%20Est%2004%2003%202020.pdf"
+    },
+    "nom": "Ardennes",
+    "code": "DEP-08",
+    "casConfirmes": 0,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-04",
+    "source": {
+      "nom": "ARS Grand-Est",
+      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/Communique%20Coronavirus%20covid%2019%20-%20point%20de%20situation%20en%20Grand%20Est%2004%2003%202020.pdf"
+    },
+    "nom": "Aube",
+    "code": "DEP-10",
+    "casConfirmes": 0,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-04",
+    "source": {
+      "nom": "ARS Bourgogne-Franche-Comté",
+      "url": "https://www.bourgogne-franche-comte.ars.sante.fr/system/files/2020-03/2020.03.04_COVID19_SITUATION%20BFC.pdf"
+    },
+    "nom": "Côte-d'Or",
+    "code": "DEP-21",
+    "casConfirmes": 1
+  },
+  {
+    "date": "2020-03-04",
+    "nom": "Côtes-d'Armor",
+    "code": "DEP-22",
+    "casConfirmes": 0,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-04",
+    "nom": "Finistère",
+    "code": "DEP-29",
+    "casConfirmes": 3,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-04",
+    "nom": "Ille-et-Vilaine",
+    "code": "DEP-35",
+    "casConfirmes": 4,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-04",
+    "source": {
+      "nom": "ARS Grand-Est",
+      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/Communique%20Coronavirus%20covid%2019%20-%20point%20de%20situation%20en%20Grand%20Est%2004%2003%202020.pdf"
+    },
+    "nom": "Marne",
+    "code": "DEP-51",
+    "casConfirmes": 1,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-04",
+    "source": {
+      "nom": "ARS Grand-Est",
+      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/Communique%20Coronavirus%20covid%2019%20-%20point%20de%20situation%20en%20Grand%20Est%2004%2003%202020.pdf"
+    },
+    "nom": "Haute-Marne",
+    "code": "DEP-52",
+    "casConfirmes": 0,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-04",
+    "source": {
+      "nom": "ARS Grand-Est",
+      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/Communique%20Coronavirus%20covid%2019%20-%20point%20de%20situation%20en%20Grand%20Est%2004%2003%202020.pdf"
+    },
+    "nom": "Meurthe-et-Moselle",
+    "code": "DEP-54",
+    "casConfirmes": 0,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-04",
+    "source": {
+      "nom": "ARS Grand-Est",
+      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/Communique%20Coronavirus%20covid%2019%20-%20point%20de%20situation%20en%20Grand%20Est%2004%2003%202020.pdf"
+    },
+    "nom": "Meuse",
+    "code": "DEP-55",
+    "casConfirmes": 0,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-04",
+    "nom": "Morbihan",
+    "code": "DEP-56",
+    "casConfirmes": 17
+  },
+  {
+    "date": "2020-03-04",
+    "source": {
+      "nom": "ARS Grand-Est",
+      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/Communique%20Coronavirus%20covid%2019%20-%20point%20de%20situation%20en%20Grand%20Est%2004%2003%202020.pdf"
+    },
+    "nom": "Moselle",
+    "code": "DEP-57",
+    "casConfirmes": 0,
+    "deces": 0
+  },
+  {
     "date": "2020-03-04",
     "nom": "Oise",
     "code": "DEP-60",
     "deces": 3
+  },
+  {
+    "date": "2020-03-04",
+    "source": {
+      "nom": "ARS Grand-Est",
+      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/Communique%20Coronavirus%20covid%2019%20-%20point%20de%20situation%20en%20Grand%20Est%2004%2003%202020.pdf"
+    },
+    "nom": "Bas-Rhin",
+    "code": "DEP-67",
+    "casConfirmes": 5,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-04",
+    "source": {
+      "nom": "ARS Grand-Est",
+      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/Communique%20Coronavirus%20covid%2019%20-%20point%20de%20situation%20en%20Grand%20Est%2004%2003%202020.pdf"
+    },
+    "nom": "Haut-Rhin",
+    "code": "DEP-68",
+    "casConfirmes": 16,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-04",
+    "source": {
+      "nom": "ARS Grand-Est",
+      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/Communique%20Coronavirus%20covid%2019%20-%20point%20de%20situation%20en%20Grand%20Est%2004%2003%202020.pdf"
+    },
+    "nom": "Vosges",
+    "code": "DEP-88",
+    "casConfirmes": 1,
+    "deces": 0
   },
   {
     "date": "2020-03-04",
@@ -210,9 +500,116 @@
   },
   {
     "date": "2020-03-05",
+    "nom": "Côtes-d'Armor",
+    "code": "DEP-22",
+    "casConfirmes": 0,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-05",
+    "nom": "Finistère",
+    "code": "DEP-29",
+    "casConfirmes": 3,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-05",
+    "nom": "Ille-et-Vilaine",
+    "code": "DEP-35",
+    "casConfirmes": 5,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-05",
+    "nom": "Morbihan",
+    "code": "DEP-56",
+    "casConfirmes": 23
+  },
+  {
+    "date": "2020-03-05",
     "nom": "Oise",
     "code": "DEP-60",
     "deces": 5
+  },
+  {
+    "date": "2020-03-05",
+    "source": {
+      "nom": "ARS Ile-de-France",
+      "url": "https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200305.pdf"
+    },
+    "nom": "Paris",
+    "code": "DEP-75",
+    "casConfirmes": 17
+  },
+  {
+    "date": "2020-03-05",
+    "source": {
+      "nom": "ARS Ile-de-France",
+      "url": "https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200305.pdf"
+    },
+    "nom": "Seine-et-Marne",
+    "code": "DEP-77",
+    "casConfirmes": 3
+  },
+  {
+    "date": "2020-03-05",
+    "source": {
+      "nom": "ARS Ile-de-France",
+      "url": "https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200305.pdf"
+    },
+    "nom": "Yvelines",
+    "code": "DEP-78",
+    "casConfirmes": 1
+  },
+  {
+    "date": "2020-03-05",
+    "source": {
+      "nom": "ARS Ile-de-France",
+      "url": "https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200305.pdf"
+    },
+    "nom": "Essone",
+    "code": "DEP-91",
+    "casConfirmes": 1
+  },
+  {
+    "date": "2020-03-05",
+    "source": {
+      "nom": "ARS Ile-de-France",
+      "url": "https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200305.pdf"
+    },
+    "nom": "Hauts-de-Seine",
+    "code": "DEP-92",
+    "casConfirmes": 10
+  },
+  {
+    "date": "2020-03-05",
+    "source": {
+      "nom": "ARS Ile-de-France",
+      "url": "https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200305.pdf"
+    },
+    "nom": "Saint-Saint-Denis",
+    "code": "DEP-93",
+    "casConfirmes": 7
+  },
+  {
+    "date": "2020-03-05",
+    "source": {
+      "nom": "ARS Ile-de-France",
+      "url": "https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200305.pdf"
+    },
+    "nom": "Val-de-Marne",
+    "code": "DEP-94",
+    "casConfirmes": 7
+  },
+  {
+    "date": "2020-03-05",
+    "source": {
+      "nom": "ARS Ile-de-France",
+      "url": "https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200305.pdf"
+    },
+    "nom": "Val-d'Oise",
+    "code": "DEP-95",
+    "casConfirmes": 12
   },
   {
     "date": "2020-03-05",
@@ -439,6 +836,121 @@
   },
   {
     "date": "2020-03-06",
+    "nom": "Côtes-d'Armor",
+    "code": "DEP-22",
+    "casConfirmes": 0,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-06",
+    "nom": "Finistère",
+    "code": "DEP-29",
+    "casConfirmes": 4,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-06",
+    "nom": "Ille-et-Vilaine",
+    "code": "DEP-35",
+    "casConfirmes": 6,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-06",
+    "nom": "Morbihan",
+    "code": "DEP-56",
+    "casConfirmes": 24
+  },
+  {
+    "date": "2020-03-06",
+    "source": {
+      "nom": "ARS Ile-de-France",
+      "url": "https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200305.pdf"
+    },
+    "nom": "Paris",
+    "code": "DEP-75",
+    "casConfirmes": 19
+  },
+  {
+    "date": "2020-03-06",
+    "source": {
+      "nom": "ARS Ile-de-France",
+      "url": "https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200305.pdf"
+    },
+    "nom": "Seine-et-Marne",
+    "code": "DEP-77",
+    "casConfirmes": 8
+  },
+  {
+    "date": "2020-03-06",
+    "source": {
+      "nom": "ARS Ile-de-France",
+      "url": "https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200305.pdf"
+    },
+    "nom": "Yvelines",
+    "code": "DEP-78",
+    "casConfirmes": 3
+  },
+  {
+    "date": "2020-03-06",
+    "source": {
+      "nom": "ARS Ile-de-France",
+      "url": "https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200305.pdf"
+    },
+    "nom": "Essone",
+    "code": "DEP-91",
+    "casConfirmes": 2
+  },
+  {
+    "date": "2020-03-06",
+    "source": {
+      "nom": "ARS Ile-de-France",
+      "url": "https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200305.pdf"
+    },
+    "nom": "Hauts-de-Seine",
+    "code": "DEP-92",
+    "casConfirmes": 10
+  },
+  {
+    "date": "2020-03-06",
+    "source": {
+      "nom": "ARS Ile-de-France",
+      "url": "https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200305.pdf"
+    },
+    "nom": "Saint-Saint-Denis",
+    "code": "DEP-93",
+    "casConfirmes": 12
+  },
+  {
+    "date": "2020-03-06",
+    "source": {
+      "nom": "ARS Ile-de-France",
+      "url": "https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200305.pdf"
+    },
+    "nom": "Val-de-Marne",
+    "code": "DEP-94",
+    "casConfirmes": 9
+  },
+  {
+    "date": "2020-03-06",
+    "source": {
+      "nom": "ARS Ile-de-France",
+      "url": "https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200305.pdf"
+    },
+    "nom": "Val-d'Oise",
+    "code": "DEP-95",
+    "casConfirmes": 26,
+    "deces": 1,
+    "victimes": [
+      {
+        "age": 86,
+        "sexe": "homme",
+        "date": "2020-03-06"
+      }
+    ]
+  },
+  {
+    "date": "2020-03-06",
     "source": {
       "nom": "Santé publique France",
       "url": "https://www.santepubliquefrance.fr/content/download/235535/2526923"
@@ -662,9 +1174,186 @@
   },
   {
     "date": "2020-03-07",
+    "source": {
+      "nom": "ARS Normandie",
+      "url": "https://www.normandie.ars.sante.fr/system/files/2020-03/CPpointSituationReg20200307.pdf"
+    },
+    "nom": "Calvados",
+    "code": "DEP-14",
+    "casConfirmes": 1,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-07",
+    "nom": "Côtes-d'Armor",
+    "code": "DEP-22",
+    "casConfirmes": 0,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-07",
+    "source": {
+      "nom": "ARS Normandie",
+      "url": "https://www.normandie.ars.sante.fr/system/files/2020-03/CPpointSituationReg20200307.pdf"
+    },
+    "nom": "Eure",
+    "code": "DEP-27",
+    "casConfirmes": 1,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-07",
+    "nom": "Finistère",
+    "code": "DEP-29",
+    "casConfirmes": 5,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-07",
+    "nom": "Ille-et-Vilaine",
+    "code": "DEP-35",
+    "casConfirmes": 7,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-07",
+    "source": {
+      "nom": "ARS Normandie",
+      "url": "https://www.normandie.ars.sante.fr/system/files/2020-03/CPpointSituationReg20200307.pdf"
+    },
+    "nom": "Manche",
+    "code": "DEP-50",
+    "casConfirmes": 6,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-07",
+    "nom": "Morbihan",
+    "code": "DEP-56",
+    "casConfirmes": 35
+  },
+  {
+    "date": "2020-03-07",
     "nom": "Oise",
     "code": "DEP-60",
     "deces": 7
+  },
+  {
+    "date": "2020-03-07",
+    "source": {
+      "nom": "ARS Normandie",
+      "url": "https://www.normandie.ars.sante.fr/system/files/2020-03/CPpointSituationReg20200307.pdf"
+    },
+    "nom": "Orne",
+    "code": "DEP-61",
+    "casConfirmes": 0,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-07",
+    "source": {
+      "nom": "ARS Ile-de-France",
+      "url": "https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200307.pdf"
+    },
+    "nom": "Paris",
+    "code": "DEP-75",
+    "casConfirmes": 21
+  },
+  {
+    "date": "2020-03-07",
+    "source": {
+      "nom": "ARS Normandie",
+      "url": "https://www.normandie.ars.sante.fr/system/files/2020-03/CPpointSituationReg20200307.pdf"
+    },
+    "nom": "Seine-Maritime",
+    "code": "DEP-76",
+    "casConfirmes": 2,
+    "deces": 1,
+    "victimes": [
+      {
+        "age": 86,
+        "sexe": "homme",
+        "date": "2020-03-06"
+      }
+    ]
+  },
+  {
+    "date": "2020-03-07",
+    "source": {
+      "nom": "ARS Ile-de-France",
+      "url": "https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200307.pdf"
+    },
+    "nom": "Seine-et-Marne",
+    "code": "DEP-77",
+    "casConfirmes": 8
+  },
+  {
+    "date": "2020-03-07",
+    "source": {
+      "nom": "ARS Ile-de-France",
+      "url": "https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200307.pdf"
+    },
+    "nom": "Yvelines",
+    "code": "DEP-78",
+    "casConfirmes": 7
+  },
+  {
+    "date": "2020-03-07",
+    "source": {
+      "nom": "ARS Ile-de-France",
+      "url": "https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200307.pdf"
+    },
+    "nom": "Essone",
+    "code": "DEP-91",
+    "casConfirmes": 5
+  },
+  {
+    "date": "2020-03-07",
+    "source": {
+      "nom": "ARS Ile-de-France",
+      "url": "https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200307.pdf"
+    },
+    "nom": "Hauts-de-Seine",
+    "code": "DEP-92",
+    "casConfirmes": 11
+  },
+  {
+    "date": "2020-03-07",
+    "source": {
+      "nom": "ARS Ile-de-France",
+      "url": "https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200307.pdf"
+    },
+    "nom": "Saint-Saint-Denis",
+    "code": "DEP-93",
+    "casConfirmes": 13
+  },
+  {
+    "date": "2020-03-07",
+    "source": {
+      "nom": "ARS Ile-de-France",
+      "url": "https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200307.pdf"
+    },
+    "nom": "Val-de-Marne",
+    "code": "DEP-94",
+    "casConfirmes": 10
+  },
+  {
+    "date": "2020-03-07",
+    "source": {
+      "nom": "ARS Ile-de-France",
+      "url": "https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200307.pdf"
+    },
+    "nom": "Val-d'Oise",
+    "code": "DEP-95",
+    "casConfirmes": 31,
+    "deces": 1,
+    "victimes": [
+      {
+        "age": 86,
+        "sexe": "homme",
+        "date": "2020-03-06"
+      }
+    ]
   },
   {
     "date": "2020-03-07",
@@ -870,10 +1559,663 @@
     "code": "WORLD"
   },
   {
+    "date": "2020-03-08",
+    "source": {
+      "nom": "ARS Grand-Est",
+      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/Covid19_point_GrandEst080320.pdf"
+    },
+    "nom": "Aisne",
+    "code": "DEP-02",
+    "casConfirmes": 3,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-08",
+    "source": {
+      "nom": "ARS Grand-Est",
+      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/Covid19_point_GrandEst080320.pdf"
+    },
+    "nom": "Ardennes",
+    "code": "DEP-08",
+    "casConfirmes": 1,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-08",
+    "source": {
+      "nom": "ARS Grand-Est",
+      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/Covid19_point_GrandEst080320.pdf"
+    },
+    "nom": "Aube",
+    "code": "DEP-10",
+    "casConfirmes": 1,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-08",
+    "source": {
+      "nom": "ARS Normandie",
+      "url": "https://www.normandie.ars.sante.fr/system/files/2020-03/CPpointSituation20200308.pdf"
+    },
+    "nom": "Calvados",
+    "code": "DEP-14",
+    "casConfirmes": 2,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-08",
+    "nom": "Côtes-d'Armor",
+    "code": "DEP-22",
+    "casConfirmes": 0,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-08",
+    "source": {
+      "nom": "ARS Normandie",
+      "url": "https://www.normandie.ars.sante.fr/system/files/2020-03/CPpointSituation20200308.pdf"
+    },
+    "nom": "Eure",
+    "code": "DEP-27",
+    "casConfirmes": 6,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-08",
+    "nom": "Finistère",
+    "code": "DEP-29",
+    "casConfirmes": 5,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-08",
+    "nom": "Ille-et-Vilaine",
+    "code": "DEP-35",
+    "casConfirmes": 7,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-08",
+    "source": {
+      "nom": "ARS Normandie",
+      "url": "https://www.normandie.ars.sante.fr/system/files/2020-03/CPpointSituation20200308.pdf"
+    },
+    "nom": "Manche",
+    "code": "DEP-50",
+    "casConfirmes": 6,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-08",
+    "source": {
+      "nom": "ARS Grand-Est",
+      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/Covid19_point_GrandEst080320.pdf"
+    },
+    "nom": "Marne",
+    "code": "DEP-51",
+    "casConfirmes": 5,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-08",
+    "source": {
+      "nom": "ARS Grand-Est",
+      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/Covid19_point_GrandEst080320.pdf"
+    },
+    "nom": "Haute-Marne",
+    "code": "DEP-52",
+    "casConfirmes": 1,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-08",
+    "source": {
+      "nom": "ARS Grand-Est",
+      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/Covid19_point_GrandEst080320.pdf"
+    },
+    "nom": "Meurthe-et-Moselle",
+    "code": "DEP-54",
+    "casConfirmes": 10,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-08",
+    "source": {
+      "nom": "ARS Grand-Est",
+      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/Covid19_point_GrandEst080320.pdf"
+    },
+    "nom": "Meuse",
+    "code": "DEP-55",
+    "casConfirmes": 2,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-08",
+    "nom": "Morbihan",
+    "code": "DEP-56",
+    "casConfirmes": 47
+  },
+  {
+    "date": "2020-03-08",
+    "source": {
+      "nom": "ARS Grand-Est",
+      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/Covid19_point_GrandEst080320.pdf"
+    },
+    "nom": "Moselle",
+    "code": "DEP-57",
+    "deces": 1,
+    "victimes": [
+      {
+        "age": 73,
+        "sexe": "femme",
+        "date": "2020-03-08"
+      }
+    ],
+    "casConfirmes": 16
+  },
+  {
+    "date": "2020-03-08",
+    "source": {
+      "nom": "ARS Normandie",
+      "url": "https://www.normandie.ars.sante.fr/system/files/2020-03/CPpointSituation20200308.pdf"
+    },
+    "nom": "Orne",
+    "code": "DEP-61",
+    "casConfirmes": 0,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-08",
+    "source": {
+      "nom": "ARS Grand-Est",
+      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/Covid19_point_GrandEst080320.pdf"
+    },
+    "nom": "Bas-Rhin",
+    "code": "DEP-67",
+    "casConfirmes": 46,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-08",
+    "source": {
+      "nom": "ARS Grand-Est",
+      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/Covid19_point_GrandEst080320.pdf"
+    },
+    "nom": "Haut-Rhin",
+    "code": "DEP-68",
+    "deces": 2,
+    "victimes": [
+      {
+        "age": 91,
+        "sexe": "homme",
+        "date": "2020-03-07"
+      },
+      {
+        "age": 86,
+        "sexe": "femme",
+        "date": "2020-03-07"
+      }
+    ],
+    "casConfirmes": 162
+  },
+  {
+    "date": "2020-03-08",
+    "source": {
+      "nom": "ARS Ile-de-France",
+      "url": "https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200308.pdf"
+    },
+    "nom": "Paris",
+    "code": "DEP-75",
+    "casConfirmes": 26
+  },
+  {
+    "date": "2020-03-08",
+    "source": {
+      "nom": "ARS Normandie",
+      "url": "https://www.normandie.ars.sante.fr/system/files/2020-03/CPpointSituation20200308.pdf"
+    },
+    "nom": "Seine-Maritime",
+    "code": "DEP-76",
+    "casConfirmes": 8,
+    "deces": 1,
+    "victimes": [
+      {
+        "age": 86,
+        "sexe": "homme",
+        "date": "2020-03-06"
+      }
+    ]
+  },
+  {
+    "date": "2020-03-08",
+    "source": {
+      "nom": "ARS Ile-de-France",
+      "url": "https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200308.pdf"
+    },
+    "nom": "Seine-et-Marne",
+    "code": "DEP-77",
+    "casConfirmes": 12
+  },
+  {
+    "date": "2020-03-08",
+    "source": {
+      "nom": "ARS Ile-de-France",
+      "url": "https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200308.pdf"
+    },
+    "nom": "Yvelines",
+    "code": "DEP-78",
+    "casConfirmes": 13
+  },
+  {
+    "date": "2020-03-08",
+    "source": {
+      "nom": "ARS Grand-Est",
+      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/Covid19_point_GrandEst080320.pdf"
+    },
+    "nom": "Vosges",
+    "code": "DEP-88",
+    "casConfirmes": 15,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-08",
+    "source": {
+      "nom": "ARS Ile-de-France",
+      "url": "https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200308.pdf"
+    },
+    "nom": "Essone",
+    "code": "DEP-91",
+    "casConfirmes": 6
+  },
+  {
+    "date": "2020-03-08",
+    "source": {
+      "nom": "ARS Ile-de-France",
+      "url": "https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200308.pdf"
+    },
+    "nom": "Hauts-de-Seine",
+    "code": "DEP-92",
+    "casConfirmes": 19
+  },
+  {
+    "date": "2020-03-08",
+    "source": {
+      "nom": "ARS Ile-de-France",
+      "url": "https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200308.pdf"
+    },
+    "nom": "Saint-Saint-Denis",
+    "code": "DEP-93",
+    "casConfirmes": 16
+  },
+  {
+    "date": "2020-03-08",
+    "source": {
+      "nom": "ARS Ile-de-France",
+      "url": "https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200308.pdf"
+    },
+    "nom": "Val-de-Marne",
+    "code": "DEP-94",
+    "casConfirmes": 13
+  },
+  {
+    "date": "2020-03-08",
+    "source": {
+      "nom": "ARS Ile-de-France",
+      "url": "https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200308.pdf"
+    },
+    "nom": "Val-d'Oise",
+    "code": "DEP-95",
+    "casConfirmes": 39,
+    "deces": 1,
+    "victimes": [
+      {
+        "age": 86,
+        "sexe": "homme",
+        "date": "2020-03-06"
+      }
+    ]
+  },
+  {
+    "date": "2020-03-08",
+    "source": {
+      "nom": "ARS Grand-Est",
+      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/Covid19_point_GrandEst080320.pdf"
+    },
+    "nom": "Grand Est",
+    "code": "REG-44",
+    "casConfirmes": 262,
+    "reanimation": 45,
+    "deces": 3
+  },
+  {
+    "date": "2020-03-09",
+    "source": {
+      "nom": "ARS Grand-Est",
+      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/CP_Coronavirus_covid%2019_GrandEst_090320.pdf"
+    },
+    "nom": "Aisne",
+    "code": "DEP-02",
+    "casConfirmes": 3,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-09",
+    "source": {
+      "nom": "ARS Grand-Est",
+      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/CP_Coronavirus_covid%2019_GrandEst_090320.pdf"
+    },
+    "nom": "Ardennes",
+    "code": "DEP-08",
+    "casConfirmes": 1,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-09",
+    "source": {
+      "nom": "ARS Grand-Est",
+      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/CP_Coronavirus_covid%2019_GrandEst_090320.pdf"
+    },
+    "nom": "Aube",
+    "code": "DEP-10",
+    "casConfirmes": 1,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-09",
+    "source": {
+      "nom": "ARS Normandie",
+      "url": "https://www.normandie.ars.sante.fr/system/files/2020-03/CP-point-situation-2020-03-09.pdf"
+    },
+    "nom": "Calvados",
+    "code": "DEP-14",
+    "casConfirmes": 2,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-09",
+    "nom": "Côtes-d'Armor",
+    "code": "DEP-22",
+    "casConfirmes": 0,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-09",
+    "source": {
+      "nom": "ARS Normandie",
+      "url": "https://www.normandie.ars.sante.fr/system/files/2020-03/CP-point-situation-2020-03-09.pdf"
+    },
+    "nom": "Eure",
+    "code": "DEP-27",
+    "casConfirmes": 7,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-09",
+    "nom": "Finistère",
+    "code": "DEP-29",
+    "casConfirmes": 5,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-09",
+    "nom": "Ille-et-Vilaine",
+    "code": "DEP-35",
+    "casConfirmes": 11,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-09",
+    "source": {
+      "nom": "ARS Normandie",
+      "url": "https://www.normandie.ars.sante.fr/system/files/2020-03/CP-point-situation-2020-03-09.pdf"
+    },
+    "nom": "Manche",
+    "code": "DEP-50",
+    "casConfirmes": 6,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-09",
+    "source": {
+      "nom": "ARS Grand-Est",
+      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/CP_Coronavirus_covid%2019_GrandEst_090320.pdf"
+    },
+    "nom": "Marne",
+    "code": "DEP-51",
+    "casConfirmes": 5,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-09",
+    "source": {
+      "nom": "ARS Grand-Est",
+      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/CP_Coronavirus_covid%2019_GrandEst_090320.pdf"
+    },
+    "nom": "Haute-Marne",
+    "code": "DEP-52",
+    "casConfirmes": 1,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-09",
+    "source": {
+      "nom": "ARS Grand-Est",
+      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/CP_Coronavirus_covid%2019_GrandEst_090320.pdf"
+    },
+    "nom": "Meurthe-et-Moselle",
+    "code": "DEP-54",
+    "casConfirmes": 11,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-09",
+    "source": {
+      "nom": "ARS Grand-Est",
+      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/CP_Coronavirus_covid%2019_GrandEst_090320.pdf"
+    },
+    "nom": "Meuse",
+    "code": "DEP-55",
+    "casConfirmes": 3,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-09",
+    "nom": "Morbihan",
+    "code": "DEP-56",
+    "casConfirmes": 55
+  },
+  {
+    "date": "2020-03-09",
+    "source": {
+      "nom": "ARS Grand-Est",
+      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/CP_Coronavirus_covid%2019_GrandEst_090320.pdf"
+    },
+    "nom": "Moselle",
+    "code": "DEP-57",
+    "casConfirmes": 22,
+    "deces": 1,
+    "victimes": [
+      {
+        "age": 73,
+        "sexe": "femme",
+        "date": "2020-03-08"
+      }
+    ]
+  },
+  {
     "date": "2020-03-09",
     "nom": "Oise",
     "code": "DEP-60",
     "deces": 8
+  },
+  {
+    "date": "2020-03-09",
+    "source": {
+      "nom": "ARS Normandie",
+      "url": "https://www.normandie.ars.sante.fr/system/files/2020-03/CP-point-situation-2020-03-09.pdf"
+    },
+    "nom": "Orne",
+    "code": "DEP-61",
+    "casConfirmes": 0,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-09",
+    "source": {
+      "nom": "ARS Grand-Est",
+      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/CP_Coronavirus_covid%2019_GrandEst_090320.pdf"
+    },
+    "nom": "Bas-Rhin",
+    "code": "DEP-67",
+    "casConfirmes": 53,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-09",
+    "source": {
+      "nom": "ARS Grand-Est",
+      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/CP_Coronavirus_covid%2019_GrandEst_090320.pdf"
+    },
+    "nom": "Haut-Rhin",
+    "code": "DEP-68",
+    "casConfirmes": 193,
+    "deces": 2,
+    "victimes": [
+      {
+        "age": 91,
+        "sexe": "homme",
+        "date": "2020-03-07"
+      },
+      {
+        "age": 86,
+        "sexe": "femme",
+        "date": "2020-03-07"
+      }
+    ]
+  },
+  {
+    "date": "2020-03-09",
+    "source": {
+      "nom": "ARS Ile-de-France",
+      "url": "https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200309.pdf"
+    },
+    "nom": "Paris",
+    "code": "DEP-75",
+    "casConfirmes": 27
+  },
+  {
+    "date": "2020-03-09",
+    "source": {
+      "nom": "ARS Normandie",
+      "url": "https://www.normandie.ars.sante.fr/system/files/2020-03/CP-point-situation-2020-03-09.pdf"
+    },
+    "nom": "Seine-Maritime",
+    "code": "DEP-76",
+    "casConfirmes": 10,
+    "deces": 1,
+    "victimes": [
+      {
+        "age": 86,
+        "sexe": "homme",
+        "date": "2020-03-06"
+      }
+    ]
+  },
+  {
+    "date": "2020-03-09",
+    "source": {
+      "nom": "ARS Ile-de-France",
+      "url": "https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200309.pdf"
+    },
+    "nom": "Seine-et-Marne",
+    "code": "DEP-77",
+    "casConfirmes": 13
+  },
+  {
+    "date": "2020-03-09",
+    "source": {
+      "nom": "ARS Ile-de-France",
+      "url": "https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200309.pdf"
+    },
+    "nom": "Yvelines",
+    "code": "DEP-78",
+    "casConfirmes": 25
+  },
+  {
+    "date": "2020-03-09",
+    "source": {
+      "nom": "ARS Grand-Est",
+      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/CP_Coronavirus_covid%2019_GrandEst_090320.pdf"
+    },
+    "nom": "Vosges",
+    "code": "DEP-88",
+    "casConfirmes": 17,
+    "deces": 1,
+    "victimes": [
+      {
+        "age": 94,
+        "sexe": "femme",
+        "date": "2020-03-09"
+      }
+    ]
+  },
+  {
+    "date": "2020-03-09",
+    "source": {
+      "nom": "ARS Ile-de-France",
+      "url": "https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200309.pdf"
+    },
+    "nom": "Essone",
+    "code": "DEP-91",
+    "casConfirmes": 7
+  },
+  {
+    "date": "2020-03-09",
+    "source": {
+      "nom": "ARS Ile-de-France",
+      "url": "https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200309.pdf"
+    },
+    "nom": "Hauts-de-Seine",
+    "code": "DEP-92",
+    "casConfirmes": 20
+  },
+  {
+    "date": "2020-03-09",
+    "source": {
+      "nom": "ARS Ile-de-France",
+      "url": "https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200309.pdf"
+    },
+    "nom": "Saint-Saint-Denis",
+    "code": "DEP-93",
+    "casConfirmes": 16
+  },
+  {
+    "date": "2020-03-09",
+    "source": {
+      "nom": "ARS Ile-de-France",
+      "url": "https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200309.pdf"
+    },
+    "nom": "Val-de-Marne",
+    "code": "DEP-94",
+    "casConfirmes": 15
+  },
+  {
+    "date": "2020-03-09",
+    "source": {
+      "nom": "ARS Ile-de-France",
+      "url": "https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200309.pdf"
+    },
+    "nom": "Val-d'Oise",
+    "code": "DEP-95",
+    "casConfirmes": 45,
+    "deces": 1,
+    "victimes": [
+      {
+        "age": 86,
+        "sexe": "homme",
+        "date": "2020-03-06"
+      }
+    ]
   },
   {
     "date": "2020-03-10",
@@ -895,9 +2237,339 @@
   },
   {
     "date": "2020-03-10",
+    "source": {
+      "nom": "ARS Grand-Est",
+      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/CP_Coronavirus_covid%2019_GrandEst_090320.pdf"
+    },
+    "nom": "Aisne",
+    "code": "DEP-02",
+    "casConfirmes": 3,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-10",
+    "source": {
+      "nom": "ARS Grand-Est",
+      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/CP_Coronavirus_covid%2019_GrandEst_090320.pdf"
+    },
+    "nom": "Ardennes",
+    "code": "DEP-08",
+    "casConfirmes": 1,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-10",
+    "source": {
+      "nom": "ARS Grand-Est",
+      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/CP_Coronavirus_covid%2019_GrandEst_090320.pdf"
+    },
+    "nom": "Aube",
+    "code": "DEP-10",
+    "casConfirmes": 1,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-10",
+    "source": {
+      "nom": "ARS Normandie",
+      "url": "https://www.normandie.ars.sante.fr/system/files/2020-03/CP-point-situation-2020-03-10.pdf"
+    },
+    "nom": "Calvados",
+    "code": "DEP-14",
+    "casConfirmes": 2,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-10",
+    "nom": "Côtes-d'Armor",
+    "code": "DEP-22",
+    "casConfirmes": 0,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-10",
+    "source": {
+      "nom": "ARS Normandie",
+      "url": "https://www.normandie.ars.sante.fr/system/files/2020-03/CP-point-situation-2020-03-10.pdf"
+    },
+    "nom": "Eure",
+    "code": "DEP-27",
+    "casConfirmes": 11,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-10",
+    "nom": "Finistère",
+    "code": "DEP-29",
+    "casConfirmes": 7,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-10",
+    "nom": "Ille-et-Vilaine",
+    "code": "DEP-35",
+    "casConfirmes": 11,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-10",
+    "source": {
+      "nom": "ARS Normandie",
+      "url": "https://www.normandie.ars.sante.fr/system/files/2020-03/CP-point-situation-2020-03-10.pdf"
+    },
+    "nom": "Manche",
+    "code": "DEP-50",
+    "casConfirmes": 6,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-10",
+    "source": {
+      "nom": "ARS Grand-Est",
+      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/CP_Coronavirus_covid%2019_GrandEst_090320.pdf"
+    },
+    "nom": "Marne",
+    "code": "DEP-51",
+    "casConfirmes": 5,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-10",
+    "source": {
+      "nom": "ARS Grand-Est",
+      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/CP_Coronavirus_covid%2019_GrandEst_090320.pdf"
+    },
+    "nom": "Haute-Marne",
+    "code": "DEP-52",
+    "casConfirmes": 1,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-10",
+    "source": {
+      "nom": "ARS Grand-Est",
+      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/CP_Coronavirus_covid%2019_GrandEst_090320.pdf"
+    },
+    "nom": "Meurthe-et-Moselle",
+    "code": "DEP-54",
+    "casConfirmes": 11,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-10",
+    "source": {
+      "nom": "ARS Grand-Est",
+      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/CP_Coronavirus_covid%2019_GrandEst_090320.pdf"
+    },
+    "nom": "Meuse",
+    "code": "DEP-55",
+    "casConfirmes": 3,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-10",
+    "nom": "Morbihan",
+    "code": "DEP-56",
+    "casConfirmes": 63,
+    "deces": 1
+  },
+  {
+    "date": "2020-03-10",
+    "source": {
+      "nom": "ARS Grand-Est",
+      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/CP_Coronavirus_covid%2019_GrandEst_090320.pdf"
+    },
+    "nom": "Moselle",
+    "code": "DEP-57",
+    "casConfirmes": 47,
+    "deces": 1,
+    "victimes": [
+      {
+        "age": 73,
+        "sexe": "femme",
+        "date": "2020-03-08"
+      }
+    ]
+  },
+  {
+    "date": "2020-03-10",
     "nom": "Oise",
     "code": "DEP-60",
     "deces": 10
+  },
+  {
+    "date": "2020-03-10",
+    "source": {
+      "nom": "ARS Normandie",
+      "url": "https://www.normandie.ars.sante.fr/system/files/2020-03/CP-point-situation-2020-03-10.pdf"
+    },
+    "nom": "Orne",
+    "code": "DEP-61",
+    "casConfirmes": 0,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-10",
+    "source": {
+      "nom": "ARS Grand-Est",
+      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/CP_Coronavirus_covid%2019_GrandEst_090320.pdf"
+    },
+    "nom": "Bas-Rhin",
+    "code": "DEP-67",
+    "casConfirmes": 104,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-10",
+    "source": {
+      "nom": "ARS Grand-Est",
+      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/CP_Coronavirus_covid%2019_GrandEst_090320.pdf"
+    },
+    "nom": "Haut-Rhin",
+    "code": "DEP-68",
+    "casConfirmes": 260,
+    "deces": 3,
+    "victimes": [
+      {
+        "age": 91,
+        "sexe": "homme",
+        "date": "2020-03-07"
+      },
+      {
+        "age": 86,
+        "sexe": "femme",
+        "date": "2020-03-07"
+      },
+      {
+        "age": 63,
+        "sexe": "homme",
+        "date": "2020-03-10"
+      }
+    ]
+  },
+  {
+    "date": "2020-03-10",
+    "source": {
+      "nom": "ARS Ile-de-France",
+      "url": "https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200310_0.pdf"
+    },
+    "nom": "Paris",
+    "code": "DEP-75",
+    "casConfirmes": 44
+  },
+  {
+    "date": "2020-03-10",
+    "source": {
+      "nom": "ARS Normandie",
+      "url": "https://www.normandie.ars.sante.fr/system/files/2020-03/CP-point-situation-2020-03-10.pdf"
+    },
+    "nom": "Seine-Maritime",
+    "code": "DEP-76",
+    "casConfirmes": 15,
+    "deces": 1,
+    "victimes": [
+      {
+        "age": 86,
+        "sexe": "homme",
+        "date": "2020-03-06"
+      }
+    ]
+  },
+  {
+    "date": "2020-03-10",
+    "source": {
+      "nom": "ARS Ile-de-France",
+      "url": "https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200310_0.pdf"
+    },
+    "nom": "Seine-et-Marne",
+    "code": "DEP-77",
+    "casConfirmes": 23
+  },
+  {
+    "date": "2020-03-10",
+    "source": {
+      "nom": "ARS Ile-de-France",
+      "url": "https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200310_0.pdf"
+    },
+    "nom": "Yvelines",
+    "code": "DEP-78",
+    "casConfirmes": 35
+  },
+  {
+    "date": "2020-03-10",
+    "source": {
+      "nom": "ARS Grand-Est",
+      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/CP_Coronavirus_covid%2019_GrandEst_090320.pdf"
+    },
+    "nom": "Vosges",
+    "code": "DEP-88",
+    "casConfirmes": 28,
+    "deces": 1,
+    "victimes": [
+      {
+        "age": 94,
+        "sexe": "femme",
+        "date": "2020-03-09"
+      }
+    ]
+  },
+  {
+    "date": "2020-03-10",
+    "source": {
+      "nom": "ARS Ile-de-France",
+      "url": "https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200310_0.pdf"
+    },
+    "nom": "Essone",
+    "code": "DEP-91",
+    "casConfirmes": 8
+  },
+  {
+    "date": "2020-03-10",
+    "source": {
+      "nom": "ARS Ile-de-France",
+      "url": "https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200310_0.pdf"
+    },
+    "nom": "Hauts-de-Seine",
+    "code": "DEP-92",
+    "casConfirmes": 28
+  },
+  {
+    "date": "2020-03-10",
+    "source": {
+      "nom": "ARS Ile-de-France",
+      "url": "https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200310_0.pdf"
+    },
+    "nom": "Saint-Saint-Denis",
+    "code": "DEP-93",
+    "casConfirmes": 22
+  },
+  {
+    "date": "2020-03-10",
+    "source": {
+      "nom": "ARS Ile-de-France",
+      "url": "https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200310_0.pdf"
+    },
+    "nom": "Val-de-Marne",
+    "code": "DEP-94",
+    "casConfirmes": 31
+  },
+  {
+    "date": "2020-03-10",
+    "source": {
+      "nom": "ARS Ile-de-France",
+      "url": "https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200310_0.pdf"
+    },
+    "nom": "Val-d'Oise",
+    "code": "DEP-95",
+    "casConfirmes": 55,
+    "deces": 1,
+    "victimes": [
+      {
+        "age": 86,
+        "sexe": "homme",
+        "date": "2020-03-06"
+      }
+    ]
   },
   {
     "date": "2020-03-10",
@@ -1091,10 +2763,371 @@
   },
   {
     "date": "2020-03-11",
+    "source": {
+      "nom": "ARS Grand-Est",
+      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/20200310_CP_Pref68_Coronavirus.pdf"
+    },
+    "nom": "Aisne",
+    "code": "DEP-02",
+    "casConfirmes": 3,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-11",
+    "source": {
+      "nom": "ARS Grand-Est",
+      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/20200310_CP_Pref68_Coronavirus.pdf"
+    },
+    "nom": "Ardennes",
+    "code": "DEP-08",
+    "casConfirmes": 1,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-11",
+    "source": {
+      "nom": "ARS Grand-Est",
+      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/20200310_CP_Pref68_Coronavirus.pdf"
+    },
+    "nom": "Aube",
+    "code": "DEP-10",
+    "casConfirmes": 1,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-11",
+    "source": {
+      "nom": "ARS Normandie",
+      "url": "https://www.normandie.ars.sante.fr/system/files/2020-03/CP-orne-point-situation-2020-03-11.pdf"
+    },
+    "nom": "Calvados",
+    "code": "DEP-14",
+    "casConfirmes": 15,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-11",
+    "nom": "Côtes-d'Armor",
+    "code": "DEP-22",
+    "casConfirmes": 0,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-11",
+    "source": {
+      "nom": "ARS Normandie",
+      "url": "https://www.normandie.ars.sante.fr/system/files/2020-03/CP-orne-point-situation-2020-03-11.pdf"
+    },
+    "nom": "Eure",
+    "code": "DEP-27",
+    "casConfirmes": 14,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-11",
+    "nom": "Finistère",
+    "code": "DEP-29",
+    "casConfirmes": 7,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-11",
+    "nom": "Ille-et-Vilaine",
+    "code": "DEP-35",
+    "casConfirmes": 13,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-11",
+    "source": {
+      "nom": "ARS Normandie",
+      "url": "https://www.normandie.ars.sante.fr/system/files/2020-03/CP-orne-point-situation-2020-03-11.pdf"
+    },
+    "nom": "Manche",
+    "code": "DEP-50",
+    "casConfirmes": 10,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-11",
+    "source": {
+      "nom": "ARS Grand-Est",
+      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/20200310_CP_Pref68_Coronavirus.pdf"
+    },
+    "nom": "Marne",
+    "code": "DEP-51",
+    "casConfirmes": 7,
+    "deces": 1,
+    "victimes": [
+      {
+        "age": 38,
+        "sexe": "homme",
+        "date": "2020-03-11"
+      }
+    ]
+  },
+  {
+    "date": "2020-03-11",
+    "source": {
+      "nom": "ARS Grand-Est",
+      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/20200310_CP_Pref68_Coronavirus.pdf"
+    },
+    "nom": "Haute-Marne",
+    "code": "DEP-52",
+    "casConfirmes": 1,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-11",
+    "source": {
+      "nom": "ARS Grand-Est",
+      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/20200310_CP_Pref68_Coronavirus.pdf"
+    },
+    "nom": "Meurthe-et-Moselle",
+    "code": "DEP-54",
+    "casConfirmes": 14,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-11",
+    "source": {
+      "nom": "ARS Grand-Est",
+      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/20200310_CP_Pref68_Coronavirus.pdf"
+    },
+    "nom": "Meuse",
+    "code": "DEP-55",
+    "casConfirmes": 3,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-11",
+    "nom": "Morbihan",
+    "code": "DEP-56",
+    "casConfirmes": 73,
+    "deces": 1
+  },
+  {
+    "date": "2020-03-11",
+    "nom": "Morbihan",
+    "code": "DEP-56",
+    "deces": 2,
+    "casConfirmes": 73
+  },
+  {
+    "date": "2020-03-11",
+    "source": {
+      "nom": "ARS Grand-Est",
+      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/20200310_CP_Pref68_Coronavirus.pdf"
+    },
+    "nom": "Moselle",
+    "code": "DEP-57",
+    "casConfirmes": 59,
+    "deces": 1,
+    "victimes": [
+      {
+        "age": 73,
+        "sexe": "femme",
+        "date": "2020-03-08"
+      }
+    ]
+  },
+  {
+    "date": "2020-03-11",
     "nom": "Oise",
     "code": "DEP-60",
     "deces": 11,
     "casConfirmes": 152
+  },
+  {
+    "date": "2020-03-11",
+    "source": {
+      "nom": "ARS Normandie",
+      "url": "https://www.normandie.ars.sante.fr/system/files/2020-03/CP-orne-point-situation-2020-03-11.pdf"
+    },
+    "nom": "Orne",
+    "code": "DEP-61",
+    "casConfirmes": 2,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-11",
+    "source": {
+      "nom": "ARS Grand-Est",
+      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/20200310_CP_Pref68_Coronavirus.pdf"
+    },
+    "nom": "Bas-Rhin",
+    "code": "DEP-67",
+    "casConfirmes": 108,
+    "deces": 3,
+    "victimes": [
+      {
+        "age": 89,
+        "sexe": "homme",
+        "date": "2020-03-11"
+      },
+      {
+        "age": 73,
+        "sexe": "homme",
+        "date": "2020-03-11"
+      },
+      {
+        "age": 92,
+        "sexe": "homme",
+        "date": "2020-03-11"
+      }
+    ]
+  },
+  {
+    "date": "2020-03-11",
+    "source": {
+      "nom": "ARS Grand-Est",
+      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/20200310_CP_Pref68_Coronavirus.pdf"
+    },
+    "nom": "Haut-Rhin",
+    "code": "DEP-68",
+    "casConfirmes": 359,
+    "deces": 3,
+    "victimes": [
+      {
+        "age": 91,
+        "sexe": "homme",
+        "date": "2020-03-07"
+      },
+      {
+        "age": 86,
+        "sexe": "femme",
+        "date": "2020-03-07"
+      },
+      {
+        "age": 63,
+        "sexe": "homme",
+        "date": "2020-03-10"
+      }
+    ]
+  },
+  {
+    "date": "2020-03-11",
+    "source": {
+      "nom": "ARS Ile-de-France",
+      "url": "https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200311.pdf"
+    },
+    "nom": "Paris",
+    "code": "DEP-75",
+    "casConfirmes": 80
+  },
+  {
+    "date": "2020-03-11",
+    "source": {
+      "nom": "ARS Normandie",
+      "url": "https://www.normandie.ars.sante.fr/system/files/2020-03/CP-orne-point-situation-2020-03-11.pdf"
+    },
+    "nom": "Seine-Maritime",
+    "code": "DEP-76",
+    "casConfirmes": 16,
+    "deces": 1,
+    "victimes": [
+      {
+        "age": 86,
+        "sexe": "homme",
+        "date": "2020-03-06"
+      }
+    ]
+  },
+  {
+    "date": "2020-03-11",
+    "source": {
+      "nom": "ARS Ile-de-France",
+      "url": "https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200311.pdf"
+    },
+    "nom": "Seine-et-Marne",
+    "code": "DEP-77",
+    "casConfirmes": 30
+  },
+  {
+    "date": "2020-03-11",
+    "source": {
+      "nom": "ARS Ile-de-France",
+      "url": "https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200311.pdf"
+    },
+    "nom": "Yvelines",
+    "code": "DEP-78",
+    "casConfirmes": 56
+  },
+  {
+    "date": "2020-03-11",
+    "source": {
+      "nom": "ARS Grand-Est",
+      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/20200310_CP_Pref68_Coronavirus.pdf"
+    },
+    "nom": "Vosges",
+    "code": "DEP-88",
+    "casConfirmes": 31,
+    "deces": 1,
+    "victimes": [
+      {
+        "age": 94,
+        "sexe": "femme",
+        "date": "2020-03-09"
+      }
+    ]
+  },
+  {
+    "date": "2020-03-11",
+    "source": {
+      "nom": "ARS Ile-de-France",
+      "url": "https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200311.pdf"
+    },
+    "nom": "Essone",
+    "code": "DEP-91",
+    "casConfirmes": 20
+  },
+  {
+    "date": "2020-03-11",
+    "source": {
+      "nom": "ARS Ile-de-France",
+      "url": "https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200311.pdf"
+    },
+    "nom": "Hauts-de-Seine",
+    "code": "DEP-92",
+    "casConfirmes": 47
+  },
+  {
+    "date": "2020-03-11",
+    "source": {
+      "nom": "ARS Ile-de-France",
+      "url": "https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200311.pdf"
+    },
+    "nom": "Saint-Saint-Denis",
+    "code": "DEP-93",
+    "casConfirmes": 29
+  },
+  {
+    "date": "2020-03-11",
+    "source": {
+      "nom": "ARS Ile-de-France",
+      "url": "https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200311.pdf"
+    },
+    "nom": "Val-de-Marne",
+    "code": "DEP-94",
+    "casConfirmes": 36
+  },
+  {
+    "date": "2020-03-11",
+    "source": {
+      "nom": "ARS Ile-de-France",
+      "url": "https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200311.pdf"
+    },
+    "nom": "Val-d'Oise",
+    "code": "DEP-95",
+    "casConfirmes": 59,
+    "deces": 1,
+    "victimes": [
+      {
+        "age": 86,
+        "sexe": "homme",
+        "date": "2020-03-06"
+      }
+    ]
   },
   {
     "date": "2020-03-11",
@@ -1270,6 +3303,206 @@
   },
   {
     "date": "2020-03-11",
+    "source": {
+      "nom": "Santé publique France"
+    },
+    "casConfirmes": 118628,
+    "deces": 4292,
+    "nom": "Monde",
+    "code": "WORLD"
+  },
+  {
+    "date": "2020-03-12",
+    "source": {
+      "nom": "Santé publique France"
+    },
+    "nom": "Saint-Barthélemy",
+    "code": "COM-977",
+    "casConfirmes": 1
+  },
+  {
+    "date": "2020-03-12",
+    "source": {
+      "nom": "Santé publique France"
+    },
+    "nom": "Saint-Martin",
+    "code": "COM-978",
+    "casConfirmes": 2
+  },
+  {
+    "date": "2020-03-12",
+    "source": {
+      "nom": "Santé publique France"
+    },
+    "casConfirmes": 2876,
+    "deces": 61,
+    "nom": "France",
+    "code": "FRA"
+  },
+  {
+    "date": "2020-03-12",
+    "source": {
+      "nom": "Santé publique France"
+    },
+    "nom": "Guadeloupe",
+    "code": "REG-01",
+    "casConfirmes": 0
+  },
+  {
+    "date": "2020-03-12",
+    "source": {
+      "nom": "Santé publique France"
+    },
+    "nom": "Martinique",
+    "code": "REG-02",
+    "casConfirmes": 4
+  },
+  {
+    "date": "2020-03-12",
+    "source": {
+      "nom": "Santé publique France"
+    },
+    "nom": "Guyane",
+    "code": "REG-03",
+    "casConfirmes": 6
+  },
+  {
+    "date": "2020-03-12",
+    "source": {
+      "nom": "Santé publique France"
+    },
+    "nom": "La Réunion",
+    "code": "REG-04",
+    "casConfirmes": 3
+  },
+  {
+    "date": "2020-03-12",
+    "source": {
+      "nom": "Santé publique France"
+    },
+    "nom": "Mayotte",
+    "code": "REG-06",
+    "casConfirmes": 0
+  },
+  {
+    "date": "2020-03-12",
+    "source": {
+      "nom": "Santé publique France"
+    },
+    "nom": "Ile-de-France",
+    "code": "REG-11",
+    "casConfirmes": 577
+  },
+  {
+    "date": "2020-03-12",
+    "source": {
+      "nom": "Santé publique France"
+    },
+    "nom": "Centre-Val de Loire",
+    "code": "REG-24",
+    "casConfirmes": 30
+  },
+  {
+    "date": "2020-03-12",
+    "source": {
+      "nom": "Santé publique France"
+    },
+    "nom": "Bourgogne-Franche-Comté",
+    "code": "REG-27",
+    "casConfirmes": 219
+  },
+  {
+    "date": "2020-03-12",
+    "source": {
+      "nom": "Santé publique France"
+    },
+    "nom": "Normandie",
+    "code": "REG-28",
+    "casConfirmes": 68
+  },
+  {
+    "date": "2020-03-12",
+    "source": {
+      "nom": "Santé publique France"
+    },
+    "nom": "Hauts-de-France",
+    "code": "REG-32",
+    "casConfirmes": 349
+  },
+  {
+    "date": "2020-03-12",
+    "source": {
+      "nom": "Santé publique France"
+    },
+    "nom": "Grand Est",
+    "code": "REG-44",
+    "casConfirmes": 699
+  },
+  {
+    "date": "2020-03-12",
+    "source": {
+      "nom": "Santé publique France"
+    },
+    "nom": "Pays de la Loire",
+    "code": "REG-52",
+    "casConfirmes": 41
+  },
+  {
+    "date": "2020-03-12",
+    "source": {
+      "nom": "Santé publique France"
+    },
+    "nom": "Bretagne",
+    "code": "REG-53",
+    "casConfirmes": 117
+  },
+  {
+    "date": "2020-03-12",
+    "source": {
+      "nom": "Santé publique France"
+    },
+    "nom": "Nouvelle-Aquitaine",
+    "code": "REG-75",
+    "casConfirmes": 87
+  },
+  {
+    "date": "2020-03-12",
+    "source": {
+      "nom": "Santé publique France"
+    },
+    "nom": "Occitanie",
+    "code": "REG-76",
+    "casConfirmes": 133
+  },
+  {
+    "date": "2020-03-12",
+    "source": {
+      "nom": "Santé publique France"
+    },
+    "nom": "Auvergne-Rhône-Alpes",
+    "code": "REG-84",
+    "casConfirmes": 329
+  },
+  {
+    "date": "2020-03-12",
+    "source": {
+      "nom": "Santé publique France"
+    },
+    "nom": "Provence-Alpes-Côte d’Azur",
+    "code": "REG-93",
+    "casConfirmes": 147
+  },
+  {
+    "date": "2020-03-12",
+    "source": {
+      "nom": "Santé publique France"
+    },
+    "nom": "Corse",
+    "code": "REG-94",
+    "casConfirmes": 64
+  },
+  {
+    "date": "2020-03-12",
     "source": {
       "nom": "Santé publique France"
     },
