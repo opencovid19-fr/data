@@ -21,11 +21,11 @@ async function readYamlFile(filePath) {
 function flattenData(initialData) {
   const rows = []
 
-  if (initialData.donneesRegionales) {
+  if (initialData.donneesRegionales && Array.isArray(initialData.donneesRegionales)) {
     initialData.donneesRegionales.forEach(row => rows.push(row))
   }
 
-  if (initialData.donneesDepartementales) {
+  if (initialData.donneesDepartementales && Array.isArray(initialData.donneesDepartementales)) {
     initialData.donneesDepartementales.forEach(row => rows.push(row))
   }
 
@@ -110,6 +110,7 @@ async function main() {
   const flattenedData = chain(sourcesData)
     .map(flattenSourcesData)
     .flatten()
+    .filter(r => 'casConfirmes' in r || 'deces' in r)
     .sortBy(r => `${r.date}-${r.code}`)
     .value()
 
