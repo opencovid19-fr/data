@@ -1,0 +1,58 @@
+date: 2020-03-10
+source:
+  nom: ARS Auvergne Rhône-Alpes
+  url: https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200310_ARSARA_COVID-19_Point_Situation.pdf
+donneesRegionales:
+  nom: Auvergne Rhône-Alpes
+  code: REG-27
+  casConfirmes: 227
+  gueris: 8
+  deces: 3
+donnesDepartementales:
+  - nom: Ain
+    code: DEP-01
+    casConfirmes: 23
+    deces: 0
+  - nom: Ardèche
+    code: DEP-07
+    casConfirmes: 6
+    deces: 0
+  - nom: Drôme
+    code: DEP-26
+    casConfirmes: 20
+    deces: 1
+    - age: 89
+      date: 2020-03-08
+  - nom: Isère
+    code: DEP-38
+    casConfirmes: 3
+    reanimation: 1
+    deces: 0
+  - nom: Loire
+    code: DEP-42
+    casConfirmes: 29
+    reanimation: 4
+    deces: 0
+  - nom: Puy-de-Dôme
+    code: DEP-63
+    casConfirmes: 11
+    deces: 0
+  - nom: Rhône
+    code: DEP-69
+    casConfirmes: 60
+    deces: 1
+    - age: 76
+      sexe: femme
+      date: 2020-03-09
+  - nom: Savoie
+    code: DEP-73
+    casConfirmes: 4
+    deces: 1
+    - age: 81
+      sexe: homme
+      date: 2020-03-09
+  - nom: Haute-Savoie
+    code: DEP-74
+    casConfirmes: 71
+    gueris: 8
+    deces: 0
