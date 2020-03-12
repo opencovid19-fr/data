@@ -1,0 +1,22 @@
+{
+  "name": "@opencovid19-fr/data",
+  "version": "0.0.0",
+  "description": "Données nationales concernant l’épidémie de COVID19",
+  "main": "index.js",
+  "repository": "https://github.com/opencovid19-fr/data",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "bulletins-spf:build": "node build-bulletins-spf"
+  },
+  "devDependencies": {
+    "fs-extra": "^8.1.0",
+    "js-yaml": "^3.13.1",
+    "lodash": "^4.17.15",
+    "xo": "^0.28.0"
+  },
+  "xo": {
+    "semicolon": false,
+    "space": 2
+  }
+}
