@@ -8,7 +8,7 @@ donneesRegionales:
   casConfirmes: 333
   gueris: 8
   deces: 7
-donnesDepartementales:
+donneesDepartementales:
   - nom: Ain
     code: DEP-01
     casConfirmes: 31
