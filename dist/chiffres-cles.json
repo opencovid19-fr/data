@@ -247,17 +247,6 @@
       "nom": "ARS Grand-Est",
       "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/Communique%20Coronavirus%20covid%2019%20-%20point%20de%20situation%20en%20Grand%20Est%2004%2003%202020.pdf"
     },
-    "nom": "Aisne",
-    "code": "DEP-02",
-    "casConfirmes": 3,
-    "deces": 0
-  },
-  {
-    "date": "2020-03-04",
-    "source": {
-      "nom": "ARS Grand-Est",
-      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/Communique%20Coronavirus%20covid%2019%20-%20point%20de%20situation%20en%20Grand%20Est%2004%2003%202020.pdf"
-    },
     "nom": "Ardennes",
     "code": "DEP-08",
     "casConfirmes": 0,
@@ -1988,17 +1977,6 @@
   {
     "date": "2020-03-08",
     "source": {
-      "nom": "ARS Grand-Est",
-      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/Covid19_point_GrandEst080320.pdf"
-    },
-    "nom": "Aisne",
-    "code": "DEP-02",
-    "casConfirmes": 3,
-    "deces": 0
-  },
-  {
-    "date": "2020-03-08",
-    "source": {
       "nom": "ARS Auvergne Rhône-Alpes",
       "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200308_ARSARA_COVID-19_Point_Situation_1.pdf"
     },
@@ -2422,17 +2400,6 @@
     "nom": "Ain",
     "code": "DEP-01",
     "casConfirmes": 17,
-    "deces": 0
-  },
-  {
-    "date": "2020-03-09",
-    "source": {
-      "nom": "ARS Grand-Est",
-      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/CP_Coronavirus_covid%2019_GrandEst_090320.pdf"
-    },
-    "nom": "Aisne",
-    "code": "DEP-02",
-    "casConfirmes": 3,
     "deces": 0
   },
   {
@@ -2901,17 +2868,6 @@
     "nom": "Ain",
     "code": "DEP-01",
     "casConfirmes": 23,
-    "deces": 0
-  },
-  {
-    "date": "2020-03-10",
-    "source": {
-      "nom": "ARS Grand-Est",
-      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/CP_Coronavirus_covid%2019_GrandEst_090320.pdf"
-    },
-    "nom": "Aisne",
-    "code": "DEP-02",
-    "casConfirmes": 3,
     "deces": 0
   },
   {
@@ -3575,17 +3531,6 @@
     "nom": "Ain",
     "code": "DEP-01",
     "casConfirmes": 26,
-    "deces": 0
-  },
-  {
-    "date": "2020-03-11",
-    "source": {
-      "nom": "ARS Grand-Est",
-      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/20200310_CP_Pref68_Coronavirus.pdf"
-    },
-    "nom": "Aisne",
-    "code": "DEP-02",
-    "casConfirmes": 3,
     "deces": 0
   },
   {
@@ -4832,6 +4777,106 @@
     "nom": "Saint-Martin",
     "code": "COM-978",
     "casConfirmes": 2
+  },
+  {
+    "date": "2020-03-13",
+    "source": {
+      "nom": "ARS Grand-Est",
+      "url": "http://www.grand-est.ars.sante.fr/system/files/2020-03/Communique%20Coronavirus%20covid%2019%20-%20point%20de%20situation%20en%20Grand%20Est%2013.03.2020.pdf"
+    },
+    "nom": "Ardennes",
+    "code": "DEP-08",
+    "casConfirmes": 1
+  },
+  {
+    "date": "2020-03-13",
+    "source": {
+      "nom": "ARS Grand-Est",
+      "url": "http://www.grand-est.ars.sante.fr/system/files/2020-03/Communique%20Coronavirus%20covid%2019%20-%20point%20de%20situation%20en%20Grand%20Est%2013.03.2020.pdf"
+    },
+    "nom": "Aube",
+    "code": "DEP-10",
+    "casConfirmes": 1
+  },
+  {
+    "date": "2020-03-13",
+    "source": {
+      "nom": "ARS Grand-Est",
+      "url": "http://www.grand-est.ars.sante.fr/system/files/2020-03/Communique%20Coronavirus%20covid%2019%20-%20point%20de%20situation%20en%20Grand%20Est%2013.03.2020.pdf"
+    },
+    "nom": "Marne",
+    "code": "DEP-51",
+    "casConfirmes": 20
+  },
+  {
+    "date": "2020-03-13",
+    "source": {
+      "nom": "ARS Grand-Est",
+      "url": "http://www.grand-est.ars.sante.fr/system/files/2020-03/Communique%20Coronavirus%20covid%2019%20-%20point%20de%20situation%20en%20Grand%20Est%2013.03.2020.pdf"
+    },
+    "nom": "Haute-Marne",
+    "code": "DEP-52",
+    "casConfirmes": 1
+  },
+  {
+    "date": "2020-03-13",
+    "source": {
+      "nom": "ARS Grand-Est",
+      "url": "http://www.grand-est.ars.sante.fr/system/files/2020-03/Communique%20Coronavirus%20covid%2019%20-%20point%20de%20situation%20en%20Grand%20Est%2013.03.2020.pdf"
+    },
+    "nom": "Meurthe-et-Moselle",
+    "code": "DEP-54",
+    "casConfirmes": 35
+  },
+  {
+    "date": "2020-03-13",
+    "source": {
+      "nom": "ARS Grand-Est",
+      "url": "http://www.grand-est.ars.sante.fr/system/files/2020-03/Communique%20Coronavirus%20covid%2019%20-%20point%20de%20situation%20en%20Grand%20Est%2013.03.2020.pdf"
+    },
+    "nom": "Meuse",
+    "code": "DEP-55",
+    "casConfirmes": 6
+  },
+  {
+    "date": "2020-03-13",
+    "source": {
+      "nom": "ARS Grand-Est",
+      "url": "http://www.grand-est.ars.sante.fr/system/files/2020-03/Communique%20Coronavirus%20covid%2019%20-%20point%20de%20situation%20en%20Grand%20Est%2013.03.2020.pdf"
+    },
+    "nom": "Moselle",
+    "code": "DEP-57",
+    "casConfirmes": 114
+  },
+  {
+    "date": "2020-03-13",
+    "source": {
+      "nom": "ARS Grand-Est",
+      "url": "http://www.grand-est.ars.sante.fr/system/files/2020-03/Communique%20Coronavirus%20covid%2019%20-%20point%20de%20situation%20en%20Grand%20Est%2013.03.2020.pdf"
+    },
+    "nom": "Bas-Rhin",
+    "code": "DEP-67",
+    "casConfirmes": 219
+  },
+  {
+    "date": "2020-03-13",
+    "source": {
+      "nom": "ARS Grand-Est",
+      "url": "http://www.grand-est.ars.sante.fr/system/files/2020-03/Communique%20Coronavirus%20covid%2019%20-%20point%20de%20situation%20en%20Grand%20Est%2013.03.2020.pdf"
+    },
+    "nom": "Haut-Rhin",
+    "code": "DEP-68",
+    "casConfirmes": 463
+  },
+  {
+    "date": "2020-03-13",
+    "source": {
+      "nom": "ARS Grand-Est",
+      "url": "http://www.grand-est.ars.sante.fr/system/files/2020-03/Communique%20Coronavirus%20covid%2019%20-%20point%20de%20situation%20en%20Grand%20Est%2013.03.2020.pdf"
+    },
+    "nom": "Vosges",
+    "code": "DEP-88",
+    "casConfirmes": 44
   },
   {
     "date": "2020-03-13",
