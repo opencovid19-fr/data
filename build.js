@@ -16,7 +16,7 @@ const distPath = join(__dirname, 'dist')
 
 async function readYamlFile(filePath) {
   const content = await readFile(filePath, {encoding: 'utf8'})
-  return yaml.safeLoad(content)
+  return yaml.safeLoad(content, {schema: yaml.JSON_SCHEMA})
 }
 
 function flattenData(initialData) {
