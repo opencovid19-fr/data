@@ -1,0 +1,10 @@
+date: "2020-03-12"
+source:
+  nom: ARSHauts-de-France et Préfecture de l’Oise 
+  url: http://www.oise.gouv.fr/content/download/60749/371851/file/CP%20-%20D%C3%A9c%C3%A8s%20coronavirus%20dans%20l'Oise%20-%20120320.pdf
+  archive: https://web.archive.org/web/20200313145642/http://www.oise.gouv.fr/content/download/60749/371851/file/CP%20-%20D%C3%A9c%C3%A8s%20coronavirus%20dans%20l%27Oise%20-%20120320.pdf
+donneesDepartementales:
+  - nom: Oise
+    code: DEP-60
+    deces: 15
+    casConfirmes: 194
