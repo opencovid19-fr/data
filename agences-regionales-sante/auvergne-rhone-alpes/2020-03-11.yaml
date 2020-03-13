@@ -21,8 +21,9 @@ donnesDepartementales:
     code: DEP-26
     casConfirmes: 24
     deces: 1
-    - age: 89
-      date: 2020-03-08
+    victimes:
+      - age: 89
+        date: 2020-03-08
   - nom: Isère
     code: DEP-38
     casConfirmes: 13
@@ -44,16 +45,18 @@ donnesDepartementales:
     code: DEP-69
     casConfirmes: 72
     deces: 1
-    - age: 76
-      sexe: femme
-      date: 2020-03-09
+    victimes:
+      - age: 76
+        sexe: femme
+        date: 2020-03-09
   - nom: Savoie
     code: DEP-73
     casConfirmes: 4
     deces: 1
-    - age: 81
-      sexe: homme
-      date: 2020-03-09
+    victimes:
+      - age: 81
+        sexe: homme
+        date: 2020-03-09
   - nom: Haute-Savoie
     code: DEP-74
     casConfirmes: 72

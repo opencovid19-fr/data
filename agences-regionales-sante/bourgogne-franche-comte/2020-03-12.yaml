@@ -26,9 +26,11 @@ donnesDepartementales:
   - nom: Haute-Saône
     code: DEP-70
     deces: 1
-    - date: "2020-03-12"
+    victimes:
+      - date: "2020-03-12"
   - nom: Saône-et-Loire
     code: DEP-71
     deces: 1
-    - date: "2020-03-12"
+    victimes:
+      - date: "2020-03-12"
 

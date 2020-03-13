@@ -22,8 +22,9 @@ donnesDepartementales:
     casConfirmes: 16
     reanimation: 1
     deces: 1
-    - age: 89
-      date: 2020-03-08
+    victimes:
+      - age: 89
+        date: 2020-03-08
   - nom: Loire
     code: DEP-42
     casConfirmes: 6
