@@ -354,7 +354,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,source_nom,source_ur
 2020-03-11,departement,DEP-54,Meurthe-et-Moselle,14,0,ARS Grand-Est,https://www.grand-est.ars.sante.fr/system/files/2020-03/20200310_CP_Pref68_Coronavirus.pdf
 2020-03-11,departement,DEP-55,Meuse,3,0,ARS Grand-Est,https://www.grand-est.ars.sante.fr/system/files/2020-03/20200310_CP_Pref68_Coronavirus.pdf
 2020-03-11,departement,DEP-56,Morbihan,73,1,,
-2020-03-11,departement,DEP-56,Morbihan,73,2,,
+2020-03-11,departement,DEP-56,Morbihan,73,2,Préfecture du Morbihan,http://www.morbihan.gouv.fr/Actualites/Actus/Le-Morbihan-face-au-Coronavirus-Covid19/Coronavirus-Point-a-17h-le-11-Mars-2020-10-nouveaux-cas-confirmes-dans-le-Morbihan
 2020-03-11,departement,DEP-57,Moselle,59,1,ARS Grand-Est,https://www.grand-est.ars.sante.fr/system/files/2020-03/20200310_CP_Pref68_Coronavirus.pdf
 2020-03-11,departement,DEP-58,Nièvre,2,0,ARS Bourgogne-Franche-Comté,https://www.bourgogne-franche-comte.ars.sante.fr/system/files/2020-03/2020.03.11_COVID19_SITUATION%20BFC.pdf
 2020-03-11,departement,DEP-60,Oise,152,11,,
@@ -399,6 +399,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,source_nom,source_ur
 2020-03-12,collectivite-outremer,COM-977,Saint-Barthélemy,1,,Santé publique France,
 2020-03-12,collectivite-outremer,COM-978,Saint-Martin,2,,Santé publique France,
 2020-03-12,departement,DEP-01,Ain,31,0,ARS Auvergne Rhône-Alpes,http://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200312_ARSARA_COVID-19_Point_Situation.pdf
+2020-03-12,departement,DEP-02,Aisne,34,2,ARS Hauts-de-France,https://www.hauts-de-france.ars.sante.fr/coronavirus-covid-19-point-de-situation-dans-les-hauts-de-france
 2020-03-12,departement,DEP-03,Allier,1,0,ARS Auvergne Rhône-Alpes,http://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200312_ARSARA_COVID-19_Point_Situation.pdf
 2020-03-12,departement,DEP-07,Ardèche,15,0,ARS Auvergne Rhône-Alpes,http://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200312_ARSARA_COVID-19_Point_Situation.pdf
 2020-03-12,departement,DEP-25,Doubs,,1,ARS Bourgogne-Franche-Comté,https://www.bourgogne-franche-comte.ars.sante.fr/system/files/2020-03/2020.03.12_COVID19_SITUATION%20BFC%20.pdf
@@ -407,13 +408,19 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,source_nom,source_ur
 2020-03-12,departement,DEP-39,Jura,,1,ARS Bourgogne-Franche-Comté,https://www.bourgogne-franche-comte.ars.sante.fr/system/files/2020-03/2020.03.12_COVID19_SITUATION%20BFC%20.pdf
 2020-03-12,departement,DEP-42,Loire,43,0,ARS Auvergne Rhône-Alpes,http://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200312_ARSARA_COVID-19_Point_Situation.pdf
 2020-03-12,departement,DEP-43,Haute-Loire,5,0,ARS Auvergne Rhône-Alpes,http://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200312_ARSARA_COVID-19_Point_Situation.pdf
+2020-03-12,departement,DEP-56,Morbihan,85,3,Préfecture du Morbihan,http://www.morbihan.gouv.fr/Actualites/Actus/Le-Morbihan-face-au-Coronavirus-Covid19/Coronavirus-Point-a-16h-le-12-Mars-2020-12-nouveaux-cas-confirmes-dans-le-Morbihan
 2020-03-12,departement,DEP-58,Nièvre,,0,ARS Bourgogne-Franche-Comté,https://www.bourgogne-franche-comte.ars.sante.fr/system/files/2020-03/2020.03.12_COVID19_SITUATION%20BFC%20.pdf
+2020-03-12,departement,DEP-59,Nord,34,0,ARS Hauts-de-France,https://www.hauts-de-france.ars.sante.fr/coronavirus-covid-19-point-de-situation-dans-les-hauts-de-france
+2020-03-12,departement,DEP-60,Oise,194,14,ARS Hauts-de-France,https://www.hauts-de-france.ars.sante.fr/coronavirus-covid-19-point-de-situation-dans-les-hauts-de-france
+2020-03-12,departement,DEP-60,Oise,194,15,ARSHauts-de-France et Préfecture de l’Oise,http://www.oise.gouv.fr/content/download/60749/371851/file/CP%20-%20D%C3%A9c%C3%A8s%20coronavirus%20dans%20l'Oise%20-%20120320.pdf
+2020-03-12,departement,DEP-62,Pas-de-Calais,8,1,ARS Hauts-de-France,https://www.hauts-de-france.ars.sante.fr/coronavirus-covid-19-point-de-situation-dans-les-hauts-de-france
 2020-03-12,departement,DEP-63,Puy-de-Dôme,13,0,ARS Auvergne Rhône-Alpes,http://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200312_ARSARA_COVID-19_Point_Situation.pdf
 2020-03-12,departement,DEP-69,Rhône,87,5,ARS Auvergne Rhône-Alpes,http://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200312_ARSARA_COVID-19_Point_Situation.pdf
 2020-03-12,departement,DEP-70,Haute-Saône,,1,ARS Bourgogne-Franche-Comté,https://www.bourgogne-franche-comte.ars.sante.fr/system/files/2020-03/2020.03.12_COVID19_SITUATION%20BFC%20.pdf
 2020-03-12,departement,DEP-71,Saône-et-Loire,,1,ARS Bourgogne-Franche-Comté,https://www.bourgogne-franche-comte.ars.sante.fr/system/files/2020-03/2020.03.12_COVID19_SITUATION%20BFC%20.pdf
 2020-03-12,departement,DEP-73,Savoie,6,1,ARS Auvergne Rhône-Alpes,http://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200312_ARSARA_COVID-19_Point_Situation.pdf
 2020-03-12,departement,DEP-74,Haute-Savoie,83,0,ARS Auvergne Rhône-Alpes,http://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200312_ARSARA_COVID-19_Point_Situation.pdf
+2020-03-12,departement,DEP-80,Somme,22,3,ARS Hauts-de-France,https://www.hauts-de-france.ars.sante.fr/coronavirus-covid-19-point-de-situation-dans-les-hauts-de-france
 2020-03-12,departement,DEP-89,Yonne,,1,ARS Bourgogne-Franche-Comté,https://www.bourgogne-franche-comte.ars.sante.fr/system/files/2020-03/2020.03.12_COVID19_SITUATION%20BFC%20.pdf
 2020-03-12,pays,FRA,France,2876,61,Santé publique France,
 2020-03-12,region,REG-01,Guadeloupe,0,,Santé publique France,

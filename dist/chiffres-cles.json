@@ -3806,6 +3806,11 @@
   },
   {
     "date": "2020-03-11",
+    "source": {
+      "nom": "Préfecture du Morbihan",
+      "url": "http://www.morbihan.gouv.fr/Actualites/Actus/Le-Morbihan-face-au-Coronavirus-Covid19/Coronavirus-Point-a-17h-le-11-Mars-2020-10-nouveaux-cas-confirmes-dans-le-Morbihan",
+      "archive": "https://web.archive.org/web/20200313103730/http://webcache.googleusercontent.com/search?q=cache%3ARfVu-bCrhTAJ%3Awww.morbihan.gouv.fr%2FActualites%2FActus%2FLe-Morbihan-face-au-Coronavirus-Covid19%2FCoronavirus-Point-a-17h-le-11-Mars-2020-10-nouveaux-cas-confirmes-dans-le-Morbihan+&cd=12&hl=en&ct=clnk&gl=fr&client=firefox-b-e"
+    },
     "nom": "Morbihan",
     "code": "DEP-56",
     "deces": 2,
@@ -4326,6 +4331,18 @@
   {
     "date": "2020-03-12",
     "source": {
+      "nom": "ARS Hauts-de-France",
+      "url": "https://www.hauts-de-france.ars.sante.fr/coronavirus-covid-19-point-de-situation-dans-les-hauts-de-france",
+      "archive": "https://web.archive.org/web/20200313151202/https://www.hauts-de-france.ars.sante.fr/coronavirus-covid-19-point-de-situation-dans-les-hauts-de-france"
+    },
+    "nom": "Aisne",
+    "code": "DEP-02",
+    "casConfirmes": 34,
+    "deces": 2
+  },
+  {
+    "date": "2020-03-12",
+    "source": {
       "nom": "ARS Auvergne Rhône-Alpes",
       "url": "http://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200312_ARSARA_COVID-19_Point_Situation.pdf"
     },
@@ -4419,12 +4436,72 @@
   {
     "date": "2020-03-12",
     "source": {
+      "nom": "Préfecture du Morbihan",
+      "url": "http://www.morbihan.gouv.fr/Actualites/Actus/Le-Morbihan-face-au-Coronavirus-Covid19/Coronavirus-Point-a-16h-le-12-Mars-2020-12-nouveaux-cas-confirmes-dans-le-Morbihan",
+      "archive": "https://web.archive.org/web/20200313124423/http://www.morbihan.gouv.fr/Actualites/Actus/Le-Morbihan-face-au-Coronavirus-Covid19/Coronavirus-Point-a-16h-le-12-Mars-2020-12-nouveaux-cas-confirmes-dans-le-Morbihan"
+    },
+    "nom": "Morbihan",
+    "code": "DEP-56",
+    "deces": 3,
+    "casConfirmes": 85
+  },
+  {
+    "date": "2020-03-12",
+    "source": {
       "nom": "ARS Bourgogne-Franche-Comté",
       "url": "https://www.bourgogne-franche-comte.ars.sante.fr/system/files/2020-03/2020.03.12_COVID19_SITUATION%20BFC%20.pdf"
     },
     "nom": "Nièvre",
     "code": "DEP-58",
     "deces": 0
+  },
+  {
+    "date": "2020-03-12",
+    "source": {
+      "nom": "ARS Hauts-de-France",
+      "url": "https://www.hauts-de-france.ars.sante.fr/coronavirus-covid-19-point-de-situation-dans-les-hauts-de-france",
+      "archive": "https://web.archive.org/web/20200313151202/https://www.hauts-de-france.ars.sante.fr/coronavirus-covid-19-point-de-situation-dans-les-hauts-de-france"
+    },
+    "nom": "Nord",
+    "code": "DEP-59",
+    "casConfirmes": 34,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-12",
+    "source": {
+      "nom": "ARS Hauts-de-France",
+      "url": "https://www.hauts-de-france.ars.sante.fr/coronavirus-covid-19-point-de-situation-dans-les-hauts-de-france",
+      "archive": "https://web.archive.org/web/20200313151202/https://www.hauts-de-france.ars.sante.fr/coronavirus-covid-19-point-de-situation-dans-les-hauts-de-france"
+    },
+    "nom": "Oise",
+    "code": "DEP-60",
+    "casConfirmes": 194,
+    "deces": 14
+  },
+  {
+    "date": "2020-03-12",
+    "source": {
+      "nom": "ARSHauts-de-France et Préfecture de l’Oise",
+      "url": "http://www.oise.gouv.fr/content/download/60749/371851/file/CP%20-%20D%C3%A9c%C3%A8s%20coronavirus%20dans%20l'Oise%20-%20120320.pdf",
+      "archive": "https://web.archive.org/web/20200313145642/http://www.oise.gouv.fr/content/download/60749/371851/file/CP%20-%20D%C3%A9c%C3%A8s%20coronavirus%20dans%20l%27Oise%20-%20120320.pdf"
+    },
+    "nom": "Oise",
+    "code": "DEP-60",
+    "deces": 15,
+    "casConfirmes": 194
+  },
+  {
+    "date": "2020-03-12",
+    "source": {
+      "nom": "ARS Hauts-de-France",
+      "url": "https://www.hauts-de-france.ars.sante.fr/coronavirus-covid-19-point-de-situation-dans-les-hauts-de-france",
+      "archive": "https://web.archive.org/web/20200313151202/https://www.hauts-de-france.ars.sante.fr/coronavirus-covid-19-point-de-situation-dans-les-hauts-de-france"
+    },
+    "nom": "Pas-de-Calais",
+    "code": "DEP-62",
+    "casConfirmes": 8,
+    "deces": 1
   },
   {
     "date": "2020-03-12",
@@ -4528,6 +4605,18 @@
     "casConfirmes": 83,
     "gueris": 8,
     "deces": 0
+  },
+  {
+    "date": "2020-03-12",
+    "source": {
+      "nom": "ARS Hauts-de-France",
+      "url": "https://www.hauts-de-france.ars.sante.fr/coronavirus-covid-19-point-de-situation-dans-les-hauts-de-france",
+      "archive": "https://web.archive.org/web/20200313151202/https://www.hauts-de-france.ars.sante.fr/coronavirus-covid-19-point-de-situation-dans-les-hauts-de-france"
+    },
+    "nom": "Somme",
+    "code": "DEP-80",
+    "casConfirmes": 22,
+    "deces": 3
   },
   {
     "date": "2020-03-12",
