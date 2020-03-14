@@ -7,4 +7,5 @@ donneesDepartementales:
   - nom: Ille-et-Vilaine
     code: DEP-35
     deces: 0
-    casConfirmes: 22
+    # L'annonce du 12 mars à 17h30 indique 22, mais au-dessus l'annonce du 12 mars au soir annonce un cas supplémentaire. Donc 23.
+    casConfirmes: 23
