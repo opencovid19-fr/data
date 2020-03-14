@@ -1,0 +1,77 @@
+date: 2020-03-14
+source:
+  nom: ARS Auvergne Rhône-Alpes
+  url: https://www.ledauphine.com/sante/2020/03/14/coronavirus-en-rhone-alpes-31-nouveaux-cas-et-deux-deces-en-24-heures-isere-savoie-haute-savoie-ain-drome-ardeche
+donneesRegionales:
+  nom: Auvergne Rhône-Alpes
+  code: REG-27
+  casConfirmes: 333
+  gueris: 8
+  deces: 7
+donneesDepartementales:
+  - nom: Ain
+    code: DEP-01
+    casConfirmes: 43
+    deces: 0
+  - nom: Allier
+    code: DEP-03
+    casConfirmes: 1
+    deces: 0
+  - nom: Ardèche
+    code: DEP-07
+    casConfirmes: 20
+    deces: 0
+  - nom: Drôme
+    code: DEP-26
+    casConfirmes: 45
+    deces: 1
+    victimes:
+      - age: 89
+        date: 2020-03-08
+  - nom: Isère
+    code: DEP-38
+    casConfirmes: 29
+    deces: 0
+  - nom: Loire
+    code: DEP-42
+    casConfirmes: 54
+    reanimation: 5
+    deces : 1
+    deces: 0
+  - nom: Haute-Loire
+    code: DEP-43
+    casConfirmes: 7
+    deces: 0
+  - nom: Puy-de-Dôme
+    code: DEP-63
+    casConfirmes: 13
+    deces: 0
+  - nom: Rhône
+    code: DEP-69
+    casConfirmes: 123
+    deces: 7
+    victimes:
+      - age: 76
+        sexe: femme
+        date: 2020-03-09
+      - age: 87
+        date: 2020-03-12
+      - age: 90
+        date: 2020-03-12
+      - date: 2020-03-12
+      - date: 2020-03-12
+      - date: 2020-03-14
+      - date: 2020-03-14
+  - nom: Savoie
+    code: DEP-73
+    casConfirmes: 18
+    deces: 1
+    victimes:
+      - age: 81
+        sexe: homme
+        date: 2020-03-09
+  - nom: Haute-Savoie
+    code: DEP-74
+    casConfirmes: 92
+    gueris: 8
+    deces: 2
