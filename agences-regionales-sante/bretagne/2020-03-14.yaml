@@ -1,25 +1,27 @@
-date: "2020-03-10"
+date: "2020-03-14"
 source:
     nom: ARS Bretagne
-    url: http://www.ille-et-vilaine.gouv.fr/Actualites/Espace-presse/2020/COVID-19-informations-recommandations-et-mesures-sanitaires
+    url: https://www.bretagne.ars.sante.fr/system/files/2020-03/CP%20Coronavirus_Bretagne_point%20de%20situation%2017h30_200314.pdf
 donneesRegionales:
   nom: Bretagne
   code: REG-53
-  casConfirmes: 81
+  casConfirmes: 178
+  deces: 3
 donneesDepartementales:
   - nom: Ille-et-Vilaine
     code: DEP-35
-    casConfirmes: 11
+    casConfirmes: 34
     deces: 0
   - nom: Finistère
     code: DEP-29
-    casConfirmes: 7
+    casConfirmes: 34
     deces: 0
   - nom: Morbihan
     code: DEP-56
-    casConfirmes: 63
-    deces: 1
+    casConfirmes: 106
+    deces: 3
   - nom: Côtes-d'Armor
     code: DEP-22
-    casConfirmes: 0
+    casConfirmes: 4
     deces: 0
+
