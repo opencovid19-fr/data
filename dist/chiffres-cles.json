@@ -1641,6 +1641,28 @@
   {
     "date": "2020-03-07",
     "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo_20200307.pdf"
+    },
+    "nom": "Aude",
+    "code": "DEP-11",
+    "casConfirmes": 3,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-07",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo_20200307.pdf"
+    },
+    "nom": "Aveyron",
+    "code": "DEP-12",
+    "casConfirmes": 4,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-07",
+    "source": {
       "nom": "ARS Provence-Alpes-Côte d’Azur",
       "url": "https://www.paca.ars.sante.fr/coronavirus-en-provence-alpes-cote-dazur-point-de-situation-du-7-mars"
     },
@@ -1699,6 +1721,39 @@
   },
   {
     "date": "2020-03-07",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo_20200307.pdf"
+    },
+    "nom": "Gard",
+    "code": "DEP-30",
+    "casConfirmes": 3,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-07",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo_20200307.pdf"
+    },
+    "nom": "Haute-Garonne",
+    "code": "DEP-31",
+    "casConfirmes": 2,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-07",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo_20200307.pdf"
+    },
+    "nom": "Hérault",
+    "code": "DEP-34",
+    "casConfirmes": 11,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-07",
     "nom": "Ille-et-Vilaine",
     "code": "DEP-35",
     "casConfirmes": 7,
@@ -1714,6 +1769,17 @@
     "code": "DEP-42",
     "casConfirmes": 2,
     "reanimation": 1,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-07",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo_20200307.pdf"
+    },
+    "nom": "Lot",
+    "code": "DEP-46",
+    "casConfirmes": 1,
     "deces": 0
   },
   {
@@ -1855,6 +1921,28 @@
     "nom": "Yvelines",
     "code": "DEP-78",
     "casConfirmes": 7
+  },
+  {
+    "date": "2020-03-07",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo_20200307.pdf"
+    },
+    "nom": "Tarn",
+    "code": "DEP-81",
+    "casConfirmes": 2,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-07",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo_20200307.pdf"
+    },
+    "nom": "Tarn-et-Garonne",
+    "code": "DEP-82",
+    "casConfirmes": 3,
+    "deces": 0
   },
   {
     "date": "2020-03-07",
@@ -2646,6 +2734,17 @@
   {
     "date": "2020-03-08",
     "source": {
+      "nom": "Santé publique France",
+      "url": "https://web.archive.org/web/20200309074325/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+    },
+    "casConfirmes": 1126,
+    "deces": 19,
+    "nom": "France",
+    "code": "FRA"
+  },
+  {
+    "date": "2020-03-08",
+    "source": {
       "nom": "ARS Grand-Est",
       "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/Covid19_point_GrandEst080320.pdf"
     },
@@ -2654,6 +2753,17 @@
     "casConfirmes": 262,
     "reanimation": 45,
     "deces": 3
+  },
+  {
+    "date": "2020-03-08",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://web.archive.org/web/20200309074325/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+    },
+    "casConfirmes": 105828,
+    "deces": 3584,
+    "nom": "Monde",
+    "code": "WORLD"
   },
   {
     "date": "2020-03-09",
@@ -2735,6 +2845,28 @@
   {
     "date": "2020-03-09",
     "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo2_20200309.pdf"
+    },
+    "nom": "Aude",
+    "code": "DEP-11",
+    "casConfirmes": 14,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-09",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo2_20200309.pdf"
+    },
+    "nom": "Aveyron",
+    "code": "DEP-12",
+    "casConfirmes": 8,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-09",
+    "source": {
       "nom": "ARS Provence-Alpes-Côte d’Azur",
       "url": "https://www.paca.ars.sante.fr/coronavirus-en-provence-alpes-cote-dazur-point-de-situation-du-9-mars"
     },
@@ -2798,6 +2930,50 @@
   },
   {
     "date": "2020-03-09",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo2_20200309.pdf"
+    },
+    "nom": "Gard",
+    "code": "DEP-30",
+    "casConfirmes": 3,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-09",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo2_20200309.pdf"
+    },
+    "nom": "Haute-Garonne",
+    "code": "DEP-31",
+    "casConfirmes": 3,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-09",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo2_20200309.pdf"
+    },
+    "nom": "Gers",
+    "code": "DEP-32",
+    "casConfirmes": 1,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-09",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo2_20200309.pdf"
+    },
+    "nom": "Hérault",
+    "code": "DEP-34",
+    "casConfirmes": 24,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-09",
     "nom": "Ille-et-Vilaine",
     "code": "DEP-35",
     "casConfirmes": 11,
@@ -2823,6 +2999,17 @@
     "nom": "Loire",
     "code": "DEP-42",
     "casConfirmes": 15,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-09",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo2_20200309.pdf"
+    },
+    "nom": "Lot",
+    "code": "DEP-46",
+    "casConfirmes": 2,
     "deces": 0
   },
   {
@@ -3098,6 +3285,28 @@
   {
     "date": "2020-03-09",
     "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo2_20200309.pdf"
+    },
+    "nom": "Tarn",
+    "code": "DEP-81",
+    "casConfirmes": 2,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-09",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo2_20200309.pdf"
+    },
+    "nom": "Tarn-et-Garonne",
+    "code": "DEP-82",
+    "casConfirmes": 3,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-09",
+    "source": {
       "nom": "ARS Provence-Alpes-Côte d’Azur",
       "url": "https://www.paca.ars.sante.fr/coronavirus-en-provence-alpes-cote-dazur-point-de-situation-du-9-mars"
     },
@@ -3192,6 +3401,28 @@
         "date": "2020-03-06"
       }
     ]
+  },
+  {
+    "date": "2020-03-09",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://web.archive.org/web/20200309183257/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+    },
+    "casConfirmes": 1412,
+    "deces": 30,
+    "nom": "France",
+    "code": "FRA"
+  },
+  {
+    "date": "2020-03-09",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://web.archive.org/web/20200309183257/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+    },
+    "casConfirmes": 109695,
+    "deces": 3811,
+    "nom": "Monde",
+    "code": "WORLD"
   },
   {
     "date": "2020-03-10",
@@ -3320,6 +3551,18 @@
   {
     "date": "2020-03-10",
     "source": {
+      "nom": "Préfecture d'Ille-et-Vilaine",
+      "url": "http://www.ille-et-vilaine.gouv.fr/Actualites/Espace-presse/2020/COVID-19-informations-recommandations-et-mesures-sanitaires",
+      "archive": "http://web.archive.org/web/20200314080409/http://www.ille-et-vilaine.gouv.fr/Actualites/Espace-presse/2020/COVID-19-informations-recommandations-et-mesures-sanitaires"
+    },
+    "nom": "Côtes d'Armor",
+    "code": "DEP-22",
+    "deces": 0,
+    "casConfirmes": 0
+  },
+  {
+    "date": "2020-03-10",
+    "source": {
       "nom": "ARS Auvergne Rhône-Alpes",
       "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200310_ARSARA_COVID-19_Point_Situation.pdf"
     },
@@ -3354,10 +3597,34 @@
   },
   {
     "date": "2020-03-10",
+    "source": {
+      "nom": "Préfecture d'Ille-et-Vilaine",
+      "url": "http://www.ille-et-vilaine.gouv.fr/Actualites/Espace-presse/2020/COVID-19-informations-recommandations-et-mesures-sanitaires",
+      "archive": "http://web.archive.org/web/20200314080409/http://www.ille-et-vilaine.gouv.fr/Actualites/Espace-presse/2020/COVID-19-informations-recommandations-et-mesures-sanitaires"
+    },
+    "nom": "Finistère",
+    "code": "DEP-29",
+    "deces": 0,
+    "casConfirmes": 7
+  },
+  {
+    "date": "2020-03-10",
     "nom": "Ille-et-Vilaine",
     "code": "DEP-35",
     "casConfirmes": 11,
     "deces": 0
+  },
+  {
+    "date": "2020-03-10",
+    "source": {
+      "nom": "Préfecture d'Ille-et-Vilaine",
+      "url": "http://www.ille-et-vilaine.gouv.fr/Actualites/Espace-presse/2020/COVID-19-informations-recommandations-et-mesures-sanitaires",
+      "archive": "http://web.archive.org/web/20200314080409/http://www.ille-et-vilaine.gouv.fr/Actualites/Espace-presse/2020/COVID-19-informations-recommandations-et-mesures-sanitaires"
+    },
+    "nom": "Ille-et-Vilaine",
+    "code": "DEP-35",
+    "deces": 0,
+    "casConfirmes": 11
   },
   {
     "date": "2020-03-10",
@@ -4042,6 +4309,28 @@
   {
     "date": "2020-03-11",
     "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo3_20200311.pdf"
+    },
+    "nom": "Aude",
+    "code": "DEP-11",
+    "casConfirmes": 22,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-11",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo3_20200311.pdf"
+    },
+    "nom": "Aveyron",
+    "code": "DEP-12",
+    "casConfirmes": 9,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-11",
+    "source": {
       "nom": "ARS Provence-Alpes-Côte d’Azur",
       "url": "https://www.paca.ars.sante.fr/coronavirus-en-provence-alpes-cote-dazur-point-de-situation-du-11-mars"
     },
@@ -4067,6 +4356,18 @@
     "code": "DEP-22",
     "casConfirmes": 0,
     "deces": 0
+  },
+  {
+    "date": "2020-03-11",
+    "source": {
+      "nom": "Préfecture d'Ille-et-Vilaine",
+      "url": "http://www.ille-et-vilaine.gouv.fr/Actualites/Espace-presse/2020/COVID-19-informations-recommandations-et-mesures-sanitaires",
+      "archive": "http://web.archive.org/web/20200314080409/http://www.ille-et-vilaine.gouv.fr/Actualites/Espace-presse/2020/COVID-19-informations-recommandations-et-mesures-sanitaires"
+    },
+    "nom": "Côtes d'Armor",
+    "code": "DEP-22",
+    "deces": 0,
+    "casConfirmes": 0
   },
   {
     "date": "2020-03-11",
@@ -4115,10 +4416,78 @@
   },
   {
     "date": "2020-03-11",
+    "source": {
+      "nom": "Préfecture d'Ille-et-Vilaine",
+      "url": "http://www.ille-et-vilaine.gouv.fr/Actualites/Espace-presse/2020/COVID-19-informations-recommandations-et-mesures-sanitaires",
+      "archive": "http://web.archive.org/web/20200314080409/http://www.ille-et-vilaine.gouv.fr/Actualites/Espace-presse/2020/COVID-19-informations-recommandations-et-mesures-sanitaires"
+    },
+    "nom": "Finistère",
+    "code": "DEP-29",
+    "deces": 0,
+    "casConfirmes": 7
+  },
+  {
+    "date": "2020-03-11",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo3_20200311.pdf"
+    },
+    "nom": "Gard",
+    "code": "DEP-30",
+    "casConfirmes": 6,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-11",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo3_20200311.pdf"
+    },
+    "nom": "Haute-Garonne",
+    "code": "DEP-31",
+    "casConfirmes": 7,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-11",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo3_20200311.pdf"
+    },
+    "nom": "Gers",
+    "code": "DEP-32",
+    "casConfirmes": 3,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-11",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo3_20200311.pdf"
+    },
+    "nom": "Hérault",
+    "code": "DEP-34",
+    "casConfirmes": 59,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-11",
     "nom": "Ille-et-Vilaine",
     "code": "DEP-35",
     "casConfirmes": 13,
     "deces": 0
+  },
+  {
+    "date": "2020-03-11",
+    "source": {
+      "nom": "Préfecture d'Ille-et-Vilaine",
+      "url": "http://www.ille-et-vilaine.gouv.fr/Actualites/Espace-presse/2020/COVID-19-informations-recommandations-et-mesures-sanitaires",
+      "archive": "http://web.archive.org/web/20200314080409/http://www.ille-et-vilaine.gouv.fr/Actualites/Espace-presse/2020/COVID-19-informations-recommandations-et-mesures-sanitaires"
+    },
+    "nom": "Ille-et-Vilaine",
+    "code": "DEP-35",
+    "deces": 0,
+    "casConfirmes": 13
   },
   {
     "date": "2020-03-11",
@@ -4162,6 +4531,17 @@
     "nom": "Haute-Loire",
     "code": "DEP-43",
     "casConfirmes": 4,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-11",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo3_20200311.pdf"
+    },
+    "nom": "Lot",
+    "code": "DEP-46",
+    "casConfirmes": 3,
     "deces": 0
   },
   {
@@ -4312,6 +4692,17 @@
     "nom": "Puy-de-Dôme",
     "code": "DEP-63",
     "casConfirmes": 11,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-11",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo3_20200311.pdf"
+    },
+    "nom": "Haute-Pyrénées",
+    "code": "DEP-65",
+    "casConfirmes": 1,
     "deces": 0
   },
   {
@@ -4476,6 +4867,28 @@
     "code": "DEP-80",
     "deces": 3,
     "casConfirmes": 13
+  },
+  {
+    "date": "2020-03-11",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo3_20200311.pdf"
+    },
+    "nom": "Tarn",
+    "code": "DEP-81",
+    "casConfirmes": 3,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-11",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo3_20200311.pdf"
+    },
+    "nom": "Tarn-et-Garonne",
+    "code": "DEP-82",
+    "casConfirmes": 5,
+    "deces": 0
   },
   {
     "date": "2020-03-11",
@@ -4871,6 +5284,28 @@
   {
     "date": "2020-03-12",
     "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo4_20200312.pdf"
+    },
+    "nom": "Aude",
+    "code": "DEP-11",
+    "casConfirmes": 25,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-12",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo4_20200312.pdf"
+    },
+    "nom": "Aveyron",
+    "code": "DEP-12",
+    "casConfirmes": 9,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-12",
+    "source": {
       "nom": "ARS Provence-Alpes-Côte d’Azur",
       "url": "https://www.paca.ars.sante.fr/coronavirus-en-provence-alpes-cote-dazur-point-de-situation-du-12-mars"
     },
@@ -4901,6 +5336,18 @@
     "code": "DEP-22",
     "casConfirmes": 1,
     "deces": 0
+  },
+  {
+    "date": "2020-03-12",
+    "source": {
+      "nom": "Préfecture d'Ille-et-Vilaine",
+      "url": "http://www.ille-et-vilaine.gouv.fr/Actualites/Espace-presse/2020/COVID-19-informations-recommandations-et-mesures-sanitaires",
+      "archive": "http://web.archive.org/web/20200314080409/http://www.ille-et-vilaine.gouv.fr/Actualites/Espace-presse/2020/COVID-19-informations-recommandations-et-mesures-sanitaires"
+    },
+    "nom": "Côtes d'Armor",
+    "code": "DEP-22",
+    "deces": 0,
+    "casConfirmes": 1
   },
   {
     "date": "2020-03-12",
@@ -4955,6 +5402,62 @@
   {
     "date": "2020-03-12",
     "source": {
+      "nom": "Préfecture d'Ille-et-Vilaine",
+      "url": "http://www.ille-et-vilaine.gouv.fr/Actualites/Espace-presse/2020/COVID-19-informations-recommandations-et-mesures-sanitaires",
+      "archive": "http://web.archive.org/web/20200314080409/http://www.ille-et-vilaine.gouv.fr/Actualites/Espace-presse/2020/COVID-19-informations-recommandations-et-mesures-sanitaires"
+    },
+    "nom": "Finistère",
+    "code": "DEP-29",
+    "deces": 0,
+    "casConfirmes": 12
+  },
+  {
+    "date": "2020-03-12",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo4_20200312.pdf"
+    },
+    "nom": "Gard",
+    "code": "DEP-30",
+    "casConfirmes": 17,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-12",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo4_20200312.pdf"
+    },
+    "nom": "Haute-Garonne",
+    "code": "DEP-31",
+    "casConfirmes": 13,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-12",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo4_20200312.pdf"
+    },
+    "nom": "Gers",
+    "code": "DEP-32",
+    "casConfirmes": 3,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-12",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo4_20200312.pdf"
+    },
+    "nom": "Hérault",
+    "code": "DEP-34",
+    "casConfirmes": 65,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-12",
+    "source": {
       "nom": "ARS Bretagne",
       "url": "https://www.bretagne.ars.sante.fr/system/files/2020-03/2020-03-12-bulletin%20information%20COVID-19_VF.pdf"
     },
@@ -4962,6 +5465,18 @@
     "code": "DEP-35",
     "casConfirmes": 22,
     "deces": 0
+  },
+  {
+    "date": "2020-03-12",
+    "source": {
+      "nom": "Préfecture d'Ille-et-Vilaine",
+      "url": "http://www.ille-et-vilaine.gouv.fr/Actualites/Espace-presse/2020/COVID-19-informations-recommandations-et-mesures-sanitaires",
+      "archive": "http://web.archive.org/web/20200314080409/http://www.ille-et-vilaine.gouv.fr/Actualites/Espace-presse/2020/COVID-19-informations-recommandations-et-mesures-sanitaires"
+    },
+    "nom": "Ille-et-Vilaine",
+    "code": "DEP-35",
+    "deces": 0,
+    "casConfirmes": 22
   },
   {
     "date": "2020-03-12",
@@ -5005,6 +5520,17 @@
     "nom": "Haute-Loire",
     "code": "DEP-43",
     "casConfirmes": 5,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-12",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo4_20200312.pdf"
+    },
+    "nom": "Lot",
+    "code": "DEP-46",
+    "casConfirmes": 3,
     "deces": 0
   },
   {
@@ -5132,6 +5658,28 @@
     "nom": "Puy-de-Dôme",
     "code": "DEP-63",
     "casConfirmes": 13,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-12",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo4_20200312.pdf"
+    },
+    "nom": "Haute-Pyrénées",
+    "code": "DEP-65",
+    "casConfirmes": 2,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-12",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo4_20200312.pdf"
+    },
+    "nom": "Pyrénées-Orientales",
+    "code": "DEP-66",
+    "casConfirmes": 3,
     "deces": 0
   },
   {
@@ -5279,6 +5827,28 @@
     "code": "DEP-80",
     "casConfirmes": 22,
     "deces": 3
+  },
+  {
+    "date": "2020-03-12",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo4_20200312.pdf"
+    },
+    "nom": "Tarn",
+    "code": "DEP-81",
+    "casConfirmes": 4,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-12",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo4_20200312.pdf"
+    },
+    "nom": "Tarn-et-Garonne",
+    "code": "DEP-82",
+    "casConfirmes": 6,
+    "deces": 0
   },
   {
     "date": "2020-03-12",
@@ -5643,6 +6213,28 @@
   {
     "date": "2020-03-13",
     "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo5_20200313.pdf"
+    },
+    "nom": "Aude",
+    "code": "DEP-11",
+    "casConfirmes": 25,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-13",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo5_20200313.pdf"
+    },
+    "nom": "Aveyron",
+    "code": "DEP-12",
+    "casConfirmes": 10,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-13",
+    "source": {
       "nom": "ARS Provence-Alpes-Côte d’Azur",
       "url": "https://www.paca.ars.sante.fr/coronavirus-en-provence-alpes-cote-dazur-point-de-situation-au-13-mars"
     },
@@ -5684,6 +6276,18 @@
     "code": "DEP-22",
     "casConfirmes": 1,
     "deces": 0
+  },
+  {
+    "date": "2020-03-13",
+    "source": {
+      "nom": "Préfecture d'Ille-et-Vilaine",
+      "url": "http://www.ille-et-vilaine.gouv.fr/Actualites/Espace-presse/2020/COVID-19-informations-recommandations-et-mesures-sanitaires",
+      "archive": "http://web.archive.org/web/20200314080409/http://www.ille-et-vilaine.gouv.fr/Actualites/Espace-presse/2020/COVID-19-informations-recommandations-et-mesures-sanitaires"
+    },
+    "nom": "Côtes d'Armor",
+    "code": "DEP-22",
+    "deces": 0,
+    "casConfirmes": 1
   },
   {
     "date": "2020-03-13",
@@ -5744,6 +6348,18 @@
   {
     "date": "2020-03-13",
     "source": {
+      "nom": "Préfecture d'Ille-et-Vilaine",
+      "url": "http://www.ille-et-vilaine.gouv.fr/Actualites/Espace-presse/2020/COVID-19-informations-recommandations-et-mesures-sanitaires",
+      "archive": "http://web.archive.org/web/20200314080409/http://www.ille-et-vilaine.gouv.fr/Actualites/Espace-presse/2020/COVID-19-informations-recommandations-et-mesures-sanitaires"
+    },
+    "nom": "Finistère",
+    "code": "DEP-29",
+    "deces": 0,
+    "casConfirmes": 22
+  },
+  {
+    "date": "2020-03-13",
+    "source": {
       "nom": "ARS Corse",
       "url": "https://www.corse.ars.sante.fr/coronavirus-covid-19-informations-utiles",
       "archive": "https://web.archive.org/web/20200314111825/https://www.corse.ars.sante.fr/coronavirus-covid-19-informations-utiles"
@@ -5756,6 +6372,50 @@
   {
     "date": "2020-03-13",
     "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo5_20200313.pdf"
+    },
+    "nom": "Gard",
+    "code": "DEP-30",
+    "casConfirmes": 21,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-13",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo5_20200313.pdf"
+    },
+    "nom": "Haute-Garonne",
+    "code": "DEP-31",
+    "casConfirmes": 25,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-13",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo5_20200313.pdf"
+    },
+    "nom": "Gers",
+    "code": "DEP-32",
+    "casConfirmes": 4,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-13",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo5_20200313.pdf"
+    },
+    "nom": "Hérault",
+    "code": "DEP-34",
+    "casConfirmes": 69,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-13",
+    "source": {
       "nom": "ARS Bretagne",
       "url": "http://www.ille-et-vilaine.gouv.fr/Actualites/Espace-presse/2020/COVID-19-informations-recommandations-et-mesures-sanitaires"
     },
@@ -5763,6 +6423,18 @@
     "code": "DEP-35",
     "casConfirmes": 34,
     "deces": 0
+  },
+  {
+    "date": "2020-03-13",
+    "source": {
+      "nom": "Préfecture d'Ille-et-Vilaine",
+      "url": "http://www.ille-et-vilaine.gouv.fr/Actualites/Espace-presse/2020/COVID-19-informations-recommandations-et-mesures-sanitaires",
+      "archive": "http://web.archive.org/web/20200314080409/http://www.ille-et-vilaine.gouv.fr/Actualites/Espace-presse/2020/COVID-19-informations-recommandations-et-mesures-sanitaires"
+    },
+    "nom": "Ille-et-Vilaine",
+    "code": "DEP-35",
+    "deces": 0,
+    "casConfirmes": 34
   },
   {
     "date": "2020-03-13",
@@ -5827,6 +6499,28 @@
     "nom": "Loiret",
     "code": "DEP-45",
     "casConfirmes": 11,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-13",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo5_20200313.pdf"
+    },
+    "nom": "Lot",
+    "code": "DEP-46",
+    "casConfirmes": 3,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-13",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo5_20200313.pdf"
+    },
+    "nom": "Lozère",
+    "code": "DEP-48",
+    "casConfirmes": 1,
     "deces": 0
   },
   {
@@ -5917,6 +6611,18 @@
   {
     "date": "2020-03-13",
     "source": {
+      "nom": "Préfecture du Morbihan",
+      "url": "http://www.morbihan.gouv.fr/Actualites/Actus/Le-Morbihan-face-au-Coronavirus-Covid19/Coronavirus-Point-a-16h-le-12-Mars-2020-12-nouveaux-cas-confirmes-dans-le-Morbihan",
+      "archive": "https://web.archive.org/web/20200313124423/http://www.morbihan.gouv.fr/Actualites/Actus/Le-Morbihan-face-au-Coronavirus-Covid19/Coronavirus-Point-a-16h-le-12-Mars-2020-12-nouveaux-cas-confirmes-dans-le-Morbihan"
+    },
+    "nom": "Morbihan",
+    "code": "DEP-56",
+    "deces": 3,
+    "casConfirmes": 100
+  },
+  {
+    "date": "2020-03-13",
+    "source": {
       "nom": "ARS Grand-Est",
       "url": "http://www.grand-est.ars.sante.fr/system/files/2020-03/Communique%20Coronavirus%20covid%2019%20-%20point%20de%20situation%20en%20Grand%20Est%2013.03.2020.pdf"
     },
@@ -5981,6 +6687,28 @@
     "code": "DEP-62",
     "casConfirmes": 8,
     "deces": 1
+  },
+  {
+    "date": "2020-03-13",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo5_20200313.pdf"
+    },
+    "nom": "Haute-Pyrénées",
+    "code": "DEP-65",
+    "casConfirmes": 3,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-13",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo5_20200313.pdf"
+    },
+    "nom": "Pyrénées-Orientales",
+    "code": "DEP-66",
+    "casConfirmes": 4,
+    "deces": 0
   },
   {
     "date": "2020-03-13",
@@ -6066,6 +6794,28 @@
     "code": "DEP-80",
     "casConfirmes": 29,
     "deces": 5
+  },
+  {
+    "date": "2020-03-13",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo5_20200313.pdf"
+    },
+    "nom": "Tarn",
+    "code": "DEP-81",
+    "casConfirmes": 4,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-13",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo5_20200313.pdf"
+    },
+    "nom": "Tarn-et-Garonne",
+    "code": "DEP-82",
+    "casConfirmes": 6,
+    "deces": 0
   },
   {
     "date": "2020-03-13",
