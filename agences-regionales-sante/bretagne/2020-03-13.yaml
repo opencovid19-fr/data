@@ -1,10 +1,10 @@
 date: "2020-03-13"
+source:
+    nom: ARS Bretagne
+    url: http://www.ille-et-vilaine.gouv.fr/Actualites/Espace-presse/2020/COVID-19-informations-recommandations-et-mesures-sanitaires
 donneesRegionales:
   nom: Bretagne
   code: REG-53
-  source:
-    nom: ARS Bretagne
-    url: http://www.ille-et-vilaine.gouv.fr/Actualites/Espace-presse/2020/COVID-19-informations-recommandations-et-mesures-sanitaires
   casConfirmes: 157
   deces: 3
 donneesDepartementales:
