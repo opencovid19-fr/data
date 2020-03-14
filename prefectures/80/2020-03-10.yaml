@@ -1,0 +1,9 @@
+date: "2020-03-10"
+source:
+  nom: Préfecture de la Somme
+  url: http://www.somme.gouv.fr/content/download/31875/197389/file/10%20mars%202020.pdf
+donneesDepartementales:
+  - nom: Somme
+    code: DEP-80
+    deces: 2
+    casConfirmes: 12

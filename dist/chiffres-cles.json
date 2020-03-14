@@ -2302,6 +2302,17 @@
   {
     "date": "2020-03-08",
     "source": {
+      "nom": "Préfecture de la Somme",
+      "url": "http://www.somme.gouv.fr/content/download/31840/197249/file/9%20mars%202020.pdf"
+    },
+    "nom": "Somme",
+    "code": "DEP-80",
+    "deces": 0,
+    "casConfirmes": 4
+  },
+  {
+    "date": "2020-03-08",
+    "source": {
       "nom": "ARS Grand-Est",
       "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/Covid19_point_GrandEst080320.pdf"
     },
@@ -2516,6 +2527,17 @@
     "code": "DEP-50",
     "casConfirmes": 6,
     "deces": 0
+  },
+  {
+    "date": "2020-03-09",
+    "source": {
+      "nom": "Préfecture de la Manche, ARS Normandie",
+      "url": "http://www.manche.gouv.fr/content/download/44059/310170/file/CP_COVID%2019%20_point%20de%20situation%20Manche%20-%209%20mars%202020.pdf"
+    },
+    "nom": "Manche",
+    "code": "DEP-50",
+    "deces": 0,
+    "casConfirmes": 6
   },
   {
     "date": "2020-03-09",
@@ -2757,6 +2779,17 @@
   {
     "date": "2020-03-09",
     "source": {
+      "nom": "Préfecture de la Somme",
+      "url": "http://www.somme.gouv.fr/content/download/31840/197249/file/9%20mars%202020.pdf"
+    },
+    "nom": "Somme",
+    "code": "DEP-80",
+    "deces": 2,
+    "casConfirmes": 11
+  },
+  {
+    "date": "2020-03-09",
+    "source": {
       "nom": "ARS Grand-Est",
       "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/CP_Coronavirus_covid%2019_GrandEst_090320.pdf"
     },
@@ -2986,6 +3019,17 @@
     "code": "DEP-50",
     "casConfirmes": 6,
     "deces": 0
+  },
+  {
+    "date": "2020-03-10",
+    "source": {
+      "nom": "Préfecture de la Manche, ARS Normandie",
+      "url": "http://www.manche.gouv.fr/content/download/44090/310316/file/CP_COVID%2019%20_point%20de%20situation%20Manche%20-%2010%20mars%202020_V3.pdf"
+    },
+    "nom": "Manche",
+    "code": "DEP-50",
+    "deces": 0,
+    "casConfirmes": 6
   },
   {
     "date": "2020-03-10",
@@ -3229,6 +3273,17 @@
     "nom": "Yvelines",
     "code": "DEP-78",
     "casConfirmes": 35
+  },
+  {
+    "date": "2020-03-10",
+    "source": {
+      "nom": "Préfecture de la Somme",
+      "url": "http://www.somme.gouv.fr/content/download/31875/197389/file/10%20mars%202020.pdf"
+    },
+    "nom": "Somme",
+    "code": "DEP-80",
+    "deces": 2,
+    "casConfirmes": 12
   },
   {
     "date": "2020-03-10",
@@ -3683,6 +3738,17 @@
   {
     "date": "2020-03-11",
     "source": {
+      "nom": "Préfecture de la Manche, ARS Normandie",
+      "url": "http://www.manche.gouv.fr/content/download/44101/310371/file/CP_COVID%2019%20_point%20de%20situation%20Manche%20-%2011%20mars%202020.pdf"
+    },
+    "nom": "Manche",
+    "code": "DEP-50",
+    "deces": 0,
+    "casConfirmes": 10
+  },
+  {
+    "date": "2020-03-11",
+    "source": {
       "nom": "ARS Grand-Est",
       "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/20200310_CP_Pref68_Coronavirus.pdf"
     },
@@ -3959,6 +4025,17 @@
     "nom": "Yvelines",
     "code": "DEP-78",
     "casConfirmes": 56
+  },
+  {
+    "date": "2020-03-11",
+    "source": {
+      "nom": "Préfecture de la Somme",
+      "url": "http://www.somme.gouv.fr/Actualites/Coronavirus-La-prefecture-de-la-Somme-communique"
+    },
+    "nom": "Somme",
+    "code": "DEP-80",
+    "deces": 3,
+    "casConfirmes": 13
   },
   {
     "date": "2020-03-11",
@@ -4366,6 +4443,17 @@
     "code": "DEP-43",
     "casConfirmes": 5,
     "deces": 0
+  },
+  {
+    "date": "2020-03-12",
+    "source": {
+      "nom": "Préfecture de la Manche, ARS Normandie",
+      "url": "http://www.manche.gouv.fr/content/download/44139/310648/file/CP_COVID%2019%20_point%20de%20situation%20Manche%20-%2012%20mars%202020.pdf"
+    },
+    "nom": "Manche",
+    "code": "DEP-50",
+    "deces": 0,
+    "casConfirmes": 11
   },
   {
     "date": "2020-03-12",
@@ -4786,6 +4874,72 @@
     "nom": "Aube",
     "code": "DEP-10",
     "casConfirmes": 1
+  },
+  {
+    "date": "2020-03-13",
+    "source": {
+      "nom": "ARS Centre - Val de Loire",
+      "url": "https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-13-bulletin%20information%20COVID-19.pdf"
+    },
+    "nom": "Cher",
+    "code": "DEP-18",
+    "casConfirmes": 1,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-13",
+    "source": {
+      "nom": "ARS Centre - Val de Loire",
+      "url": "https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-13-bulletin%20information%20COVID-19.pdf"
+    },
+    "nom": "Eure-et-Loir",
+    "code": "DEP-28",
+    "casConfirmes": 7,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-13",
+    "source": {
+      "nom": "ARS Centre - Val de Loire",
+      "url": "https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-13-bulletin%20information%20COVID-19.pdf"
+    },
+    "nom": "Indre",
+    "code": "DEP-36",
+    "casConfirmes": 0,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-13",
+    "source": {
+      "nom": "ARS Centre - Val de Loire",
+      "url": "https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-13-bulletin%20information%20COVID-19.pdf"
+    },
+    "nom": "Indre-et-Loire",
+    "code": "DEP-37",
+    "casConfirmes": 13,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-13",
+    "source": {
+      "nom": "ARS Centre - Val de Loire",
+      "url": "https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-13-bulletin%20information%20COVID-19.pdf"
+    },
+    "nom": "Loir-et-Cher",
+    "code": "DEP-41",
+    "casConfirmes": 1,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-13",
+    "source": {
+      "nom": "ARS Centre - Val de Loire",
+      "url": "https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-13-bulletin%20information%20COVID-19.pdf"
+    },
+    "nom": "Loiret",
+    "code": "DEP-45",
+    "casConfirmes": 11,
+    "deces": 0
   },
   {
     "date": "2020-03-13",
