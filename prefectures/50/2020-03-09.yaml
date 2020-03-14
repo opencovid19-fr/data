@@ -1,0 +1,9 @@
+date: "2020-03-09"
+source:
+  nom: Préfecture de la Manche, ARS Normandie
+  url: http://www.manche.gouv.fr/content/download/44059/310170/file/CP_COVID%2019%20_point%20de%20situation%20Manche%20-%209%20mars%202020.pdf
+donneesDepartementales:
+  - nom: Manche
+    code: DEP-50
+    deces: 0
+    casConfirmes: 6
