@@ -5,7 +5,8 @@ source:
 donneesRegionales:
   nom: Provence-Alpes-Côte d’Azur
   code: REG-93
-  casConfirmes: 151
+  casConfirmes: 211
+  reanimation: 11
   deces: 0
 donneesDepartementales:
   - nom: Alpes-de-Haute-Provence
