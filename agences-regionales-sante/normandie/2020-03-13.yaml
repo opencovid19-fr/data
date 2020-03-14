@@ -1,0 +1,36 @@
+date: 2020-03-13
+source:
+  nom: ARS Normandie
+  url: https://www.normandie.ars.sante.fr/coronavirus-point-de-situation-en-normandie-13-mars-2020
+donneesRegionales:
+  nom: Normandie
+  code: REG-28
+  casConfirmes: 97
+  deces: 1
+  hospitalises: 11
+donneesDepartementales:
+  - nom: Manche
+    code: DEP-50
+    casConfirmes: 20
+    hospitalises: 1
+    deces: 0 # Reprise fichier précédent
+  - nom: Calvados
+    code: DEP-14
+    casConfirmes: 32
+    hospitalises: 3
+    deces: 0 # Reprise fichier précédent
+  - nom: Seine-Maritime
+    code: DEP-76
+    casConfirmes: 21
+    hospitalises: 2
+    deces: 1 # Reprise fichier précédent
+  - nom: Eure
+    code: DEP-27
+    casConfirmes: 22
+    hospitalises: 4
+    deces: 0 # Reprise fichier précédent
+  - nom: Orne
+    code: DEP-61
+    casConfirmes: 2
+    hospitalises: 1
+    deces: 0 # Reprise fichier précédent
