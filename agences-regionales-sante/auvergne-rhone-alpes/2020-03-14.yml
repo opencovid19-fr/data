@@ -5,9 +5,9 @@ source:
 donneesRegionales:
   nom: Auvergne Rhône-Alpes
   code: REG-27
-  casConfirmes: 333
+  casConfirmes: 424
   gueris: 8
-  deces: 7
+  deces: 12
 donneesDepartementales:
   - nom: Ain
     code: DEP-01
