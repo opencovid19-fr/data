@@ -1,11 +1,11 @@
-date: "2020-03-11"
+date: "2020-03-12"
 source:
   nom: ARS Normandie
-  url: https://www.normandie.ars.sante.fr/system/files/2020-03/CP-point-situation-2020-03-11.pdf
+  url: https://www.normandie.ars.sante.fr/system/files/2020-03/CP-point-situation-2020-03-12.pdf
 donneesRegionales:
   nom: Normandie
   code: REG-28
-  casConfirmes: 57
+  casConfirmes: 68
   deces: 1
 donneesDepartementales:
   - nom: Manche
@@ -14,11 +14,11 @@ donneesDepartementales:
     deces: 0
   - nom: Calvados
     code: DEP-14
-    casConfirmes: 15
+    casConfirmes: 20
     deces: 0
   - nom: Seine-Maritime
     code: DEP-76
-    casConfirmes: 16
+    casConfirmes: 19
     deces: 1
     victimes:
       - age: 86
@@ -26,7 +26,7 @@ donneesDepartementales:
         date: "2020-03-06"
   - nom: Eure
     code: DEP-27
-    casConfirmes: 14
+    casConfirmes: 17
     deces: 0
   - nom: Orne
     code: DEP-61

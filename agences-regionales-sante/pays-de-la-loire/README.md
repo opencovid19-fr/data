@@ -1,0 +1,1 @@
+L'ARS Pays de la Loire publie les données géographiques de département d'origine des cas confirmés, ce qui n'est pas forcément le lieu de traitement.
