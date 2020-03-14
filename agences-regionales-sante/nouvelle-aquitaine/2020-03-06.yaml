@@ -1,0 +1,46 @@
+date: "2020-03-06"
+source:
+  nom: ARS Nouvelle-Aquitaine
+  url: https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP2_Covid19_PointSituation_ARSNA_06_03_2020.pdf
+donneesRegionales:
+  nom: Nouvelle-Aquitaine
+  code: REG-75
+  casConfirmes: 11
+  gueris: 2
+donneesDepartementales:
+  - nom: Charente
+    code: DEP-16
+    casConfirmes: 1
+  - nom: Charente-Maritime
+    code: DEP-17
+    casConfirmes: 2
+  - nom: Corrèze
+    code: DEP-19
+    casConfirmes: 0
+  - nom: Creuse
+    code: DEP-23
+    casConfirmes: 0
+  - nom: Dordogne
+    code: DEP-24
+    casConfirmes: 1
+  - nom: Gironde
+    code: DEP-33
+    casConfirmes: 2
+  - nom: Landes
+    code: DEP-40
+    casConfirmes: 1
+  - nom: Lot-et-Garonne
+    code: DEP-47
+    casConfirmes: 2
+  - nom: Pyrénées-Atlantiques
+    code: DEP-64
+    casConfirmes: 1
+  - nom: Deux-Sèvres
+    code: DEP-79
+    casConfirmes: 1
+  - nom: Vienne
+    code: DEP-86
+    casConfirmes: 0
+  - nom: Haute-Vienne
+    code: DEP-87
+    casConfirmes: 0
