@@ -1,0 +1,24 @@
+date: 2020-03-03
+source:
+  nom: ARS Nouvelle Aquitaine
+  url: https://www.nouvelle-aquitaine.ars.sante.fr/communique-de-presse-coronavirus-point-de-situation-en-nouvelle-aquitaine-du-03032020
+donneesRegionales:
+  nom: Nouvelle Aquitaine
+  code: REG-75
+  casConfirmes: 3
+  gueris: 0
+  reanimation: 0
+  deces: 0
+donneesDepartementales:
+  - nom: Charente-Maritime
+    code: DEP-17
+    casConfirmes: 1
+    deces: 0
+  - nom: Gironde 
+    code: DEP-33
+    casConfirmes: 1
+    deces: 0
+  - nom: Landes 
+    code: DEP-40
+    casConfirmes: 1
+    deces: 0
