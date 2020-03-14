@@ -1,0 +1,20 @@
+date: 2020-03-05
+source:
+  nom: ARS Corse
+  url: https://twitter.com/Prefet2B/status/1235478297510907904
+donneesRegionales:
+  nom: Corse
+  code: REG-94
+  casConfirmes: 3
+  gueris: 0
+  reanimation: 0
+  deces: 0
+donneesDepartementales:
+  - nom: Corse du Sud
+    code: DEP-2A
+    casConfirmes: 3
+    deces: 0
+  - nom: Haute-Corse
+    code: DEP-2B
+    casConfirmes: 0
+    deces: 0
