@@ -7,28 +7,30 @@ donneesRegionales:
   code: REG-28
   casConfirmes: 68
   deces: 1
+  hospitalises: 8
 donneesDepartementales:
   - nom: Manche
     code: DEP-50
     casConfirmes: 10
-    deces: 0
+    hospitalises: 2
+    deces: 0 # Reprise fichier précédent
   - nom: Calvados
     code: DEP-14
     casConfirmes: 20
-    deces: 0
+    hospitalises: 2
+    deces: 0 # Reprise fichier précédent
   - nom: Seine-Maritime
     code: DEP-76
     casConfirmes: 19
-    deces: 1
-    victimes:
-      - age: 86
-        sexe: homme
-        date: "2020-03-06"
+    hospitalises: 2
+    deces: 1 # Reprise fichier précédent
   - nom: Eure
     code: DEP-27
     casConfirmes: 17
-    deces: 0
+    hospitalises: 1
+    deces: 0 # Reprise fichier précédent
   - nom: Orne
     code: DEP-61
     casConfirmes: 2
-    deces: 0
+    hospitalises: 1
+    deces: 0 # Reprise fichier précédent
