@@ -1,0 +1,20 @@
+date: 2020-03-07
+source:
+  nom: Le Petit Corse
+  url: https://journal-lepetitcorse.fr/2020/03/07/covid-19-point-de-situation-ars-du-samedi-7mars-19h/
+donneesRegionales:
+  nom: Corse
+  code: REG-94
+  casConfirmes: 19
+  gueris: 0
+  reanimation: 0
+  deces: 0
+donneesDepartementales:
+  - nom: Corse du Sud
+    code: DEP-2A
+    casConfirmes: 14
+    deces: 0
+  - nom: Haute-Corse
+    code: DEP-2B
+    casConfirmes: 5
+    deces: 0
