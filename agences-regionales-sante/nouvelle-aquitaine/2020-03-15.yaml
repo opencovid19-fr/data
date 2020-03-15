@@ -1,0 +1,55 @@
+date: "2020-03-15"
+source:
+  nom: ARS Nouvelle-Aquitaine
+  url: https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_15_03_2020_VF.pdf
+donneesRegionales:
+  nom: Nouvelle-Aquitaine
+  code: REG-75
+  casConfirmes: 152
+  gueris: 2
+  deces: 2
+donneesDepartementales:
+  - nom: Charente
+    code: DEP-16
+    casConfirmes: 4
+  - nom: Charente-Maritime
+    code: DEP-17
+    casConfirmes: 25
+  - nom: Corrèze
+    code: DEP-19
+    casConfirmes: 5
+  - nom: Creuse
+    code: DEP-23
+    casConfirmes: 2
+  - nom: Dordogne
+    code: DEP-24
+    casConfirmes: 7
+  - nom: Gironde
+    code: DEP-33
+    casConfirmes: 19
+    victimes:
+      - age: 85
+        sexe: homme
+        date: "2020-03-15"
+  - nom: Landes
+    code: DEP-40
+    casConfirmes: 4
+  - nom: Lot-et-Garonne
+    code: DEP-47
+    casConfirmes: 41  # Parmi les cas confirmés le 12/03 qui étaient en attente de géolocalisation, 2 se situent dans le Lot-et-Garonne.
+  - nom: Pyrénées-Atlantiques
+    code: DEP-64
+    casConfirmes: 18 # Parmi les cas confirmés le 12/03 qui étaient en attente de géolocalisation, 1 se situe dans les Pyrénées-Atlantiques.
+  - nom: Deux-Sèvres
+    code: DEP-79
+    casConfirmes: 3
+  - nom: Vienne
+    code: DEP-86
+    casConfirmes: 10
+    victimes:
+      - age: 85
+        sexe: femme
+        date: "2020-03-15"
+  - nom: Haute-Vienne
+    code: DEP-87
+    casConfirmes: 2
