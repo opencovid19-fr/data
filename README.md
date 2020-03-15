@@ -29,6 +29,8 @@ Ces informations sont collectées et regroupées dans des fichiers YAML.
 
 Vous pouvez [vous proposer comme volontaire sur un département ou une région dans ce pad](https://semestriel.framapad.org/p/9fkg-opencovid19-frdata-volontaires?lang=fr).
 
+Vous pouvez aussi consulter [le guide de contribution pour l'ensemble des projets de collecte de données](https://github.com/opencovid19-fr/comment-contribuer).
+
 Les contributions se font via les fichiers YAML et non dans le fichier de sortie(CSV/JSON).
 
 Tâches :
