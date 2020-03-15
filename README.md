@@ -27,15 +27,51 @@ Ces informations sont collectées et regroupées dans des fichiers YAML.
 
 ## Comment contribuer ?
 
-Les contributions se font via les fichiers YAML et non les fichiers CSV/JSON.
+Les contributions se font via les fichiers YAML et non dans le fichier de sortie(CSV/JSON).
 
 Tâches :
 - créer les fichiers YAML manquants
-- vérifier les fichiers YAML existants
+- vérifier les [pull requests](https://github.com/opencovid19-fr/data/pulls)
 
-Le plus simple pour contribuer est de copier un fichier YAML existant et de l'adapter avec les nouvelles données. Les données doivent être recopiées à la main depuis les différentes sources de données. Le fichier YAML doit être placé dans le bon répertoire et son nom doit être sous la forme YYYY-MM-DD.yaml (date de la données).
+Le plus simple pour contribuer est de copier un fichier YAML existant et de l'adapter avec les nouvelles données. Les données doivent être recopiées à la main depuis les différentes sources de données. Le fichier YAML doit être placé dans le bon répertoire et son nom doit être sous la forme YYYY-MM-DD.yaml (date du bulletin).
 
-Les sources de données (PDF ou site web) sont notées dans chaque fichier YAML et sont regroupées dans les fichiers CSV/JSON.
+Les sources de données (PDF ou site web) sont notées dans chaque fichier YAML. Si vous cherchez des sources de données, les sources actuelles sont regroupées dans le fichier de sortie (CSV/JSON).
+
+### Comment compléter les fichiers YAML
+Consigne générale : le nombre d'espaces en début de ligne est très important, ainsi que la position des tirets `-`, soyez vigilant en complétant les fichiers.
+
+Voici un exemple de bloc YAML pour une entête de fichier :
+```
+date: 2020-03-10
+source:
+  nom: nom-de-la-source-de-donnees
+  url: https://site.web/lien-vers-le-bulletin.pdf
+  archive: https://web.archive.org/web/XXXXXX/https://site.web/lien-vers-le-bulletin
+```
+Le fichier YAML doit commencer par la date du bulletin, suivi pour un bloc source. Il convient de mettre le nom et l'url de la source (de préférence un bulletin PDF ou une page web). Il est possible d'ajouter `archive:` est de coller un lien vers une page web archivée sur https://web.archive.org, en effet certains bulletins web sont écrasés chaque jour sur la même url.
+
+
+Voici un exemple de bloc YAML pour une région ou un département:
+```
+  nom: region-ou-departement-exemple
+  code: Exemple
+  casConfirmes: 500
+  gueris: 40
+  deces: 10
+  hospitalises: 10
+  reanimation: 5
+  victimes:
+    - age: 85
+      date: 2020-03-10
+      sexe: homme
+    - sexe: femme
+      date: 2020-03-10
+    - date: 2020-03-10
+```
+
+Les champs `casConfirmes`, `gueris` et `deces` comptabilisent le total par catégorie depuis le début de la crise Covid-19. Par contre, les champs `hospitalises` et `reanimation` donnent le nombre de patient par catégorie à l'instant de l'édition du bulletin d'information, ces 2 chiffres peuvent bien sûr évoluer à la hausse ou à la baisse.
+
+Le bloc `victimes` détaille les informations du bulletin concernant les personnes décédés (et non les personnes contaminées). Attention ce champ ne comptabilise pas toutes les victimes depuis le début de la crise, mais uniquement les victimes annoncées dans le bulletin. Pour chaque victime, on ajoute un tiret `-`, puis les informations sur la personne. Si aucune information, ajoutez la date du décès `- date: 2020-03-10`. Si vous disposez de plus d'information, ajoutez un tiret `-` par victime puis toutes les informations disponibles `age`, `sexe` et/ou `date` (cf. exemple ci-dessus)
 
 ## Produire les fichiers JSON et CSV
 
