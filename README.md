@@ -30,6 +30,7 @@ Ces informations sont collectées et regroupées dans des fichiers YAML.
 Les contributions se font via les fichiers YAML et non dans le fichier de sortie(CSV/JSON).
 
 Tâches :
+
 - créer les fichiers YAML manquants
 - vérifier les [pull requests](https://github.com/opencovid19-fr/data/pulls)
 
@@ -38,9 +39,11 @@ Le plus simple pour contribuer est de copier un fichier YAML existant et de l'ad
 Les sources de données (PDF ou site web) sont notées dans chaque fichier YAML. Si vous cherchez des sources de données, les sources actuelles sont regroupées dans le fichier de sortie (CSV/JSON).
 
 ### Comment compléter les fichiers YAML
+
 Consigne générale : le nombre d'espaces en début de ligne est très important, ainsi que la position des tirets `-`, soyez vigilant en complétant les fichiers.
 
 #### Entête de fichier YAML
+
 Voici un exemple de bloc YAML pour une entête de fichier :
 ```yaml
 date: 2020-03-10
@@ -52,6 +55,7 @@ source:
 Le fichier YAML doit commencer par la date du bulletin, suivi pour un bloc source. Il convient de mettre le nom et l'url de la source (de préférence un bulletin PDF ou une page web). Il est possible d'ajouter `archive:` est de coller un lien vers une page web archivée sur https://web.archive.org, en effet certains bulletins web sont écrasés chaque jour sur la même url.
 
 #### Bloc YAML par région ou département 
+
 Voici un exemple de bloc YAML pour une région ou un département:
 ```yaml
   nom: region-ou-departement-exemple
@@ -104,6 +108,8 @@ npm run build
 
 ## Licence
 
-Données sous Licence Ouverte (sauf mention contraire)
+2020 © Les contributeurs du dépôt.
 
-Code sous licence MIT
+Les données sont publiées sous [Licence Ouverte 2.0](https://spdx.org/licenses/etalab-2.0.html) (sauf mention contraire).
+
+Les codes sources sont publiés sous [licence MIT](https://spdx.org/licenses/MIT.html).
