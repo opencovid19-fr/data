@@ -15,6 +15,13 @@ donneesDepartementales:
     casConfirmes: 53
     reanimation: 2
     deces: 3
+    victimes:
+      - age: 75
+        date: 2020-03-10
+      - age: 87
+        date: 2020-03-11
+      - age: 89
+        date: 2020-03-09  
   - nom: Haute-Corse
     code: DEP-2B
     casConfirmes: 11
