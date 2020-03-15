@@ -4,6 +4,22 @@ source:
 donneesNationales:
   casConfirmes: 1794
   deces: 33
+  classesAge:
+    moinsDe18ans:
+      casConfirmes: 87
+      reanimation: 3
+    18-64ans:
+      casConfirmes: 1111
+      reanimation: 36
+      deces: 6
+    65-74ans:
+      casConfirmes: 272
+      reanimation: 29
+      deces: 5
+    plusDe75ans:
+      casConfirmes: 349
+      reanimation: 30
+      deces: 33
 donneesRegionales:
   - nom: Auvergne-Rhône-Alpes
     code: REG-84
