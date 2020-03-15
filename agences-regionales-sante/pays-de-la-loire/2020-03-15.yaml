@@ -1,0 +1,31 @@
+date: "2020-03-15"
+source:
+  nom: ARS Pays de la Loire
+  url: https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-03/2020-03-15-bulletin%20information%20COVID-19_0.pdf
+donneesRegionales:
+  nom: Pays de la Loire
+  code: REG-52
+  casConfirmes: 99
+  deces: 0
+  gueris: 4
+donneesDepartementales:
+  - nom: Mayenne
+    code: DEP-53
+    casConfirmes: 5
+    deces: 0
+  - nom: Sarthe
+    code: DEP-72
+    casConfirmes: 19
+    deces: 0
+  - nom: Maine-et-Loire
+    code: DEP-49
+    casConfirmes: 27
+    deces: 0
+  - nom: Loire-Atlantique
+    code: DEP-44
+    casConfirmes: 39
+    deces: 0
+  - nom: Vendee
+    code: DEP-85
+    casConfirmes: 9
+    deces: 0
