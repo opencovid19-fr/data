@@ -1,46 +1,46 @@
-date: "2020-03-12"
+date: "2020-03-10"
 source:
   nom: ARS Nouvelle-Aquitaine
-  url: https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_12_03_2020.pdf
+  url: https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_PointSituation_ARSNA_10_03_2020.pdf
 donneesRegionales:
   nom: Nouvelle-Aquitaine
   code: REG-75
-  casConfirmes: 88
+  casConfirmes: 55
   gueris: 2
 donneesDepartementales:
   - nom: Charente
     code: DEP-16
-    casConfirmes: 3
+    casConfirmes: 1
   - nom: Charente-Maritime
     code: DEP-17
-    casConfirmes: 20
+    casConfirmes: 13
   - nom: Corrèze
     code: DEP-19
-    casConfirmes: 5
+    casConfirmes: 2
   - nom: Creuse
     code: DEP-23
     casConfirmes: 0
   - nom: Dordogne
     code: DEP-24
-    casConfirmes: 5
+    casConfirmes: 2
   - nom: Gironde
     code: DEP-33
-    casConfirmes: 9
-  - nom: Landes  # erratum : 2 cas le 2ème cas est une personne initialement positionnée dans le 64 – prélèvement effectué dans ce département – mais qui réside dans le 40
+    casConfirmes: 5
+  - nom: Landes
     code: DEP-40
-    casConfirmes: 2
+    casConfirmes: 1
   - nom: Lot-et-Garonne
     code: DEP-47
-    casConfirmes: 26
+    casConfirmes: 22
   - nom: Pyrénées-Atlantiques
     code: DEP-64
-    casConfirmes: 7
+    casConfirmes: 2
   - nom: Deux-Sèvres
     code: DEP-79
     casConfirmes: 1
   - nom: Vienne
     code: DEP-86
-    casConfirmes: 6
+    casConfirmes: 4
   - nom: Haute-Vienne
     code: DEP-87
-    casConfirmes: 1
+    casConfirmes: 0

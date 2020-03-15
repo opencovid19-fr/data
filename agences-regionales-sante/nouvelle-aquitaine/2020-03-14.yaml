@@ -25,13 +25,13 @@ donneesDepartementales:
     casConfirmes: 7
   - nom: Gironde
     code: DEP-33
-    casConfirmes: 18
+    casConfirmes: 18  # 4 nouveaux cas confirmés le 13/03
   - nom: Landes
     code: DEP-40
     casConfirmes: 3
   - nom: Lot-et-Garonne
     code: DEP-47
-    casConfirmes: 38
+    casConfirmes: 38  # 3 nouveaux cas confirmés le 13/03
   - nom: Pyrénées-Atlantiques
     code: DEP-64
     casConfirmes: 13
@@ -40,7 +40,7 @@ donneesDepartementales:
     casConfirmes: 3
   - nom: Vienne
     code: DEP-86
-    casConfirmes: 9
+    casConfirmes: 9  #  2 nouveaux cas confirmés le 13/03
   - nom: Haute-Vienne
     code: DEP-87
     casConfirmes: 2
