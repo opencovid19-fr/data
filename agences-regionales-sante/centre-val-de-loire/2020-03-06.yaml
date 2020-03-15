@@ -1,0 +1,33 @@
+date: 2020-03-06
+source:
+  nom: ARS Centre - Val de Loire
+  url: https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/CP_Coronavirus060320.pdf
+donneesRegionales:
+  nom: Centre Val de Loire
+  code: REG-24
+  casConfirmes: 7
+donneesDepartementales:
+  - nom: Cher
+    code: DEP-18
+    casConfirmes: 0
+    deces: 0
+  - nom: Eure-et-Loir
+    code: DEP-28
+    casConfirmes: 1
+    deces: 0
+  - nom: Indre-et-Loire
+    code: DEP-37
+    casConfirmes: 2
+    deces: 0
+  - nom: Loir-et-Cher
+    code: DEP-41
+    casConfirmes: 0
+    deces: 0
+  - nom: Loiret
+    code: DEP-45
+    casConfirmes: 4
+    deces: 0
+  - nom: Indre
+    code: DEP-36
+    casConfirmes: 0
+    deces: 0
