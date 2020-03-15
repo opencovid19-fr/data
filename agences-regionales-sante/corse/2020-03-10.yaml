@@ -15,7 +15,7 @@ donneesDepartementales:
     casConfirmes: 36
     reanimation: 2
     deces: 2
-  victimes:
+    victimes:
     - age: 75
       date: 2020-03-10    
   - nom: Haute-Corse
