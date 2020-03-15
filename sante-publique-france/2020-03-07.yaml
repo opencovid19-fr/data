@@ -4,6 +4,7 @@ source:
   url: https://www.santepubliquefrance.fr/content/download/235538/2526975
 donneesNationales:
   casConfirmes: 949
+  reanimation: 45
   deces: 11
 donneesRegionales:
   - nom: Auvergne-Rhône-Alpes
