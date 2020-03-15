@@ -1,0 +1,33 @@
+date: "2020-03-10"
+source:
+  nom: ARS Hauts-de-France
+  url: https://www.hauts-de-france.ars.sante.fr/system/files/2020-03/Point%20quotidien%20cas%20confirm%C3%A9s%20-%2010032020_0.pdf
+donneesRegionales:
+  nom: Hauts-de-France
+  code: REG-32
+  casConfirmes: 222
+  deces: 16
+donneesDepartementales:
+  - nom: Oise
+    code: DEP-60
+    casConfirmes: 152
+    deces: 11
+    victime:
+      - age: 83
+        sexe: homme
+  - nom: Aisne
+    code: DEP-02
+    casConfirmes: 30
+    deces: 2
+  - nom: Nord
+    code: DEP-59
+    casConfirmes: 21
+    deces: 0
+  - nom: Pas-de-Calais
+    code: DEP-62
+    casConfirmes: 7
+    deces: 1
+  - nom: Somme
+    code: DEP-80
+    casConfirmes: 12
+    deces: 2

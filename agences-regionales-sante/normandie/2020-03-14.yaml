@@ -1,32 +1,34 @@
-date: "2020-03-13"
+date: "2020-03-14"
 source:
   nom: ARS Normandie
-  url: https://www.normandie.ars.sante.fr/system/files/2020-03/20200313_CP-13032020.pdf
+  url: https://www.normandie.ars.sante.fr/system/files/2020-03/20200314_CP-point-situation-normandie.pdf
 donneesRegionales:
   nom: Normandie
   code: REG-28
-  casConfirmes: 97
+  casConfirmes: 127
   deces: 1
-  hospitalises: 11
+  hospitalises: 12
 donneesDepartementales:
   - nom: Manche
     code: DEP-50
-    casConfirmes: 20
+    casConfirmes: 27
     hospitalises: 1
     deces: 0 # Reprise fichier précédent
   - nom: Calvados
     code: DEP-14
-    casConfirmes: 32
+    casConfirmes: 50
     hospitalises: 3
     deces: 0 # Reprise fichier précédent
   - nom: Seine-Maritime
     code: DEP-76
-    casConfirmes: 21
-    hospitalises: 2
+    casConfirmes: 23
+    hospitalises: 3
     deces: 1 # Reprise fichier précédent
+    victimes:
+      - date: 2020-03-06
   - nom: Eure
     code: DEP-27
-    casConfirmes: 22
+    casConfirmes: 25
     hospitalises: 4
     deces: 0 # Reprise fichier précédent
   - nom: Orne
