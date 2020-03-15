@@ -1,0 +1,35 @@
+date: "2020-02-26"
+source:
+  nom: ARS Hauts-de-France
+  url: https://www.hauts-de-france.ars.sante.fr/coronavirus-point-de-situation-en-hauts-de-france
+  archive: https://web.archive.org/web/20200315094209/https://www.hauts-de-france.ars.sante.fr/coronavirus-point-de-situation-en-hauts-de-france
+donneesRegionales:
+  nom: Hauts-de-France
+  code: REG-32
+  casConfirmes: 2
+  deces: 1
+donneesDepartementales:
+  - nom: Oise
+    code: DEP-60
+    casConfirmes: 2
+    deces: 1
+    victimes:
+      - age: 61
+        sexe: homme
+        date: 2020-02-26
+  - nom: Aisne
+    code: DEP-02
+    casConfirmes: 0
+    deces: 0
+  - nom: Nord
+    code: DEP-59
+    casConfirmes: 0
+    deces: 0
+  - nom: Pas-de-Calais
+    code: DEP-62
+    casConfirmes: 0
+    deces: 0
+  - nom: Somme
+    code: DEP-80
+    casConfirmes: 0
+    deces: 0

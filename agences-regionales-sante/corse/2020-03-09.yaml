@@ -9,6 +9,9 @@ donneesRegionales:
   gueris: 0
   reanimation: 2
   deces: 1
+  victimes:
+    - age: 89
+      date: 2020-03-09  
 donneesDepartementales:
   - nom: Corse du Sud
     code: DEP-2A
