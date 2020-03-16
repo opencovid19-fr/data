@@ -2,12 +2,10 @@ date: 2020-03-15
 source:
   nom: ARS Corse
   url: https://twitter.com/ARSCORSE1/status/1239225913784631301
-  archive: https://web.archive.org/web/20200315111623/https://www.corse.ars.sante.fr/coronavirus-covid-19-informations-utiles
 donneesRegionales:
   nom: Corse
   code: REG-94
   casConfirmes: 115
-  gueris: 0
   reanimation: 2
   deces: 5
 donneesDepartementales:
