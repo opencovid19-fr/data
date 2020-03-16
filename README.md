@@ -14,7 +14,7 @@ Inutile de perdre du temps à écrire des scrappers, à ce stade il est plus eff
 ## Sources utilisées
 
 - [Santé publique France](https://www.santepubliquefrance.fr)
-- Agences Régionales de Santé
+- Agences Régionales de Santé - Merci de prendre les issues ouvertes pour traiter les ARS x date, et que ce travail ne soit pas fait en double.
 - Préfectures
 
 ## Fichiers sources
