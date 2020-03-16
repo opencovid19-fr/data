@@ -4,3 +4,7 @@ L'ARS Nouvelle-Aquitaine ne donne pas des chiffres en valeurs absolues mais en d
 C'est rattrapé partiellement dans le bulletin du 2020-03-13 où l'ARS Nouvelle Aquitaine livre des chiffres absolus dans certaines régions.
 
 N.B: il y a quand même des incohérences possibles entre les données régionales et départementales de par la présence d'erreurs de rattachement au niveau des département (les erratums des bulletins indiqués dans les fichiers yaml).
+
+Jusqu'au 2020-12-03, l'ARS Nouvelle Aquitaine maintenait à jour un fichier .xlsx sur sa page dédiée au Covid-19, comptabilisant les cas incidents jusqu'au 11 mars minuit. D'après ce fichier, une correction apportée est la confirmation d'1 cas le 3 mars dans le 47, déclaré tardivement.  
+Par ailleurs, les 2 guéris à l'échelle départementale sont maintenant indiqués dans chaque fichier .yaml
+ 
