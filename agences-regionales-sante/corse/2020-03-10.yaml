@@ -17,9 +17,7 @@ donneesDepartementales:
     deces: 2
     victimes:
       - age: 75
-        date: 2020-03-10    
-      - age: 89
-        date: 2020-03-09  
+        date: 2020-03-10
   - nom: Haute-Corse
     code: DEP-2B
     casConfirmes: 6
