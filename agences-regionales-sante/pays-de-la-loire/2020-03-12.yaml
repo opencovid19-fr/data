@@ -1,0 +1,25 @@
+date: "2020-03-12"
+source:
+  nom: ARS Pays de la Loire
+  archive: https://webcache.googleusercontent.com/search?q=cache:_OhafxKOS7EJ:https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-03/2020-03-12%2520bulletin%2520information%2520COVID-19%2520%25282%2529.pdf+&cd=2&hl=fr&ct=clnk&gl=fr
+donneesRegionales:
+  nom: Pays de la Loire
+  code: REG-52
+  casConfirmes: 42
+  gueris: 4
+donneesDepartementales:
+  - nom: Mayenne
+    code: DEP-53
+    casConfirmes: 2
+  - nom: Sarthe
+    code: DEP-72
+    casConfirmes: 10
+  - nom: Maine-et-Loire
+    code: DEP-49
+    casConfirmes: 10
+  - nom: Loire-Atlantique
+    code: DEP-44
+    casConfirmes: 15
+  - nom: Vendee
+    code: DEP-85
+    casConfirmes: 5
