@@ -14,6 +14,7 @@ donneesDepartementales:
   - nom: Charente-Maritime
     code: DEP-17
     casConfirmes: 25
+    gueris: 1
   - nom: Corrèze
     code: DEP-19
     casConfirmes: 5
@@ -35,6 +36,7 @@ donneesDepartementales:
   - nom: Pyrénées-Atlantiques
     code: DEP-64
     casConfirmes: 13
+    gueris: 1
   - nom: Deux-Sèvres
     code: DEP-79
     casConfirmes: 3
