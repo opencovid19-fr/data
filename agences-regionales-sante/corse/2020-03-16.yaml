@@ -19,7 +19,7 @@ donneesDepartementales:
     victimes:
       - age: 80
         date: 2020-03-13
-        date: 2020-03-13
+      - date: 2020-03-13
   - nom: Haute-Corse
     code: DEP-2B
     casConfirmes: 24
