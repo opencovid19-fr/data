@@ -2,6 +2,7 @@ date: "2020-03-16"
 source:
   nom: ARS Hauts-de-France
   url: https://www.hauts-de-france.ars.sante.fr/coronavirus-covid-19-point-de-situation-dans-les-hauts-de-france
+  archive: http://web.archive.org/web/20200316220507/https://www.hauts-de-france.ars.sante.fr/coronavirus-covid-19-point-de-situation-dans-les-hauts-de-france
 donneesRegionales:
   nom: Hauts-de-France
   code: REG-32
@@ -30,4 +31,3 @@ donneesDepartementales:
     deces: 6
     
     # Données départementales manquantes sur les cas confirmés
-    # Pas de bulletin d'information au format pdf pour l'instant
