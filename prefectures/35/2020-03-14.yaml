@@ -1,0 +1,10 @@
+date: "2020-03-14"
+source:
+  nom: Préfecture d'Ille-et-Vilaine
+  url: http://www.ille-et-vilaine.gouv.fr/Actualites/Espace-presse/2020/COVID-19-informations-recommandations-et-mesures-sanitaires
+  archive: http://web.archive.org/web/20200314080409/http://www.ille-et-vilaine.gouv.fr/Actualites/Espace-presse/2020/COVID-19-informations-recommandations-et-mesures-sanitaires
+donneesDepartementales:
+  - nom: Ille-et-Vilaine
+    code: DEP-35
+    deces: 0
+    casConfirmes: 34
