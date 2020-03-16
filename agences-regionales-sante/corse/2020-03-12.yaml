@@ -1,20 +1,21 @@
-date: 2020-03-15
+date: 2020-03-12
 source:
   nom: ARS Corse
-  url: https://twitter.com/ARSCORSE1/status/1239225913784631301
+  url: https://twitter.com/ARSCORSE1/status/1238136760611278848
 donneesRegionales:
   nom: Corse
   code: REG-94
-  casConfirmes: 115
+  casConfirmes: 64
+  gueris: 0
   reanimation: 2
-  deces: 5
+  deces: 3
 donneesDepartementales:
   - nom: Corse du Sud
     code: DEP-2A
-    casConfirmes: 93
+    casConfirmes: 53
     reanimation: 2
-    deces: 5 
+    deces: 3
   - nom: Haute-Corse
     code: DEP-2B
-    casConfirmes: 22
+    casConfirmes: 11
     deces: 0
