@@ -4,6 +4,7 @@ source:
   url: https://www.santepubliquefrance.fr/content/download/235529/2526819
 donneesNationales:
   casConfirmes: 285
+  reanimation: 15
   deces: 4
 donneesRegionales:
   - nom: Auvergne-Rhône-Alpes
@@ -47,7 +48,7 @@ donneesRegionales:
     casConfirmes: 13
   - nom: Guadeloupe
     code: REG-01
-    casConfirmes: 3
+    casConfirmes: 0 # les 3 cas indiqués sont à Saint-Martin et Saint-Barthélemy et non en Guadeloupe
   - nom: Guyane
     code: REG-03
     casConfirmes: 0
@@ -60,6 +61,12 @@ donneesRegionales:
   - nom: La Réunion
     code: REG-04
     casConfirmes: 0
+  - nom: Saint-Barthélemy
+    code: COM-977
+    casConfirmes: 1
+  - nom: Saint-Martin
+    code: COM-978
+    casConfirmes: 2
 donneesMondiales:
   paysTouches: 77
   casConfirmes: 93076

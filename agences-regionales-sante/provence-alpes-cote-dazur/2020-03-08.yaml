@@ -1,0 +1,34 @@
+date: "2020-03-08"
+source:
+  nom: ARS Provence-Alpes-Côte d’Azur
+  url: https://www.paca.ars.sante.fr/coronavirus-en-provence-alpes-cote-dazur-point-de-situation-du-8-mars
+donneesRegionales:
+  nom: Provence-Alpes-Côte d’Azur
+  code: REG-93
+  casConfirmes: 52
+  deces: 0
+donneesDepartementales:
+  - nom: Alpes-de-Haute-Provence
+    code: DEP-04
+    casConfirmes: 0
+    deces: 0
+  - nom: Hautes-Alpes
+    code: DEP-05
+    casConfirmes: 8
+    deces: 0
+  - nom: Alpes-Maritimes
+    code: DEP-06
+    casConfirmes: 21
+    deces: 0
+  - nom: Bouches-du-Rhône
+    code: DEP-13
+    casConfirmes: 15
+    deces: 0
+  - nom: Var
+    code: DEP-83
+    casConfirmes: 5
+    deces: 0
+  - nom: Vaucluse
+    code: DEP-84
+    casConfirmes: 3
+    deces: 0
