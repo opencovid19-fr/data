@@ -1,0 +1,11 @@
+date: "2020-03-16"
+source:
+  nom: ARS Pays de la Loire
+  url: https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-03/2020-03-16-bulletin%20information%20COVID-19_0.pdf
+donneesRegionales:
+  nom: Pays de la Loire
+  code: REG-52
+  casConfirmes: 109
+  deces: 0
+  # Dernière publication du nombre de cas confirmés compte tenu du déclenchement du niveau 3
+  # Pas de données sur le nombre de guéris et sur les départements dans ce bulletin d'information
