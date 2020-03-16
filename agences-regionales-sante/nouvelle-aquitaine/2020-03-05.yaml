@@ -14,6 +14,7 @@ donneesDepartementales:
   - nom: Charente-Maritime
     code: DEP-17
     casConfirmes: 1
+    gueris: 1
   - nom: Corrèze
     code: DEP-19
     casConfirmes: 0
@@ -31,7 +32,7 @@ donneesDepartementales:
     casConfirmes: 1
   - nom: Lot-et-Garonne
     code: DEP-47
-    casConfirmes: 2
+    casConfirmes: 3
   - nom: Pyrénées-Atlantiques
     code: DEP-64
     casConfirmes: 1
