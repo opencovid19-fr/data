@@ -1,0 +1,51 @@
+date: 2020-03-17
+source:
+  nom: ARS Occitanie
+  url: https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo9_20200317.pdf
+donneesRegionales:
+  nom: Occitanie
+  code: REG-76
+  casConfirmes: 313
+  hospitalises: 80
+  reanimation: 32
+  deces: 5
+donneesDepartementales:
+  - nom: Ariège
+    code: DEP-09
+    casConfirmes: 2
+  - nom: Aude
+    code: DEP-11
+    casConfirmes: 38
+  - nom: Aveyron
+    code: DEP-12
+    casConfirmes: 16
+  - nom: Gard
+    code: DEP-30
+    casConfirmes: 32
+  - nom: Gers
+    code: DEP-32
+    casConfirmes: 9
+  - nom: Haute-Garonne
+    code: DEP-31
+    casConfirmes: 48
+  - nom: Hérault
+    code: DEP-34
+    casConfirmes: 119
+  - nom: Lot
+    code: DEP-46
+    casConfirmes: 3
+  - nom: Lozère
+    code: DEP-48
+    casConfirmes: 8
+  - nom: Haute-Pyrénées
+    code: DEP-65
+    casConfirmes: 6
+  - nom: Pyrénées-Orientales
+    code: DEP-66
+    casConfirmes: 14
+  - nom: Tarn
+    code: DEP-81
+    casConfirmes: 11
+  - nom: Tarn-et-Garonne
+    code: DEP-82
+    casConfirmes: 7
