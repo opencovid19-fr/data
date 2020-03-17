@@ -9,7 +9,8 @@ const Papa = require('papaparse')
 const sources = [
   'agences-regionales-sante',
   'sante-publique-france',
-  'prefectures'
+  'prefectures',
+  'lperez31-historical-data'
 ]
 
 const distPath = join(__dirname, 'dist')

@@ -1,0 +1,11 @@
+date: '2020-03-11'
+donneesDepartementales:
+- casConfirmes: 6
+  code: DEP-37
+  nom: Indre-et-Loire
+- casConfirmes: 9
+  code: DEP-45
+  nom: Loiret
+source:
+  nom: Coronavirus-France-Dataset
+  url: https://github.com/lperez31/coronavirus-france-dataset

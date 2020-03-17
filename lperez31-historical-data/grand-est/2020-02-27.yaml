@@ -1,0 +1,8 @@
+date: '2020-02-27'
+donneesDepartementales:
+- casConfirmes: 1
+  code: DEP-67
+  nom: Bas-Rhin
+source:
+  nom: Coronavirus-France-Dataset
+  url: https://github.com/lperez31/coronavirus-france-dataset

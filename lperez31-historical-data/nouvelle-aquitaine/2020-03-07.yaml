@@ -1,0 +1,14 @@
+date: '2020-03-07'
+donneesDepartementales:
+- casConfirmes: 3
+  code: DEP-33
+  nom: Gironde
+- casConfirmes: 5
+  code: DEP-47
+  nom: Lot-et-Garonne
+- casConfirmes: 2
+  code: DEP-64
+  nom: Pyrénées-Atlantiques
+source:
+  nom: Coronavirus-France-Dataset
+  url: https://github.com/lperez31/coronavirus-france-dataset

@@ -1,0 +1,14 @@
+date: '2020-03-06'
+donneesDepartementales:
+- casConfirmes: 1
+  code: DEP-16
+  nom: Charente
+- casConfirmes: 2
+  code: DEP-17
+  nom: Charente-Maritime
+- casConfirmes: 1
+  code: DEP-24
+  nom: Dordogne
+source:
+  nom: Coronavirus-France-Dataset
+  url: https://github.com/lperez31/coronavirus-france-dataset

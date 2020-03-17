@@ -1,0 +1,23 @@
+date: '2020-03-10'
+donneesDepartementales:
+- casConfirmes: 22
+  code: DEP-11
+  nom: Aude
+- casConfirmes: 9
+  code: DEP-12
+  nom: Aveyron
+- casConfirmes: 6
+  code: DEP-30
+  nom: Gard
+- casConfirmes: 40
+  code: DEP-34
+  nom: Hérault
+- casConfirmes: 3
+  code: DEP-81
+  nom: Tarn
+- casConfirmes: 4
+  code: DEP-82
+  nom: Tarn-et-Garonne
+source:
+  nom: Coronavirus-France-Dataset
+  url: https://github.com/lperez31/coronavirus-france-dataset

@@ -1,0 +1,8 @@
+date: '2020-03-01'
+donneesDepartementales:
+- casConfirmes: 6
+  code: DEP-25
+  nom: Doubs
+source:
+  nom: Coronavirus-France-Dataset
+  url: https://github.com/lperez31/coronavirus-france-dataset

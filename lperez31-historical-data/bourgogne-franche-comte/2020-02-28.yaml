@@ -1,0 +1,8 @@
+date: '2020-02-28'
+donneesDepartementales:
+- casConfirmes: 2
+  code: DEP-21
+  nom: Côte-d'Or
+source:
+  nom: Coronavirus-France-Dataset
+  url: https://github.com/lperez31/coronavirus-france-dataset

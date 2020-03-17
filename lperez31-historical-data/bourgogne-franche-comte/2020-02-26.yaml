@@ -1,0 +1,11 @@
+date: '2020-02-26'
+donneesDepartementales:
+- casConfirmes: 1
+  code: DEP-25
+  nom: Doubs
+- casConfirmes: 2
+  code: DEP-90
+  nom: Territoire de Belfort
+source:
+  nom: Coronavirus-France-Dataset
+  url: https://github.com/lperez31/coronavirus-france-dataset

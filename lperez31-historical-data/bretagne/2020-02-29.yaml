@@ -1,0 +1,8 @@
+date: '2020-02-29'
+donneesDepartementales:
+- casConfirmes: 2
+  code: DEP-35
+  nom: Ille-et-Vilaine
+source:
+  nom: Coronavirus-France-Dataset
+  url: https://github.com/lperez31/coronavirus-france-dataset

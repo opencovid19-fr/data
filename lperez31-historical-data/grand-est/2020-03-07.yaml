@@ -1,0 +1,14 @@
+date: '2020-03-07'
+donneesDepartementales:
+- casConfirmes: 1
+  code: DEP-52
+  nom: Haute-Marne
+- casConfirmes: 8
+  code: DEP-57
+  nom: Moselle
+- casConfirmes: 46
+  code: DEP-67
+  nom: Bas-Rhin
+source:
+  nom: Coronavirus-France-Dataset
+  url: https://github.com/lperez31/coronavirus-france-dataset

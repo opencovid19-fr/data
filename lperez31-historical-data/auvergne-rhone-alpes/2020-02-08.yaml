@@ -1,0 +1,8 @@
+date: '2020-02-08'
+donneesDepartementales:
+- casConfirmes: 6
+  code: DEP-74
+  nom: Haute-Savoie
+source:
+  nom: Coronavirus-France-Dataset
+  url: https://github.com/lperez31/coronavirus-france-dataset

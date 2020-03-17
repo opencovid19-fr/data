@@ -1,0 +1,26 @@
+date: '2020-03-12'
+donneesDepartementales:
+- casConfirmes: 3
+  code: DEP-16
+  nom: Charente
+- casConfirmes: 5
+  code: DEP-19
+  nom: Corrèze
+- casConfirmes: 5
+  code: DEP-24
+  nom: Dordogne
+- casConfirmes: 9
+  code: DEP-33
+  nom: Gironde
+- casConfirmes: 3
+  code: DEP-40
+  nom: Landes
+- casConfirmes: 25
+  code: DEP-47
+  nom: Lot-et-Garonne
+- casConfirmes: 9
+  code: DEP-64
+  nom: Pyrénées-Atlantiques
+source:
+  nom: Coronavirus-France-Dataset
+  url: https://github.com/lperez31/coronavirus-france-dataset
