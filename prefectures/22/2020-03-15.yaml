@@ -1,0 +1,11 @@
+date: "2020-03-15"
+source:
+  # La préfecture des Côtes d'Armor ne recense pas les cas à cette date, mais la préfecture du 35 recense les cas pour tous les départements bretons.
+  nom: Préfecture d'Ille-et-Vilaine
+  url: http://www.ille-et-vilaine.gouv.fr/Actualites/Espace-presse/2020/COVID-19-informations-recommandations-et-mesures-sanitaires
+  archive: https://web.archive.org/web/20200316124603/http://www.ille-et-vilaine.gouv.fr/Actualites/Espace-presse/2020/COVID-19-informations-recommandations-et-mesures-sanitaires
+donneesDepartementales:
+  - nom: Côtes d'Armor
+    code: DEP-22
+    deces: 0
+    casConfirmes: 4

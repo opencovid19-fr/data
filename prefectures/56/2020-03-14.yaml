@@ -1,0 +1,10 @@
+date: "2020-03-14"
+source:
+  nom: Préfecture du Morbihan
+  url: http://www.morbihan.gouv.fr/Actualites/Actus/Le-Morbihan-face-au-Coronavirus-Covid19/Coronavirus-Point-a-16h-le-12-Mars-2020-12-nouveaux-cas-confirmes-dans-le-Morbihan
+  archive: https://web.archive.org/web/20200316124603/http://www.ille-et-vilaine.gouv.fr/Actualites/Espace-presse/2020/COVID-19-informations-recommandations-et-mesures-sanitaires
+donneesDepartementales:
+  - nom: Morbihan
+    code: DEP-56
+    deces: 3
+    casConfirmes: 106

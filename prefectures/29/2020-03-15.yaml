@@ -1,0 +1,11 @@
+date: "2020-03-15"
+source:
+  # La préfecture du Finistère ne recense pas les cas à cette date, mais la préfecture du 35 recense les cas pour tous les départements bretons.
+  nom: Préfecture d'Ille-et-Vilaine
+  url: http://www.ille-et-vilaine.gouv.fr/Actualites/Espace-presse/2020/COVID-19-informations-recommandations-et-mesures-sanitaires
+  archive: https://web.archive.org/web/20200316124603/http://www.ille-et-vilaine.gouv.fr/Actualites/Espace-presse/2020/COVID-19-informations-recommandations-et-mesures-sanitaires
+donneesDepartementales:
+  - nom: Finistère
+    code: DEP-29
+    deces: 0
+    casConfirmes: 34
