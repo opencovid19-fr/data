@@ -1,0 +1,22 @@
+date: "2020-03-17"
+source:
+    nom: ARS Bretagne
+    url: https://www.bretagne.ars.sante.fr/coronavirus-en-bretagne-point-de-situation-du-mardi-17-mars-2020-et-mesures-destinees-freiner-la
+donneesRegionales:
+  nom: Bretagne
+  code: REG-53
+  casConfirmes: 236
+  deces: 3
+donneesDepartementales:
+  - nom: Ille-et-Vilaine
+    code: DEP-35
+    casConfirmes: 50
+  - nom: Finistère
+    code: DEP-29
+    casConfirmes: 42
+  - nom: Morbihan
+    code: DEP-56
+    casConfirmes: 132
+  - nom: Côtes-d'Armor
+    code: DEP-22
+    casConfirmes: 11
