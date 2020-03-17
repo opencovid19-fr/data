@@ -1,0 +1,37 @@
+date: "2020-03-17"
+source:
+  nom: ARS Provence-Alpes-Côte d’Azur
+  url: https://www.paca.ars.sante.fr/coronavirus-en-provence-alpes-cote-dazur-point-de-situation-au-17-mars
+  archive: https://web.archive.org/web/20200317193541/https://www.paca.ars.sante.fr/coronavirus-en-provence-alpes-cote-dazur-point-de-situation-au-17-mars
+donneesRegionales:
+  nom: Provence-Alpes-Côte d’Azur
+  code: REG-93
+  casConfirmes: 481
+  hospitalisation: 128
+  reanimation: 22
+  deces: 4
+donneesDepartementales:
+  - nom: Alpes-de-Haute-Provence
+    code: DEP-04
+    casConfirmes: 7
+    deces: 0
+  - nom: Hautes-Alpes
+    code: DEP-05
+    casConfirmes: 25
+    deces: 0
+  - nom: Alpes-Maritimes
+    code: DEP-06
+    casConfirmes: 104
+    deces: 1
+  - nom: Bouches-du-Rhône
+    code: DEP-13
+    casConfirmes: 237
+    deces: 2
+  - nom: Var
+    code: DEP-83
+    casConfirmes: 95
+    deces: 1
+  - nom: Vaucluse
+    code: DEP-84
+    casConfirmes: 13
+    deces: 0
