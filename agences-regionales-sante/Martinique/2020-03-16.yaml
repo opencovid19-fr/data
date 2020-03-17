@@ -1,0 +1,15 @@
+date: "2020-03-16"
+source:
+  nom: ARS Martinique
+  url: https://www.martinique.ars.sante.fr/system/files/2020-03/Point%20de%20situation%2016%20Mars%202020.pdf
+donneesRegionales:
+  nom: Martinique
+  code: REG-02
+  casConfirmes: 16
+  reanimation: 1
+  hospitalises: 1
+donneesDepartementales:
+  - nom: Martinique
+    code: DEP-972
+    casConfirmes: 16
+    deces: 0
