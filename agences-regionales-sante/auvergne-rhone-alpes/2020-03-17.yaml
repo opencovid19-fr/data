@@ -23,7 +23,7 @@ donneesDepartementales:
     deces: 0
   - nom: Cantal
     code: DEP-15
-    casConfirmes: 0 # le cas vient d'une autre région
+    casConfirmes: 1
     deces: 0    
   - nom: Drôme
     code: DEP-26
