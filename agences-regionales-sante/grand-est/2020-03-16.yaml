@@ -1,0 +1,42 @@
+date: "2020-03-16"
+source:
+  nom: ARS Grand-Est
+  url: https://www.grand-est.ars.sante.fr/system/files/2020-03/CPCoronavirus_GrandEst160320.pdf
+donneesRegionales:
+  nom: Grand-Est
+  code: REG-44
+  casConfirmes: 1543 # Incluant 8 originaires d'autres territoires
+  deces: 51 # Pas de précision des départements des 6 nouveaux décès
+# Manque 81 cas dont le département est inconnu
+donneesDepartementales:
+  - nom: Marne
+    code: DEP-51
+    casConfirmes: 37
+  - nom: Aube
+    code: DEP-10
+    casConfirmes: 12
+  - nom: Haute-Marne
+    code: DEP-52
+    casConfirmes: 3
+  - nom: Ardennes
+    code: DEP-08
+    casConfirmes: 1
+  - nom: Meuse
+    code: DEP-55
+    casConfirmes: 10
+  - nom: Meurthe-et-Moselle
+    code: DEP-54
+    casConfirmes: 66
+  - nom: Moselle
+    code: DEP-57
+    casConfirmes: 222
+  - nom: Vosges
+    code: DEP-88
+    casConfirmes: 61
+  - nom: Bas-Rhin
+    code: DEP-67
+    casConfirmes: 354
+  - nom: Haut-Rhin
+    code: DEP-68
+    casConfirmes: 688
+    
