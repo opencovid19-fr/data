@@ -1,0 +1,13 @@
+date: "2020-03-04"
+source:
+    nom: ARS Guyane
+    url: https://www.guyane.ars.sante.fr/system/files/2020-03/2020_03_04_CP%20COVID-19.pdf
+donneesRegionales:
+  nom: Guyane
+  code: REG-03
+  casConfirmes: 5 # 5 cas à Saint-Laurent du Maroni concernant des personnes de retour de Mulhouse
+  deces: 0
+donneesDepartementales:
+  - nom: Guyane
+    code: DEP-973
+    casConfirmes: 5
