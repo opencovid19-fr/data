@@ -1,0 +1,16 @@
+date: 2020-03-17
+source:
+  nom: ARS Corse
+  url: https://www.corse.ars.sante.fr/coronavirus-covid-19-informations-utiles
+  archive: https://web.archive.org/web/20200317210152/https://www.corse.ars.sante.fr/coronavirus-covid-19-informations-utiles
+donneesRegionales:
+  nom: Corse
+  code: REG-94
+  casConfirmes: 145
+donneesDepartementales:
+  - nom: Corse du Sud
+    code: DEP-2A
+    casConfirmes: 121
+  - nom: Haute-Corse
+    code: DEP-2B
+    casConfirmes: 24
