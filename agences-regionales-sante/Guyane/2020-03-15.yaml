@@ -1,0 +1,14 @@
+date: "2020-03-15"
+source:
+    nom: ARS Guyane
+    url: https://www.guyane.ars.sante.fr/system/files/2020-03/2020_03_15_CP%20COVID-19%20.pdf
+donneesRegionales:
+  nom: Guyane
+  code: REG-03
+  casConfirmes: 10
+  gueris: 3
+  deces: 0
+donneesDepartementales:
+  - nom: Guyane
+    code: DEP-973
+    casConfirmes: 10
