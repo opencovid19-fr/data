@@ -1,0 +1,25 @@
+date: 2020-03-11
+source:
+  nom: ARS Corse
+  url: https://twitter.com/ARSCORSE1/status/1237767540300034048
+  archive: https://web.archive.org/web/20200312153305/https://www.corse.ars.sante.fr/coronavirus-covid-19-informations-utiles
+donneesRegionales:
+  nom: Corse
+  code: REG-94
+  casConfirmes: 51
+  gueris: 0
+  reanimation: 2
+  deces: 3
+donneesDepartementales:
+  - nom: Corse du Sud
+    code: DEP-2A
+    casConfirmes: 44
+    reanimation: 2
+    deces: 3
+    victimes:
+      - age: 87
+        date: 2020-03-11
+  - nom: Haute-Corse
+    code: DEP-2B
+    casConfirmes: 7
+    deces: 0

@@ -15,6 +15,7 @@ donneesDepartementales:
   - nom: Charente-Maritime
     code: DEP-17
     casConfirmes: 25
+    gueris: 1
   - nom: Corrèze
     code: DEP-19
     casConfirmes: 5
@@ -40,6 +41,7 @@ donneesDepartementales:
   - nom: Pyrénées-Atlantiques
     code: DEP-64
     casConfirmes: 18 # Parmi les cas confirmés le 12/03 qui étaient en attente de géolocalisation, 1 se situe dans les Pyrénées-Atlantiques.
+    gueris: 1
   - nom: Deux-Sèvres
     code: DEP-79
     casConfirmes: 3

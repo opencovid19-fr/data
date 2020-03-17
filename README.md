@@ -14,7 +14,7 @@ Inutile de perdre du temps à écrire des scrappers, à ce stade il est plus eff
 ## Sources utilisées
 
 - [Santé publique France](https://www.santepubliquefrance.fr)
-- Agences Régionales de Santé
+- Agences Régionales de Santé - Merci de prendre les issues ouvertes pour traiter les ARS x date, et que ce travail ne soit pas fait en double.
 - Préfectures
 
 ## Fichiers sources
@@ -27,7 +27,7 @@ Ces informations sont collectées et regroupées dans des fichiers YAML.
 
 ## Comment contribuer ?
 
-Vous pouvez [vous proposer comme volontaire sur un département ou une région dans ce pad](https://semestriel.framapad.org/p/9fkg-opencovid19-frdata-volontaires?lang=fr).
+Vous pouvez [vous proposer comme volontaire sur un département ou une région dans ce pad](https://lite.framacalc.org/9fl9-opencovid19-frdata-volontaires).
 
 Vous pouvez aussi consulter [le guide de contribution pour l'ensemble des projets de collecte de données](https://github.com/opencovid19-fr/comment-contribuer).
 
@@ -56,7 +56,7 @@ source:
   url: https://site.web/lien-vers-le-bulletin.pdf
   archive: https://web.archive.org/web/XXXXXX/https://site.web/lien-vers-le-bulletin
 ```
-Le fichier YAML doit commencer par la date du bulletin, suivi pour un bloc source. Il convient de mettre le nom et l'url de la source (de préférence un bulletin PDF ou une page web). Il est possible d'ajouter `archive:` est de coller un lien vers une page web archivée sur https://web.archive.org, en effet certains bulletins web sont écrasés chaque jour sur la même url.
+Le fichier YAML doit commencer par la date du bulletin, suivi pour un bloc source. Il convient de mettre le nom et l'url de la source (de préférence un bulletin PDF ou à defaut une page web). Il est possible d'ajouter `archive:` est de coller un lien vers une page web archivée sur https://web.archive.org, en effet certains bulletins web sont écrasés chaque jour sur la même url.
 
 #### Bloc YAML par région ou département 
 
