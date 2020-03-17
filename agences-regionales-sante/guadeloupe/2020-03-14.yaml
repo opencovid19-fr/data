@@ -1,0 +1,12 @@
+date: "2020-03-14"
+source:
+  nom: ARS Guadeloupe
+  url: https://www.guadeloupe.ars.sante.fr/system/files/2020-03/Bulletin%20n°9%20coronavirus%20Guad.pdf
+donneesRegionales:
+  nom: Guadeloupe
+  code: REG-01
+  casConfirmes: 5
+donneesDepartementales:
+  - nom: Guadeloupe
+    code: DEP-971
+    casConfirmes: 5
