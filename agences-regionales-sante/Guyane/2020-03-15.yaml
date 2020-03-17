@@ -5,10 +5,10 @@ source:
 donneesRegionales:
   nom: Guyane
   code: REG-03
-  casConfirmes: 10
+  casConfirmes: 11
   gueris: 3
   deces: 0
 donneesDepartementales:
   - nom: Guyane
     code: DEP-973
-    casConfirmes: 10
+    casConfirmes: 11
