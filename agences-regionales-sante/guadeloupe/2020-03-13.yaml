@@ -6,3 +6,7 @@ donneesRegionales:
   nom: Guadeloupe
   code: REG-01
   casConfirmes: 1
+donneesDepartementales:
+  - nom: Guadeloupe
+    code: DEP-971
+    casConfirmes: 1

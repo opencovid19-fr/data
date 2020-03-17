@@ -8,3 +8,9 @@ donneesRegionales:
   casConfirmes: 18
   hospitalises: 2
   reanimation: 1
+donneesDepartementales:
+  - nom: Guadeloupe
+    code: DEP-971
+    casConfirmes: 18
+    hospitalises: 2
+    reanimation: 1
