@@ -1,0 +1,11 @@
+date: '2020-02-29'
+donneesDepartementales:
+- casConfirmes: 1
+  code: DEP-02
+  nom: Aisne
+- casConfirmes: 3
+  code: DEP-60
+  nom: Oise
+source:
+  nom: Coronavirus-France-Dataset
+  url: https://github.com/lperez31/coronavirus-france-dataset

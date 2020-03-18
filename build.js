@@ -8,7 +8,8 @@ const {ensureArray, readYamlFile, outputCsv} = require('./lib/util')
 const sources = [
   'agences-regionales-sante',
   'sante-publique-france',
-  'prefectures'
+  'prefectures',
+  'lperez31-historical-data'
 ]
 
 const distPath = join(__dirname, 'dist')

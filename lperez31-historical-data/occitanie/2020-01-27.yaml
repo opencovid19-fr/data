@@ -1,0 +1,8 @@
+date: '2020-01-27'
+donneesDepartementales:
+- casConfirmes: 1
+  code: DEP-34
+  nom: Hérault
+source:
+  nom: Coronavirus-France-Dataset
+  url: https://github.com/lperez31/coronavirus-france-dataset

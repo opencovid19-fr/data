@@ -1,0 +1,14 @@
+date: '2020-03-05'
+donneesDepartementales:
+- casConfirmes: 17
+  code: DEP-25
+  nom: Doubs
+- casConfirmes: 5
+  code: DEP-71
+  nom: Saône-et-Loire
+- casConfirmes: 18
+  code: DEP-90
+  nom: Territoire de Belfort
+source:
+  nom: Coronavirus-France-Dataset
+  url: https://github.com/lperez31/coronavirus-france-dataset

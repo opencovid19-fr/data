@@ -1,0 +1,14 @@
+date: '2020-03-08'
+donneesDepartementales:
+- casConfirmes: 41
+  code: DEP-25
+  nom: Doubs
+- casConfirmes: 4
+  code: DEP-89
+  nom: Yonne
+- casConfirmes: 41
+  code: DEP-90
+  nom: Territoire de Belfort
+source:
+  nom: Coronavirus-France-Dataset
+  url: https://github.com/lperez31/coronavirus-france-dataset

@@ -1,0 +1,11 @@
+date: '2020-03-01'
+donneesDepartementales:
+- casConfirmes: 1
+  code: DEP-977
+  nom: Saint-Barthélemy
+- casConfirmes: 2
+  code: DEP-978
+  nom: Saint-Martin
+source:
+  nom: Coronavirus-France-Dataset
+  url: https://github.com/lperez31/coronavirus-france-dataset

@@ -1,0 +1,8 @@
+date: '2020-02-28'
+donneesDepartementales:
+- casConfirmes: 1
+  code: DEP-76
+  nom: Seine-Maritime
+source:
+  nom: Coronavirus-France-Dataset
+  url: https://github.com/lperez31/coronavirus-france-dataset

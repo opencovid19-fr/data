@@ -1,0 +1,26 @@
+date: '2020-03-10'
+donneesDepartementales:
+- casConfirmes: 9
+  code: DEP-21
+  nom: Côte-d'Or
+- casConfirmes: 52
+  code: DEP-25
+  nom: Doubs
+- casConfirmes: 6
+  code: DEP-39
+  nom: Jura
+- casConfirmes: 7
+  code: DEP-70
+  nom: Haute-Saône
+- casConfirmes: 13
+  code: DEP-71
+  nom: Saône-et-Loire
+- casConfirmes: 6
+  code: DEP-89
+  nom: Yonne
+- casConfirmes: 52
+  code: DEP-90
+  nom: Territoire de Belfort
+source:
+  nom: Coronavirus-France-Dataset
+  url: https://github.com/lperez31/coronavirus-france-dataset

@@ -1,0 +1,8 @@
+date: '2020-03-04'
+donneesDepartementales:
+- casConfirmes: 4
+  code: DEP-44
+  nom: Loire-Atlantique
+source:
+  nom: Coronavirus-France-Dataset
+  url: https://github.com/lperez31/coronavirus-france-dataset

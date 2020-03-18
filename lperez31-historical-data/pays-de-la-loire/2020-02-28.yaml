@@ -1,0 +1,11 @@
+date: '2020-02-28'
+donneesDepartementales:
+- casConfirmes: 2
+  code: DEP-49
+  nom: Maine-et-Loire
+- casConfirmes: 1
+  code: DEP-53
+  nom: Mayenne
+source:
+  nom: Coronavirus-France-Dataset
+  url: https://github.com/lperez31/coronavirus-france-dataset

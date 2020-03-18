@@ -1,0 +1,8 @@
+date: '2020-03-05'
+donneesDepartementales:
+- casConfirmes: 3
+  code: DEP-2A
+  nom: Corse-du-Sud
+source:
+  nom: Coronavirus-France-Dataset
+  url: https://github.com/lperez31/coronavirus-france-dataset

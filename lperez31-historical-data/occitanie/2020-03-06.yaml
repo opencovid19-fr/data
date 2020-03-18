@@ -1,0 +1,23 @@
+date: '2020-03-06'
+donneesDepartementales:
+- casConfirmes: 3
+  code: DEP-30
+  nom: Gard
+- casConfirmes: 2
+  code: DEP-31
+  nom: Haute-Garonne
+- casConfirmes: 11
+  code: DEP-34
+  nom: Hérault
+- casConfirmes: 1
+  code: DEP-46
+  nom: Lot
+- casConfirmes: 2
+  code: DEP-81
+  nom: Tarn
+- casConfirmes: 3
+  code: DEP-82
+  nom: Tarn-et-Garonne
+source:
+  nom: Coronavirus-France-Dataset
+  url: https://github.com/lperez31/coronavirus-france-dataset

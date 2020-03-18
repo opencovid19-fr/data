@@ -1,0 +1,17 @@
+date: '2020-03-06'
+donneesDepartementales:
+- casConfirmes: 5
+  code: DEP-44
+  nom: Loire-Atlantique
+- casConfirmes: 3
+  code: DEP-49
+  nom: Maine-et-Loire
+- casConfirmes: 3
+  code: DEP-72
+  nom: Sarthe
+- casConfirmes: 1
+  code: DEP-85
+  nom: Vendée
+source:
+  nom: Coronavirus-France-Dataset
+  url: https://github.com/lperez31/coronavirus-france-dataset

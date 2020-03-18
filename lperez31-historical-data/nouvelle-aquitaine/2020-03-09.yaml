@@ -1,0 +1,17 @@
+date: '2020-03-09'
+donneesDepartementales:
+- casConfirmes: 2
+  code: DEP-19
+  nom: Corrèze
+- casConfirmes: 3
+  code: DEP-24
+  nom: Dordogne
+- casConfirmes: 15
+  code: DEP-47
+  nom: Lot-et-Garonne
+- casConfirmes: 3
+  code: DEP-86
+  nom: Vienne
+source:
+  nom: Coronavirus-France-Dataset
+  url: https://github.com/lperez31/coronavirus-france-dataset
