@@ -12,37 +12,75 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,source_nom,source_ur
 2020-01-24,departement,DEP-86,Vienne,0,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/communique-de-presse-coronavirus-point-de-situation-en-nouvelle-aquitaine-du-08032020
 2020-01-24,departement,DEP-87,Haute-Vienne,0,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/communique-de-presse-coronavirus-point-de-situation-en-nouvelle-aquitaine-du-08032020
 2020-01-24,region,REG-75,Nouvelle-Aquitaine,1,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/communique-de-presse-coronavirus-point-de-situation-en-nouvelle-aquitaine-du-08032020
+2020-01-27,departement,DEP-34,Hérault,1,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
+2020-02-08,departement,DEP-74,Haute-Savoie,6,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
+2020-02-24,departement,DEP-33,Gironde,1,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
+2020-02-25,departement,DEP-74,Haute-Savoie,7,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-02-26,departement,DEP-02,Aisne,0,0,ARS Hauts-de-France,https://www.hauts-de-france.ars.sante.fr/coronavirus-point-de-situation-en-hauts-de-france
+2020-02-26,departement,DEP-25,Doubs,1,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-02-26,departement,DEP-59,Nord,0,0,ARS Hauts-de-France,https://www.hauts-de-france.ars.sante.fr/coronavirus-point-de-situation-en-hauts-de-france
 2020-02-26,departement,DEP-60,Oise,2,1,ARS Hauts-de-France,https://www.hauts-de-france.ars.sante.fr/coronavirus-point-de-situation-en-hauts-de-france
+2020-02-26,departement,DEP-60,Oise,2,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-02-26,departement,DEP-62,Pas-de-Calais,0,0,ARS Hauts-de-France,https://www.hauts-de-france.ars.sante.fr/coronavirus-point-de-situation-en-hauts-de-france
 2020-02-26,departement,DEP-80,Somme,0,0,ARS Hauts-de-France,https://www.hauts-de-france.ars.sante.fr/coronavirus-point-de-situation-en-hauts-de-france
+2020-02-26,departement,DEP-90,Territoire de Belfort,2,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-02-26,region,REG-32,Hauts-de-France,2,1,ARS Hauts-de-France,https://www.hauts-de-france.ars.sante.fr/coronavirus-point-de-situation-en-hauts-de-france
 2020-02-26,region,REG-44,Grand-Est,1,0,ARS Grand-Est,https://www.grand-est.ars.sante.fr/system/files/2020-02/CP_Coronavirus%20cas%20valid%C3%A9%20en%20Grand%20Est.pdf
+2020-02-27,departement,DEP-21,Côte-d'Or,1,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
+2020-02-27,departement,DEP-29,Finistère,1,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
+2020-02-27,departement,DEP-44,Loire-Atlantique,1,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
+2020-02-27,departement,DEP-67,Bas-Rhin,1,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-02-27,departement,DEP-74,Haute-Savoie,2,0,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-02/200227_ARSARA_CP_2_cas_Covid-19_74_0.pdf
 2020-02-27,region,REG-27,Auvergne Rhône-Alpes,2,0,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-02/200227_ARSARA_CP_2_cas_Covid-19_74_0.pdf
+2020-02-28,departement,DEP-06,Alpes-Maritimes,1,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
+2020-02-28,departement,DEP-17,Charente-Maritime,1,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
+2020-02-28,departement,DEP-21,Côte-d'Or,2,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
+2020-02-28,departement,DEP-29,Finistère,2,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
+2020-02-28,departement,DEP-33,Gironde,2,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
+2020-02-28,departement,DEP-34,Hérault,3,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
+2020-02-28,departement,DEP-40,Landes,1,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
+2020-02-28,departement,DEP-49,Maine-et-Loire,2,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
+2020-02-28,departement,DEP-53,Mayenne,1,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
+2020-02-28,departement,DEP-76,Seine-Maritime,1,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-02-28,region,REG-28,Normandie,1,,ARS Normandie,https://www.normandie.ars.sante.fr/system/files/2020-03/CP-ars-normandie-02.03.pdf
+2020-02-29,departement,DEP-02,Aisne,1,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-02-29,departement,DEP-16,Charente,0,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-02/CP_Covid19_ARSNA_29_02_2020.pdf
 2020-02-29,departement,DEP-17,Charente-Maritime,1,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-02/CP_Covid19_ARSNA_29_02_2020.pdf
 2020-02-29,departement,DEP-19,Corrèze,0,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-02/CP_Covid19_ARSNA_29_02_2020.pdf
 2020-02-29,departement,DEP-23,Creuse,0,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-02/CP_Covid19_ARSNA_29_02_2020.pdf
 2020-02-29,departement,DEP-24,Dordogne,0,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-02/CP_Covid19_ARSNA_29_02_2020.pdf
 2020-02-29,departement,DEP-33,Gironde,2,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-02/CP_Covid19_ARSNA_29_02_2020.pdf
+2020-02-29,departement,DEP-35,Ille-et-Vilaine,2,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-02-29,departement,DEP-40,Landes,1,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-02/CP_Covid19_ARSNA_29_02_2020.pdf
 2020-02-29,departement,DEP-47,Lot-et-Garonne,0,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-02/CP_Covid19_ARSNA_29_02_2020.pdf
+2020-02-29,departement,DEP-60,Oise,3,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-02-29,departement,DEP-64,Pyrénées-Atlantiques,0,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-02/CP_Covid19_ARSNA_29_02_2020.pdf
 2020-02-29,departement,DEP-79,Deux-Sèvres,0,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-02/CP_Covid19_ARSNA_29_02_2020.pdf
 2020-02-29,departement,DEP-86,Vienne,0,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-02/CP_Covid19_ARSNA_29_02_2020.pdf
 2020-02-29,departement,DEP-87,Haute-Vienne,0,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-02/CP_Covid19_ARSNA_29_02_2020.pdf
 2020-02-29,region,REG-75,Nouvelle-Aquitaine,4,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-02/CP_Covid19_ARSNA_29_02_2020.pdf
+2020-03-01,departement,DEP-02,Aisne,2,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
+2020-03-01,departement,DEP-25,Doubs,6,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
+2020-03-01,departement,DEP-34,Hérault,5,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
+2020-03-01,departement,DEP-35,Ille-et-Vilaine,4,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
+2020-03-01,departement,DEP-56,Morbihan,9,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
+2020-03-01,departement,DEP-62,Pas-de-Calais,1,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
+2020-03-01,departement,DEP-72,Sarthe,1,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
+2020-03-01,departement,DEP-977,Saint-Barthélemy,1,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
+2020-03-01,departement,DEP-978,Saint-Martin,2,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-02,departement,DEP-01,Ain,3,0,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200302_ARSARA_COVID-19_Point_Situation.pdf
+2020-03-02,departement,DEP-02,Aisne,4,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-02,departement,DEP-08,Ardennes,0,0,ARS Grand-Est,https://www.grand-est.ars.sante.fr/system/files/2020-03/CPCoronavirus_7_cas_valides_GrandEst_020320.pdf
 2020-03-02,departement,DEP-10,Aube,0,0,ARS Grand-Est,https://www.grand-est.ars.sante.fr/system/files/2020-03/CPCoronavirus_7_cas_valides_GrandEst_020320.pdf
 2020-03-02,departement,DEP-27,Eure,2,0,ARS Normandie,https://www.normandie.ars.sante.fr/system/files/2020-03/CP-ars-normandie-02.03.pdf
+2020-03-02,departement,DEP-29,Finistère,3,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
+2020-03-02,departement,DEP-34,Hérault,6,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
+2020-03-02,departement,DEP-44,Loire-Atlantique,2,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-02,departement,DEP-51,Marne,0,0,ARS Grand-Est,https://www.grand-est.ars.sante.fr/system/files/2020-03/CPCoronavirus_7_cas_valides_GrandEst_020320.pdf
 2020-03-02,departement,DEP-52,Haute-Marne,0,0,ARS Grand-Est,https://www.grand-est.ars.sante.fr/system/files/2020-03/CPCoronavirus_7_cas_valides_GrandEst_020320.pdf
 2020-03-02,departement,DEP-54,Meurthe-et-Moselle,0,0,ARS Grand-Est,https://www.grand-est.ars.sante.fr/system/files/2020-03/CPCoronavirus_7_cas_valides_GrandEst_020320.pdf
 2020-03-02,departement,DEP-55,Meuse,0,0,ARS Grand-Est,https://www.grand-est.ars.sante.fr/system/files/2020-03/CPCoronavirus_7_cas_valides_GrandEst_020320.pdf
+2020-03-02,departement,DEP-56,Morbihan,12,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-02,departement,DEP-57,Moselle,0,0,ARS Grand-Est,https://www.grand-est.ars.sante.fr/system/files/2020-03/CPCoronavirus_7_cas_valides_GrandEst_020320.pdf
 2020-03-02,departement,DEP-67,Bas-Rhin,2,0,ARS Grand-Est,https://www.grand-est.ars.sante.fr/system/files/2020-03/CPCoronavirus_7_cas_valides_GrandEst_020320.pdf
 2020-03-02,departement,DEP-68,Haut-Rhin,3,0,ARS Grand-Est,https://www.grand-est.ars.sante.fr/system/files/2020-03/CPCoronavirus_7_cas_valides_GrandEst_020320.pdf
@@ -53,31 +91,39 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,source_nom,source_ur
 2020-03-02,region,REG-28,Normandie,2,0,ARS Normandie,https://www.normandie.ars.sante.fr/system/files/2020-03/CP-ars-normandie-02.03.pdf
 2020-03-02,region,REG-44,Grand-Est,7,0,ARS Grand-Est,https://www.grand-est.ars.sante.fr/system/files/2020-03/CPCoronavirus_7_cas_valides_GrandEst_020320.pdf
 2020-03-03,departement,DEP-01,Ain,3,0,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200303_ARSARA_COVID-19_Point_Situation.pdf
+2020-03-03,departement,DEP-02,Aisne,8,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-03,departement,DEP-16,Charente,0,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_03_03_2020_0.pdf
 2020-03-03,departement,DEP-17,Charente-Maritime,1,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_03_03_2020_0.pdf
 2020-03-03,departement,DEP-19,Corrèze,0,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_03_03_2020_0.pdf
 2020-03-03,departement,DEP-23,Creuse,0,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_03_03_2020_0.pdf
 2020-03-03,departement,DEP-24,Dordogne,0,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_03_03_2020_0.pdf
+2020-03-03,departement,DEP-30,Gard,2,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-03,departement,DEP-33,Gironde,2,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_03_03_2020_0.pdf
 2020-03-03,departement,DEP-40,Landes,1,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_03_03_2020_0.pdf
+2020-03-03,departement,DEP-44,Loire-Atlantique,3,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-03,departement,DEP-47,Lot-et-Garonne,1,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_03_03_2020_0.pdf
 2020-03-03,departement,DEP-64,Pyrénées-Atlantiques,0,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_03_03_2020_0.pdf
+2020-03-03,departement,DEP-64,Pyrénées-Atlantiques,1,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-03,departement,DEP-69,Rhône,4,0,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200303_ARSARA_COVID-19_Point_Situation.pdf
+2020-03-03,departement,DEP-71,Saône-et-Loire,1,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-03,departement,DEP-73,Savoie,0,0,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200303_ARSARA_COVID-19_Point_Situation.pdf
 2020-03-03,departement,DEP-73,Drôme,0,0,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200303_ARSARA_COVID-19_Point_Situation.pdf
 2020-03-03,departement,DEP-74,Haute-Savoie,29,0,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200303_ARSARA_COVID-19_Point_Situation.pdf
 2020-03-03,departement,DEP-79,Deux-Sèvres,0,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_03_03_2020_0.pdf
 2020-03-03,departement,DEP-86,Vienne,0,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_03_03_2020_0.pdf
 2020-03-03,departement,DEP-87,Haute-Vienne,0,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_03_03_2020_0.pdf
+2020-03-03,departement,DEP-90,Territoire de Belfort,6,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-03,region,REG-27,Auvergne Rhône-Alpes,36,0,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200303_ARSARA_COVID-19_Point_Situation.pdf
 2020-03-03,region,REG-27,Bourgogne-Franche-Comté,15,0,ARS Bourgogne-Franche-Comté,https://www.bourgogne-franche-comte.ars.sante.fr/system/files/2020-03/2020.03.03_COVID19_SITUATION%20BFC.pdf
 2020-03-03,region,REG-75,Nouvelle-Aquitaine,4,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_03_03_2020_0.pdf
 2020-03-04,collectivite-outremer,COM-977,Saint-Barthélemy,1,,Santé publique France,https://www.santepubliquefrance.fr/content/download/235529/2526819
 2020-03-04,collectivite-outremer,COM-978,Saint-Martin,2,,Santé publique France,https://www.santepubliquefrance.fr/content/download/235529/2526819
 2020-03-04,departement,DEP-01,Ain,4,0,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200304_ARSARA_COVID-19_Point_Situation.pdf
+2020-03-04,departement,DEP-02,Aisne,12,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-04,departement,DEP-06,Alpes-Maritimes,10,0,ARS Provence-Alpes-Côte d’Azur,https://www.paca.ars.sante.fr/coronavirus-en-provence-alpes-cote-dazur-point-de-situation
 2020-03-04,departement,DEP-08,Ardennes,0,0,ARS Grand-Est,https://www.grand-est.ars.sante.fr/system/files/2020-03/Communique%20Coronavirus%20covid%2019%20-%20point%20de%20situation%20en%20Grand%20Est%2004%2003%202020.pdf
 2020-03-04,departement,DEP-10,Aube,0,0,ARS Grand-Est,https://www.grand-est.ars.sante.fr/system/files/2020-03/Communique%20Coronavirus%20covid%2019%20-%20point%20de%20situation%20en%20Grand%20Est%2004%2003%202020.pdf
+2020-03-04,departement,DEP-12,Aveyron,2,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-04,departement,DEP-13,Bouches-du-Rhône,7,0,ARS Provence-Alpes-Côte d’Azur,https://www.paca.ars.sante.fr/coronavirus-en-provence-alpes-cote-dazur-point-de-situation
 2020-03-04,departement,DEP-16,Charente,0,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_04_03_2020.pdf
 2020-03-04,departement,DEP-17,Charente-Maritime,1,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_04_03_2020.pdf
@@ -86,10 +132,15 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,source_nom,source_ur
 2020-03-04,departement,DEP-22,Côtes-d'Armor,0,0,,
 2020-03-04,departement,DEP-23,Creuse,0,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_04_03_2020.pdf
 2020-03-04,departement,DEP-24,Dordogne,0,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_04_03_2020.pdf
+2020-03-04,departement,DEP-26,Drôme,2,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
+2020-03-04,departement,DEP-27,Eure,2,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
+2020-03-04,departement,DEP-28,Eure-et-Loir,1,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-04,departement,DEP-29,Finistère,3,0,,
 2020-03-04,departement,DEP-33,Gironde,2,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_04_03_2020.pdf
 2020-03-04,departement,DEP-35,Ille-et-Vilaine,4,0,,
+2020-03-04,departement,DEP-37,Indre-et-Loire,1,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-04,departement,DEP-40,Landes,1,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_04_03_2020.pdf
+2020-03-04,departement,DEP-44,Loire-Atlantique,4,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-04,departement,DEP-47,Lot-et-Garonne,1,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_04_03_2020.pdf
 2020-03-04,departement,DEP-51,Marne,1,0,ARS Grand-Est,https://www.grand-est.ars.sante.fr/system/files/2020-03/Communique%20Coronavirus%20covid%2019%20-%20point%20de%20situation%20en%20Grand%20Est%2004%2003%202020.pdf
 2020-03-04,departement,DEP-52,Haute-Marne,0,0,ARS Grand-Est,https://www.grand-est.ars.sante.fr/system/files/2020-03/Communique%20Coronavirus%20covid%2019%20-%20point%20de%20situation%20en%20Grand%20Est%2004%2003%202020.pdf
@@ -97,11 +148,14 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,source_nom,source_ur
 2020-03-04,departement,DEP-55,Meuse,0,0,ARS Grand-Est,https://www.grand-est.ars.sante.fr/system/files/2020-03/Communique%20Coronavirus%20covid%2019%20-%20point%20de%20situation%20en%20Grand%20Est%2004%2003%202020.pdf
 2020-03-04,departement,DEP-56,Morbihan,17,,,
 2020-03-04,departement,DEP-57,Moselle,0,0,ARS Grand-Est,https://www.grand-est.ars.sante.fr/system/files/2020-03/Communique%20Coronavirus%20covid%2019%20-%20point%20de%20situation%20en%20Grand%20Est%2004%2003%202020.pdf
+2020-03-04,departement,DEP-59,Nord,1,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-04,departement,DEP-60,Oise,,3,,
 2020-03-04,departement,DEP-64,Pyrénées-Atlantiques,1,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_04_03_2020.pdf
 2020-03-04,departement,DEP-67,Bas-Rhin,5,0,ARS Grand-Est,https://www.grand-est.ars.sante.fr/system/files/2020-03/Communique%20Coronavirus%20covid%2019%20-%20point%20de%20situation%20en%20Grand%20Est%2004%2003%202020.pdf
 2020-03-04,departement,DEP-68,Haut-Rhin,16,0,ARS Grand-Est,https://www.grand-est.ars.sante.fr/system/files/2020-03/Communique%20Coronavirus%20covid%2019%20-%20point%20de%20situation%20en%20Grand%20Est%2004%2003%202020.pdf
 2020-03-04,departement,DEP-69,Rhône,4,0,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200304_ARSARA_COVID-19_Point_Situation.pdf
+2020-03-04,departement,DEP-70,Haute-Saône,1,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
+2020-03-04,departement,DEP-71,Saône-et-Loire,2,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-04,departement,DEP-73,Savoie,2,0,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200304_ARSARA_COVID-19_Point_Situation.pdf
 2020-03-04,departement,DEP-73,Drôme,1,0,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200304_ARSARA_COVID-19_Point_Situation.pdf
 2020-03-04,departement,DEP-74,Haute-Savoie,39,0,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200304_ARSARA_COVID-19_Point_Situation.pdf
@@ -110,7 +164,9 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,source_nom,source_ur
 2020-03-04,departement,DEP-86,Vienne,0,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_04_03_2020.pdf
 2020-03-04,departement,DEP-87,Haute-Vienne,0,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_04_03_2020.pdf
 2020-03-04,departement,DEP-88,Vosges,1,0,ARS Grand-Est,https://www.grand-est.ars.sante.fr/system/files/2020-03/Communique%20Coronavirus%20covid%2019%20-%20point%20de%20situation%20en%20Grand%20Est%2004%2003%202020.pdf
+2020-03-04,departement,DEP-90,Territoire de Belfort,7,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-04,departement,DEP-973,Guyane,5,,ARS Guyane,https://www.guyane.ars.sante.fr/system/files/2020-03/2020_03_04_CP%20COVID-19.pdf
+2020-03-04,departement,DEP-973,Guyane,5,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-04,pays,FRA,France,285,4,Santé publique France,https://www.santepubliquefrance.fr/content/download/235529/2526819
 2020-03-04,region,REG-01,Guadeloupe,0,,Santé publique France,https://www.santepubliquefrance.fr/content/download/235529/2526819
 2020-03-04,region,REG-02,Martinique,0,,Santé publique France,https://www.santepubliquefrance.fr/content/download/235529/2526819
@@ -141,9 +197,12 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,source_nom,source_ur
 2020-03-05,collectivite-outremer,COM-977,Saint-Barthélemy,1,,Santé publique France,https://www.santepubliquefrance.fr/content/download/235532/2526871
 2020-03-05,collectivite-outremer,COM-978,Saint-Martin,2,,Santé publique France,https://www.santepubliquefrance.fr/content/download/235532/2526871
 2020-03-05,departement,DEP-01,Ain,4,0,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200305_ARSARA_COVID-19_Point_Situation.pdf
+2020-03-05,departement,DEP-02,Aisne,14,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-05,departement,DEP-05,Hautes-Alpes,3,0,ARS Provence-Alpes-Côte d’Azur,https://www.paca.ars.sante.fr/coronavirus-en-provence-alpes-cote-dazur-point-de-situation-0
 2020-03-05,departement,DEP-06,Alpes-Maritimes,14,0,ARS Provence-Alpes-Côte d’Azur,https://www.paca.ars.sante.fr/coronavirus-en-provence-alpes-cote-dazur-point-de-situation-0
+2020-03-05,departement,DEP-12,Aveyron,4,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-05,departement,DEP-13,Bouches-du-Rhône,7,0,ARS Provence-Alpes-Côte d’Azur,https://www.paca.ars.sante.fr/coronavirus-en-provence-alpes-cote-dazur-point-de-situation-0
+2020-03-05,departement,DEP-14,Calvados,1,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-05,departement,DEP-16,Charente,0,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_05_03_2020_0.pdf
 2020-03-05,departement,DEP-17,Charente-Maritime,1,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_05_03_2020_0.pdf
 2020-03-05,departement,DEP-18,Cher,0,0,ARS Centre - Val de Loire,https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/CP_Coronavirus050320-3ecas-v2.pdf
@@ -151,38 +210,52 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,source_nom,source_ur
 2020-03-05,departement,DEP-22,Côtes-d'Armor,0,0,,
 2020-03-05,departement,DEP-23,Creuse,0,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_05_03_2020_0.pdf
 2020-03-05,departement,DEP-24,Dordogne,0,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_05_03_2020_0.pdf
+2020-03-05,departement,DEP-25,Doubs,17,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-05,departement,DEP-26,Drôme,3,0,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200305_ARSARA_COVID-19_Point_Situation.pdf
 2020-03-05,departement,DEP-28,Eure-et-Loir,1,0,ARS Centre - Val de Loire,https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/CP_Coronavirus050320-3ecas-v2.pdf
 2020-03-05,departement,DEP-29,Finistère,3,0,,
 2020-03-05,departement,DEP-2A,Corse du Sud,3,0,ARS Corse,https://www.corse.ars.sante.fr/covid-19-3-cas-confirmes-en-corse-au-centre-hospitalier-dajaccio
+2020-03-05,departement,DEP-2A,Corse-du-Sud,3,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-05,departement,DEP-2B,Haute-Corse,0,0,ARS Corse,https://www.corse.ars.sante.fr/covid-19-3-cas-confirmes-en-corse-au-centre-hospitalier-dajaccio
+2020-03-05,departement,DEP-31,Haute-Garonne,1,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-05,departement,DEP-33,Gironde,2,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_05_03_2020_0.pdf
+2020-03-05,departement,DEP-34,Hérault,9,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-05,departement,DEP-35,Ille-et-Vilaine,5,0,,
 2020-03-05,departement,DEP-36,Indre,0,0,ARS Centre - Val de Loire,https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/CP_Coronavirus050320-3ecas-v2.pdf
 2020-03-05,departement,DEP-37,Indre-et-Loire,1,0,ARS Centre - Val de Loire,https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/CP_Coronavirus050320-3ecas-v2.pdf
 2020-03-05,departement,DEP-40,Landes,1,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_05_03_2020_0.pdf
 2020-03-05,departement,DEP-41,Loir-et-Cher,0,0,ARS Centre - Val de Loire,https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/CP_Coronavirus050320-3ecas-v2.pdf
 2020-03-05,departement,DEP-45,Loiret,1,0,ARS Centre - Val de Loire,https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/CP_Coronavirus050320-3ecas-v2.pdf
+2020-03-05,departement,DEP-45,Loiret,1,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-05,departement,DEP-47,Lot-et-Garonne,3,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_05_03_2020_0.pdf
+2020-03-05,departement,DEP-47,Lot-et-Garonne,2,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
+2020-03-05,departement,DEP-50,Manche,3,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-05,departement,DEP-56,Morbihan,23,,,
 2020-03-05,departement,DEP-60,Oise,,5,,
+2020-03-05,departement,DEP-60,Oise,6,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
+2020-03-05,departement,DEP-63,Puy-de-Dôme,3,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-05,departement,DEP-64,Pyrénées-Atlantiques,1,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_05_03_2020_0.pdf
 2020-03-05,departement,DEP-69,Rhône,12,0,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200305_ARSARA_COVID-19_Point_Situation.pdf
+2020-03-05,departement,DEP-71,Saône-et-Loire,5,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-05,departement,DEP-73,Savoie,2,0,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200305_ARSARA_COVID-19_Point_Situation.pdf
 2020-03-05,departement,DEP-74,Haute-Savoie,39,0,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200305_ARSARA_COVID-19_Point_Situation.pdf
 2020-03-05,departement,DEP-75,Paris,17,,ARS Ile-de-France,https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200305.pdf
 2020-03-05,departement,DEP-77,Seine-et-Marne,3,,ARS Ile-de-France,https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200305.pdf
 2020-03-05,departement,DEP-78,Yvelines,1,,ARS Ile-de-France,https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200305.pdf
 2020-03-05,departement,DEP-79,Deux-Sèvres,1,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_05_03_2020_0.pdf
+2020-03-05,departement,DEP-79,Deux-Sèvres,1,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
+2020-03-05,departement,DEP-80,Somme,2,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-05,departement,DEP-83,Var,1,0,ARS Provence-Alpes-Côte d’Azur,https://www.paca.ars.sante.fr/coronavirus-en-provence-alpes-cote-dazur-point-de-situation-0
 2020-03-05,departement,DEP-84,Vaucluse,1,0,ARS Provence-Alpes-Côte d’Azur,https://www.paca.ars.sante.fr/coronavirus-en-provence-alpes-cote-dazur-point-de-situation-0
 2020-03-05,departement,DEP-86,Vienne,0,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_05_03_2020_0.pdf
 2020-03-05,departement,DEP-87,Haute-Vienne,0,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_05_03_2020_0.pdf
+2020-03-05,departement,DEP-90,Territoire de Belfort,18,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-05,departement,DEP-91,Essone,1,,ARS Ile-de-France,https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200305.pdf
 2020-03-05,departement,DEP-92,Hauts-de-Seine,10,,ARS Ile-de-France,https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200305.pdf
-2020-03-05,departement,DEP-93,Saint-Saint-Denis,7,,ARS Ile-de-France,https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200305.pdf
+2020-03-05,departement,DEP-93,Seine-Saint-Denis,7,,ARS Ile-de-France,https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200305.pdf
 2020-03-05,departement,DEP-94,Val-de-Marne,7,,ARS Ile-de-France,https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200305.pdf
 2020-03-05,departement,DEP-95,Val-d'Oise,12,,ARS Ile-de-France,https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200305.pdf
+2020-03-05,departement,DEP-972,Martinique,2,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-05,pays,FRA,France,423,5,Santé publique France,https://www.santepubliquefrance.fr/content/download/235532/2526871
 2020-03-05,region,REG-01,Guadeloupe,0,,Santé publique France,https://www.santepubliquefrance.fr/content/download/235532/2526871
 2020-03-05,region,REG-02,Martinique,0,,Santé publique France,https://www.santepubliquefrance.fr/content/download/235532/2526871
@@ -214,53 +287,87 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,source_nom,source_ur
 2020-03-06,collectivite-outremer,COM-977,Saint-Barthélemy,1,,Santé publique France,https://www.santepubliquefrance.fr/content/download/235535/2526923
 2020-03-06,collectivite-outremer,COM-978,Saint-Martin,2,,Santé publique France,https://www.santepubliquefrance.fr/content/download/235535/2526923
 2020-03-06,departement,DEP-01,Ain,4,0,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200305_ARSARA_COVID-19_Point_Situation.pdf
+2020-03-06,departement,DEP-02,Aisne,20,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-06,departement,DEP-05,Hautes-Alpes,5,0,ARS Provence-Alpes-Côte d’Azur,https://www.paca.ars.sante.fr/coronavirus-en-provence-alpes-cote-dazur-point-de-situation-du-6-mars
 2020-03-06,departement,DEP-06,Alpes-Maritimes,17,0,ARS Provence-Alpes-Côte d’Azur,https://www.paca.ars.sante.fr/coronavirus-en-provence-alpes-cote-dazur-point-de-situation-du-6-mars
 2020-03-06,departement,DEP-07,Ardèche,2,0,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200305_ARSARA_COVID-19_Point_Situation.pdf
 2020-03-06,departement,DEP-13,Bouches-du-Rhône,7,0,ARS Provence-Alpes-Côte d’Azur,https://www.paca.ars.sante.fr/coronavirus-en-provence-alpes-cote-dazur-point-de-situation-du-6-mars
 2020-03-06,departement,DEP-16,Charente,1,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP2_Covid19_PointSituation_ARSNA_06_03_2020.pdf
+2020-03-06,departement,DEP-16,Charente,1,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-06,departement,DEP-17,Charente-Maritime,2,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP2_Covid19_PointSituation_ARSNA_06_03_2020.pdf
+2020-03-06,departement,DEP-17,Charente-Maritime,2,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-06,departement,DEP-18,Cher,0,0,ARS Centre - Val de Loire,https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/CP_Coronavirus060320.pdf
 2020-03-06,departement,DEP-19,Corrèze,0,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP2_Covid19_PointSituation_ARSNA_06_03_2020.pdf
+2020-03-06,departement,DEP-21,Côte-d'Or,5,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-06,departement,DEP-22,Côtes-d'Armor,0,0,,
 2020-03-06,departement,DEP-23,Creuse,0,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP2_Covid19_PointSituation_ARSNA_06_03_2020.pdf
 2020-03-06,departement,DEP-24,Dordogne,1,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP2_Covid19_PointSituation_ARSNA_06_03_2020.pdf
+2020-03-06,departement,DEP-24,Dordogne,1,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
+2020-03-06,departement,DEP-25,Doubs,30,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-06,departement,DEP-26,Drôme,3,0,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200305_ARSARA_COVID-19_Point_Situation.pdf
 2020-03-06,departement,DEP-28,Eure-et-Loir,1,0,ARS Centre - Val de Loire,https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/CP_Coronavirus060320.pdf
 2020-03-06,departement,DEP-29,Finistère,4,0,,
 2020-03-06,departement,DEP-2A,Corse du Sud,3,0,ARS Corse,https://twitter.com/ARSCORSE1/status/1235847168650436608
+2020-03-06,departement,DEP-2A,Corse-du-Sud,5,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-06,departement,DEP-2B,Haute-Corse,2,0,ARS Corse,https://twitter.com/ARSCORSE1/status/1235847168650436608
+2020-03-06,departement,DEP-2B,Haute-Corse,2,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
+2020-03-06,departement,DEP-30,Gard,3,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
+2020-03-06,departement,DEP-31,Haute-Garonne,2,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-06,departement,DEP-33,Gironde,2,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP2_Covid19_PointSituation_ARSNA_06_03_2020.pdf
+2020-03-06,departement,DEP-34,Hérault,11,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-06,departement,DEP-35,Ille-et-Vilaine,6,0,,
 2020-03-06,departement,DEP-36,Indre,0,0,ARS Centre - Val de Loire,https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/CP_Coronavirus060320.pdf
 2020-03-06,departement,DEP-37,Indre-et-Loire,2,0,ARS Centre - Val de Loire,https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/CP_Coronavirus060320.pdf
+2020-03-06,departement,DEP-37,Indre-et-Loire,2,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
+2020-03-06,departement,DEP-39,Jura,2,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-06,departement,DEP-40,Landes,1,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP2_Covid19_PointSituation_ARSNA_06_03_2020.pdf
 2020-03-06,departement,DEP-41,Loir-et-Cher,0,0,ARS Centre - Val de Loire,https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/CP_Coronavirus060320.pdf
 2020-03-06,departement,DEP-42,Loire,1,0,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200305_ARSARA_COVID-19_Point_Situation.pdf
 2020-03-06,departement,DEP-44,Loire-Atlantique,4,,ARS Pays de la Loire,https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-03/2020-03-06%20bulletin%20information%20COVID-19.pdf
+2020-03-06,departement,DEP-44,Loire-Atlantique,5,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-06,departement,DEP-45,Loiret,4,0,ARS Centre - Val de Loire,https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/CP_Coronavirus060320.pdf
+2020-03-06,departement,DEP-45,Loiret,4,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
+2020-03-06,departement,DEP-46,Lot,1,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-06,departement,DEP-47,Lot-et-Garonne,3,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP2_Covid19_PointSituation_ARSNA_06_03_2020.pdf
 2020-03-06,departement,DEP-49,Maine-et-Loire,3,,ARS Pays de la Loire,https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-03/2020-03-06%20bulletin%20information%20COVID-19.pdf
+2020-03-06,departement,DEP-49,Maine-et-Loire,3,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
+2020-03-06,departement,DEP-50,Manche,6,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
+2020-03-06,departement,DEP-51,Marne,2,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-06,departement,DEP-53,Mayenne,1,,ARS Pays de la Loire,https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-03/2020-03-06%20bulletin%20information%20COVID-19.pdf
+2020-03-06,departement,DEP-55,Meuse,1,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-06,departement,DEP-56,Morbihan,24,,,
+2020-03-06,departement,DEP-57,Moselle,1,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
+2020-03-06,departement,DEP-59,Nord,4,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-06,departement,DEP-63,Puy-de-Dôme,5,0,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200305_ARSARA_COVID-19_Point_Situation.pdf
 2020-03-06,departement,DEP-64,Pyrénées-Atlantiques,1,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP2_Covid19_PointSituation_ARSNA_06_03_2020.pdf
+2020-03-06,departement,DEP-68,Haut-Rhin,80,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-06,departement,DEP-69,Rhône,21,0,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200305_ARSARA_COVID-19_Point_Situation.pdf
+2020-03-06,departement,DEP-70,Haute-Saône,3,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
+2020-03-06,departement,DEP-71,Saône-et-Loire,8,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-06,departement,DEP-72,Sarthe,3,,ARS Pays de la Loire,https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-03/2020-03-06%20bulletin%20information%20COVID-19.pdf
+2020-03-06,departement,DEP-72,Sarthe,3,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-06,departement,DEP-73,Savoie,3,0,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200305_ARSARA_COVID-19_Point_Situation.pdf
 2020-03-06,departement,DEP-74,Haute-Savoie,48,0,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200305_ARSARA_COVID-19_Point_Situation.pdf
 2020-03-06,departement,DEP-75,Paris,19,,ARS Ile-de-France,https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200306.pdf
+2020-03-06,departement,DEP-76,Seine-Maritime,2,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-06,departement,DEP-77,Seine-et-Marne,8,,ARS Ile-de-France,https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200306.pdf
 2020-03-06,departement,DEP-78,Yvelines,3,,ARS Ile-de-France,https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200306.pdf
 2020-03-06,departement,DEP-79,Deux-Sèvres,1,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP2_Covid19_PointSituation_ARSNA_06_03_2020.pdf
+2020-03-06,departement,DEP-80,Somme,3,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
+2020-03-06,departement,DEP-81,Tarn,2,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
+2020-03-06,departement,DEP-82,Tarn-et-Garonne,3,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-06,departement,DEP-83,Var,1,0,ARS Provence-Alpes-Côte d’Azur,https://www.paca.ars.sante.fr/coronavirus-en-provence-alpes-cote-dazur-point-de-situation-du-6-mars
 2020-03-06,departement,DEP-84,Vaucluse,1,0,ARS Provence-Alpes-Côte d’Azur,https://www.paca.ars.sante.fr/coronavirus-en-provence-alpes-cote-dazur-point-de-situation-du-6-mars
 2020-03-06,departement,DEP-85,Vendee,1,,ARS Pays de la Loire,https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-03/2020-03-06%20bulletin%20information%20COVID-19.pdf
+2020-03-06,departement,DEP-85,Vendée,1,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-06,departement,DEP-86,Vienne,0,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP2_Covid19_PointSituation_ARSNA_06_03_2020.pdf
 2020-03-06,departement,DEP-87,Haute-Vienne,0,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP2_Covid19_PointSituation_ARSNA_06_03_2020.pdf
+2020-03-06,departement,DEP-88,Vosges,2,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
+2020-03-06,departement,DEP-89,Yonne,2,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
+2020-03-06,departement,DEP-90,Territoire de Belfort,30,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-06,departement,DEP-91,Essone,2,,ARS Ile-de-France,https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200306.pdf
 2020-03-06,departement,DEP-92,Hauts-de-Seine,10,,ARS Ile-de-France,https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200306.pdf
-2020-03-06,departement,DEP-93,Saint-Saint-Denis,12,,ARS Ile-de-France,https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200306.pdf
+2020-03-06,departement,DEP-93,Seine-Saint-Denis,12,,ARS Ile-de-France,https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200306.pdf
 2020-03-06,departement,DEP-94,Val-de-Marne,9,,ARS Ile-de-France,https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200306.pdf
 2020-03-06,departement,DEP-95,Val-d'Oise,26,1,ARS Ile-de-France,https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200306.pdf
 2020-03-06,pays,FRA,France,613,9,Santé publique France,https://www.santepubliquefrance.fr/content/download/235535/2526923
@@ -307,31 +414,48 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,source_nom,source_ur
 2020-03-07,departement,DEP-16,Charente,1,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_PointSituation_ARSNA_07_03_2020_0.pdf
 2020-03-07,departement,DEP-17,Charente-Maritime,2,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_PointSituation_ARSNA_07_03_2020_0.pdf
 2020-03-07,departement,DEP-19,Corrèze,0,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_PointSituation_ARSNA_07_03_2020_0.pdf
+2020-03-07,departement,DEP-21,Côte-d'Or,7,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-07,departement,DEP-22,Côtes-d'Armor,0,0,,
 2020-03-07,departement,DEP-23,Creuse,0,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_PointSituation_ARSNA_07_03_2020_0.pdf
 2020-03-07,departement,DEP-24,Dordogne,0,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_PointSituation_ARSNA_07_03_2020_0.pdf
+2020-03-07,departement,DEP-25,Doubs,39,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-07,departement,DEP-26,Drôme,16,0,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200307_ARSARA_COVID-19_Point_Situation_0.pdf
 2020-03-07,departement,DEP-27,Eure,1,0,ARS Normandie,https://www.normandie.ars.sante.fr/system/files/2020-03/CPpointSituationReg20200307.pdf
 2020-03-07,departement,DEP-29,Finistère,5,0,,
 2020-03-07,departement,DEP-2A,Corse du Sud,14,0,Le Petit Corse,https://journal-lepetitcorse.fr/2020/03/07/covid-19-point-de-situation-ars-du-samedi-7mars-19h/
+2020-03-07,departement,DEP-2A,Corse-du-Sud,12,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-07,departement,DEP-2B,Haute-Corse,5,0,Le Petit Corse,https://journal-lepetitcorse.fr/2020/03/07/covid-19-point-de-situation-ars-du-samedi-7mars-19h/
+2020-03-07,departement,DEP-2B,Haute-Corse,5,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-07,departement,DEP-30,Gard,3,0,ARS Occitanie,https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo_20200307.pdf
 2020-03-07,departement,DEP-31,Haute-Garonne,2,0,ARS Occitanie,https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo_20200307.pdf
 2020-03-07,departement,DEP-33,Gironde,3,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_PointSituation_ARSNA_07_03_2020_0.pdf
+2020-03-07,departement,DEP-33,Gironde,3,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-07,departement,DEP-34,Hérault,11,0,ARS Occitanie,https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo_20200307.pdf
 2020-03-07,departement,DEP-35,Ille-et-Vilaine,7,0,,
+2020-03-07,departement,DEP-38,Isère,1,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
+2020-03-07,departement,DEP-39,Jura,4,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-07,departement,DEP-40,Landes,1,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_PointSituation_ARSNA_07_03_2020_0.pdf
 2020-03-07,departement,DEP-42,Loire,2,0,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200307_ARSARA_COVID-19_Point_Situation_0.pdf
 2020-03-07,departement,DEP-46,Lot,1,0,ARS Occitanie,https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo_20200307.pdf
 2020-03-07,departement,DEP-47,Lot-et-Garonne,6,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_PointSituation_ARSNA_07_03_2020_0.pdf
+2020-03-07,departement,DEP-47,Lot-et-Garonne,5,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
+2020-03-07,departement,DEP-49,Maine-et-Loire,4,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-07,departement,DEP-50,Manche,6,0,ARS Normandie,https://www.normandie.ars.sante.fr/system/files/2020-03/CPpointSituationReg20200307.pdf
+2020-03-07,departement,DEP-52,Haute-Marne,1,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-07,departement,DEP-56,Morbihan,35,,,
+2020-03-07,departement,DEP-57,Moselle,8,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-07,departement,DEP-58,Nièvre,0,0,ARS Bourgogne-Franche-Comté,https://www.bourgogne-franche-comte.ars.sante.fr/system/files/2020-03/2020.03.07_COVID19_SITUATION%20BFC.pdf
 2020-03-07,departement,DEP-60,Oise,,7,,
+2020-03-07,departement,DEP-60,Oise,7,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-07,departement,DEP-61,Orne,0,0,ARS Normandie,https://www.normandie.ars.sante.fr/system/files/2020-03/CPpointSituationReg20200307.pdf
+2020-03-07,departement,DEP-62,Pas-de-Calais,3,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-07,departement,DEP-63,Puy-de-Dôme,5,0,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200307_ARSARA_COVID-19_Point_Situation_0.pdf
 2020-03-07,departement,DEP-64,Pyrénées-Atlantiques,2,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_PointSituation_ARSNA_07_03_2020_0.pdf
+2020-03-07,departement,DEP-64,Pyrénées-Atlantiques,2,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
+2020-03-07,departement,DEP-67,Bas-Rhin,46,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-07,departement,DEP-69,Rhône,32,0,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200307_ARSARA_COVID-19_Point_Situation_0.pdf
+2020-03-07,departement,DEP-70,Haute-Saône,5,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
+2020-03-07,departement,DEP-71,Saône-et-Loire,10,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-07,departement,DEP-73,Savoie,3,0,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200307_ARSARA_COVID-19_Point_Situation_0.pdf
 2020-03-07,departement,DEP-74,Haute-Savoie,58,0,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200307_ARSARA_COVID-19_Point_Situation_0.pdf
 2020-03-07,departement,DEP-75,Paris,21,,ARS Ile-de-France,https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200307.pdf
@@ -346,9 +470,10 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,source_nom,source_ur
 2020-03-07,departement,DEP-86,Vienne,0,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_PointSituation_ARSNA_07_03_2020_0.pdf
 2020-03-07,departement,DEP-87,Haute-Vienne,0,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_PointSituation_ARSNA_07_03_2020_0.pdf
 2020-03-07,departement,DEP-89,Yonne,0,0,ARS Bourgogne-Franche-Comté,https://www.bourgogne-franche-comte.ars.sante.fr/system/files/2020-03/2020.03.07_COVID19_SITUATION%20BFC.pdf
+2020-03-07,departement,DEP-90,Territoire de Belfort,38,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-07,departement,DEP-91,Essone,5,,ARS Ile-de-France,https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200307.pdf
 2020-03-07,departement,DEP-92,Hauts-de-Seine,11,,ARS Ile-de-France,https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200307.pdf
-2020-03-07,departement,DEP-93,Saint-Saint-Denis,13,,ARS Ile-de-France,https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200307.pdf
+2020-03-07,departement,DEP-93,Seine-Saint-Denis,13,,ARS Ile-de-France,https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200307.pdf
 2020-03-07,departement,DEP-94,Val-de-Marne,10,,ARS Ile-de-France,https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200307.pdf
 2020-03-07,departement,DEP-95,Val-d'Oise,31,1,ARS Ile-de-France,https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200307.pdf
 2020-03-07,pays,FRA,France,949,11,Santé publique France,https://www.santepubliquefrance.fr/content/download/235538/2526975
@@ -381,36 +506,51 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,source_nom,source_ur
 2020-03-07,region,REG-94,Corse,5,,Santé publique France,https://www.santepubliquefrance.fr/content/download/235538/2526975
 2020-03-07,monde,WORLD,Monde,101855,3488,Santé publique France,https://www.santepubliquefrance.fr/content/download/235538/2526975
 2020-03-08,departement,DEP-01,Ain,8,0,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200308_ARSARA_COVID-19_Point_Situation_1.pdf
+2020-03-08,departement,DEP-02,Aisne,21,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-08,departement,DEP-04,Alpes-de-Haute-Provence,0,0,ARS Provence-Alpes-Côte d’Azur,https://www.paca.ars.sante.fr/coronavirus-en-provence-alpes-cote-dazur-point-de-situation-du-8-mars
 2020-03-08,departement,DEP-05,Hautes-Alpes,8,0,ARS Provence-Alpes-Côte d’Azur,https://www.paca.ars.sante.fr/coronavirus-en-provence-alpes-cote-dazur-point-de-situation-du-8-mars
 2020-03-08,departement,DEP-06,Alpes-Maritimes,21,0,ARS Provence-Alpes-Côte d’Azur,https://www.paca.ars.sante.fr/coronavirus-en-provence-alpes-cote-dazur-point-de-situation-du-8-mars
 2020-03-08,departement,DEP-07,Ardèche,3,0,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200308_ARSARA_COVID-19_Point_Situation_1.pdf
 2020-03-08,departement,DEP-08,Ardennes,1,0,ARS Grand-Est,https://www.grand-est.ars.sante.fr/system/files/2020-03/Covid19_point_GrandEst080320.pdf
 2020-03-08,departement,DEP-10,Aube,1,0,ARS Grand-Est,https://www.grand-est.ars.sante.fr/system/files/2020-03/Covid19_point_GrandEst080320.pdf
+2020-03-08,departement,DEP-11,Aude,8,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
+2020-03-08,departement,DEP-12,Aveyron,8,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-08,departement,DEP-13,Bouches-du-Rhône,15,0,ARS Provence-Alpes-Côte d’Azur,https://www.paca.ars.sante.fr/coronavirus-en-provence-alpes-cote-dazur-point-de-situation-du-8-mars
 2020-03-08,departement,DEP-14,Calvados,2,0,ARS Normandie,https://www.normandie.ars.sante.fr/system/files/2020-03/CPpointSituation20200308.pdf
 2020-03-08,departement,DEP-16,Charente,1,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_PointSituation_ARSNA_08_03_2020.pdf
 2020-03-08,departement,DEP-17,Charente-Maritime,7,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_PointSituation_ARSNA_08_03_2020.pdf
+2020-03-08,departement,DEP-17,Charente-Maritime,7,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-08,departement,DEP-18,Cher,0,0,ARS Centre - Val de Loire,http://www.indre.gouv.fr/content/download/23260/163520/file/Bulletin%20d'information%20Covid-19%20-%20n%C2%B01%20-%2008-03-20%20_1.pdf
 2020-03-08,departement,DEP-19,Corrèze,1,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_PointSituation_ARSNA_08_03_2020.pdf
+2020-03-08,departement,DEP-19,Corrèze,1,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-08,departement,DEP-22,Côtes-d'Armor,0,0,,
 2020-03-08,departement,DEP-23,Creuse,0,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_PointSituation_ARSNA_08_03_2020.pdf
 2020-03-08,departement,DEP-24,Dordogne,0,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_PointSituation_ARSNA_08_03_2020.pdf
+2020-03-08,departement,DEP-25,Doubs,41,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-08,departement,DEP-26,Drôme,16,1,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200308_ARSARA_COVID-19_Point_Situation_1.pdf
 2020-03-08,departement,DEP-27,Eure,6,0,ARS Normandie,https://www.normandie.ars.sante.fr/system/files/2020-03/CPpointSituation20200308.pdf
 2020-03-08,departement,DEP-28,Eure-et-Loir,5,0,ARS Centre - Val de Loire,http://www.indre.gouv.fr/content/download/23260/163520/file/Bulletin%20d'information%20Covid-19%20-%20n%C2%B01%20-%2008-03-20%20_1.pdf
+2020-03-08,departement,DEP-28,Eure-et-Loir,5,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-08,departement,DEP-29,Finistère,5,0,,
+2020-03-08,departement,DEP-32,Gers,1,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-08,departement,DEP-33,Gironde,4,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_PointSituation_ARSNA_08_03_2020.pdf
+2020-03-08,departement,DEP-33,Gironde,4,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
+2020-03-08,departement,DEP-34,Hérault,18,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-08,departement,DEP-35,Ille-et-Vilaine,7,0,,
 2020-03-08,departement,DEP-36,Indre,0,0,ARS Centre - Val de Loire,http://www.indre.gouv.fr/content/download/23260/163520/file/Bulletin%20d'information%20Covid-19%20-%20n%C2%B01%20-%2008-03-20%20_1.pdf
 2020-03-08,departement,DEP-37,Indre-et-Loire,5,0,ARS Centre - Val de Loire,http://www.indre.gouv.fr/content/download/23260/163520/file/Bulletin%20d'information%20Covid-19%20-%20n%C2%B01%20-%2008-03-20%20_1.pdf
+2020-03-08,departement,DEP-37,Indre-et-Loire,5,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-08,departement,DEP-40,Landes,1,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_PointSituation_ARSNA_08_03_2020.pdf
 2020-03-08,departement,DEP-41,Loir-et-Cher,0,0,ARS Centre - Val de Loire,http://www.indre.gouv.fr/content/download/23260/163520/file/Bulletin%20d'information%20Covid-19%20-%20n%C2%B01%20-%2008-03-20%20_1.pdf
 2020-03-08,departement,DEP-42,Loire,6,0,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200308_ARSARA_COVID-19_Point_Situation_1.pdf
 2020-03-08,departement,DEP-44,Loire-Atlantique,8,,ARS Pays de la Loire,https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-03/2020-03-08%20bulletin%20information%20COVID-19.pdf
+2020-03-08,departement,DEP-44,Loire-Atlantique,8,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-08,departement,DEP-45,Loiret,7,0,ARS Centre - Val de Loire,http://www.indre.gouv.fr/content/download/23260/163520/file/Bulletin%20d'information%20Covid-19%20-%20n%C2%B01%20-%2008-03-20%20_1.pdf
+2020-03-08,departement,DEP-45,Loiret,7,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-08,departement,DEP-47,Lot-et-Garonne,11,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_PointSituation_ARSNA_08_03_2020.pdf
+2020-03-08,departement,DEP-47,Lot-et-Garonne,10,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-08,departement,DEP-49,Maine-et-Loire,6,,ARS Pays de la Loire,https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-03/2020-03-08%20bulletin%20information%20COVID-19.pdf
+2020-03-08,departement,DEP-49,Maine-et-Loire,7,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-08,departement,DEP-50,Manche,6,0,ARS Normandie,https://www.normandie.ars.sante.fr/system/files/2020-03/CPpointSituation20200308.pdf
 2020-03-08,departement,DEP-51,Marne,5,0,ARS Grand-Est,https://www.grand-est.ars.sante.fr/system/files/2020-03/Covid19_point_GrandEst080320.pdf
 2020-03-08,departement,DEP-52,Haute-Marne,1,0,ARS Grand-Est,https://www.grand-est.ars.sante.fr/system/files/2020-03/Covid19_point_GrandEst080320.pdf
@@ -420,6 +560,8 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,source_nom,source_ur
 2020-03-08,departement,DEP-56,Morbihan,47,,,
 2020-03-08,departement,DEP-57,Moselle,16,1,ARS Grand-Est,https://www.grand-est.ars.sante.fr/system/files/2020-03/Covid19_point_GrandEst080320.pdf
 2020-03-08,departement,DEP-58,Nièvre,0,0,ARS Bourgogne-Franche-Comté,https://www.bourgogne-franche-comte.ars.sante.fr/system/files/2020-03/2020.03.08_COVID19_SITUATION%20BFC.pdf
+2020-03-08,departement,DEP-59,Nord,5,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
+2020-03-08,departement,DEP-60,Oise,9,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-08,departement,DEP-61,Orne,0,0,ARS Normandie,https://www.normandie.ars.sante.fr/system/files/2020-03/CPpointSituation20200308.pdf
 2020-03-08,departement,DEP-63,Puy-de-Dôme,7,0,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200308_ARSARA_COVID-19_Point_Situation_1.pdf
 2020-03-08,departement,DEP-64,Pyrénées-Atlantiques,2,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_PointSituation_ARSNA_08_03_2020.pdf
@@ -427,6 +569,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,source_nom,source_ur
 2020-03-08,departement,DEP-68,Haut-Rhin,162,2,ARS Grand-Est,https://www.grand-est.ars.sante.fr/system/files/2020-03/Covid19_point_GrandEst080320.pdf
 2020-03-08,departement,DEP-69,Rhône,44,0,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200308_ARSARA_COVID-19_Point_Situation_1.pdf
 2020-03-08,departement,DEP-72,Sarthe,5,,ARS Pays de la Loire,https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-03/2020-03-08%20bulletin%20information%20COVID-19.pdf
+2020-03-08,departement,DEP-72,Sarthe,5,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-08,departement,DEP-73,Savoie,3,0,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200308_ARSARA_COVID-19_Point_Situation_1.pdf
 2020-03-08,departement,DEP-74,Haute-Savoie,59,0,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200308_ARSARA_COVID-19_Point_Situation_1.pdf
 2020-03-08,departement,DEP-75,Paris,26,,ARS Ile-de-France,https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200308.pdf
@@ -438,12 +581,16 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,source_nom,source_ur
 2020-03-08,departement,DEP-83,Var,5,0,ARS Provence-Alpes-Côte d’Azur,https://www.paca.ars.sante.fr/coronavirus-en-provence-alpes-cote-dazur-point-de-situation-du-8-mars
 2020-03-08,departement,DEP-84,Vaucluse,3,0,ARS Provence-Alpes-Côte d’Azur,https://www.paca.ars.sante.fr/coronavirus-en-provence-alpes-cote-dazur-point-de-situation-du-8-mars
 2020-03-08,departement,DEP-85,Vendee,4,,ARS Pays de la Loire,https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-03/2020-03-08%20bulletin%20information%20COVID-19.pdf
+2020-03-08,departement,DEP-85,Vendée,4,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-08,departement,DEP-86,Vienne,1,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_PointSituation_ARSNA_08_03_2020.pdf
+2020-03-08,departement,DEP-86,Vienne,1,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-08,departement,DEP-87,Haute-Vienne,0,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_PointSituation_ARSNA_08_03_2020.pdf
 2020-03-08,departement,DEP-88,Vosges,15,0,ARS Grand-Est,https://www.grand-est.ars.sante.fr/system/files/2020-03/Covid19_point_GrandEst080320.pdf
+2020-03-08,departement,DEP-89,Yonne,4,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
+2020-03-08,departement,DEP-90,Territoire de Belfort,41,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-08,departement,DEP-91,Essone,6,,ARS Ile-de-France,https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200308.pdf
 2020-03-08,departement,DEP-92,Hauts-de-Seine,19,,ARS Ile-de-France,https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200308.pdf
-2020-03-08,departement,DEP-93,Saint-Saint-Denis,16,,ARS Ile-de-France,https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200308.pdf
+2020-03-08,departement,DEP-93,Seine-Saint-Denis,16,,ARS Ile-de-France,https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200308.pdf
 2020-03-08,departement,DEP-94,Val-de-Marne,13,,ARS Ile-de-France,https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200308.pdf
 2020-03-08,departement,DEP-95,Val-d'Oise,39,1,ARS Ile-de-France,https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200308.pdf
 2020-03-08,pays,FRA,France,1126,19,Santé publique France,https://web.archive.org/web/20200309074325/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde
@@ -460,6 +607,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,source_nom,source_ur
 2020-03-08,monde,WORLD,Monde,105828,3584,Santé publique France,https://web.archive.org/web/20200309074325/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde
 2020-03-09,departement,DEP-01,Ain,17,0,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200309_ARSARA_COVID-19_Point_Situation.pdf
 2020-03-09,departement,DEP-02,Aisne,26,2,ARS Hauts-de-France,https://web.archive.org/web/20200311074519/https://www.hauts-de-france.ars.sante.fr/coronavirus-covid-19-point-de-situation-dans-les-hauts-de-france
+2020-03-09,departement,DEP-02,Aisne,28,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-09,departement,DEP-04,Alpes-de-Haute-Provence,1,0,ARS Provence-Alpes-Côte d’Azur,https://www.paca.ars.sante.fr/coronavirus-en-provence-alpes-cote-dazur-point-de-situation-du-9-mars
 2020-03-09,departement,DEP-05,Hautes-Alpes,12,0,ARS Provence-Alpes-Côte d’Azur,https://www.paca.ars.sante.fr/coronavirus-en-provence-alpes-cote-dazur-point-de-situation-du-9-mars
 2020-03-09,departement,DEP-06,Alpes-Maritimes,22,0,ARS Provence-Alpes-Côte d’Azur,https://www.paca.ars.sante.fr/coronavirus-en-provence-alpes-cote-dazur-point-de-situation-du-9-mars
@@ -473,14 +621,19 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,source_nom,source_ur
 2020-03-09,departement,DEP-16,Charente,1,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_PointSituation_ARSNA_09_03_2020.pdf
 2020-03-09,departement,DEP-17,Charente-Maritime,7,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_PointSituation_ARSNA_09_03_2020.pdf
 2020-03-09,departement,DEP-19,Corrèze,2,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_PointSituation_ARSNA_09_03_2020.pdf
+2020-03-09,departement,DEP-19,Corrèze,2,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-09,departement,DEP-22,Côtes-d'Armor,0,0,,
 2020-03-09,departement,DEP-23,Creuse,0,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_PointSituation_ARSNA_09_03_2020.pdf
 2020-03-09,departement,DEP-24,Dordogne,2,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_PointSituation_ARSNA_09_03_2020.pdf
+2020-03-09,departement,DEP-24,Dordogne,3,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
+2020-03-09,departement,DEP-25,Doubs,44,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-09,departement,DEP-26,Drôme,16,1,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200309_ARSARA_COVID-19_Point_Situation.pdf
 2020-03-09,departement,DEP-27,Eure,7,0,ARS Normandie,https://www.normandie.ars.sante.fr/system/files/2020-03/CP-point-situation-2020-03-09.pdf
 2020-03-09,departement,DEP-29,Finistère,5,0,,
 2020-03-09,departement,DEP-2A,Corse du Sud,33,1,ARS Corse,https://twitter.com/ARSCORSE1/status/1237086392297152513
+2020-03-09,departement,DEP-2A,Corse-du-Sud,23,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-09,departement,DEP-2B,Haute-Corse,5,0,ARS Corse,https://twitter.com/ARSCORSE1/status/1237086392297152513
+2020-03-09,departement,DEP-2B,Haute-Corse,6,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-09,departement,DEP-30,Gard,3,0,ARS Occitanie,https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo2_20200309.pdf
 2020-03-09,departement,DEP-31,Haute-Garonne,3,0,ARS Occitanie,https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo2_20200309.pdf
 2020-03-09,departement,DEP-32,Gers,1,0,ARS Occitanie,https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo2_20200309.pdf
@@ -490,8 +643,10 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,source_nom,source_ur
 2020-03-09,departement,DEP-38,Isère,1,0,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200309_ARSARA_COVID-19_Point_Situation.pdf
 2020-03-09,departement,DEP-40,Landes,1,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_PointSituation_ARSNA_09_03_2020.pdf
 2020-03-09,departement,DEP-42,Loire,15,0,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200309_ARSARA_COVID-19_Point_Situation.pdf
+2020-03-09,departement,DEP-44,Loire-Atlantique,9,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-09,departement,DEP-46,Lot,2,0,ARS Occitanie,https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo2_20200309.pdf
 2020-03-09,departement,DEP-47,Lot-et-Garonne,16,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_PointSituation_ARSNA_09_03_2020.pdf
+2020-03-09,departement,DEP-47,Lot-et-Garonne,15,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-09,departement,DEP-50,Manche,6,0,ARS Normandie,https://www.normandie.ars.sante.fr/system/files/2020-03/CP-point-situation-2020-03-09.pdf
 2020-03-09,departement,DEP-50,Manche,6,0,"Préfecture de la Manche, ARS Normandie",http://www.manche.gouv.fr/content/download/44059/310170/file/CP_COVID%2019%20_point%20de%20situation%20Manche%20-%209%20mars%202020.pdf
 2020-03-09,departement,DEP-51,Marne,5,0,ARS Grand-Est,https://www.grand-est.ars.sante.fr/system/files/2020-03/CP_Coronavirus_covid%2019_GrandEst_090320.pdf
@@ -506,11 +661,13 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,source_nom,source_ur
 2020-03-09,departement,DEP-60,Oise,,8,,
 2020-03-09,departement,DEP-61,Orne,0,0,ARS Normandie,https://www.normandie.ars.sante.fr/system/files/2020-03/CP-point-situation-2020-03-09.pdf
 2020-03-09,departement,DEP-62,Pas-de-Calais,6,1,ARS Hauts-de-France,https://web.archive.org/web/20200311074519/https://www.hauts-de-france.ars.sante.fr/coronavirus-covid-19-point-de-situation-dans-les-hauts-de-france
+2020-03-09,departement,DEP-62,Pas-de-Calais,4,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-09,departement,DEP-63,Puy-de-Dôme,7,0,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200309_ARSARA_COVID-19_Point_Situation.pdf
 2020-03-09,departement,DEP-64,Pyrénées-Atlantiques,2,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_PointSituation_ARSNA_09_03_2020.pdf
 2020-03-09,departement,DEP-67,Bas-Rhin,53,0,ARS Grand-Est,https://www.grand-est.ars.sante.fr/system/files/2020-03/CP_Coronavirus_covid%2019_GrandEst_090320.pdf
 2020-03-09,departement,DEP-68,Haut-Rhin,193,2,ARS Grand-Est,https://www.grand-est.ars.sante.fr/system/files/2020-03/CP_Coronavirus_covid%2019_GrandEst_090320.pdf
 2020-03-09,departement,DEP-69,Rhône,49,1,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200309_ARSARA_COVID-19_Point_Situation.pdf
+2020-03-09,departement,DEP-71,Saône-et-Loire,11,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-09,departement,DEP-73,Savoie,3,1,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200309_ARSARA_COVID-19_Point_Situation.pdf
 2020-03-09,departement,DEP-74,Haute-Savoie,66,0,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200309_ARSARA_COVID-19_Point_Situation.pdf
 2020-03-09,departement,DEP-75,Paris,27,,ARS Ile-de-France,https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200309.pdf
@@ -525,13 +682,16 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,source_nom,source_ur
 2020-03-09,departement,DEP-83,Var,9,0,ARS Provence-Alpes-Côte d’Azur,https://www.paca.ars.sante.fr/coronavirus-en-provence-alpes-cote-dazur-point-de-situation-du-9-mars
 2020-03-09,departement,DEP-84,Vaucluse,3,0,ARS Provence-Alpes-Côte d’Azur,https://www.paca.ars.sante.fr/coronavirus-en-provence-alpes-cote-dazur-point-de-situation-du-9-mars
 2020-03-09,departement,DEP-86,Vienne,3,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_PointSituation_ARSNA_09_03_2020.pdf
+2020-03-09,departement,DEP-86,Vienne,3,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-09,departement,DEP-87,Haute-Vienne,0,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_PointSituation_ARSNA_09_03_2020.pdf
 2020-03-09,departement,DEP-88,Vosges,17,1,ARS Grand-Est,https://www.grand-est.ars.sante.fr/system/files/2020-03/CP_Coronavirus_covid%2019_GrandEst_090320.pdf
+2020-03-09,departement,DEP-90,Territoire de Belfort,44,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-09,departement,DEP-91,Essone,7,,ARS Ile-de-France,https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200309.pdf
 2020-03-09,departement,DEP-92,Hauts-de-Seine,20,,ARS Ile-de-France,https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200309.pdf
-2020-03-09,departement,DEP-93,Saint-Saint-Denis,16,,ARS Ile-de-France,https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200309.pdf
+2020-03-09,departement,DEP-93,Seine-Saint-Denis,16,,ARS Ile-de-France,https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200309.pdf
 2020-03-09,departement,DEP-94,Val-de-Marne,15,,ARS Ile-de-France,https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200309.pdf
 2020-03-09,departement,DEP-95,Val-d'Oise,45,1,ARS Ile-de-France,https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200309.pdf
+2020-03-09,departement,DEP-972,Martinique,3,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-09,pays,FRA,France,1412,30,Santé publique France,https://web.archive.org/web/20200309183257/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde
 2020-03-09,region,REG-11,Ile-de-France,283,1,ARS Ile-de-France,https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200309.pdf
 2020-03-09,region,REG-27,Auvergne Rhône-Alpes,182,3,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200309_ARSARA_COVID-19_Point_Situation.pdf
@@ -555,35 +715,47 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,source_nom,source_ur
 2020-03-10,departement,DEP-07,Ardèche,6,0,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200310_ARSARA_COVID-19_Point_Situation.pdf
 2020-03-10,departement,DEP-08,Ardennes,1,0,ARS Grand-Est,https://www.grand-est.ars.sante.fr/system/files/2020-03/CP_Coronavirus_covid%2019_GrandEst_090320.pdf
 2020-03-10,departement,DEP-10,Aube,1,0,ARS Grand-Est,https://www.grand-est.ars.sante.fr/system/files/2020-03/CP_Coronavirus_covid%2019_GrandEst_090320.pdf
+2020-03-10,departement,DEP-11,Aude,22,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
+2020-03-10,departement,DEP-12,Aveyron,9,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-10,departement,DEP-13,Bouches-du-Rhône,37,0,ARS Provence-Alpes-Côte d’Azur,https://www.paca.ars.sante.fr/system/files/2020-03/CP%20point%20de%20situation%2010032020.pdf
 2020-03-10,departement,DEP-14,Calvados,2,0,ARS Normandie,https://www.normandie.ars.sante.fr/system/files/2020-03/CP-point-situation-2020-03-10.pdf
 2020-03-10,departement,DEP-16,Charente,1,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_PointSituation_ARSNA_10_03_2020.pdf
 2020-03-10,departement,DEP-17,Charente-Maritime,13,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_PointSituation_ARSNA_10_03_2020.pdf
+2020-03-10,departement,DEP-17,Charente-Maritime,13,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-10,departement,DEP-18,Cher,0,0,ARS Centre - Val de Loire,http://www.indre.gouv.fr/content/download/23274/163576/file/Bulletin%20d'information%20Covid-19%20-%20n%C2%B02%20-%2010-03-20%20.pdf
 2020-03-10,departement,DEP-19,Corrèze,2,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_PointSituation_ARSNA_10_03_2020.pdf
+2020-03-10,departement,DEP-21,Côte-d'Or,9,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-10,departement,DEP-22,Côtes-d'Armor,0,0,,
-2020-03-10,departement,DEP-22,Côtes d'Armor,0,0,Préfecture d'Ille-et-Vilaine,http://www.ille-et-vilaine.gouv.fr/Actualites/Espace-presse/2020/COVID-19-informations-recommandations-et-mesures-sanitaires
+2020-03-10,departement,DEP-22,Côtes-d'Armor,0,0,Préfecture d'Ille-et-Vilaine,http://www.ille-et-vilaine.gouv.fr/Actualites/Espace-presse/2020/COVID-19-informations-recommandations-et-mesures-sanitaires
 2020-03-10,departement,DEP-23,Creuse,0,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_PointSituation_ARSNA_10_03_2020.pdf
 2020-03-10,departement,DEP-24,Dordogne,2,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_PointSituation_ARSNA_10_03_2020.pdf
+2020-03-10,departement,DEP-25,Doubs,52,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-10,departement,DEP-26,Drôme,20,1,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200310_ARSARA_COVID-19_Point_Situation.pdf
 2020-03-10,departement,DEP-27,Eure,11,0,ARS Normandie,https://www.normandie.ars.sante.fr/system/files/2020-03/CP-point-situation-2020-03-10.pdf
 2020-03-10,departement,DEP-28,Eure-et-Loir,5,0,ARS Centre - Val de Loire,http://www.indre.gouv.fr/content/download/23274/163576/file/Bulletin%20d'information%20Covid-19%20-%20n%C2%B02%20-%2010-03-20%20.pdf
 2020-03-10,departement,DEP-29,Finistère,7,0,,
 2020-03-10,departement,DEP-29,Finistère,7,0,Préfecture d'Ille-et-Vilaine,http://www.ille-et-vilaine.gouv.fr/Actualites/Espace-presse/2020/COVID-19-informations-recommandations-et-mesures-sanitaires
 2020-03-10,departement,DEP-2A,Corse du Sud,36,2,ARS Corse,https://twitter.com/ARSCORSE1/status/1237426287892979713
+2020-03-10,departement,DEP-2A,Corse-du-Sud,27,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-10,departement,DEP-2B,Haute-Corse,6,0,ARS Corse,https://twitter.com/ARSCORSE1/status/1237426287892979713
+2020-03-10,departement,DEP-2B,Haute-Corse,7,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
+2020-03-10,departement,DEP-30,Gard,6,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-10,departement,DEP-33,Gironde,5,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_PointSituation_ARSNA_10_03_2020.pdf
+2020-03-10,departement,DEP-33,Gironde,5,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
+2020-03-10,departement,DEP-34,Hérault,40,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-10,departement,DEP-35,Ille-et-Vilaine,11,0,,
 2020-03-10,departement,DEP-35,Ille-et-Vilaine,11,0,Préfecture d'Ille-et-Vilaine,http://www.ille-et-vilaine.gouv.fr/Actualites/Espace-presse/2020/COVID-19-informations-recommandations-et-mesures-sanitaires
 2020-03-10,departement,DEP-36,Indre,0,0,ARS Centre - Val de Loire,http://www.indre.gouv.fr/content/download/23274/163576/file/Bulletin%20d'information%20Covid-19%20-%20n%C2%B02%20-%2010-03-20%20.pdf
 2020-03-10,departement,DEP-37,Indre-et-Loire,5,0,ARS Centre - Val de Loire,http://www.indre.gouv.fr/content/download/23274/163576/file/Bulletin%20d'information%20Covid-19%20-%20n%C2%B02%20-%2010-03-20%20.pdf
 2020-03-10,departement,DEP-38,Isère,3,0,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200310_ARSARA_COVID-19_Point_Situation.pdf
+2020-03-10,departement,DEP-39,Jura,6,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-10,departement,DEP-40,Landes,1,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_PointSituation_ARSNA_10_03_2020.pdf
 2020-03-10,departement,DEP-41,Loir-et-Cher,0,0,ARS Centre - Val de Loire,http://www.indre.gouv.fr/content/download/23274/163576/file/Bulletin%20d'information%20Covid-19%20-%20n%C2%B02%20-%2010-03-20%20.pdf
 2020-03-10,departement,DEP-42,Loire,29,0,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200310_ARSARA_COVID-19_Point_Situation.pdf
 2020-03-10,departement,DEP-44,Loire-Atlantique,9,,ARS Pays de la Loire,
 2020-03-10,departement,DEP-45,Loiret,7,0,ARS Centre - Val de Loire,http://www.indre.gouv.fr/content/download/23274/163576/file/Bulletin%20d'information%20Covid-19%20-%20n%C2%B02%20-%2010-03-20%20.pdf
 2020-03-10,departement,DEP-47,Lot-et-Garonne,23,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_PointSituation_ARSNA_10_03_2020.pdf
+2020-03-10,departement,DEP-47,Lot-et-Garonne,22,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-10,departement,DEP-49,Maine-et-Loire,7,,ARS Pays de la Loire,
 2020-03-10,departement,DEP-50,Manche,6,0,ARS Normandie,https://www.normandie.ars.sante.fr/system/files/2020-03/CP-point-situation-2020-03-10.pdf
 2020-03-10,departement,DEP-50,Manche,6,0,"Préfecture de la Manche, ARS Normandie",http://www.manche.gouv.fr/content/download/44090/310316/file/CP_COVID%2019%20_point%20de%20situation%20Manche%20-%2010%20mars%202020_V3.pdf
@@ -605,6 +777,8 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,source_nom,source_ur
 2020-03-10,departement,DEP-67,Bas-Rhin,104,0,ARS Grand-Est,https://www.grand-est.ars.sante.fr/system/files/2020-03/CP_Coronavirus_covid%2019_GrandEst_090320.pdf
 2020-03-10,departement,DEP-68,Haut-Rhin,260,3,ARS Grand-Est,https://www.grand-est.ars.sante.fr/system/files/2020-03/CP_Coronavirus_covid%2019_GrandEst_090320.pdf
 2020-03-10,departement,DEP-69,Rhône,60,1,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200310_ARSARA_COVID-19_Point_Situation.pdf
+2020-03-10,departement,DEP-70,Haute-Saône,7,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
+2020-03-10,departement,DEP-71,Saône-et-Loire,13,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-10,departement,DEP-72,Sarthe,6,,ARS Pays de la Loire,
 2020-03-10,departement,DEP-73,Savoie,4,1,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200310_ARSARA_COVID-19_Point_Situation.pdf
 2020-03-10,departement,DEP-74,Haute-Savoie,71,0,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200310_ARSARA_COVID-19_Point_Situation.pdf
@@ -615,16 +789,21 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,source_nom,source_ur
 2020-03-10,departement,DEP-79,Deux-Sèvres,1,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_PointSituation_ARSNA_10_03_2020.pdf
 2020-03-10,departement,DEP-80,Somme,12,2,ARS Hauts-de-France,https://www.hauts-de-france.ars.sante.fr/system/files/2020-03/Point%20quotidien%20cas%20confirm%C3%A9s%20-%2010032020_0.pdf
 2020-03-10,departement,DEP-80,Somme,12,2,Préfecture de la Somme,http://www.somme.gouv.fr/content/download/31875/197389/file/10%20mars%202020.pdf
+2020-03-10,departement,DEP-81,Tarn,3,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
+2020-03-10,departement,DEP-82,Tarn-et-Garonne,4,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-10,departement,DEP-83,Var,11,0,ARS Provence-Alpes-Côte d’Azur,https://www.paca.ars.sante.fr/system/files/2020-03/CP%20point%20de%20situation%2010032020.pdf
 2020-03-10,departement,DEP-84,Vaucluse,3,0,ARS Provence-Alpes-Côte d’Azur,https://www.paca.ars.sante.fr/system/files/2020-03/CP%20point%20de%20situation%2010032020.pdf
 2020-03-10,departement,DEP-85,Vendee,4,,ARS Pays de la Loire,
 2020-03-10,departement,DEP-86,Vienne,4,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_PointSituation_ARSNA_10_03_2020.pdf
+2020-03-10,departement,DEP-86,Vienne,4,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-10,departement,DEP-87,Haute-Vienne,0,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_PointSituation_ARSNA_10_03_2020.pdf
 2020-03-10,departement,DEP-88,Vosges,28,1,ARS Grand-Est,https://www.grand-est.ars.sante.fr/system/files/2020-03/CP_Coronavirus_covid%2019_GrandEst_090320.pdf
 2020-03-10,departement,DEP-89,Yonne,,1,ARS Bourgogne-Franche-Comté,https://www.bourgogne-franche-comte.ars.sante.fr/system/files/2020-03/2020.03.10_COVID19_SITUATION%20BFC.pdf
+2020-03-10,departement,DEP-89,Yonne,6,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
+2020-03-10,departement,DEP-90,Territoire de Belfort,52,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-10,departement,DEP-91,Essone,8,,ARS Ile-de-France,https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200310_0.pdf
 2020-03-10,departement,DEP-92,Hauts-de-Seine,28,,ARS Ile-de-France,https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200310_0.pdf
-2020-03-10,departement,DEP-93,Saint-Saint-Denis,22,,ARS Ile-de-France,https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200310_0.pdf
+2020-03-10,departement,DEP-93,Seine-Saint-Denis,22,,ARS Ile-de-France,https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200310_0.pdf
 2020-03-10,departement,DEP-94,Val-de-Marne,31,,ARS Ile-de-France,https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200310_0.pdf
 2020-03-10,departement,DEP-95,Val-d'Oise,55,1,ARS Ile-de-France,https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200310_0.pdf
 2020-03-10,pays,FRA,France,1784,33,Santé publique France,
@@ -672,39 +851,50 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,source_nom,source_ur
 2020-03-11,departement,DEP-13,Bouches-du-Rhône,46,0,ARS Provence-Alpes-Côte d’Azur,https://www.paca.ars.sante.fr/coronavirus-en-provence-alpes-cote-dazur-point-de-situation-du-11-mars
 2020-03-11,departement,DEP-14,Calvados,15,0,ARS Normandie,https://www.normandie.ars.sante.fr/system/files/2020-03/CP-point-situation-2020-03-11.pdf
 2020-03-11,departement,DEP-16,Charente,2,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_PointSituation_ARSNA_11_03_2020.pdf
+2020-03-11,departement,DEP-16,Charente,2,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-11,departement,DEP-17,Charente-Maritime,20,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_PointSituation_ARSNA_11_03_2020.pdf
+2020-03-11,departement,DEP-17,Charente-Maritime,20,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-11,departement,DEP-18,Cher,0,0,ARS Centre - Val de Loire,http://www.indre.gouv.fr/content/download/23298/163705/file/Bulletin_Covid19_11mars_2.pdf
 2020-03-11,departement,DEP-19,Corrèze,4,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_PointSituation_ARSNA_11_03_2020.pdf
+2020-03-11,departement,DEP-19,Corrèze,4,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-11,departement,DEP-22,Côtes-d'Armor,0,0,,
-2020-03-11,departement,DEP-22,Côtes d'Armor,0,0,Préfecture d'Ille-et-Vilaine,http://www.ille-et-vilaine.gouv.fr/Actualites/Espace-presse/2020/COVID-19-informations-recommandations-et-mesures-sanitaires
+2020-03-11,departement,DEP-22,Côtes-d'Armor,0,0,Préfecture d'Ille-et-Vilaine,http://www.ille-et-vilaine.gouv.fr/Actualites/Espace-presse/2020/COVID-19-informations-recommandations-et-mesures-sanitaires
 2020-03-11,departement,DEP-23,Creuse,0,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_PointSituation_ARSNA_11_03_2020.pdf
 2020-03-11,departement,DEP-24,Dordogne,3,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_PointSituation_ARSNA_11_03_2020.pdf
 2020-03-11,departement,DEP-25,Doubs,,1,ARS Bourgogne-Franche-Comté,https://www.bourgogne-franche-comte.ars.sante.fr/system/files/2020-03/2020.03.11_COVID19_SITUATION%20BFC.pdf
+2020-03-11,departement,DEP-25,Doubs,59,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-11,departement,DEP-26,Drôme,24,1,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200311_ARSARA_COVID-19_Point_Situation_0.pdf
 2020-03-11,departement,DEP-27,Eure,14,0,ARS Normandie,https://www.normandie.ars.sante.fr/system/files/2020-03/CP-point-situation-2020-03-11.pdf
 2020-03-11,departement,DEP-28,Eure-et-Loir,5,0,ARS Centre - Val de Loire,http://www.indre.gouv.fr/content/download/23298/163705/file/Bulletin_Covid19_11mars_2.pdf
 2020-03-11,departement,DEP-29,Finistère,7,0,,
 2020-03-11,departement,DEP-29,Finistère,7,0,Préfecture d'Ille-et-Vilaine,http://www.ille-et-vilaine.gouv.fr/Actualites/Espace-presse/2020/COVID-19-informations-recommandations-et-mesures-sanitaires
 2020-03-11,departement,DEP-2A,Corse du Sud,44,3,ARS Corse,https://twitter.com/ARSCORSE1/status/1237767540300034048
+2020-03-11,departement,DEP-2A,Corse-du-Sud,40,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-11,departement,DEP-2B,Haute-Corse,7,0,ARS Corse,https://twitter.com/ARSCORSE1/status/1237767540300034048
+2020-03-11,departement,DEP-2B,Haute-Corse,8,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-11,departement,DEP-30,Gard,6,0,ARS Occitanie,https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo3_20200311.pdf
 2020-03-11,departement,DEP-31,Haute-Garonne,7,0,ARS Occitanie,https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo3_20200311.pdf
 2020-03-11,departement,DEP-32,Gers,3,0,ARS Occitanie,https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo3_20200311.pdf
 2020-03-11,departement,DEP-33,Gironde,7,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_PointSituation_ARSNA_11_03_2020.pdf
+2020-03-11,departement,DEP-33,Gironde,7,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-11,departement,DEP-34,Hérault,59,0,ARS Occitanie,https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo3_20200311.pdf
 2020-03-11,departement,DEP-35,Ille-et-Vilaine,13,0,,
 2020-03-11,departement,DEP-35,Ille-et-Vilaine,13,0,Préfecture d'Ille-et-Vilaine,http://www.ille-et-vilaine.gouv.fr/Actualites/Espace-presse/2020/COVID-19-informations-recommandations-et-mesures-sanitaires
 2020-03-11,departement,DEP-36,Indre,0,0,ARS Centre - Val de Loire,http://www.indre.gouv.fr/content/download/23298/163705/file/Bulletin_Covid19_11mars_2.pdf
 2020-03-11,departement,DEP-37,Indre-et-Loire,6,0,ARS Centre - Val de Loire,http://www.indre.gouv.fr/content/download/23298/163705/file/Bulletin_Covid19_11mars_2.pdf
+2020-03-11,departement,DEP-37,Indre-et-Loire,6,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-11,departement,DEP-38,Isère,13,0,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200311_ARSARA_COVID-19_Point_Situation_0.pdf
 2020-03-11,departement,DEP-39,Jura,,1,ARS Bourgogne-Franche-Comté,https://www.bourgogne-franche-comte.ars.sante.fr/system/files/2020-03/2020.03.11_COVID19_SITUATION%20BFC.pdf
+2020-03-11,departement,DEP-39,Jura,7,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-11,departement,DEP-40,Landes,1,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_PointSituation_ARSNA_11_03_2020.pdf
 2020-03-11,departement,DEP-41,Loir-et-Cher,0,0,ARS Centre - Val de Loire,http://www.indre.gouv.fr/content/download/23298/163705/file/Bulletin_Covid19_11mars_2.pdf
 2020-03-11,departement,DEP-42,Loire,34,0,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200311_ARSARA_COVID-19_Point_Situation_0.pdf
 2020-03-11,departement,DEP-43,Haute-Loire,4,0,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200311_ARSARA_COVID-19_Point_Situation_0.pdf
 2020-03-11,departement,DEP-45,Loiret,9,0,ARS Centre - Val de Loire,http://www.indre.gouv.fr/content/download/23298/163705/file/Bulletin_Covid19_11mars_2.pdf
+2020-03-11,departement,DEP-45,Loiret,9,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-11,departement,DEP-46,Lot,3,0,ARS Occitanie,https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo3_20200311.pdf
 2020-03-11,departement,DEP-47,Lot-et-Garonne,24,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_PointSituation_ARSNA_11_03_2020.pdf
+2020-03-11,departement,DEP-47,Lot-et-Garonne,23,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-11,departement,DEP-50,Manche,10,0,ARS Normandie,https://www.normandie.ars.sante.fr/system/files/2020-03/CP-point-situation-2020-03-11.pdf
 2020-03-11,departement,DEP-50,Manche,10,0,"Préfecture de la Manche, ARS Normandie",http://www.manche.gouv.fr/content/download/44101/310371/file/CP_COVID%2019%20_point%20de%20situation%20Manche%20-%2011%20mars%202020.pdf
 2020-03-11,departement,DEP-51,Marne,7,1,ARS Grand-Est,https://www.grand-est.ars.sante.fr/system/files/2020-03/20200310_CP_Pref68_Coronavirus.pdf
@@ -719,10 +909,12 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,source_nom,source_ur
 2020-03-11,departement,DEP-61,Orne,2,0,ARS Normandie,https://www.normandie.ars.sante.fr/system/files/2020-03/CP-point-situation-2020-03-11.pdf
 2020-03-11,departement,DEP-63,Puy-de-Dôme,11,0,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200311_ARSARA_COVID-19_Point_Situation_0.pdf
 2020-03-11,departement,DEP-64,Pyrénées-Atlantiques,1,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_PointSituation_ARSNA_11_03_2020.pdf
+2020-03-11,departement,DEP-64,Pyrénées-Atlantiques,3,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-11,departement,DEP-65,Haute-Pyrénées,1,0,ARS Occitanie,https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo3_20200311.pdf
 2020-03-11,departement,DEP-67,Bas-Rhin,108,3,ARS Grand-Est,https://www.grand-est.ars.sante.fr/system/files/2020-03/20200310_CP_Pref68_Coronavirus.pdf
 2020-03-11,departement,DEP-68,Haut-Rhin,359,3,ARS Grand-Est,https://www.grand-est.ars.sante.fr/system/files/2020-03/20200310_CP_Pref68_Coronavirus.pdf
 2020-03-11,departement,DEP-69,Rhône,72,1,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200311_ARSARA_COVID-19_Point_Situation_0.pdf
+2020-03-11,departement,DEP-70,Haute-Saône,9,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-11,departement,DEP-73,Savoie,4,1,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200311_ARSARA_COVID-19_Point_Situation_0.pdf
 2020-03-11,departement,DEP-74,Haute-Savoie,72,0,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200311_ARSARA_COVID-19_Point_Situation_0.pdf
 2020-03-11,departement,DEP-75,Paris,80,,ARS Ile-de-France,https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200311.pdf
@@ -736,16 +928,22 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,source_nom,source_ur
 2020-03-11,departement,DEP-83,Var,13,0,ARS Provence-Alpes-Côte d’Azur,https://www.paca.ars.sante.fr/coronavirus-en-provence-alpes-cote-dazur-point-de-situation-du-11-mars
 2020-03-11,departement,DEP-84,Vaucluse,4,0,ARS Provence-Alpes-Côte d’Azur,https://www.paca.ars.sante.fr/coronavirus-en-provence-alpes-cote-dazur-point-de-situation-du-11-mars
 2020-03-11,departement,DEP-86,Vienne,6,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_PointSituation_ARSNA_11_03_2020.pdf
+2020-03-11,departement,DEP-86,Vienne,6,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-11,departement,DEP-87,Haute-Vienne,1,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_PointSituation_ARSNA_11_03_2020.pdf
+2020-03-11,departement,DEP-87,Haute-Vienne,1,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-11,departement,DEP-88,Vosges,31,1,ARS Grand-Est,https://www.grand-est.ars.sante.fr/system/files/2020-03/20200310_CP_Pref68_Coronavirus.pdf
 2020-03-11,departement,DEP-89,Yonne,,1,ARS Bourgogne-Franche-Comté,https://www.bourgogne-franche-comte.ars.sante.fr/system/files/2020-03/2020.03.11_COVID19_SITUATION%20BFC.pdf
+2020-03-11,departement,DEP-89,Yonne,7,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
+2020-03-11,departement,DEP-90,Territoire de Belfort,58,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-11,departement,DEP-91,Essone,20,,ARS Ile-de-France,https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200311.pdf
 2020-03-11,departement,DEP-92,Hauts-de-Seine,47,,ARS Ile-de-France,https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200311.pdf
-2020-03-11,departement,DEP-93,Saint-Saint-Denis,29,,ARS Ile-de-France,https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200311.pdf
+2020-03-11,departement,DEP-93,Seine-Saint-Denis,29,,ARS Ile-de-France,https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200311.pdf
 2020-03-11,departement,DEP-94,Val-de-Marne,36,,ARS Ile-de-France,https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200311.pdf
 2020-03-11,departement,DEP-95,Val-d'Oise,59,1,ARS Ile-de-France,https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200311.pdf
 2020-03-11,departement,DEP-971,Guadeloupe,0,,ARS Guadeloupe,https://www.guadeloupe.ars.sante.fr/system/files/2020-03/Bulletin%20n°7%20coronavirus%20Guad.pdf
+2020-03-11,departement,DEP-972,Martinique,4,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-11,departement,DEP-973,Guyane,6,,ARS Guyane,https://www.guyane.ars.sante.fr/system/files/2020-03/2020_03_11_CP%20COVID-19.pdf
+2020-03-11,departement,DEP-974,La Réunion,1,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-11,pays,FRA,France,2281,48,Santé publique France,
 2020-03-11,region,REG-01,Guadeloupe,0,,ARS Guadeloupe,https://www.guadeloupe.ars.sante.fr/system/files/2020-03/Bulletin%20n°7%20coronavirus%20Guad.pdf
 2020-03-11,region,REG-01,Guadeloupe,0,,Santé publique France,
@@ -793,13 +991,16 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,source_nom,source_ur
 2020-03-12,departement,DEP-13,Bouches-du-Rhône,67,0,ARS Provence-Alpes-Côte d’Azur,https://www.paca.ars.sante.fr/coronavirus-en-provence-alpes-cote-dazur-point-de-situation-du-12-mars
 2020-03-12,departement,DEP-14,Calvados,20,0,ARS Normandie,https://www.normandie.ars.sante.fr/system/files/2020-03/CP-point-situation-2020-03-12.pdf
 2020-03-12,departement,DEP-16,Charente,3,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_12_03_2020.pdf
+2020-03-12,departement,DEP-16,Charente,3,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-12,departement,DEP-17,Charente-Maritime,20,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_12_03_2020.pdf
 2020-03-12,departement,DEP-18,Cher,1,0,ARS Centre - Val de Loire,https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/CP_Coronavirus120320-pointsituation.pdf
 2020-03-12,departement,DEP-19,Corrèze,5,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_12_03_2020.pdf
+2020-03-12,departement,DEP-19,Corrèze,5,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-12,departement,DEP-22,Côtes-d'Armor,1,0,ARS Bretagne,https://www.bretagne.ars.sante.fr/system/files/2020-03/2020-03-12-bulletin%20information%20COVID-19_VF.pdf
-2020-03-12,departement,DEP-22,Côtes d'Armor,1,0,Préfecture d'Ille-et-Vilaine,http://www.ille-et-vilaine.gouv.fr/Actualites/Espace-presse/2020/COVID-19-informations-recommandations-et-mesures-sanitaires
+2020-03-12,departement,DEP-22,Côtes-d'Armor,1,0,Préfecture d'Ille-et-Vilaine,http://www.ille-et-vilaine.gouv.fr/Actualites/Espace-presse/2020/COVID-19-informations-recommandations-et-mesures-sanitaires
 2020-03-12,departement,DEP-23,Creuse,0,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_12_03_2020.pdf
 2020-03-12,departement,DEP-24,Dordogne,5,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_12_03_2020.pdf
+2020-03-12,departement,DEP-24,Dordogne,5,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-12,departement,DEP-25,Doubs,,1,ARS Bourgogne-Franche-Comté,https://www.bourgogne-franche-comte.ars.sante.fr/system/files/2020-03/2020.03.12_COVID19_SITUATION%20BFC%20.pdf
 2020-03-12,departement,DEP-26,Drôme,33,1,ARS Auvergne Rhône-Alpes,http://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200312_ARSARA_COVID-19_Point_Situation.pdf
 2020-03-12,departement,DEP-27,Eure,17,0,ARS Normandie,https://www.normandie.ars.sante.fr/system/files/2020-03/CP-point-situation-2020-03-12.pdf
@@ -807,11 +1008,14 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,source_nom,source_ur
 2020-03-12,departement,DEP-29,Finistère,12,0,ARS Bretagne,https://www.bretagne.ars.sante.fr/system/files/2020-03/2020-03-12-bulletin%20information%20COVID-19_VF.pdf
 2020-03-12,departement,DEP-29,Finistère,12,0,Préfecture d'Ille-et-Vilaine,http://www.ille-et-vilaine.gouv.fr/Actualites/Espace-presse/2020/COVID-19-informations-recommandations-et-mesures-sanitaires
 2020-03-12,departement,DEP-2A,Corse du Sud,53,3,ARS Corse,https://twitter.com/ARSCORSE1/status/1238136760611278848
+2020-03-12,departement,DEP-2A,Corse-du-Sud,50,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-12,departement,DEP-2B,Haute-Corse,11,0,ARS Corse,https://twitter.com/ARSCORSE1/status/1238136760611278848
+2020-03-12,departement,DEP-2B,Haute-Corse,10,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-12,departement,DEP-30,Gard,17,0,ARS Occitanie,https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo4_20200312.pdf
 2020-03-12,departement,DEP-31,Haute-Garonne,13,0,ARS Occitanie,https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo4_20200312.pdf
 2020-03-12,departement,DEP-32,Gers,3,0,ARS Occitanie,https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo4_20200312.pdf
 2020-03-12,departement,DEP-33,Gironde,9,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_12_03_2020.pdf
+2020-03-12,departement,DEP-33,Gironde,9,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-12,departement,DEP-34,Hérault,65,0,ARS Occitanie,https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo4_20200312.pdf
 2020-03-12,departement,DEP-35,Ille-et-Vilaine,22,0,ARS Bretagne,https://www.bretagne.ars.sante.fr/system/files/2020-03/2020-03-12-bulletin%20information%20COVID-19_VF.pdf
 2020-03-12,departement,DEP-35,Ille-et-Vilaine,23,0,Préfecture d'Ille-et-Vilaine,http://www.ille-et-vilaine.gouv.fr/Actualites/Espace-presse/2020/COVID-19-informations-recommandations-et-mesures-sanitaires
@@ -820,6 +1024,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,source_nom,source_ur
 2020-03-12,departement,DEP-38,Isère,16,0,ARS Auvergne Rhône-Alpes,http://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200312_ARSARA_COVID-19_Point_Situation.pdf
 2020-03-12,departement,DEP-39,Jura,,1,ARS Bourgogne-Franche-Comté,https://www.bourgogne-franche-comte.ars.sante.fr/system/files/2020-03/2020.03.12_COVID19_SITUATION%20BFC%20.pdf
 2020-03-12,departement,DEP-40,Landes,2,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_12_03_2020.pdf
+2020-03-12,departement,DEP-40,Landes,3,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-12,departement,DEP-41,Loir-et-Cher,1,0,ARS Centre - Val de Loire,https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/CP_Coronavirus120320-pointsituation.pdf
 2020-03-12,departement,DEP-42,Loire,43,0,ARS Auvergne Rhône-Alpes,http://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200312_ARSARA_COVID-19_Point_Situation.pdf
 2020-03-12,departement,DEP-43,Haute-Loire,5,0,ARS Auvergne Rhône-Alpes,http://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200312_ARSARA_COVID-19_Point_Situation.pdf
@@ -827,6 +1032,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,source_nom,source_ur
 2020-03-12,departement,DEP-45,Loiret,10,0,ARS Centre - Val de Loire,https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/CP_Coronavirus120320-pointsituation.pdf
 2020-03-12,departement,DEP-46,Lot,3,0,ARS Occitanie,https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo4_20200312.pdf
 2020-03-12,departement,DEP-47,Lot-et-Garonne,26,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_12_03_2020.pdf
+2020-03-12,departement,DEP-47,Lot-et-Garonne,25,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-12,departement,DEP-49,Maine-et-Loire,10,,ARS Pays de la Loire,
 2020-03-12,departement,DEP-50,Manche,10,0,ARS Normandie,https://www.normandie.ars.sante.fr/system/files/2020-03/CP-point-situation-2020-03-12.pdf
 2020-03-12,departement,DEP-50,Manche,11,0,"Préfecture de la Manche, ARS Normandie",http://www.manche.gouv.fr/content/download/44139/310648/file/CP_COVID%2019%20_point%20de%20situation%20Manche%20-%2012%20mars%202020.pdf
@@ -841,6 +1047,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,source_nom,source_ur
 2020-03-12,departement,DEP-62,Pas-de-Calais,8,1,ARS Hauts-de-France,https://www.hauts-de-france.ars.sante.fr/coronavirus-covid-19-point-de-situation-dans-les-hauts-de-france
 2020-03-12,departement,DEP-63,Puy-de-Dôme,13,0,ARS Auvergne Rhône-Alpes,http://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200312_ARSARA_COVID-19_Point_Situation.pdf
 2020-03-12,departement,DEP-64,Pyrénées-Atlantiques,7,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_12_03_2020.pdf
+2020-03-12,departement,DEP-64,Pyrénées-Atlantiques,9,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-12,departement,DEP-65,Haute-Pyrénées,2,0,ARS Occitanie,https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo4_20200312.pdf
 2020-03-12,departement,DEP-66,Pyrénées-Orientales,3,0,ARS Occitanie,https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo4_20200312.pdf
 2020-03-12,departement,DEP-69,Rhône,87,5,ARS Auvergne Rhône-Alpes,http://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200312_ARSARA_COVID-19_Point_Situation.pdf
@@ -865,9 +1072,11 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,source_nom,source_ur
 2020-03-12,departement,DEP-89,Yonne,,1,ARS Bourgogne-Franche-Comté,https://www.bourgogne-franche-comte.ars.sante.fr/system/files/2020-03/2020.03.12_COVID19_SITUATION%20BFC%20.pdf
 2020-03-12,departement,DEP-91,Essone,30,,ARS Ile-de-France,https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid10_20200312.pdf
 2020-03-12,departement,DEP-92,Hauts-de-Seine,59,,ARS Ile-de-France,https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid10_20200312.pdf
-2020-03-12,departement,DEP-93,Saint-Saint-Denis,45,,ARS Ile-de-France,https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid10_20200312.pdf
+2020-03-12,departement,DEP-93,Seine-Saint-Denis,45,,ARS Ile-de-France,https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid10_20200312.pdf
 2020-03-12,departement,DEP-94,Val-de-Marne,48,,ARS Ile-de-France,https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid10_20200312.pdf
 2020-03-12,departement,DEP-95,Val-d'Oise,60,1,ARS Ile-de-France,https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid10_20200312.pdf
+2020-03-12,departement,DEP-972,Martinique,6,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
+2020-03-12,departement,DEP-974,La Réunion,4,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-12,pays,FRA,France,2876,61,Santé publique France,
 2020-03-12,region,REG-01,Guadeloupe,0,,Santé publique France,
 2020-03-12,region,REG-02,Martinique,4,,Santé publique France,
@@ -917,7 +1126,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,source_nom,source_ur
 2020-03-13,departement,DEP-18,Cher,1,0,ARS Centre - Val de Loire,https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-13-bulletin%20information%20COVID-19.pdf
 2020-03-13,departement,DEP-19,Corrèze,5,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_13_03_2020_0.pdf
 2020-03-13,departement,DEP-22,Côtes-d'Armor,1,0,ARS Bretagne,http://www.ille-et-vilaine.gouv.fr/Actualites/Espace-presse/2020/COVID-19-informations-recommandations-et-mesures-sanitaires
-2020-03-13,departement,DEP-22,Côtes d'Armor,1,0,Préfecture d'Ille-et-Vilaine,http://www.ille-et-vilaine.gouv.fr/Actualites/Espace-presse/2020/COVID-19-informations-recommandations-et-mesures-sanitaires
+2020-03-13,departement,DEP-22,Côtes-d'Armor,1,0,Préfecture d'Ille-et-Vilaine,http://www.ille-et-vilaine.gouv.fr/Actualites/Espace-presse/2020/COVID-19-informations-recommandations-et-mesures-sanitaires
 2020-03-13,departement,DEP-23,Creuse,1,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_13_03_2020_0.pdf
 2020-03-13,departement,DEP-24,Dordogne,5,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_13_03_2020_0.pdf
 2020-03-13,departement,DEP-25,Doubs,,1,ARS Bourgogne-Franche-Comté,https://www.bourgogne-franche-comte.ars.sante.fr/system/files/2020-03/2020.03.13_COVID19_SITUATION%20BFC.pdf
@@ -980,6 +1189,9 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,source_nom,source_ur
 2020-03-13,departement,DEP-88,Vosges,44,,ARS Grand-Est,http://www.grand-est.ars.sante.fr/system/files/2020-03/Communique%20Coronavirus%20covid%2019%20-%20point%20de%20situation%20en%20Grand%20Est%2013.03.2020.pdf
 2020-03-13,departement,DEP-89,Yonne,,1,ARS Bourgogne-Franche-Comté,https://www.bourgogne-franche-comte.ars.sante.fr/system/files/2020-03/2020.03.13_COVID19_SITUATION%20BFC.pdf
 2020-03-13,departement,DEP-971,Guadeloupe,1,,ARS Guadeloupe,https://www.guadeloupe.ars.sante.fr/system/files/2020-03/Bulletin%20n°8%20coronavirus%20Guad.pdf
+2020-03-13,departement,DEP-971,Guadeloupe,1,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
+2020-03-13,departement,DEP-973,Guyane,6,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
+2020-03-13,departement,DEP-974,La Réunion,5,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
 2020-03-13,pays,FRA,France,3661,79,Santé publique France,
 2020-03-13,region,REG-01,Guadeloupe,1,,ARS Guadeloupe,https://www.guadeloupe.ars.sante.fr/system/files/2020-03/Bulletin%20n°8%20coronavirus%20Guad.pdf
 2020-03-13,region,REG-01,Guadeloupe,1,,Santé publique France,
@@ -1030,7 +1242,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,source_nom,source_ur
 2020-03-14,departement,DEP-18,Cher,2,0,ARS Centre - Val de Loire,https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-14-bulletin%20information%20COVID-19_0.pdf
 2020-03-14,departement,DEP-19,Corrèze,5,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_14_03_2020_VF.pdf
 2020-03-14,departement,DEP-22,Côtes-d'Armor,4,,ARS Bretagne,https://www.bretagne.ars.sante.fr/coronavirus-en-bretagne-point-de-situation-sanitaire-du-samedi-14-mars-2020-et-nouvelles-mesures
-2020-03-14,departement,DEP-22,Côtes d'Armor,4,0,Préfecture d'Ille-et-Vilaine,http://www.ille-et-vilaine.gouv.fr/Actualites/Espace-presse/2020/COVID-19-informations-recommandations-et-mesures-sanitaires
+2020-03-14,departement,DEP-22,Côtes-d'Armor,4,0,Préfecture d'Ille-et-Vilaine,http://www.ille-et-vilaine.gouv.fr/Actualites/Espace-presse/2020/COVID-19-informations-recommandations-et-mesures-sanitaires
 2020-03-14,departement,DEP-23,Creuse,1,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_14_03_2020_VF.pdf
 2020-03-14,departement,DEP-24,Dordogne,7,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_14_03_2020_VF.pdf
 2020-03-14,departement,DEP-25,Doubs,,1,ARS Bourgogne-Franche-Comté,https://www.bourgogne-franche-comte.ars.sante.fr/system/files/2020-03/2020.03.14_COVID19_SITUATION%20BFC.pdf
@@ -1078,7 +1290,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,source_nom,source_ur
 2020-03-14,departement,DEP-62,Pas-de-Calais,8,1,ARS Hauts-de-France,https://www.hauts-de-france.ars.sante.fr/system/files/2020-03/Point%20quotidien%20cas%20confirm%C3%A9s%20-%2014032020.pdf
 2020-03-14,departement,DEP-63,Puy-de-Dôme,16,0,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200314_ARSARA_COVID-19_Point_Situation.pdf
 2020-03-14,departement,DEP-64,Pyrénées-Atlantiques,13,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_14_03_2020_VF.pdf
-2020-03-14,departement,DEP-65,Haute-Pyrénées,5,,ARS Occitanie,https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo6_20200314.pdf
+2020-03-14,departement,DEP-65,Hautes-Pyrénées,5,,ARS Occitanie,https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo6_20200314.pdf
 2020-03-14,departement,DEP-66,Pyrénées-Orientales,6,,ARS Occitanie,https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo6_20200314.pdf
 2020-03-14,departement,DEP-67,Bas-Rhin,239,,ARS Grand-Est,https://www.grand-est.ars.sante.fr/system/files/2020-03/Communique%20Coronavirus%20covid%2019%20-%20point%20de%20situation%20en%20Grand%20Est%2014%2003%202020%20.pdf
 2020-03-14,departement,DEP-68,Haut-Rhin,494,,ARS Grand-Est,https://www.grand-est.ars.sante.fr/system/files/2020-03/Communique%20Coronavirus%20covid%2019%20-%20point%20de%20situation%20en%20Grand%20Est%2014%2003%202020%20.pdf
@@ -1151,7 +1363,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,source_nom,source_ur
 2020-03-15,departement,DEP-17,Charente-Maritime,25,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_15_03_2020_VF.pdf
 2020-03-15,departement,DEP-19,Corrèze,5,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_15_03_2020_VF.pdf
 2020-03-15,departement,DEP-22,Côtes-d'Armor,4,,ARS Bretagne,https://www.bretagne.ars.sante.fr/system/files/2020-03/CP%20Coronavirus_Bretagne_point%20de%20situation%2017h30_200315.pdf
-2020-03-15,departement,DEP-22,Côtes d'Armor,4,0,Préfecture d'Ille-et-Vilaine,http://www.ille-et-vilaine.gouv.fr/Actualites/Espace-presse/2020/COVID-19-informations-recommandations-et-mesures-sanitaires
+2020-03-15,departement,DEP-22,Côtes-d'Armor,4,0,Préfecture d'Ille-et-Vilaine,http://www.ille-et-vilaine.gouv.fr/Actualites/Espace-presse/2020/COVID-19-informations-recommandations-et-mesures-sanitaires
 2020-03-15,departement,DEP-23,Creuse,2,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_15_03_2020_VF.pdf
 2020-03-15,departement,DEP-24,Dordogne,7,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_15_03_2020_VF.pdf
 2020-03-15,departement,DEP-25,Doubs,,1,ARS Bourgogne-Franche-Comté,https://www.bourgogne-franche-comte.ars.sante.fr/system/files/2020-03/2020.03.15_COVID19_SITUATION%20BFC.pdf
@@ -1191,7 +1403,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,source_nom,source_ur
 2020-03-15,departement,DEP-61,Orne,3,0,ARS Normandie,https://www.normandie.ars.sante.fr/system/files/2020-03/20200315_CP-point-situation-normandie.pdf
 2020-03-15,departement,DEP-63,Puy-de-Dôme,19,0,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200315_ARSARA_COVID-19_Point_Situation.pdf
 2020-03-15,departement,DEP-64,Pyrénées-Atlantiques,18,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_15_03_2020_VF.pdf
-2020-03-15,departement,DEP-65,Haute-Pyrénées,5,,ARS Occitanie,https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo7_20200315.pdf
+2020-03-15,departement,DEP-65,Hautes-Pyrénées,5,,ARS Occitanie,https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo7_20200315.pdf
 2020-03-15,departement,DEP-66,Pyrénées-Orientales,11,,ARS Occitanie,https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo7_20200315.pdf
 2020-03-15,departement,DEP-67,Bas-Rhin,323,,ARS Grand-Est,https://www.grand-est.ars.sante.fr/system/files/2020-03/Communique%20Coronavirus%20covid%2019%20-%20point%20de%20situation%20en%20Grand%20Est%2015%2003%202020.pdf
 2020-03-15,departement,DEP-68,Haut-Rhin,688,,ARS Grand-Est,https://www.grand-est.ars.sante.fr/system/files/2020-03/Communique%20Coronavirus%20covid%2019%20-%20point%20de%20situation%20en%20Grand%20Est%2015%2003%202020.pdf
@@ -1261,7 +1473,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,source_nom,source_ur
 2020-03-16,departement,DEP-18,Cher,5,0,ARS Centre - Val de Loire,https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-16-bulletin%20information%20COVID-19.pdf
 2020-03-16,departement,DEP-19,Corrèze,5,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_16_03_2020.pdf
 2020-03-16,departement,DEP-22,Côtes-d'Armor,5,,ARS Bretagne,https://www.bretagne.ars.sante.fr/system/files/2020-03/CP%20Coronavirus_Bretagne_point%20de%20situation%2017h30_200316.pdf
-2020-03-16,departement,DEP-22,Côtes d'Armor,5,0,Préfecture de Bretagne,http://www.prefectures-regions.gouv.fr/bretagne/Actualites/Coronavirus-informations-recommandations-et-mesures-sanitaires
+2020-03-16,departement,DEP-22,Côtes-d'Armor,5,0,Préfecture de Bretagne,http://www.prefectures-regions.gouv.fr/bretagne/Actualites/Coronavirus-informations-recommandations-et-mesures-sanitaires
 2020-03-16,departement,DEP-23,Creuse,2,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_16_03_2020.pdf
 2020-03-16,departement,DEP-24,Dordogne,7,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_16_03_2020.pdf
 2020-03-16,departement,DEP-25,Doubs,,1,ARS Bourgogne-Franche-Comté,https://www.bourgogne-franche-comte.ars.sante.fr/system/files/2020-03/2020.03.16_COVID19_SITUATION%20BFC.pdf
@@ -1303,7 +1515,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,source_nom,source_ur
 2020-03-16,departement,DEP-62,Pas-de-Calais,,1,ARS Hauts-de-France,https://www.hauts-de-france.ars.sante.fr/coronavirus-covid-19-point-de-situation-dans-les-hauts-de-france
 2020-03-16,departement,DEP-63,Puy-de-Dôme,20,0,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200316_ARSARA_COVID-19_Point_Situation.pdf
 2020-03-16,departement,DEP-64,Pyrénées-Atlantiques,18,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_16_03_2020.pdf
-2020-03-16,departement,DEP-65,Haute-Pyrénées,6,,ARS Occitanie,https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo8_20200316.pdf
+2020-03-16,departement,DEP-65,Hautes-Pyrénées,6,,ARS Occitanie,https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo8_20200316.pdf
 2020-03-16,departement,DEP-66,Pyrénées-Orientales,11,,ARS Occitanie,https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo8_20200316.pdf
 2020-03-16,departement,DEP-67,Bas-Rhin,354,,ARS Grand-Est,https://www.grand-est.ars.sante.fr/system/files/2020-03/CPCoronavirus_GrandEst160320.pdf
 2020-03-16,departement,DEP-68,Haut-Rhin,688,,ARS Grand-Est,https://www.grand-est.ars.sante.fr/system/files/2020-03/CPCoronavirus_GrandEst160320.pdf
@@ -1369,43 +1581,61 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,source_nom,source_ur
 2020-03-17,departement,DEP-12,Aveyron,16,,ARS Occitanie,https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo9_20200317.pdf
 2020-03-17,departement,DEP-13,Bouches-du-Rhône,237,2,ARS Provence-Alpes-Côte d’Azur,https://www.paca.ars.sante.fr/coronavirus-en-provence-alpes-cote-dazur-point-de-situation-au-17-mars
 2020-03-17,departement,DEP-15,Cantal,1,0,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200317_ARSARA_COVID-19_Point_Situation.pdf
+2020-03-17,departement,DEP-16,Charente,4,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_17_03_2020.pdf
+2020-03-17,departement,DEP-17,Charente-Maritime,30,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_17_03_2020.pdf
 2020-03-17,departement,DEP-18,Cher,6,0,ARS Centre - Val de Loire,https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-17-bulletin%20information%20COVID-19_1.pdf
+2020-03-17,departement,DEP-19,Corrèze,5,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_17_03_2020.pdf
 2020-03-17,departement,DEP-22,Côtes-d'Armor,11,,ARS Bretagne,https://www.bretagne.ars.sante.fr/coronavirus-en-bretagne-point-de-situation-du-mardi-17-mars-2020-et-mesures-destinees-freiner-la
+2020-03-17,departement,DEP-22,Côtes-d'Armor,11,0,Préfecture de Bretagne,http://www.prefectures-regions.gouv.fr/bretagne/Actualites/Coronavirus-informations-recommandations-et-mesures-sanitaires
+2020-03-17,departement,DEP-23,Creuse,4,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_17_03_2020.pdf
+2020-03-17,departement,DEP-24,Dordogne,7,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_17_03_2020.pdf
 2020-03-17,departement,DEP-26,Drôme,71,1,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200317_ARSARA_COVID-19_Point_Situation.pdf
 2020-03-17,departement,DEP-28,Eure-et-Loir,28,1,ARS Centre - Val de Loire,https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-17-bulletin%20information%20COVID-19_1.pdf
 2020-03-17,departement,DEP-29,Finistère,43,,ARS Bretagne,https://www.bretagne.ars.sante.fr/coronavirus-en-bretagne-point-de-situation-du-mardi-17-mars-2020-et-mesures-destinees-freiner-la
+2020-03-17,departement,DEP-29,Finistère,43,0,Préfecture de Bretagne,http://www.prefectures-regions.gouv.fr/bretagne/Actualites/Coronavirus-informations-recommandations-et-mesures-sanitaires
 2020-03-17,departement,DEP-2A,Corse du Sud,121,,ARS Corse,https://www.corse.ars.sante.fr/coronavirus-covid-19-informations-utiles
 2020-03-17,departement,DEP-2B,Haute-Corse,24,,ARS Corse,https://www.corse.ars.sante.fr/coronavirus-covid-19-informations-utiles
 2020-03-17,departement,DEP-30,Gard,32,,ARS Occitanie,https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo9_20200317.pdf
 2020-03-17,departement,DEP-31,Haute-Garonne,48,,ARS Occitanie,https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo9_20200317.pdf
 2020-03-17,departement,DEP-32,Gers,9,,ARS Occitanie,https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo9_20200317.pdf
+2020-03-17,departement,DEP-33,Gironde,34,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_17_03_2020.pdf
 2020-03-17,departement,DEP-34,Hérault,119,,ARS Occitanie,https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo9_20200317.pdf
 2020-03-17,departement,DEP-35,Ille-et-Vilaine,50,,ARS Bretagne,https://www.bretagne.ars.sante.fr/coronavirus-en-bretagne-point-de-situation-du-mardi-17-mars-2020-et-mesures-destinees-freiner-la
+2020-03-17,departement,DEP-35,Ille-et-Vilaine,50,0,Préfecture de Bretagne,http://www.prefectures-regions.gouv.fr/bretagne/Actualites/Coronavirus-informations-recommandations-et-mesures-sanitaires
 2020-03-17,departement,DEP-36,Indre,1,0,ARS Centre - Val de Loire,https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-17-bulletin%20information%20COVID-19_1.pdf
 2020-03-17,departement,DEP-37,Indre-et-Loire,25,0,ARS Centre - Val de Loire,https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-17-bulletin%20information%20COVID-19_1.pdf
 2020-03-17,departement,DEP-38,Isère,44,1,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200317_ARSARA_COVID-19_Point_Situation.pdf
+2020-03-17,departement,DEP-40,Landes,10,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_17_03_2020.pdf
 2020-03-17,departement,DEP-41,Loir-et-Cher,9,0,ARS Centre - Val de Loire,https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-17-bulletin%20information%20COVID-19_1.pdf
 2020-03-17,departement,DEP-42,Loire,87,1,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200317_ARSARA_COVID-19_Point_Situation.pdf
 2020-03-17,departement,DEP-43,Haute-Loire,7,0,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200317_ARSARA_COVID-19_Point_Situation.pdf
 2020-03-17,departement,DEP-45,Loiret,34,0,ARS Centre - Val de Loire,https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-17-bulletin%20information%20COVID-19_1.pdf
 2020-03-17,departement,DEP-46,Lot,3,,ARS Occitanie,https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo9_20200317.pdf
+2020-03-17,departement,DEP-47,Lot-et-Garonne,47,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_17_03_2020.pdf
 2020-03-17,departement,DEP-48,Lozère,8,,ARS Occitanie,https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo9_20200317.pdf
 2020-03-17,departement,DEP-56,Morbihan,132,,ARS Bretagne,https://www.bretagne.ars.sante.fr/coronavirus-en-bretagne-point-de-situation-du-mardi-17-mars-2020-et-mesures-destinees-freiner-la
+2020-03-17,departement,DEP-56,Morbihan,132,3,Préfecture de Bretagne,http://www.prefectures-regions.gouv.fr/bretagne/Actualites/Coronavirus-informations-recommandations-et-mesures-sanitaires
 2020-03-17,departement,DEP-59,Nord,,0,ARS Hauts-de-France,https://www.hauts-de-france.ars.sante.fr/coronavirus-covid-19-point-de-situation-dans-les-hauts-de-france
 2020-03-17,departement,DEP-60,Oise,,34,ARS Hauts-de-France,https://www.hauts-de-france.ars.sante.fr/coronavirus-covid-19-point-de-situation-dans-les-hauts-de-france
 2020-03-17,departement,DEP-62,Pas-de-Calais,,1,ARS Hauts-de-France,https://www.hauts-de-france.ars.sante.fr/coronavirus-covid-19-point-de-situation-dans-les-hauts-de-france
 2020-03-17,departement,DEP-63,Puy-de-Dôme,26,0,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200317_ARSARA_COVID-19_Point_Situation.pdf
-2020-03-17,departement,DEP-65,Haute-Pyrénées,6,,ARS Occitanie,https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo9_20200317.pdf
+2020-03-17,departement,DEP-64,Pyrénées-Atlantiques,20,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_17_03_2020.pdf
+2020-03-17,departement,DEP-65,Hautes-Pyrénées,6,,ARS Occitanie,https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo9_20200317.pdf
 2020-03-17,departement,DEP-66,Pyrénées-Orientales,14,,ARS Occitanie,https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo9_20200317.pdf
 2020-03-17,departement,DEP-69,Rhône,181,12,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200317_ARSARA_COVID-19_Point_Situation.pdf
 2020-03-17,departement,DEP-73,Savoie,26,1,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200317_ARSARA_COVID-19_Point_Situation.pdf
 2020-03-17,departement,DEP-74,Haute-Savoie,141,5,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200317_ARSARA_COVID-19_Point_Situation.pdf
+2020-03-17,departement,DEP-79,Deux-Sèvres,5,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_17_03_2020.pdf
 2020-03-17,departement,DEP-80,Somme,,7,ARS Hauts-de-France,https://www.hauts-de-france.ars.sante.fr/coronavirus-covid-19-point-de-situation-dans-les-hauts-de-france
 2020-03-17,departement,DEP-81,Tarn,11,,ARS Occitanie,https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo9_20200317.pdf
 2020-03-17,departement,DEP-82,Tarn-et-Garonne,7,,ARS Occitanie,https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo9_20200317.pdf
 2020-03-17,departement,DEP-83,Var,95,1,ARS Provence-Alpes-Côte d’Azur,https://www.paca.ars.sante.fr/coronavirus-en-provence-alpes-cote-dazur-point-de-situation-au-17-mars
 2020-03-17,departement,DEP-84,Vaucluse,13,0,ARS Provence-Alpes-Côte d’Azur,https://www.paca.ars.sante.fr/coronavirus-en-provence-alpes-cote-dazur-point-de-situation-au-17-mars
+2020-03-17,departement,DEP-86,Vienne,21,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_17_03_2020.pdf
+2020-03-17,departement,DEP-87,Haute-Vienne,3,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_17_03_2020.pdf
+2020-03-17,departement,DEP-971,Guadeloupe,27,,ARS Guadeloupe,https://www.guadeloupe.ars.sante.fr/system/files/2020-03/Bulletin%20n°12%20coronavirus%20Guad.pdf
 2020-03-17,pays,FRA,France,7730,175,Santé publique France,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde
+2020-03-17,region,REG-01,Guadeloupe,27,,ARS Guadeloupe,https://www.guadeloupe.ars.sante.fr/system/files/2020-03/Bulletin%20n°12%20coronavirus%20Guad.pdf
 2020-03-17,region,REG-01,Guadeloupe,27,,Santé publique France,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde
 2020-03-17,region,REG-02,Martinique,19,,Santé publique France,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde
 2020-03-17,region,REG-03,Guyane,11,,Santé publique France,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde
@@ -1424,6 +1654,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,source_nom,source_ur
 2020-03-17,region,REG-52,Pays de la Loire,126,,Santé publique France,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde
 2020-03-17,region,REG-53,Bretagne,236,3,ARS Bretagne,https://www.bretagne.ars.sante.fr/coronavirus-en-bretagne-point-de-situation-du-mardi-17-mars-2020-et-mesures-destinees-freiner-la
 2020-03-17,region,REG-53,Bretagne,247,,Santé publique France,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde
+2020-03-17,region,REG-75,Nouvelle-Aquitaine,207,2,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_17_03_2020.pdf
 2020-03-17,region,REG-75,Nouvelle-Aquitaine,200,,Santé publique France,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde
 2020-03-17,region,REG-76,Occitanie,313,5,ARS Occitanie,https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo9_20200317.pdf
 2020-03-17,region,REG-76,Occitanie,311,,Santé publique France,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde
@@ -1433,3 +1664,25 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,source_nom,source_ur
 2020-03-17,region,REG-94,Corse,145,,ARS Corse,https://www.corse.ars.sante.fr/coronavirus-covid-19-informations-utiles
 2020-03-17,region,REG-94,Corse,145,,Santé publique France,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde
 2020-03-17,monde,WORLD,Monde,180160,7103,Santé publique France,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde
+2020-03-18,collectivite-outremer,COM-977,Saint-Barthélemy,3,,Santé publique France,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde
+2020-03-18,collectivite-outremer,COM-978,Saint-Martin,4,,Santé publique France,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde
+2020-03-18,pays,FRA,France,9134,244,Santé publique France,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde
+2020-03-18,region,REG-01,Guadeloupe,33,,Santé publique France,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde
+2020-03-18,region,REG-02,Martinique,23,,Santé publique France,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde
+2020-03-18,region,REG-03,Guyane,11,,Santé publique France,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde
+2020-03-18,region,REG-04,La Réunion,14,,Santé publique France,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde
+2020-03-18,region,REG-06,Mayotte,3,,Santé publique France,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde
+2020-03-18,region,REG-11,Ile-de-France,2693,,Santé publique France,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde
+2020-03-18,region,REG-24,Centre-Val de Loire,128,,Santé publique France,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde
+2020-03-18,region,REG-27,Bourgogne-Franche-Comté,593,,Santé publique France,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde
+2020-03-18,region,REG-28,Normandie,208,,Santé publique France,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde
+2020-03-18,region,REG-32,Hauts-de-France,665,,Santé publique France,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde
+2020-03-18,region,REG-44,Grand Est,2163,,Santé publique France,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde
+2020-03-18,region,REG-52,Pays de la Loire,128,,Santé publique France,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde
+2020-03-18,region,REG-53,Bretagne,273,,Santé publique France,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde
+2020-03-18,region,REG-75,Nouvelle-Aquitaine,237,,Santé publique France,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde
+2020-03-18,region,REG-76,Occitanie,371,,Santé publique France,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde
+2020-03-18,region,REG-84,Auvergne-Rhône-Alpes,858,,Santé publique France,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde
+2020-03-18,region,REG-93,Provence-Alpes-Côte d’Azur,574,,Santé publique France,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde
+2020-03-18,region,REG-94,Corse,152,,Santé publique France,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde
+2020-03-18,monde,WORLD,Monde,194213,7869,Santé publique France,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde

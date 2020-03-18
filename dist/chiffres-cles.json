@@ -130,6 +130,46 @@
     "casConfirmes": 1
   },
   {
+    "date": "2020-01-27",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 1,
+    "code": "DEP-34",
+    "nom": "Hérault"
+  },
+  {
+    "date": "2020-02-08",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 6,
+    "code": "DEP-74",
+    "nom": "Haute-Savoie"
+  },
+  {
+    "date": "2020-02-24",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 1,
+    "code": "DEP-33",
+    "nom": "Gironde"
+  },
+  {
+    "date": "2020-02-25",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 7,
+    "code": "DEP-74",
+    "nom": "Haute-Savoie"
+  },
+  {
     "date": "2020-02-26",
     "source": {
       "nom": "ARS Hauts-de-France",
@@ -140,6 +180,16 @@
     "code": "DEP-02",
     "casConfirmes": 0,
     "deces": 0
+  },
+  {
+    "date": "2020-02-26",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 1,
+    "code": "DEP-25",
+    "nom": "Doubs"
   },
   {
     "date": "2020-02-26",
@@ -175,6 +225,16 @@
   {
     "date": "2020-02-26",
     "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 2,
+    "code": "DEP-60",
+    "nom": "Oise"
+  },
+  {
+    "date": "2020-02-26",
+    "source": {
       "nom": "ARS Hauts-de-France",
       "url": "https://www.hauts-de-france.ars.sante.fr/coronavirus-point-de-situation-en-hauts-de-france",
       "archive": "https://web.archive.org/web/20200315094209/https://www.hauts-de-france.ars.sante.fr/coronavirus-point-de-situation-en-hauts-de-france"
@@ -195,6 +255,16 @@
     "code": "DEP-80",
     "casConfirmes": 0,
     "deces": 0
+  },
+  {
+    "date": "2020-02-26",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 2,
+    "code": "DEP-90",
+    "nom": "Territoire de Belfort"
   },
   {
     "date": "2020-02-26",
@@ -222,6 +292,46 @@
   {
     "date": "2020-02-27",
     "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 1,
+    "code": "DEP-21",
+    "nom": "Côte-d'Or"
+  },
+  {
+    "date": "2020-02-27",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 1,
+    "code": "DEP-29",
+    "nom": "Finistère"
+  },
+  {
+    "date": "2020-02-27",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 1,
+    "code": "DEP-44",
+    "nom": "Loire-Atlantique"
+  },
+  {
+    "date": "2020-02-27",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 1,
+    "code": "DEP-67",
+    "nom": "Bas-Rhin"
+  },
+  {
+    "date": "2020-02-27",
+    "source": {
       "nom": "ARS Auvergne Rhône-Alpes",
       "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-02/200227_ARSARA_CP_2_cas_Covid-19_74_0.pdf"
     },
@@ -244,12 +354,122 @@
   {
     "date": "2020-02-28",
     "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 1,
+    "code": "DEP-06",
+    "nom": "Alpes-Maritimes"
+  },
+  {
+    "date": "2020-02-28",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 1,
+    "code": "DEP-17",
+    "nom": "Charente-Maritime"
+  },
+  {
+    "date": "2020-02-28",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 2,
+    "code": "DEP-21",
+    "nom": "Côte-d'Or"
+  },
+  {
+    "date": "2020-02-28",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 2,
+    "code": "DEP-29",
+    "nom": "Finistère"
+  },
+  {
+    "date": "2020-02-28",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 2,
+    "code": "DEP-33",
+    "nom": "Gironde"
+  },
+  {
+    "date": "2020-02-28",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 3,
+    "code": "DEP-34",
+    "nom": "Hérault"
+  },
+  {
+    "date": "2020-02-28",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 1,
+    "code": "DEP-40",
+    "nom": "Landes"
+  },
+  {
+    "date": "2020-02-28",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 2,
+    "code": "DEP-49",
+    "nom": "Maine-et-Loire"
+  },
+  {
+    "date": "2020-02-28",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 1,
+    "code": "DEP-53",
+    "nom": "Mayenne"
+  },
+  {
+    "date": "2020-02-28",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 1,
+    "code": "DEP-76",
+    "nom": "Seine-Maritime"
+  },
+  {
+    "date": "2020-02-28",
+    "source": {
       "nom": "ARS Normandie",
       "url": "https://www.normandie.ars.sante.fr/system/files/2020-03/CP-ars-normandie-02.03.pdf"
     },
     "nom": "Normandie",
     "code": "REG-28",
     "casConfirmes": 1
+  },
+  {
+    "date": "2020-02-29",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 1,
+    "code": "DEP-02",
+    "nom": "Aisne"
   },
   {
     "date": "2020-02-29",
@@ -314,6 +534,16 @@
   {
     "date": "2020-02-29",
     "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 2,
+    "code": "DEP-35",
+    "nom": "Ille-et-Vilaine"
+  },
+  {
+    "date": "2020-02-29",
+    "source": {
       "nom": "ARS Nouvelle-Aquitaine",
       "url": "https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-02/CP_Covid19_ARSNA_29_02_2020.pdf"
     },
@@ -330,6 +560,16 @@
     "nom": "Lot-et-Garonne",
     "code": "DEP-47",
     "casConfirmes": 0
+  },
+  {
+    "date": "2020-02-29",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 3,
+    "code": "DEP-60",
+    "nom": "Oise"
   },
   {
     "date": "2020-02-29",
@@ -382,6 +622,96 @@
     "casConfirmes": 4
   },
   {
+    "date": "2020-03-01",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 2,
+    "code": "DEP-02",
+    "nom": "Aisne"
+  },
+  {
+    "date": "2020-03-01",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 6,
+    "code": "DEP-25",
+    "nom": "Doubs"
+  },
+  {
+    "date": "2020-03-01",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 5,
+    "code": "DEP-34",
+    "nom": "Hérault"
+  },
+  {
+    "date": "2020-03-01",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 4,
+    "code": "DEP-35",
+    "nom": "Ille-et-Vilaine"
+  },
+  {
+    "date": "2020-03-01",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 9,
+    "code": "DEP-56",
+    "nom": "Morbihan"
+  },
+  {
+    "date": "2020-03-01",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 1,
+    "code": "DEP-62",
+    "nom": "Pas-de-Calais"
+  },
+  {
+    "date": "2020-03-01",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 1,
+    "code": "DEP-72",
+    "nom": "Sarthe"
+  },
+  {
+    "date": "2020-03-01",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 1,
+    "code": "DEP-977",
+    "nom": "Saint-Barthélemy"
+  },
+  {
+    "date": "2020-03-01",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 2,
+    "code": "DEP-978",
+    "nom": "Saint-Martin"
+  },
+  {
     "date": "2020-03-02",
     "source": {
       "nom": "ARS Auvergne Rhône-Alpes",
@@ -391,6 +721,16 @@
     "code": "DEP-01",
     "casConfirmes": 3,
     "deces": 0
+  },
+  {
+    "date": "2020-03-02",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 4,
+    "code": "DEP-02",
+    "nom": "Aisne"
   },
   {
     "date": "2020-03-02",
@@ -424,6 +764,36 @@
     "code": "DEP-27",
     "casConfirmes": 2,
     "deces": 0
+  },
+  {
+    "date": "2020-03-02",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 3,
+    "code": "DEP-29",
+    "nom": "Finistère"
+  },
+  {
+    "date": "2020-03-02",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 6,
+    "code": "DEP-34",
+    "nom": "Hérault"
+  },
+  {
+    "date": "2020-03-02",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 2,
+    "code": "DEP-44",
+    "nom": "Loire-Atlantique"
   },
   {
     "date": "2020-03-02",
@@ -468,6 +838,16 @@
     "code": "DEP-55",
     "casConfirmes": 0,
     "deces": 0
+  },
+  {
+    "date": "2020-03-02",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 12,
+    "code": "DEP-56",
+    "nom": "Morbihan"
   },
   {
     "date": "2020-03-02",
@@ -583,6 +963,16 @@
   {
     "date": "2020-03-03",
     "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 8,
+    "code": "DEP-02",
+    "nom": "Aisne"
+  },
+  {
+    "date": "2020-03-03",
+    "source": {
       "nom": "ARS Nouvelle-Aquitaine",
       "url": "https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_03_03_2020_0.pdf"
     },
@@ -633,6 +1023,16 @@
   {
     "date": "2020-03-03",
     "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 2,
+    "code": "DEP-30",
+    "nom": "Gard"
+  },
+  {
+    "date": "2020-03-03",
+    "source": {
       "nom": "ARS Nouvelle-Aquitaine",
       "url": "https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_03_03_2020_0.pdf"
     },
@@ -649,6 +1049,16 @@
     "nom": "Landes",
     "code": "DEP-40",
     "casConfirmes": 1
+  },
+  {
+    "date": "2020-03-03",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 3,
+    "code": "DEP-44",
+    "nom": "Loire-Atlantique"
   },
   {
     "date": "2020-03-03",
@@ -673,6 +1083,16 @@
   {
     "date": "2020-03-03",
     "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 1,
+    "code": "DEP-64",
+    "nom": "Pyrénées-Atlantiques"
+  },
+  {
+    "date": "2020-03-03",
+    "source": {
       "nom": "ARS Auvergne Rhône-Alpes",
       "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200303_ARSARA_COVID-19_Point_Situation.pdf"
     },
@@ -680,6 +1100,16 @@
     "code": "DEP-69",
     "casConfirmes": 4,
     "deces": 0
+  },
+  {
+    "date": "2020-03-03",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 1,
+    "code": "DEP-71",
+    "nom": "Saône-et-Loire"
   },
   {
     "date": "2020-03-03",
@@ -743,6 +1173,16 @@
     "nom": "Haute-Vienne",
     "code": "DEP-87",
     "casConfirmes": 0
+  },
+  {
+    "date": "2020-03-03",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 6,
+    "code": "DEP-90",
+    "nom": "Territoire de Belfort"
   },
   {
     "date": "2020-03-03",
@@ -811,6 +1251,16 @@
   {
     "date": "2020-03-04",
     "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 12,
+    "code": "DEP-02",
+    "nom": "Aisne"
+  },
+  {
+    "date": "2020-03-04",
+    "source": {
       "nom": "ARS Provence-Alpes-Côte d’Azur",
       "url": "https://www.paca.ars.sante.fr/coronavirus-en-provence-alpes-cote-dazur-point-de-situation"
     },
@@ -840,6 +1290,16 @@
     "code": "DEP-10",
     "casConfirmes": 0,
     "deces": 0
+  },
+  {
+    "date": "2020-03-04",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 2,
+    "code": "DEP-12",
+    "nom": "Aveyron"
   },
   {
     "date": "2020-03-04",
@@ -922,6 +1382,36 @@
   },
   {
     "date": "2020-03-04",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 2,
+    "code": "DEP-26",
+    "nom": "Drôme"
+  },
+  {
+    "date": "2020-03-04",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 2,
+    "code": "DEP-27",
+    "nom": "Eure"
+  },
+  {
+    "date": "2020-03-04",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 1,
+    "code": "DEP-28",
+    "nom": "Eure-et-Loir"
+  },
+  {
+    "date": "2020-03-04",
     "nom": "Finistère",
     "code": "DEP-29",
     "casConfirmes": 3,
@@ -947,12 +1437,32 @@
   {
     "date": "2020-03-04",
     "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 1,
+    "code": "DEP-37",
+    "nom": "Indre-et-Loire"
+  },
+  {
+    "date": "2020-03-04",
+    "source": {
       "nom": "ARS Nouvelle-Aquitaine",
       "url": "https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_04_03_2020.pdf"
     },
     "nom": "Landes",
     "code": "DEP-40",
     "casConfirmes": 1
+  },
+  {
+    "date": "2020-03-04",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 4,
+    "code": "DEP-44",
+    "nom": "Loire-Atlantique"
   },
   {
     "date": "2020-03-04",
@@ -1027,6 +1537,16 @@
   },
   {
     "date": "2020-03-04",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 1,
+    "code": "DEP-59",
+    "nom": "Nord"
+  },
+  {
+    "date": "2020-03-04",
     "nom": "Oise",
     "code": "DEP-60",
     "deces": 3
@@ -1073,6 +1593,26 @@
     "code": "DEP-69",
     "casConfirmes": 4,
     "deces": 0
+  },
+  {
+    "date": "2020-03-04",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 1,
+    "code": "DEP-70",
+    "nom": "Haute-Saône"
+  },
+  {
+    "date": "2020-03-04",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 2,
+    "code": "DEP-71",
+    "nom": "Saône-et-Loire"
   },
   {
     "date": "2020-03-04",
@@ -1162,12 +1702,32 @@
   {
     "date": "2020-03-04",
     "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 7,
+    "code": "DEP-90",
+    "nom": "Territoire de Belfort"
+  },
+  {
+    "date": "2020-03-04",
+    "source": {
       "nom": "ARS Guyane",
       "url": "https://www.guyane.ars.sante.fr/system/files/2020-03/2020_03_04_CP%20COVID-19.pdf"
     },
     "nom": "Guyane",
     "code": "DEP-973",
     "casConfirmes": 5
+  },
+  {
+    "date": "2020-03-04",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 5,
+    "code": "DEP-973",
+    "nom": "Guyane"
   },
   {
     "date": "2020-03-04",
@@ -1485,6 +2045,16 @@
   {
     "date": "2020-03-05",
     "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 14,
+    "code": "DEP-02",
+    "nom": "Aisne"
+  },
+  {
+    "date": "2020-03-05",
+    "source": {
       "nom": "ARS Provence-Alpes-Côte d’Azur",
       "url": "https://www.paca.ars.sante.fr/coronavirus-en-provence-alpes-cote-dazur-point-de-situation-0"
     },
@@ -1507,6 +2077,16 @@
   {
     "date": "2020-03-05",
     "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 4,
+    "code": "DEP-12",
+    "nom": "Aveyron"
+  },
+  {
+    "date": "2020-03-05",
+    "source": {
       "nom": "ARS Provence-Alpes-Côte d’Azur",
       "url": "https://www.paca.ars.sante.fr/coronavirus-en-provence-alpes-cote-dazur-point-de-situation-0"
     },
@@ -1514,6 +2094,16 @@
     "code": "DEP-13",
     "casConfirmes": 7,
     "deces": 0
+  },
+  {
+    "date": "2020-03-05",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 1,
+    "code": "DEP-14",
+    "nom": "Calvados"
   },
   {
     "date": "2020-03-05",
@@ -1587,6 +2177,16 @@
   {
     "date": "2020-03-05",
     "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 17,
+    "code": "DEP-25",
+    "nom": "Doubs"
+  },
+  {
+    "date": "2020-03-05",
+    "source": {
       "nom": "ARS Auvergne Rhône-Alpes",
       "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200305_ARSARA_COVID-19_Point_Situation.pdf"
     },
@@ -1627,6 +2227,16 @@
   {
     "date": "2020-03-05",
     "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 3,
+    "code": "DEP-2A",
+    "nom": "Corse-du-Sud"
+  },
+  {
+    "date": "2020-03-05",
+    "source": {
       "nom": "ARS Corse",
       "url": "https://www.corse.ars.sante.fr/covid-19-3-cas-confirmes-en-corse-au-centre-hospitalier-dajaccio"
     },
@@ -1638,12 +2248,32 @@
   {
     "date": "2020-03-05",
     "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 1,
+    "code": "DEP-31",
+    "nom": "Haute-Garonne"
+  },
+  {
+    "date": "2020-03-05",
+    "source": {
       "nom": "ARS Nouvelle-Aquitaine",
       "url": "https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_05_03_2020_0.pdf"
     },
     "nom": "Gironde",
     "code": "DEP-33",
     "casConfirmes": 2
+  },
+  {
+    "date": "2020-03-05",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 9,
+    "code": "DEP-34",
+    "nom": "Hérault"
   },
   {
     "date": "2020-03-05",
@@ -1709,12 +2339,42 @@
   {
     "date": "2020-03-05",
     "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 1,
+    "code": "DEP-45",
+    "nom": "Loiret"
+  },
+  {
+    "date": "2020-03-05",
+    "source": {
       "nom": "ARS Nouvelle-Aquitaine",
       "url": "https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_05_03_2020_0.pdf"
     },
     "nom": "Lot-et-Garonne",
     "code": "DEP-47",
     "casConfirmes": 3
+  },
+  {
+    "date": "2020-03-05",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 2,
+    "code": "DEP-47",
+    "nom": "Lot-et-Garonne"
+  },
+  {
+    "date": "2020-03-05",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 3,
+    "code": "DEP-50",
+    "nom": "Manche"
   },
   {
     "date": "2020-03-05",
@@ -1727,6 +2387,26 @@
     "nom": "Oise",
     "code": "DEP-60",
     "deces": 5
+  },
+  {
+    "date": "2020-03-05",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 6,
+    "code": "DEP-60",
+    "nom": "Oise"
+  },
+  {
+    "date": "2020-03-05",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 3,
+    "code": "DEP-63",
+    "nom": "Puy-de-Dôme"
   },
   {
     "date": "2020-03-05",
@@ -1748,6 +2428,16 @@
     "code": "DEP-69",
     "casConfirmes": 12,
     "deces": 0
+  },
+  {
+    "date": "2020-03-05",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 5,
+    "code": "DEP-71",
+    "nom": "Saône-et-Loire"
   },
   {
     "date": "2020-03-05",
@@ -1815,6 +2505,26 @@
   {
     "date": "2020-03-05",
     "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 1,
+    "code": "DEP-79",
+    "nom": "Deux-Sèvres"
+  },
+  {
+    "date": "2020-03-05",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 2,
+    "code": "DEP-80",
+    "nom": "Somme"
+  },
+  {
+    "date": "2020-03-05",
+    "source": {
       "nom": "ARS Provence-Alpes-Côte d’Azur",
       "url": "https://www.paca.ars.sante.fr/coronavirus-en-provence-alpes-cote-dazur-point-de-situation-0"
     },
@@ -1857,6 +2567,16 @@
   {
     "date": "2020-03-05",
     "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 18,
+    "code": "DEP-90",
+    "nom": "Territoire de Belfort"
+  },
+  {
+    "date": "2020-03-05",
+    "source": {
       "nom": "ARS Ile-de-France",
       "url": "https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200305.pdf"
     },
@@ -1880,7 +2600,7 @@
       "nom": "ARS Ile-de-France",
       "url": "https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200305.pdf"
     },
-    "nom": "Saint-Saint-Denis",
+    "nom": "Seine-Saint-Denis",
     "code": "DEP-93",
     "casConfirmes": 7
   },
@@ -1903,6 +2623,16 @@
     "nom": "Val-d'Oise",
     "code": "DEP-95",
     "casConfirmes": 12
+  },
+  {
+    "date": "2020-03-05",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 2,
+    "code": "DEP-972",
+    "nom": "Martinique"
   },
   {
     "date": "2020-03-05",
@@ -2230,6 +2960,16 @@
   {
     "date": "2020-03-06",
     "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 20,
+    "code": "DEP-02",
+    "nom": "Aisne"
+  },
+  {
+    "date": "2020-03-06",
+    "source": {
       "nom": "ARS Provence-Alpes-Côte d’Azur",
       "url": "https://www.paca.ars.sante.fr/coronavirus-en-provence-alpes-cote-dazur-point-de-situation-du-6-mars"
     },
@@ -2285,6 +3025,16 @@
   {
     "date": "2020-03-06",
     "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 1,
+    "code": "DEP-16",
+    "nom": "Charente"
+  },
+  {
+    "date": "2020-03-06",
+    "source": {
       "nom": "ARS Nouvelle-Aquitaine",
       "url": "https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP2_Covid19_PointSituation_ARSNA_06_03_2020.pdf",
       "archive": "https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_PointSituation_ARSNA_06_03_2020.pdf"
@@ -2293,6 +3043,16 @@
     "code": "DEP-17",
     "casConfirmes": 2,
     "gueris": 1
+  },
+  {
+    "date": "2020-03-06",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 2,
+    "code": "DEP-17",
+    "nom": "Charente-Maritime"
   },
   {
     "date": "2020-03-06",
@@ -2315,6 +3075,16 @@
     "nom": "Corrèze",
     "code": "DEP-19",
     "casConfirmes": 0
+  },
+  {
+    "date": "2020-03-06",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 5,
+    "code": "DEP-21",
+    "nom": "Côte-d'Or"
   },
   {
     "date": "2020-03-06",
@@ -2344,6 +3114,26 @@
     "nom": "Dordogne",
     "code": "DEP-24",
     "casConfirmes": 1
+  },
+  {
+    "date": "2020-03-06",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 1,
+    "code": "DEP-24",
+    "nom": "Dordogne"
+  },
+  {
+    "date": "2020-03-06",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 30,
+    "code": "DEP-25",
+    "nom": "Doubs"
   },
   {
     "date": "2020-03-06",
@@ -2389,6 +3179,16 @@
   {
     "date": "2020-03-06",
     "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 5,
+    "code": "DEP-2A",
+    "nom": "Corse-du-Sud"
+  },
+  {
+    "date": "2020-03-06",
+    "source": {
       "nom": "ARS Corse",
       "url": "https://twitter.com/ARSCORSE1/status/1235847168650436608"
     },
@@ -2400,6 +3200,36 @@
   {
     "date": "2020-03-06",
     "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 2,
+    "code": "DEP-2B",
+    "nom": "Haute-Corse"
+  },
+  {
+    "date": "2020-03-06",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 3,
+    "code": "DEP-30",
+    "nom": "Gard"
+  },
+  {
+    "date": "2020-03-06",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 2,
+    "code": "DEP-31",
+    "nom": "Haute-Garonne"
+  },
+  {
+    "date": "2020-03-06",
+    "source": {
       "nom": "ARS Nouvelle-Aquitaine",
       "url": "https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP2_Covid19_PointSituation_ARSNA_06_03_2020.pdf",
       "archive": "https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_PointSituation_ARSNA_06_03_2020.pdf"
@@ -2407,6 +3237,16 @@
     "nom": "Gironde",
     "code": "DEP-33",
     "casConfirmes": 2
+  },
+  {
+    "date": "2020-03-06",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 11,
+    "code": "DEP-34",
+    "nom": "Hérault"
   },
   {
     "date": "2020-03-06",
@@ -2436,6 +3276,26 @@
     "code": "DEP-37",
     "casConfirmes": 2,
     "deces": 0
+  },
+  {
+    "date": "2020-03-06",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 2,
+    "code": "DEP-37",
+    "nom": "Indre-et-Loire"
+  },
+  {
+    "date": "2020-03-06",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 2,
+    "code": "DEP-39",
+    "nom": "Jura"
   },
   {
     "date": "2020-03-06",
@@ -2483,6 +3343,16 @@
   {
     "date": "2020-03-06",
     "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 5,
+    "code": "DEP-44",
+    "nom": "Loire-Atlantique"
+  },
+  {
+    "date": "2020-03-06",
+    "source": {
       "nom": "ARS Centre - Val de Loire",
       "url": "https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/CP_Coronavirus060320.pdf"
     },
@@ -2490,6 +3360,26 @@
     "code": "DEP-45",
     "casConfirmes": 4,
     "deces": 0
+  },
+  {
+    "date": "2020-03-06",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 4,
+    "code": "DEP-45",
+    "nom": "Loiret"
+  },
+  {
+    "date": "2020-03-06",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 1,
+    "code": "DEP-46",
+    "nom": "Lot"
   },
   {
     "date": "2020-03-06",
@@ -2515,6 +3405,36 @@
   {
     "date": "2020-03-06",
     "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 3,
+    "code": "DEP-49",
+    "nom": "Maine-et-Loire"
+  },
+  {
+    "date": "2020-03-06",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 6,
+    "code": "DEP-50",
+    "nom": "Manche"
+  },
+  {
+    "date": "2020-03-06",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 2,
+    "code": "DEP-51",
+    "nom": "Marne"
+  },
+  {
+    "date": "2020-03-06",
+    "source": {
       "nom": "ARS Pays de la Loire",
       "url": "https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-03/2020-03-06%20bulletin%20information%20COVID-19.pdf"
     },
@@ -2524,9 +3444,39 @@
   },
   {
     "date": "2020-03-06",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 1,
+    "code": "DEP-55",
+    "nom": "Meuse"
+  },
+  {
+    "date": "2020-03-06",
     "nom": "Morbihan",
     "code": "DEP-56",
     "casConfirmes": 24
+  },
+  {
+    "date": "2020-03-06",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 1,
+    "code": "DEP-57",
+    "nom": "Moselle"
+  },
+  {
+    "date": "2020-03-06",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 4,
+    "code": "DEP-59",
+    "nom": "Nord"
   },
   {
     "date": "2020-03-06",
@@ -2554,6 +3504,16 @@
   {
     "date": "2020-03-06",
     "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 80,
+    "code": "DEP-68",
+    "nom": "Haut-Rhin"
+  },
+  {
+    "date": "2020-03-06",
+    "source": {
       "nom": "ARS Auvergne Rhône-Alpes",
       "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200305_ARSARA_COVID-19_Point_Situation.pdf"
     },
@@ -2566,12 +3526,42 @@
   {
     "date": "2020-03-06",
     "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 3,
+    "code": "DEP-70",
+    "nom": "Haute-Saône"
+  },
+  {
+    "date": "2020-03-06",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 8,
+    "code": "DEP-71",
+    "nom": "Saône-et-Loire"
+  },
+  {
+    "date": "2020-03-06",
+    "source": {
       "nom": "ARS Pays de la Loire",
       "url": "https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-03/2020-03-06%20bulletin%20information%20COVID-19.pdf"
     },
     "nom": "Sarthe",
     "code": "DEP-72",
     "casConfirmes": 3
+  },
+  {
+    "date": "2020-03-06",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 3,
+    "code": "DEP-72",
+    "nom": "Sarthe"
   },
   {
     "date": "2020-03-06",
@@ -2609,6 +3599,16 @@
   {
     "date": "2020-03-06",
     "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 2,
+    "code": "DEP-76",
+    "nom": "Seine-Maritime"
+  },
+  {
+    "date": "2020-03-06",
+    "source": {
       "nom": "ARS Ile-de-France",
       "url": "https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200306.pdf"
     },
@@ -2636,6 +3636,36 @@
     "nom": "Deux-Sèvres",
     "code": "DEP-79",
     "casConfirmes": 1
+  },
+  {
+    "date": "2020-03-06",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 3,
+    "code": "DEP-80",
+    "nom": "Somme"
+  },
+  {
+    "date": "2020-03-06",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 2,
+    "code": "DEP-81",
+    "nom": "Tarn"
+  },
+  {
+    "date": "2020-03-06",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 3,
+    "code": "DEP-82",
+    "nom": "Tarn-et-Garonne"
   },
   {
     "date": "2020-03-06",
@@ -2672,6 +3702,16 @@
   {
     "date": "2020-03-06",
     "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 1,
+    "code": "DEP-85",
+    "nom": "Vendée"
+  },
+  {
+    "date": "2020-03-06",
+    "source": {
       "nom": "ARS Nouvelle-Aquitaine",
       "url": "https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP2_Covid19_PointSituation_ARSNA_06_03_2020.pdf",
       "archive": "https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_PointSituation_ARSNA_06_03_2020.pdf"
@@ -2690,6 +3730,36 @@
     "nom": "Haute-Vienne",
     "code": "DEP-87",
     "casConfirmes": 0
+  },
+  {
+    "date": "2020-03-06",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 2,
+    "code": "DEP-88",
+    "nom": "Vosges"
+  },
+  {
+    "date": "2020-03-06",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 2,
+    "code": "DEP-89",
+    "nom": "Yonne"
+  },
+  {
+    "date": "2020-03-06",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 30,
+    "code": "DEP-90",
+    "nom": "Territoire de Belfort"
   },
   {
     "date": "2020-03-06",
@@ -2717,7 +3787,7 @@
       "nom": "ARS Ile-de-France",
       "url": "https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200306.pdf"
     },
-    "nom": "Saint-Saint-Denis",
+    "nom": "Seine-Saint-Denis",
     "code": "DEP-93",
     "casConfirmes": 12
   },
@@ -3216,6 +4286,16 @@
   },
   {
     "date": "2020-03-07",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 7,
+    "code": "DEP-21",
+    "nom": "Côte-d'Or"
+  },
+  {
+    "date": "2020-03-07",
     "nom": "Côtes-d'Armor",
     "code": "DEP-22",
     "casConfirmes": 0,
@@ -3240,6 +4320,16 @@
     "nom": "Dordogne",
     "code": "DEP-24",
     "casConfirmes": 0
+  },
+  {
+    "date": "2020-03-07",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 39,
+    "code": "DEP-25",
+    "nom": "Doubs"
   },
   {
     "date": "2020-03-07",
@@ -3285,6 +4375,16 @@
   {
     "date": "2020-03-07",
     "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 12,
+    "code": "DEP-2A",
+    "nom": "Corse-du-Sud"
+  },
+  {
+    "date": "2020-03-07",
+    "source": {
       "nom": "Le Petit Corse",
       "url": "https://journal-lepetitcorse.fr/2020/03/07/covid-19-point-de-situation-ars-du-samedi-7mars-19h/"
     },
@@ -3292,6 +4392,16 @@
     "code": "DEP-2B",
     "casConfirmes": 5,
     "deces": 0
+  },
+  {
+    "date": "2020-03-07",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 5,
+    "code": "DEP-2B",
+    "nom": "Haute-Corse"
   },
   {
     "date": "2020-03-07",
@@ -3328,6 +4438,16 @@
   {
     "date": "2020-03-07",
     "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 3,
+    "code": "DEP-33",
+    "nom": "Gironde"
+  },
+  {
+    "date": "2020-03-07",
+    "source": {
       "nom": "ARS Occitanie",
       "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo_20200307.pdf"
     },
@@ -3342,6 +4462,26 @@
     "code": "DEP-35",
     "casConfirmes": 7,
     "deces": 0
+  },
+  {
+    "date": "2020-03-07",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 1,
+    "code": "DEP-38",
+    "nom": "Isère"
+  },
+  {
+    "date": "2020-03-07",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 4,
+    "code": "DEP-39",
+    "nom": "Jura"
   },
   {
     "date": "2020-03-07",
@@ -3389,6 +4529,26 @@
   {
     "date": "2020-03-07",
     "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 5,
+    "code": "DEP-47",
+    "nom": "Lot-et-Garonne"
+  },
+  {
+    "date": "2020-03-07",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 4,
+    "code": "DEP-49",
+    "nom": "Maine-et-Loire"
+  },
+  {
+    "date": "2020-03-07",
+    "source": {
       "nom": "ARS Normandie",
       "url": "https://www.normandie.ars.sante.fr/system/files/2020-03/CPpointSituationReg20200307.pdf"
     },
@@ -3399,9 +4559,29 @@
   },
   {
     "date": "2020-03-07",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 1,
+    "code": "DEP-52",
+    "nom": "Haute-Marne"
+  },
+  {
+    "date": "2020-03-07",
     "nom": "Morbihan",
     "code": "DEP-56",
     "casConfirmes": 35
+  },
+  {
+    "date": "2020-03-07",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 8,
+    "code": "DEP-57",
+    "nom": "Moselle"
   },
   {
     "date": "2020-03-07",
@@ -3423,6 +4603,16 @@
   {
     "date": "2020-03-07",
     "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 7,
+    "code": "DEP-60",
+    "nom": "Oise"
+  },
+  {
+    "date": "2020-03-07",
+    "source": {
       "nom": "ARS Normandie",
       "url": "https://www.normandie.ars.sante.fr/system/files/2020-03/CPpointSituationReg20200307.pdf"
     },
@@ -3430,6 +4620,16 @@
     "code": "DEP-61",
     "casConfirmes": 0,
     "deces": 0
+  },
+  {
+    "date": "2020-03-07",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 3,
+    "code": "DEP-62",
+    "nom": "Pas-de-Calais"
   },
   {
     "date": "2020-03-07",
@@ -3456,6 +4656,26 @@
   {
     "date": "2020-03-07",
     "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 2,
+    "code": "DEP-64",
+    "nom": "Pyrénées-Atlantiques"
+  },
+  {
+    "date": "2020-03-07",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 46,
+    "code": "DEP-67",
+    "nom": "Bas-Rhin"
+  },
+  {
+    "date": "2020-03-07",
+    "source": {
       "nom": "ARS Auvergne Rhône-Alpes",
       "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200307_ARSARA_COVID-19_Point_Situation_0.pdf"
     },
@@ -3464,6 +4684,26 @@
     "casConfirmes": 32,
     "reanimation": 5,
     "deces": 0
+  },
+  {
+    "date": "2020-03-07",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 5,
+    "code": "DEP-70",
+    "nom": "Haute-Saône"
+  },
+  {
+    "date": "2020-03-07",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 10,
+    "code": "DEP-71",
+    "nom": "Saône-et-Loire"
   },
   {
     "date": "2020-03-07",
@@ -3625,6 +4865,16 @@
   {
     "date": "2020-03-07",
     "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 38,
+    "code": "DEP-90",
+    "nom": "Territoire de Belfort"
+  },
+  {
+    "date": "2020-03-07",
+    "source": {
       "nom": "ARS Ile-de-France",
       "url": "https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200307.pdf"
     },
@@ -3648,7 +4898,7 @@
       "nom": "ARS Ile-de-France",
       "url": "https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200307.pdf"
     },
-    "nom": "Saint-Saint-Denis",
+    "nom": "Seine-Saint-Denis",
     "code": "DEP-93",
     "casConfirmes": 13
   },
@@ -4000,6 +5250,16 @@
   {
     "date": "2020-03-08",
     "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 21,
+    "code": "DEP-02",
+    "nom": "Aisne"
+  },
+  {
+    "date": "2020-03-08",
+    "source": {
       "nom": "ARS Provence-Alpes-Côte d’Azur",
       "url": "https://www.paca.ars.sante.fr/coronavirus-en-provence-alpes-cote-dazur-point-de-situation-du-8-mars"
     },
@@ -4066,6 +5326,26 @@
   {
     "date": "2020-03-08",
     "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 8,
+    "code": "DEP-11",
+    "nom": "Aude"
+  },
+  {
+    "date": "2020-03-08",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 8,
+    "code": "DEP-12",
+    "nom": "Aveyron"
+  },
+  {
+    "date": "2020-03-08",
+    "source": {
       "nom": "ARS Provence-Alpes-Côte d’Azur",
       "url": "https://www.paca.ars.sante.fr/coronavirus-en-provence-alpes-cote-dazur-point-de-situation-du-8-mars"
     },
@@ -4109,6 +5389,16 @@
   {
     "date": "2020-03-08",
     "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 7,
+    "code": "DEP-17",
+    "nom": "Charente-Maritime"
+  },
+  {
+    "date": "2020-03-08",
+    "source": {
       "nom": "ARS Centre - Val de Loire",
       "url": "http://www.indre.gouv.fr/content/download/23260/163520/file/Bulletin%20d'information%20Covid-19%20-%20n%C2%B01%20-%2008-03-20%20_1.pdf"
     },
@@ -4126,6 +5416,16 @@
     "nom": "Corrèze",
     "code": "DEP-19",
     "casConfirmes": 1
+  },
+  {
+    "date": "2020-03-08",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 1,
+    "code": "DEP-19",
+    "nom": "Corrèze"
   },
   {
     "date": "2020-03-08",
@@ -4153,6 +5453,16 @@
     "nom": "Dordogne",
     "code": "DEP-24",
     "casConfirmes": 0
+  },
+  {
+    "date": "2020-03-08",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 41,
+    "code": "DEP-25",
+    "nom": "Doubs"
   },
   {
     "date": "2020-03-08",
@@ -4196,10 +5506,30 @@
   },
   {
     "date": "2020-03-08",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 5,
+    "code": "DEP-28",
+    "nom": "Eure-et-Loir"
+  },
+  {
+    "date": "2020-03-08",
     "nom": "Finistère",
     "code": "DEP-29",
     "casConfirmes": 5,
     "deces": 0
+  },
+  {
+    "date": "2020-03-08",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 1,
+    "code": "DEP-32",
+    "nom": "Gers"
   },
   {
     "date": "2020-03-08",
@@ -4210,6 +5540,26 @@
     "nom": "Gironde",
     "code": "DEP-33",
     "casConfirmes": 4
+  },
+  {
+    "date": "2020-03-08",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 4,
+    "code": "DEP-33",
+    "nom": "Gironde"
+  },
+  {
+    "date": "2020-03-08",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 18,
+    "code": "DEP-34",
+    "nom": "Hérault"
   },
   {
     "date": "2020-03-08",
@@ -4239,6 +5589,16 @@
     "code": "DEP-37",
     "casConfirmes": 5,
     "deces": 0
+  },
+  {
+    "date": "2020-03-08",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 5,
+    "code": "DEP-37",
+    "nom": "Indre-et-Loire"
   },
   {
     "date": "2020-03-08",
@@ -4286,6 +5646,16 @@
   {
     "date": "2020-03-08",
     "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 8,
+    "code": "DEP-44",
+    "nom": "Loire-Atlantique"
+  },
+  {
+    "date": "2020-03-08",
+    "source": {
       "nom": "ARS Centre - Val de Loire",
       "url": "http://www.indre.gouv.fr/content/download/23260/163520/file/Bulletin%20d'information%20Covid-19%20-%20n%C2%B01%20-%2008-03-20%20_1.pdf"
     },
@@ -4293,6 +5663,16 @@
     "code": "DEP-45",
     "casConfirmes": 7,
     "deces": 0
+  },
+  {
+    "date": "2020-03-08",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 7,
+    "code": "DEP-45",
+    "nom": "Loiret"
   },
   {
     "date": "2020-03-08",
@@ -4307,12 +5687,32 @@
   {
     "date": "2020-03-08",
     "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 10,
+    "code": "DEP-47",
+    "nom": "Lot-et-Garonne"
+  },
+  {
+    "date": "2020-03-08",
+    "source": {
       "nom": "ARS Pays de la Loire",
       "url": "https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-03/2020-03-08%20bulletin%20information%20COVID-19.pdf"
     },
     "nom": "Maine-et-Loire",
     "code": "DEP-49",
     "casConfirmes": 6
+  },
+  {
+    "date": "2020-03-08",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 7,
+    "code": "DEP-49",
+    "nom": "Maine-et-Loire"
   },
   {
     "date": "2020-03-08",
@@ -4417,6 +5817,26 @@
   {
     "date": "2020-03-08",
     "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 5,
+    "code": "DEP-59",
+    "nom": "Nord"
+  },
+  {
+    "date": "2020-03-08",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 9,
+    "code": "DEP-60",
+    "nom": "Oise"
+  },
+  {
+    "date": "2020-03-08",
+    "source": {
       "nom": "ARS Normandie",
       "url": "https://www.normandie.ars.sante.fr/system/files/2020-03/CPpointSituation20200308.pdf"
     },
@@ -4502,6 +5922,16 @@
     "nom": "Sarthe",
     "code": "DEP-72",
     "casConfirmes": 5
+  },
+  {
+    "date": "2020-03-08",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 5,
+    "code": "DEP-72",
+    "nom": "Sarthe"
   },
   {
     "date": "2020-03-08",
@@ -4631,12 +6061,32 @@
   {
     "date": "2020-03-08",
     "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 4,
+    "code": "DEP-85",
+    "nom": "Vendée"
+  },
+  {
+    "date": "2020-03-08",
+    "source": {
       "nom": "ARS Nouvelle-Aquitaine",
       "url": "https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_PointSituation_ARSNA_08_03_2020.pdf"
     },
     "nom": "Vienne",
     "code": "DEP-86",
     "casConfirmes": 1
+  },
+  {
+    "date": "2020-03-08",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 1,
+    "code": "DEP-86",
+    "nom": "Vienne"
   },
   {
     "date": "2020-03-08",
@@ -4658,6 +6108,26 @@
     "code": "DEP-88",
     "casConfirmes": 15,
     "deces": 0
+  },
+  {
+    "date": "2020-03-08",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 4,
+    "code": "DEP-89",
+    "nom": "Yonne"
+  },
+  {
+    "date": "2020-03-08",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 41,
+    "code": "DEP-90",
+    "nom": "Territoire de Belfort"
   },
   {
     "date": "2020-03-08",
@@ -4685,7 +6155,7 @@
       "nom": "ARS Ile-de-France",
       "url": "https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200308.pdf"
     },
-    "nom": "Saint-Saint-Denis",
+    "nom": "Seine-Saint-Denis",
     "code": "DEP-93",
     "casConfirmes": 16
   },
@@ -4880,6 +6350,16 @@
   {
     "date": "2020-03-09",
     "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 28,
+    "code": "DEP-02",
+    "nom": "Aisne"
+  },
+  {
+    "date": "2020-03-09",
+    "source": {
       "nom": "ARS Provence-Alpes-Côte d’Azur",
       "url": "https://www.paca.ars.sante.fr/coronavirus-en-provence-alpes-cote-dazur-point-de-situation-du-9-mars"
     },
@@ -5020,6 +6500,16 @@
   },
   {
     "date": "2020-03-09",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 2,
+    "code": "DEP-19",
+    "nom": "Corrèze"
+  },
+  {
+    "date": "2020-03-09",
     "nom": "Côtes-d'Armor",
     "code": "DEP-22",
     "casConfirmes": 0,
@@ -5044,6 +6534,26 @@
     "nom": "Dordogne",
     "code": "DEP-24",
     "casConfirmes": 2
+  },
+  {
+    "date": "2020-03-09",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 3,
+    "code": "DEP-24",
+    "nom": "Dordogne"
+  },
+  {
+    "date": "2020-03-09",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 44,
+    "code": "DEP-25",
+    "nom": "Doubs"
   },
   {
     "date": "2020-03-09",
@@ -5101,6 +6611,16 @@
   {
     "date": "2020-03-09",
     "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 23,
+    "code": "DEP-2A",
+    "nom": "Corse-du-Sud"
+  },
+  {
+    "date": "2020-03-09",
+    "source": {
       "nom": "ARS Corse",
       "url": "https://twitter.com/ARSCORSE1/status/1237086392297152513"
     },
@@ -5108,6 +6628,16 @@
     "code": "DEP-2B",
     "casConfirmes": 5,
     "deces": 0
+  },
+  {
+    "date": "2020-03-09",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 6,
+    "code": "DEP-2B",
+    "nom": "Haute-Corse"
   },
   {
     "date": "2020-03-09",
@@ -5205,6 +6735,16 @@
   {
     "date": "2020-03-09",
     "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 9,
+    "code": "DEP-44",
+    "nom": "Loire-Atlantique"
+  },
+  {
+    "date": "2020-03-09",
+    "source": {
       "nom": "ARS Occitanie",
       "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo2_20200309.pdf"
     },
@@ -5222,6 +6762,16 @@
     "nom": "Lot-et-Garonne",
     "code": "DEP-47",
     "casConfirmes": 16
+  },
+  {
+    "date": "2020-03-09",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 15,
+    "code": "DEP-47",
+    "nom": "Lot-et-Garonne"
   },
   {
     "date": "2020-03-09",
@@ -5389,6 +6939,16 @@
   {
     "date": "2020-03-09",
     "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 4,
+    "code": "DEP-62",
+    "nom": "Pas-de-Calais"
+  },
+  {
+    "date": "2020-03-09",
+    "source": {
       "nom": "ARS Auvergne Rhône-Alpes",
       "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200309_ARSARA_COVID-19_Point_Situation.pdf"
     },
@@ -5459,6 +7019,16 @@
         "date": "2020-03-09"
       }
     ]
+  },
+  {
+    "date": "2020-03-09",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 11,
+    "code": "DEP-71",
+    "nom": "Saône-et-Loire"
   },
   {
     "date": "2020-03-09",
@@ -5637,6 +7207,16 @@
   {
     "date": "2020-03-09",
     "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 3,
+    "code": "DEP-86",
+    "nom": "Vienne"
+  },
+  {
+    "date": "2020-03-09",
+    "source": {
       "nom": "ARS Nouvelle-Aquitaine",
       "url": "https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_PointSituation_ARSNA_09_03_2020.pdf"
     },
@@ -5665,6 +7245,16 @@
   {
     "date": "2020-03-09",
     "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 44,
+    "code": "DEP-90",
+    "nom": "Territoire de Belfort"
+  },
+  {
+    "date": "2020-03-09",
+    "source": {
       "nom": "ARS Ile-de-France",
       "url": "https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200309.pdf"
     },
@@ -5688,7 +7278,7 @@
       "nom": "ARS Ile-de-France",
       "url": "https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200309.pdf"
     },
-    "nom": "Saint-Saint-Denis",
+    "nom": "Seine-Saint-Denis",
     "code": "DEP-93",
     "casConfirmes": 16
   },
@@ -5719,6 +7309,16 @@
         "date": "2020-03-06"
       }
     ]
+  },
+  {
+    "date": "2020-03-09",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 3,
+    "code": "DEP-972",
+    "nom": "Martinique"
   },
   {
     "date": "2020-03-09",
@@ -5977,6 +7577,26 @@
   {
     "date": "2020-03-10",
     "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 22,
+    "code": "DEP-11",
+    "nom": "Aude"
+  },
+  {
+    "date": "2020-03-10",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 9,
+    "code": "DEP-12",
+    "nom": "Aveyron"
+  },
+  {
+    "date": "2020-03-10",
+    "source": {
       "nom": "ARS Provence-Alpes-Côte d’Azur",
       "url": "https://www.paca.ars.sante.fr/system/files/2020-03/CP%20point%20de%20situation%2010032020.pdf"
     },
@@ -6020,6 +7640,16 @@
   {
     "date": "2020-03-10",
     "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 13,
+    "code": "DEP-17",
+    "nom": "Charente-Maritime"
+  },
+  {
+    "date": "2020-03-10",
+    "source": {
       "nom": "ARS Centre - Val de Loire",
       "url": "http://www.indre.gouv.fr/content/download/23274/163576/file/Bulletin%20d'information%20Covid-19%20-%20n%C2%B02%20-%2010-03-20%20.pdf"
     },
@@ -6040,6 +7670,16 @@
   },
   {
     "date": "2020-03-10",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 9,
+    "code": "DEP-21",
+    "nom": "Côte-d'Or"
+  },
+  {
+    "date": "2020-03-10",
     "nom": "Côtes-d'Armor",
     "code": "DEP-22",
     "casConfirmes": 0,
@@ -6052,7 +7692,7 @@
       "url": "http://www.ille-et-vilaine.gouv.fr/Actualites/Espace-presse/2020/COVID-19-informations-recommandations-et-mesures-sanitaires",
       "archive": "http://web.archive.org/web/20200314080409/http://www.ille-et-vilaine.gouv.fr/Actualites/Espace-presse/2020/COVID-19-informations-recommandations-et-mesures-sanitaires"
     },
-    "nom": "Côtes d'Armor",
+    "nom": "Côtes-d'Armor",
     "code": "DEP-22",
     "deces": 0,
     "casConfirmes": 0
@@ -6076,6 +7716,16 @@
     "nom": "Dordogne",
     "code": "DEP-24",
     "casConfirmes": 2
+  },
+  {
+    "date": "2020-03-10",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 52,
+    "code": "DEP-25",
+    "nom": "Doubs"
   },
   {
     "date": "2020-03-10",
@@ -6156,6 +7806,16 @@
   {
     "date": "2020-03-10",
     "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 27,
+    "code": "DEP-2A",
+    "nom": "Corse-du-Sud"
+  },
+  {
+    "date": "2020-03-10",
+    "source": {
       "nom": "ARS Corse",
       "url": "https://twitter.com/ARSCORSE1/status/1237426287892979713"
     },
@@ -6167,12 +7827,52 @@
   {
     "date": "2020-03-10",
     "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 7,
+    "code": "DEP-2B",
+    "nom": "Haute-Corse"
+  },
+  {
+    "date": "2020-03-10",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 6,
+    "code": "DEP-30",
+    "nom": "Gard"
+  },
+  {
+    "date": "2020-03-10",
+    "source": {
       "nom": "ARS Nouvelle-Aquitaine",
       "url": "https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_PointSituation_ARSNA_10_03_2020.pdf"
     },
     "nom": "Gironde",
     "code": "DEP-33",
     "casConfirmes": 5
+  },
+  {
+    "date": "2020-03-10",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 5,
+    "code": "DEP-33",
+    "nom": "Gironde"
+  },
+  {
+    "date": "2020-03-10",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 40,
+    "code": "DEP-34",
+    "nom": "Hérault"
   },
   {
     "date": "2020-03-10",
@@ -6226,6 +7926,16 @@
     "casConfirmes": 3,
     "reanimation": 1,
     "deces": 0
+  },
+  {
+    "date": "2020-03-10",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 6,
+    "code": "DEP-39",
+    "nom": "Jura"
   },
   {
     "date": "2020-03-10",
@@ -6290,6 +8000,16 @@
     "nom": "Lot-et-Garonne",
     "code": "DEP-47",
     "casConfirmes": 23
+  },
+  {
+    "date": "2020-03-10",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 22,
+    "code": "DEP-47",
+    "nom": "Lot-et-Garonne"
   },
   {
     "date": "2020-03-10",
@@ -6551,6 +8271,26 @@
   {
     "date": "2020-03-10",
     "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 7,
+    "code": "DEP-70",
+    "nom": "Haute-Saône"
+  },
+  {
+    "date": "2020-03-10",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 13,
+    "code": "DEP-71",
+    "nom": "Saône-et-Loire"
+  },
+  {
+    "date": "2020-03-10",
+    "source": {
       "nom": "ARS Pays de la Loire",
       "archive": "https://webcache.googleusercontent.com/search?q=cache:9PApvstTdacJ:https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-03/2020-03-10%2520bulletin%2520information%2520COVID-19.pdf+&cd=6&hl=fr&ct=clnk&gl=fr"
     },
@@ -6671,6 +8411,26 @@
   {
     "date": "2020-03-10",
     "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 3,
+    "code": "DEP-81",
+    "nom": "Tarn"
+  },
+  {
+    "date": "2020-03-10",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 4,
+    "code": "DEP-82",
+    "nom": "Tarn-et-Garonne"
+  },
+  {
+    "date": "2020-03-10",
+    "source": {
       "nom": "ARS Provence-Alpes-Côte d’Azur",
       "url": "https://www.paca.ars.sante.fr/system/files/2020-03/CP%20point%20de%20situation%2010032020.pdf"
     },
@@ -6709,6 +8469,16 @@
     "nom": "Vienne",
     "code": "DEP-86",
     "casConfirmes": 4
+  },
+  {
+    "date": "2020-03-10",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 4,
+    "code": "DEP-86",
+    "nom": "Vienne"
   },
   {
     "date": "2020-03-10",
@@ -6756,6 +8526,26 @@
   {
     "date": "2020-03-10",
     "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 6,
+    "code": "DEP-89",
+    "nom": "Yonne"
+  },
+  {
+    "date": "2020-03-10",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 52,
+    "code": "DEP-90",
+    "nom": "Territoire de Belfort"
+  },
+  {
+    "date": "2020-03-10",
+    "source": {
       "nom": "ARS Ile-de-France",
       "url": "https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200310_0.pdf"
     },
@@ -6779,7 +8569,7 @@
       "nom": "ARS Ile-de-France",
       "url": "https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200310_0.pdf"
     },
-    "nom": "Saint-Saint-Denis",
+    "nom": "Seine-Saint-Denis",
     "code": "DEP-93",
     "casConfirmes": 22
   },
@@ -7304,6 +9094,16 @@
   {
     "date": "2020-03-11",
     "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 2,
+    "code": "DEP-16",
+    "nom": "Charente"
+  },
+  {
+    "date": "2020-03-11",
+    "source": {
       "nom": "ARS Nouvelle-Aquitaine",
       "url": "https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_PointSituation_ARSNA_11_03_2020.pdf"
     },
@@ -7311,6 +9111,16 @@
     "code": "DEP-17",
     "casConfirmes": 20,
     "gueris": 1
+  },
+  {
+    "date": "2020-03-11",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 20,
+    "code": "DEP-17",
+    "nom": "Charente-Maritime"
   },
   {
     "date": "2020-03-11",
@@ -7335,6 +9145,16 @@
   },
   {
     "date": "2020-03-11",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 4,
+    "code": "DEP-19",
+    "nom": "Corrèze"
+  },
+  {
+    "date": "2020-03-11",
     "nom": "Côtes-d'Armor",
     "code": "DEP-22",
     "casConfirmes": 0,
@@ -7347,7 +9167,7 @@
       "url": "http://www.ille-et-vilaine.gouv.fr/Actualites/Espace-presse/2020/COVID-19-informations-recommandations-et-mesures-sanitaires",
       "archive": "http://web.archive.org/web/20200314080409/http://www.ille-et-vilaine.gouv.fr/Actualites/Espace-presse/2020/COVID-19-informations-recommandations-et-mesures-sanitaires"
     },
-    "nom": "Côtes d'Armor",
+    "nom": "Côtes-d'Armor",
     "code": "DEP-22",
     "deces": 0,
     "casConfirmes": 0
@@ -7381,6 +9201,16 @@
     "nom": "Doubs",
     "code": "DEP-25",
     "deces": 1
+  },
+  {
+    "date": "2020-03-11",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 59,
+    "code": "DEP-25",
+    "nom": "Doubs"
   },
   {
     "date": "2020-03-11",
@@ -7462,6 +9292,16 @@
   {
     "date": "2020-03-11",
     "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 40,
+    "code": "DEP-2A",
+    "nom": "Corse-du-Sud"
+  },
+  {
+    "date": "2020-03-11",
+    "source": {
       "nom": "ARS Corse",
       "url": "https://twitter.com/ARSCORSE1/status/1237767540300034048",
       "archive": "https://web.archive.org/web/20200312153305/https://www.corse.ars.sante.fr/coronavirus-covid-19-informations-utiles"
@@ -7470,6 +9310,16 @@
     "code": "DEP-2B",
     "casConfirmes": 7,
     "deces": 0
+  },
+  {
+    "date": "2020-03-11",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 8,
+    "code": "DEP-2B",
+    "nom": "Haute-Corse"
   },
   {
     "date": "2020-03-11",
@@ -7513,6 +9363,16 @@
     "nom": "Gironde",
     "code": "DEP-33",
     "casConfirmes": 7
+  },
+  {
+    "date": "2020-03-11",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 7,
+    "code": "DEP-33",
+    "nom": "Gironde"
   },
   {
     "date": "2020-03-11",
@@ -7569,6 +9429,16 @@
   {
     "date": "2020-03-11",
     "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 6,
+    "code": "DEP-37",
+    "nom": "Indre-et-Loire"
+  },
+  {
+    "date": "2020-03-11",
+    "source": {
       "nom": "ARS Auvergne Rhône-Alpes",
       "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200311_ARSARA_COVID-19_Point_Situation_0.pdf"
     },
@@ -7586,6 +9456,16 @@
     "nom": "Jura",
     "code": "DEP-39",
     "deces": 1
+  },
+  {
+    "date": "2020-03-11",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 7,
+    "code": "DEP-39",
+    "nom": "Jura"
   },
   {
     "date": "2020-03-11",
@@ -7645,6 +9525,16 @@
   {
     "date": "2020-03-11",
     "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 9,
+    "code": "DEP-45",
+    "nom": "Loiret"
+  },
+  {
+    "date": "2020-03-11",
+    "source": {
       "nom": "ARS Occitanie",
       "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo3_20200311.pdf"
     },
@@ -7662,6 +9552,16 @@
     "nom": "Lot-et-Garonne",
     "code": "DEP-47",
     "casConfirmes": 24
+  },
+  {
+    "date": "2020-03-11",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 23,
+    "code": "DEP-47",
+    "nom": "Lot-et-Garonne"
   },
   {
     "date": "2020-03-11",
@@ -7827,6 +9727,16 @@
   {
     "date": "2020-03-11",
     "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 3,
+    "code": "DEP-64",
+    "nom": "Pyrénées-Atlantiques"
+  },
+  {
+    "date": "2020-03-11",
+    "source": {
       "nom": "ARS Occitanie",
       "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo3_20200311.pdf"
     },
@@ -7908,6 +9818,16 @@
         "date": "2020-03-09"
       }
     ]
+  },
+  {
+    "date": "2020-03-11",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 9,
+    "code": "DEP-70",
+    "nom": "Haute-Saône"
   },
   {
     "date": "2020-03-11",
@@ -8065,12 +9985,32 @@
   {
     "date": "2020-03-11",
     "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 6,
+    "code": "DEP-86",
+    "nom": "Vienne"
+  },
+  {
+    "date": "2020-03-11",
+    "source": {
       "nom": "ARS Nouvelle-Aquitaine",
       "url": "https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_PointSituation_ARSNA_11_03_2020.pdf"
     },
     "nom": "Haute-Vienne",
     "code": "DEP-87",
     "casConfirmes": 1
+  },
+  {
+    "date": "2020-03-11",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 1,
+    "code": "DEP-87",
+    "nom": "Haute-Vienne"
   },
   {
     "date": "2020-03-11",
@@ -8108,6 +10048,26 @@
   {
     "date": "2020-03-11",
     "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 7,
+    "code": "DEP-89",
+    "nom": "Yonne"
+  },
+  {
+    "date": "2020-03-11",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 58,
+    "code": "DEP-90",
+    "nom": "Territoire de Belfort"
+  },
+  {
+    "date": "2020-03-11",
+    "source": {
       "nom": "ARS Ile-de-France",
       "url": "https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200311.pdf"
     },
@@ -8131,7 +10091,7 @@
       "nom": "ARS Ile-de-France",
       "url": "https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200311.pdf"
     },
-    "nom": "Saint-Saint-Denis",
+    "nom": "Seine-Saint-Denis",
     "code": "DEP-93",
     "casConfirmes": 29
   },
@@ -8177,12 +10137,32 @@
   {
     "date": "2020-03-11",
     "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 4,
+    "code": "DEP-972",
+    "nom": "Martinique"
+  },
+  {
+    "date": "2020-03-11",
+    "source": {
       "nom": "ARS Guyane",
       "url": "https://www.guyane.ars.sante.fr/system/files/2020-03/2020_03_11_CP%20COVID-19.pdf"
     },
     "nom": "Guyane",
     "code": "DEP-973",
     "casConfirmes": 6
+  },
+  {
+    "date": "2020-03-11",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 1,
+    "code": "DEP-974",
+    "nom": "La Réunion"
   },
   {
     "date": "2020-03-11",
@@ -8705,6 +10685,16 @@
   {
     "date": "2020-03-12",
     "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 3,
+    "code": "DEP-16",
+    "nom": "Charente"
+  },
+  {
+    "date": "2020-03-12",
+    "source": {
       "nom": "ARS Nouvelle-Aquitaine",
       "url": "https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_12_03_2020.pdf"
     },
@@ -8737,6 +10727,16 @@
   {
     "date": "2020-03-12",
     "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 5,
+    "code": "DEP-19",
+    "nom": "Corrèze"
+  },
+  {
+    "date": "2020-03-12",
+    "source": {
       "nom": "ARS Bretagne",
       "url": "https://www.bretagne.ars.sante.fr/system/files/2020-03/2020-03-12-bulletin%20information%20COVID-19_VF.pdf"
     },
@@ -8752,7 +10752,7 @@
       "url": "http://www.ille-et-vilaine.gouv.fr/Actualites/Espace-presse/2020/COVID-19-informations-recommandations-et-mesures-sanitaires",
       "archive": "http://web.archive.org/web/20200314080409/http://www.ille-et-vilaine.gouv.fr/Actualites/Espace-presse/2020/COVID-19-informations-recommandations-et-mesures-sanitaires"
     },
-    "nom": "Côtes d'Armor",
+    "nom": "Côtes-d'Armor",
     "code": "DEP-22",
     "deces": 0,
     "casConfirmes": 1
@@ -8776,6 +10776,16 @@
     "nom": "Dordogne",
     "code": "DEP-24",
     "casConfirmes": 5
+  },
+  {
+    "date": "2020-03-12",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 5,
+    "code": "DEP-24",
+    "nom": "Dordogne"
   },
   {
     "date": "2020-03-12",
@@ -8865,6 +10875,16 @@
   {
     "date": "2020-03-12",
     "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 50,
+    "code": "DEP-2A",
+    "nom": "Corse-du-Sud"
+  },
+  {
+    "date": "2020-03-12",
+    "source": {
       "nom": "ARS Corse",
       "url": "https://twitter.com/ARSCORSE1/status/1238136760611278848"
     },
@@ -8872,6 +10892,16 @@
     "code": "DEP-2B",
     "casConfirmes": 11,
     "deces": 0
+  },
+  {
+    "date": "2020-03-12",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 10,
+    "code": "DEP-2B",
+    "nom": "Haute-Corse"
   },
   {
     "date": "2020-03-12",
@@ -8915,6 +10945,16 @@
     "nom": "Gironde",
     "code": "DEP-33",
     "casConfirmes": 9
+  },
+  {
+    "date": "2020-03-12",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 9,
+    "code": "DEP-33",
+    "nom": "Gironde"
   },
   {
     "date": "2020-03-12",
@@ -9006,6 +11046,16 @@
   {
     "date": "2020-03-12",
     "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 3,
+    "code": "DEP-40",
+    "nom": "Landes"
+  },
+  {
+    "date": "2020-03-12",
+    "source": {
       "nom": "ARS Centre - Val de Loire",
       "url": "https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/CP_Coronavirus120320-pointsituation.pdf"
     },
@@ -9078,6 +11128,16 @@
     "nom": "Lot-et-Garonne",
     "code": "DEP-47",
     "casConfirmes": 26
+  },
+  {
+    "date": "2020-03-12",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 25,
+    "code": "DEP-47",
+    "nom": "Lot-et-Garonne"
   },
   {
     "date": "2020-03-12",
@@ -9236,6 +11296,16 @@
     "code": "DEP-64",
     "casConfirmes": 7,
     "gueris": 1
+  },
+  {
+    "date": "2020-03-12",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 9,
+    "code": "DEP-64",
+    "nom": "Pyrénées-Atlantiques"
   },
   {
     "date": "2020-03-12",
@@ -9540,7 +11610,7 @@
       "nom": "ARS Ile-de-France",
       "url": "https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid10_20200312.pdf"
     },
-    "nom": "Saint-Saint-Denis",
+    "nom": "Seine-Saint-Denis",
     "code": "DEP-93",
     "casConfirmes": 45
   },
@@ -9571,6 +11641,26 @@
         "date": "2020-03-06"
       }
     ]
+  },
+  {
+    "date": "2020-03-12",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 6,
+    "code": "DEP-972",
+    "nom": "Martinique"
+  },
+  {
+    "date": "2020-03-12",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 4,
+    "code": "DEP-974",
+    "nom": "La Réunion"
   },
   {
     "date": "2020-03-12",
@@ -10117,7 +12207,7 @@
       "url": "http://www.ille-et-vilaine.gouv.fr/Actualites/Espace-presse/2020/COVID-19-informations-recommandations-et-mesures-sanitaires",
       "archive": "http://web.archive.org/web/20200314080409/http://www.ille-et-vilaine.gouv.fr/Actualites/Espace-presse/2020/COVID-19-informations-recommandations-et-mesures-sanitaires"
     },
-    "nom": "Côtes d'Armor",
+    "nom": "Côtes-d'Armor",
     "code": "DEP-22",
     "deces": 0,
     "casConfirmes": 1
@@ -10819,6 +12909,36 @@
   {
     "date": "2020-03-13",
     "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 1,
+    "code": "DEP-971",
+    "nom": "Guadeloupe"
+  },
+  {
+    "date": "2020-03-13",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 6,
+    "code": "DEP-973",
+    "nom": "Guyane"
+  },
+  {
+    "date": "2020-03-13",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 5,
+    "code": "DEP-974",
+    "nom": "La Réunion"
+  },
+  {
+    "date": "2020-03-13",
+    "source": {
       "nom": "Santé publique France",
       "archive": "https://web.archive.org/web/20200314005123/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
@@ -11354,7 +13474,7 @@
       "url": "http://www.ille-et-vilaine.gouv.fr/Actualites/Espace-presse/2020/COVID-19-informations-recommandations-et-mesures-sanitaires",
       "archive": "https://web.archive.org/web/20200316124603/http://www.ille-et-vilaine.gouv.fr/Actualites/Espace-presse/2020/COVID-19-informations-recommandations-et-mesures-sanitaires"
     },
-    "nom": "Côtes d'Armor",
+    "nom": "Côtes-d'Armor",
     "code": "DEP-22",
     "deces": 0,
     "casConfirmes": 4
@@ -11876,7 +13996,7 @@
       "nom": "ARS Occitanie",
       "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo6_20200314.pdf"
     },
-    "nom": "Haute-Pyrénées",
+    "nom": "Hautes-Pyrénées",
     "code": "DEP-65",
     "casConfirmes": 5
   },
@@ -12705,7 +14825,7 @@
       "url": "http://www.ille-et-vilaine.gouv.fr/Actualites/Espace-presse/2020/COVID-19-informations-recommandations-et-mesures-sanitaires",
       "archive": "https://web.archive.org/web/20200316124603/http://www.ille-et-vilaine.gouv.fr/Actualites/Espace-presse/2020/COVID-19-informations-recommandations-et-mesures-sanitaires"
     },
-    "nom": "Côtes d'Armor",
+    "nom": "Côtes-d'Armor",
     "code": "DEP-22",
     "deces": 0,
     "casConfirmes": 4
@@ -13134,7 +15254,7 @@
       "nom": "ARS Occitanie",
       "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo7_20200315.pdf"
     },
-    "nom": "Haute-Pyrénées",
+    "nom": "Hautes-Pyrénées",
     "code": "DEP-65",
     "casConfirmes": 5
   },
@@ -13924,7 +16044,7 @@
       "url": "http://www.prefectures-regions.gouv.fr/bretagne/Actualites/Coronavirus-informations-recommandations-et-mesures-sanitaires",
       "archive": "https://web.archive.org/web/20200317124617/http://www.prefectures-regions.gouv.fr/bretagne/Actualites/Coronavirus-informations-recommandations-et-mesures-sanitaires"
     },
-    "nom": "Côtes d'Armor",
+    "nom": "Côtes-d'Armor",
     "code": "DEP-22",
     "deces": 0,
     "casConfirmes": 5
@@ -14380,7 +16500,7 @@
       "nom": "ARS Occitanie",
       "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo8_20200316.pdf"
     },
-    "nom": "Haute-Pyrénées",
+    "nom": "Hautes-Pyrénées",
     "code": "DEP-65",
     "casConfirmes": 6
   },
@@ -15132,6 +17252,28 @@
   {
     "date": "2020-03-17",
     "source": {
+      "nom": "ARS Nouvelle-Aquitaine",
+      "url": "https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_17_03_2020.pdf",
+      "archive": "https://web.archive.org/web/20200317193949/https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_17_03_2020.pdf"
+    },
+    "nom": "Charente",
+    "code": "DEP-16",
+    "casConfirmes": 4
+  },
+  {
+    "date": "2020-03-17",
+    "source": {
+      "nom": "ARS Nouvelle-Aquitaine",
+      "url": "https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_17_03_2020.pdf",
+      "archive": "https://web.archive.org/web/20200317193949/https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_17_03_2020.pdf"
+    },
+    "nom": "Charente-Maritime",
+    "code": "DEP-17",
+    "casConfirmes": 30
+  },
+  {
+    "date": "2020-03-17",
+    "source": {
       "nom": "ARS Centre - Val de Loire",
       "url": "https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-17-bulletin%20information%20COVID-19_1.pdf",
       "archive": "https://web.archive.org/web/20200317195040/https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-17-bulletin%20information%20COVID-19_1.pdf"
@@ -15144,12 +17286,57 @@
   {
     "date": "2020-03-17",
     "source": {
+      "nom": "ARS Nouvelle-Aquitaine",
+      "url": "https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_17_03_2020.pdf",
+      "archive": "https://web.archive.org/web/20200317193949/https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_17_03_2020.pdf"
+    },
+    "nom": "Corrèze",
+    "code": "DEP-19",
+    "casConfirmes": 5
+  },
+  {
+    "date": "2020-03-17",
+    "source": {
       "nom": "ARS Bretagne",
       "url": "https://www.bretagne.ars.sante.fr/coronavirus-en-bretagne-point-de-situation-du-mardi-17-mars-2020-et-mesures-destinees-freiner-la"
     },
     "nom": "Côtes-d'Armor",
     "code": "DEP-22",
     "casConfirmes": 11
+  },
+  {
+    "date": "2020-03-17",
+    "source": {
+      "nom": "Préfecture de Bretagne",
+      "url": "http://www.prefectures-regions.gouv.fr/bretagne/Actualites/Coronavirus-informations-recommandations-et-mesures-sanitaires",
+      "archive": "https://web.archive.org/web/20200318164832/http://www.prefectures-regions.gouv.fr/bretagne/Actualites/Coronavirus-informations-recommandations-et-mesures-sanitaires"
+    },
+    "nom": "Côtes-d'Armor",
+    "code": "DEP-22",
+    "deces": 0,
+    "casConfirmes": 11
+  },
+  {
+    "date": "2020-03-17",
+    "source": {
+      "nom": "ARS Nouvelle-Aquitaine",
+      "url": "https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_17_03_2020.pdf",
+      "archive": "https://web.archive.org/web/20200317193949/https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_17_03_2020.pdf"
+    },
+    "nom": "Creuse",
+    "code": "DEP-23",
+    "casConfirmes": 4
+  },
+  {
+    "date": "2020-03-17",
+    "source": {
+      "nom": "ARS Nouvelle-Aquitaine",
+      "url": "https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_17_03_2020.pdf",
+      "archive": "https://web.archive.org/web/20200317193949/https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_17_03_2020.pdf"
+    },
+    "nom": "Dordogne",
+    "code": "DEP-24",
+    "casConfirmes": 7
   },
   {
     "date": "2020-03-17",
@@ -15188,6 +17375,18 @@
     },
     "nom": "Finistère",
     "code": "DEP-29",
+    "casConfirmes": 43
+  },
+  {
+    "date": "2020-03-17",
+    "source": {
+      "nom": "Préfecture de Bretagne",
+      "url": "http://www.prefectures-regions.gouv.fr/bretagne/Actualites/Coronavirus-informations-recommandations-et-mesures-sanitaires",
+      "archive": "https://web.archive.org/web/20200318164832/http://www.prefectures-regions.gouv.fr/bretagne/Actualites/Coronavirus-informations-recommandations-et-mesures-sanitaires"
+    },
+    "nom": "Finistère",
+    "code": "DEP-29",
+    "deces": 0,
     "casConfirmes": 43
   },
   {
@@ -15245,6 +17444,17 @@
   {
     "date": "2020-03-17",
     "source": {
+      "nom": "ARS Nouvelle-Aquitaine",
+      "url": "https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_17_03_2020.pdf",
+      "archive": "https://web.archive.org/web/20200317193949/https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_17_03_2020.pdf"
+    },
+    "nom": "Gironde",
+    "code": "DEP-33",
+    "casConfirmes": 34
+  },
+  {
+    "date": "2020-03-17",
+    "source": {
       "nom": "ARS Occitanie",
       "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo9_20200317.pdf"
     },
@@ -15260,6 +17470,18 @@
     },
     "nom": "Ille-et-Vilaine",
     "code": "DEP-35",
+    "casConfirmes": 50
+  },
+  {
+    "date": "2020-03-17",
+    "source": {
+      "nom": "Préfecture de Bretagne",
+      "url": "http://www.prefectures-regions.gouv.fr/bretagne/Actualites/Coronavirus-informations-recommandations-et-mesures-sanitaires",
+      "archive": "https://web.archive.org/web/20200318164832/http://www.prefectures-regions.gouv.fr/bretagne/Actualites/Coronavirus-informations-recommandations-et-mesures-sanitaires"
+    },
+    "nom": "Ille-et-Vilaine",
+    "code": "DEP-35",
+    "deces": 0,
     "casConfirmes": 50
   },
   {
@@ -15297,6 +17519,17 @@
     "code": "DEP-38",
     "casConfirmes": 44,
     "deces": 1
+  },
+  {
+    "date": "2020-03-17",
+    "source": {
+      "nom": "ARS Nouvelle-Aquitaine",
+      "url": "https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_17_03_2020.pdf",
+      "archive": "https://web.archive.org/web/20200317193949/https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_17_03_2020.pdf"
+    },
+    "nom": "Landes",
+    "code": "DEP-40",
+    "casConfirmes": 10
   },
   {
     "date": "2020-03-17",
@@ -15359,6 +17592,17 @@
   {
     "date": "2020-03-17",
     "source": {
+      "nom": "ARS Nouvelle-Aquitaine",
+      "url": "https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_17_03_2020.pdf",
+      "archive": "https://web.archive.org/web/20200317193949/https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_17_03_2020.pdf"
+    },
+    "nom": "Lot-et-Garonne",
+    "code": "DEP-47",
+    "casConfirmes": 47
+  },
+  {
+    "date": "2020-03-17",
+    "source": {
       "nom": "ARS Occitanie",
       "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo9_20200317.pdf"
     },
@@ -15374,6 +17618,18 @@
     },
     "nom": "Morbihan",
     "code": "DEP-56",
+    "casConfirmes": 132
+  },
+  {
+    "date": "2020-03-17",
+    "source": {
+      "nom": "Préfecture de Bretagne",
+      "url": "http://www.prefectures-regions.gouv.fr/bretagne/Actualites/Coronavirus-informations-recommandations-et-mesures-sanitaires",
+      "archive": "https://web.archive.org/web/20200318164832/http://www.prefectures-regions.gouv.fr/bretagne/Actualites/Coronavirus-informations-recommandations-et-mesures-sanitaires"
+    },
+    "nom": "Morbihan",
+    "code": "DEP-56",
+    "deces": 3,
     "casConfirmes": 132
   },
   {
@@ -15427,10 +17683,21 @@
   {
     "date": "2020-03-17",
     "source": {
+      "nom": "ARS Nouvelle-Aquitaine",
+      "url": "https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_17_03_2020.pdf",
+      "archive": "https://web.archive.org/web/20200317193949/https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_17_03_2020.pdf"
+    },
+    "nom": "Pyrénées-Atlantiques",
+    "code": "DEP-64",
+    "casConfirmes": 20
+  },
+  {
+    "date": "2020-03-17",
+    "source": {
       "nom": "ARS Occitanie",
       "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo9_20200317.pdf"
     },
-    "nom": "Haute-Pyrénées",
+    "nom": "Hautes-Pyrénées",
     "code": "DEP-65",
     "casConfirmes": 6
   },
@@ -15479,6 +17746,17 @@
     "code": "DEP-74",
     "casConfirmes": 141,
     "deces": 5
+  },
+  {
+    "date": "2020-03-17",
+    "source": {
+      "nom": "ARS Nouvelle-Aquitaine",
+      "url": "https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_17_03_2020.pdf",
+      "archive": "https://web.archive.org/web/20200317193949/https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_17_03_2020.pdf"
+    },
+    "nom": "Deux-Sèvres",
+    "code": "DEP-79",
+    "casConfirmes": 5
   },
   {
     "date": "2020-03-17",
@@ -15539,6 +17817,41 @@
   {
     "date": "2020-03-17",
     "source": {
+      "nom": "ARS Nouvelle-Aquitaine",
+      "url": "https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_17_03_2020.pdf",
+      "archive": "https://web.archive.org/web/20200317193949/https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_17_03_2020.pdf"
+    },
+    "nom": "Vienne",
+    "code": "DEP-86",
+    "casConfirmes": 21
+  },
+  {
+    "date": "2020-03-17",
+    "source": {
+      "nom": "ARS Nouvelle-Aquitaine",
+      "url": "https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_17_03_2020.pdf",
+      "archive": "https://web.archive.org/web/20200317193949/https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_17_03_2020.pdf"
+    },
+    "nom": "Haute-Vienne",
+    "code": "DEP-87",
+    "casConfirmes": 3
+  },
+  {
+    "date": "2020-03-17",
+    "source": {
+      "nom": "ARS Guadeloupe",
+      "url": "https://www.guadeloupe.ars.sante.fr/system/files/2020-03/Bulletin%20n°12%20coronavirus%20Guad.pdf",
+      "archive": "https://web.archive.org/web/20200318102027/https://www.guadeloupe.ars.sante.fr/system/files/2020-03/Bulletin%20n%C2%B012%20coronavirus%20Guad.pdf"
+    },
+    "nom": "Guadeloupe",
+    "code": "DEP-971",
+    "casConfirmes": 27,
+    "hospitalises": 3,
+    "reanimation": 2
+  },
+  {
+    "date": "2020-03-17",
+    "source": {
       "nom": "Santé publique France",
       "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200317191451/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
@@ -15547,6 +17860,19 @@
     "deces": 175,
     "nom": "France",
     "code": "FRA"
+  },
+  {
+    "date": "2020-03-17",
+    "source": {
+      "nom": "ARS Guadeloupe",
+      "url": "https://www.guadeloupe.ars.sante.fr/system/files/2020-03/Bulletin%20n°12%20coronavirus%20Guad.pdf",
+      "archive": "https://web.archive.org/web/20200318102027/https://www.guadeloupe.ars.sante.fr/system/files/2020-03/Bulletin%20n%C2%B012%20coronavirus%20Guad.pdf"
+    },
+    "nom": "Guadeloupe",
+    "code": "REG-01",
+    "casConfirmes": 27,
+    "hospitalises": 3,
+    "reanimation": 2
   },
   {
     "date": "2020-03-17",
@@ -15755,6 +18081,19 @@
   {
     "date": "2020-03-17",
     "source": {
+      "nom": "ARS Nouvelle-Aquitaine",
+      "url": "https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_17_03_2020.pdf",
+      "archive": "https://web.archive.org/web/20200317193949/https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_17_03_2020.pdf"
+    },
+    "nom": "Nouvelle-Aquitaine",
+    "code": "REG-75",
+    "casConfirmes": 207,
+    "gueris": 2,
+    "deces": 2
+  },
+  {
+    "date": "2020-03-17",
+    "source": {
       "nom": "Santé publique France",
       "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200317191451/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
@@ -15854,6 +18193,250 @@
     },
     "casConfirmes": 180160,
     "deces": 7103,
+    "nom": "Monde",
+    "code": "WORLD"
+  },
+  {
+    "date": "2020-03-18",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200318184308/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+    },
+    "nom": "Saint-Barthélemy",
+    "code": "COM-977",
+    "casConfirmes": 3
+  },
+  {
+    "date": "2020-03-18",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200318184308/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+    },
+    "nom": "Saint-Martin",
+    "code": "COM-978",
+    "casConfirmes": 4
+  },
+  {
+    "date": "2020-03-18",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200318184308/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+    },
+    "casConfirmes": 9134,
+    "deces": 244,
+    "nom": "France",
+    "code": "FRA"
+  },
+  {
+    "date": "2020-03-18",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200318184308/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+    },
+    "nom": "Guadeloupe",
+    "code": "REG-01",
+    "casConfirmes": 33
+  },
+  {
+    "date": "2020-03-18",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200318184308/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+    },
+    "nom": "Martinique",
+    "code": "REG-02",
+    "casConfirmes": 23
+  },
+  {
+    "date": "2020-03-18",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200318184308/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+    },
+    "nom": "Guyane",
+    "code": "REG-03",
+    "casConfirmes": 11
+  },
+  {
+    "date": "2020-03-18",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200318184308/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+    },
+    "nom": "La Réunion",
+    "code": "REG-04",
+    "casConfirmes": 14
+  },
+  {
+    "date": "2020-03-18",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200318184308/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+    },
+    "nom": "Mayotte",
+    "code": "REG-06",
+    "casConfirmes": 3
+  },
+  {
+    "date": "2020-03-18",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200318184308/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+    },
+    "nom": "Ile-de-France",
+    "code": "REG-11",
+    "casConfirmes": 2693
+  },
+  {
+    "date": "2020-03-18",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200318184308/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+    },
+    "nom": "Centre-Val de Loire",
+    "code": "REG-24",
+    "casConfirmes": 128
+  },
+  {
+    "date": "2020-03-18",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200318184308/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+    },
+    "nom": "Bourgogne-Franche-Comté",
+    "code": "REG-27",
+    "casConfirmes": 593
+  },
+  {
+    "date": "2020-03-18",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200318184308/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+    },
+    "nom": "Normandie",
+    "code": "REG-28",
+    "casConfirmes": 208
+  },
+  {
+    "date": "2020-03-18",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200318184308/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+    },
+    "nom": "Hauts-de-France",
+    "code": "REG-32",
+    "casConfirmes": 665
+  },
+  {
+    "date": "2020-03-18",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200318184308/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+    },
+    "nom": "Grand Est",
+    "code": "REG-44",
+    "casConfirmes": 2163
+  },
+  {
+    "date": "2020-03-18",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200318184308/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+    },
+    "nom": "Pays de la Loire",
+    "code": "REG-52",
+    "casConfirmes": 128
+  },
+  {
+    "date": "2020-03-18",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200318184308/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+    },
+    "nom": "Bretagne",
+    "code": "REG-53",
+    "casConfirmes": 273
+  },
+  {
+    "date": "2020-03-18",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200318184308/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+    },
+    "nom": "Nouvelle-Aquitaine",
+    "code": "REG-75",
+    "casConfirmes": 237
+  },
+  {
+    "date": "2020-03-18",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200318184308/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+    },
+    "nom": "Occitanie",
+    "code": "REG-76",
+    "casConfirmes": 371
+  },
+  {
+    "date": "2020-03-18",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200318184308/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+    },
+    "nom": "Auvergne-Rhône-Alpes",
+    "code": "REG-84",
+    "casConfirmes": 858
+  },
+  {
+    "date": "2020-03-18",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200318184308/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+    },
+    "nom": "Provence-Alpes-Côte d’Azur",
+    "code": "REG-93",
+    "casConfirmes": 574
+  },
+  {
+    "date": "2020-03-18",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200318184308/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+    },
+    "nom": "Corse",
+    "code": "REG-94",
+    "casConfirmes": 152
+  },
+  {
+    "date": "2020-03-18",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200318184308/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+    },
+    "casConfirmes": 194213,
+    "deces": 7869,
     "nom": "Monde",
     "code": "WORLD"
   }
