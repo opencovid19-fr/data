@@ -1,0 +1,10 @@
+date: "2020-03-17"
+source:
+  nom: Préfecture de Bretagne
+  url: http://www.prefectures-regions.gouv.fr/bretagne/Actualites/Coronavirus-informations-recommandations-et-mesures-sanitaires
+  archive: https://web.archive.org/web/20200318164832/http://www.prefectures-regions.gouv.fr/bretagne/Actualites/Coronavirus-informations-recommandations-et-mesures-sanitaires
+donneesDepartementales:
+  - nom: Finistère
+    code: DEP-29
+    deces: 0
+    casConfirmes: 43
