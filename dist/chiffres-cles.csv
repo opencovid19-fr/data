@@ -284,7 +284,9 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,source_nom,source_ur
 2020-03-05,region,REG-94,Corse,3,0,ARS Corse,https://www.corse.ars.sante.fr/covid-19-3-cas-confirmes-en-corse-au-centre-hospitalier-dajaccio
 2020-03-05,region,REG-94,Corse,3,,Santé publique France,https://www.santepubliquefrance.fr/content/download/235532/2526871
 2020-03-05,monde,WORLD,Monde,95315,3282,Santé publique France,https://www.santepubliquefrance.fr/content/download/235532/2526871
+2020-03-06,collectivite-outremer,COM-977,Saint-Barthélémy,1,,ARS Guadeloupe,https://www.guadeloupe.ars.sante.fr/system/files/2020-03/Bulletin%206%20coronavirus%20Iles%20du%20Nord.pdf
 2020-03-06,collectivite-outremer,COM-977,Saint-Barthélemy,1,,Santé publique France,https://www.santepubliquefrance.fr/content/download/235535/2526923
+2020-03-06,collectivite-outremer,COM-978,Saint-Martin,2,,ARS Guadeloupe,https://www.guadeloupe.ars.sante.fr/system/files/2020-03/Bulletin%206%20coronavirus%20Iles%20du%20Nord.pdf
 2020-03-06,collectivite-outremer,COM-978,Saint-Martin,2,,Santé publique France,https://www.santepubliquefrance.fr/content/download/235535/2526923
 2020-03-06,departement,DEP-01,Ain,4,0,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200305_ARSARA_COVID-19_Point_Situation.pdf
 2020-03-06,departement,DEP-02,Aisne,20,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
@@ -605,6 +607,8 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,source_nom,source_ur
 2020-03-08,region,REG-75,Nouvelle-Aquitaine,29,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_PointSituation_ARSNA_08_03_2020.pdf
 2020-03-08,region,REG-93,Provence-Alpes-Côte d’Azur,52,0,ARS Provence-Alpes-Côte d’Azur,https://www.paca.ars.sante.fr/coronavirus-en-provence-alpes-cote-dazur-point-de-situation-du-8-mars
 2020-03-08,monde,WORLD,Monde,105828,3584,Santé publique France,https://web.archive.org/web/20200309074325/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde
+2020-03-09,collectivite-outremer,COM-977,Saint-Barthélémy,1,,ARS Guadeloupe,https://www.guadeloupe.ars.sante.fr/system/files/2020-03/Bulletin%207%20coronavirus%20Iles%20du%20Nord.pdf
+2020-03-09,collectivite-outremer,COM-978,Saint-Martin,2,,ARS Guadeloupe,https://www.guadeloupe.ars.sante.fr/system/files/2020-03/Bulletin%207%20coronavirus%20Iles%20du%20Nord.pdf
 2020-03-09,departement,DEP-01,Ain,17,0,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200309_ARSARA_COVID-19_Point_Situation.pdf
 2020-03-09,departement,DEP-02,Aisne,26,2,ARS Hauts-de-France,https://web.archive.org/web/20200311074519/https://www.hauts-de-france.ars.sante.fr/coronavirus-covid-19-point-de-situation-dans-les-hauts-de-france
 2020-03-09,departement,DEP-02,Aisne,28,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset
@@ -1109,7 +1113,9 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,source_nom,source_ur
 2020-03-12,region,REG-94,Corse,64,3,ARS Corse,https://twitter.com/ARSCORSE1/status/1238136760611278848
 2020-03-12,region,REG-94,Corse,64,,Santé publique France,
 2020-03-12,monde,WORLD,Monde,125518,4617,Santé publique France,
+2020-03-13,collectivite-outremer,COM-977,Saint-Barthélémy,1,,ARS Guadeloupe,https://www.guadeloupe.ars.sante.fr/system/files/2020-03/Bulletin%208%20coronavirus%20Iles%20du%20Nord.pdf
 2020-03-13,collectivite-outremer,COM-977,Saint-Barthélemy,1,,Santé publique France,
+2020-03-13,collectivite-outremer,COM-978,Saint-Martin,2,,ARS Guadeloupe,https://www.guadeloupe.ars.sante.fr/system/files/2020-03/Bulletin%208%20coronavirus%20Iles%20du%20Nord.pdf
 2020-03-13,collectivite-outremer,COM-978,Saint-Martin,2,,Santé publique France,
 2020-03-13,departement,DEP-02,Aisne,50,2,ARS Hauts-de-France,https://www.hauts-de-france.ars.sante.fr/system/files/2020-03/Point%20quotidien%20cas%20confirm%C3%A9s%20-%2013032020.pdf
 2020-03-13,departement,DEP-04,Alpes-de-Haute-Provence,4,0,ARS Provence-Alpes-Côte d’Azur,https://www.paca.ars.sante.fr/coronavirus-en-provence-alpes-cote-dazur-point-de-situation-au-13-mars
@@ -1225,7 +1231,9 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,source_nom,source_ur
 2020-03-13,region,REG-94,Corse,85,5,ARS Corse,https://twitter.com/ARSCORSE1/status/1238526973816733697
 2020-03-13,region,REG-94,Corse,85,,Santé publique France,
 2020-03-13,monde,WORLD,Monde,133860,4967,Santé publique France,
+2020-03-14,collectivite-outremer,COM-977,Saint-Barthélémy,3,,ARS Guadeloupe,https://www.guadeloupe.ars.sante.fr/system/files/2020-03/Bulletin%209%20coronavirus%20Iles%20du%20Nord.pdf
 2020-03-14,collectivite-outremer,COM-977,Saint-Barthélemy,1,,Santé publique France,https://web.archive.org/web/20200314195752/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde
+2020-03-14,collectivite-outremer,COM-978,Saint-Martin,2,,ARS Guadeloupe,https://www.guadeloupe.ars.sante.fr/system/files/2020-03/Bulletin%209%20coronavirus%20Iles%20du%20Nord.pdf
 2020-03-14,collectivite-outremer,COM-978,Saint-Martin,2,,Santé publique France,https://web.archive.org/web/20200314195752/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde
 2020-03-14,departement,DEP-01,Ain,43,0,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200314_ARSARA_COVID-19_Point_Situation.pdf
 2020-03-14,departement,DEP-02,Aisne,59,2,ARS Hauts-de-France,https://www.hauts-de-france.ars.sante.fr/system/files/2020-03/Point%20quotidien%20cas%20confirm%C3%A9s%20-%2014032020.pdf
@@ -1347,7 +1355,9 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,source_nom,source_ur
 2020-03-14,region,REG-94,Corse,106,5,ARS Corse,https://twitter.com/ARSCORSE1/status/1238863417974362114
 2020-03-14,region,REG-94,Corse,106,,Santé publique France,https://web.archive.org/web/20200314195752/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde
 2020-03-14,monde,WORLD,Monde,143247,5407,Santé publique France,https://web.archive.org/web/20200314195752/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde
+2020-03-15,collectivite-outremer,COM-977,Saint-Barthélémy,3,,ARS Guadeloupe,https://www.guadeloupe.ars.sante.fr/system/files/2020-03/Bulletin%2010%20coronavirus%20Iles%20du%20Nord.pdf
 2020-03-15,collectivite-outremer,COM-977,Saint-Barthélemy,3,,Santé publique France,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde
+2020-03-15,collectivite-outremer,COM-978,Saint-Martin,2,,ARS Guadeloupe,https://www.guadeloupe.ars.sante.fr/system/files/2020-03/Bulletin%2010%20coronavirus%20Iles%20du%20Nord.pdf
 2020-03-15,collectivite-outremer,COM-978,Saint-Martin,2,,Santé publique France,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde
 2020-03-15,departement,DEP-01,Ain,52,0,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200315_ARSARA_COVID-19_Point_Situation.pdf
 2020-03-15,departement,DEP-03,Allier,4,0,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200315_ARSARA_COVID-19_Point_Situation.pdf
@@ -1576,7 +1586,9 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,source_nom,source_ur
 2020-03-17,departement,DEP-05,Hautes-Alpes,25,0,ARS Provence-Alpes-Côte d’Azur,https://www.paca.ars.sante.fr/coronavirus-en-provence-alpes-cote-dazur-point-de-situation-au-17-mars
 2020-03-17,departement,DEP-06,Alpes-Maritimes,104,1,ARS Provence-Alpes-Côte d’Azur,https://www.paca.ars.sante.fr/coronavirus-en-provence-alpes-cote-dazur-point-de-situation-au-17-mars
 2020-03-17,departement,DEP-07,Ardèche,40,0,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200317_ARSARA_COVID-19_Point_Situation.pdf
+2020-03-17,departement,DEP-08,Ardennes,3,,ARS Grand-Est,https://www.grand-est.ars.sante.fr/system/files/2020-03/CPCoronavirus_GrandEst170320.pdf
 2020-03-17,departement,DEP-09,Ariège,2,,ARS Occitanie,https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo9_20200317.pdf
+2020-03-17,departement,DEP-10,Aube,14,,ARS Grand-Est,https://www.grand-est.ars.sante.fr/system/files/2020-03/CPCoronavirus_GrandEst170320.pdf
 2020-03-17,departement,DEP-11,Aude,38,,ARS Occitanie,https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo9_20200317.pdf
 2020-03-17,departement,DEP-12,Aveyron,16,,ARS Occitanie,https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo9_20200317.pdf
 2020-03-17,departement,DEP-13,Bouches-du-Rhône,237,2,ARS Provence-Alpes-Côte d’Azur,https://www.paca.ars.sante.fr/coronavirus-en-provence-alpes-cote-dazur-point-de-situation-au-17-mars
@@ -1613,8 +1625,13 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,source_nom,source_ur
 2020-03-17,departement,DEP-46,Lot,3,,ARS Occitanie,https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo9_20200317.pdf
 2020-03-17,departement,DEP-47,Lot-et-Garonne,47,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_17_03_2020.pdf
 2020-03-17,departement,DEP-48,Lozère,8,,ARS Occitanie,https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo9_20200317.pdf
+2020-03-17,departement,DEP-51,Marne,37,,ARS Grand-Est,https://www.grand-est.ars.sante.fr/system/files/2020-03/CPCoronavirus_GrandEst170320.pdf
+2020-03-17,departement,DEP-52,Haute-Marne,7,,ARS Grand-Est,https://www.grand-est.ars.sante.fr/system/files/2020-03/CPCoronavirus_GrandEst170320.pdf
+2020-03-17,departement,DEP-54,Meurthe-et-Moselle,85,,ARS Grand-Est,https://www.grand-est.ars.sante.fr/system/files/2020-03/CPCoronavirus_GrandEst170320.pdf
+2020-03-17,departement,DEP-55,Meuse,18,,ARS Grand-Est,https://www.grand-est.ars.sante.fr/system/files/2020-03/CPCoronavirus_GrandEst170320.pdf
 2020-03-17,departement,DEP-56,Morbihan,132,,ARS Bretagne,https://www.bretagne.ars.sante.fr/coronavirus-en-bretagne-point-de-situation-du-mardi-17-mars-2020-et-mesures-destinees-freiner-la
 2020-03-17,departement,DEP-56,Morbihan,132,3,Préfecture de Bretagne,http://www.prefectures-regions.gouv.fr/bretagne/Actualites/Coronavirus-informations-recommandations-et-mesures-sanitaires
+2020-03-17,departement,DEP-57,Moselle,295,,ARS Grand-Est,https://www.grand-est.ars.sante.fr/system/files/2020-03/CPCoronavirus_GrandEst170320.pdf
 2020-03-17,departement,DEP-59,Nord,,0,ARS Hauts-de-France,https://www.hauts-de-france.ars.sante.fr/coronavirus-covid-19-point-de-situation-dans-les-hauts-de-france
 2020-03-17,departement,DEP-60,Oise,,34,ARS Hauts-de-France,https://www.hauts-de-france.ars.sante.fr/coronavirus-covid-19-point-de-situation-dans-les-hauts-de-france
 2020-03-17,departement,DEP-62,Pas-de-Calais,,1,ARS Hauts-de-France,https://www.hauts-de-france.ars.sante.fr/coronavirus-covid-19-point-de-situation-dans-les-hauts-de-france
@@ -1622,6 +1639,8 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,source_nom,source_ur
 2020-03-17,departement,DEP-64,Pyrénées-Atlantiques,20,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_17_03_2020.pdf
 2020-03-17,departement,DEP-65,Hautes-Pyrénées,6,,ARS Occitanie,https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo9_20200317.pdf
 2020-03-17,departement,DEP-66,Pyrénées-Orientales,14,,ARS Occitanie,https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo9_20200317.pdf
+2020-03-17,departement,DEP-67,Bas-Rhin,376,,ARS Grand-Est,https://www.grand-est.ars.sante.fr/system/files/2020-03/CPCoronavirus_GrandEst170320.pdf
+2020-03-17,departement,DEP-68,Haut-Rhin,700,,ARS Grand-Est,https://www.grand-est.ars.sante.fr/system/files/2020-03/CPCoronavirus_GrandEst170320.pdf
 2020-03-17,departement,DEP-69,Rhône,181,12,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200317_ARSARA_COVID-19_Point_Situation.pdf
 2020-03-17,departement,DEP-73,Savoie,26,1,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200317_ARSARA_COVID-19_Point_Situation.pdf
 2020-03-17,departement,DEP-74,Haute-Savoie,141,5,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200317_ARSARA_COVID-19_Point_Situation.pdf
@@ -1633,6 +1652,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,source_nom,source_ur
 2020-03-17,departement,DEP-84,Vaucluse,13,0,ARS Provence-Alpes-Côte d’Azur,https://www.paca.ars.sante.fr/coronavirus-en-provence-alpes-cote-dazur-point-de-situation-au-17-mars
 2020-03-17,departement,DEP-86,Vienne,21,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_17_03_2020.pdf
 2020-03-17,departement,DEP-87,Haute-Vienne,3,,ARS Nouvelle-Aquitaine,https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_17_03_2020.pdf
+2020-03-17,departement,DEP-88,Vosges,66,,ARS Grand-Est,https://www.grand-est.ars.sante.fr/system/files/2020-03/CPCoronavirus_GrandEst170320.pdf
 2020-03-17,departement,DEP-971,Guadeloupe,27,,ARS Guadeloupe,https://www.guadeloupe.ars.sante.fr/system/files/2020-03/Bulletin%20n°12%20coronavirus%20Guad.pdf
 2020-03-17,pays,FRA,France,7730,175,Santé publique France,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde
 2020-03-17,region,REG-01,Guadeloupe,27,,ARS Guadeloupe,https://www.guadeloupe.ars.sante.fr/system/files/2020-03/Bulletin%20n°12%20coronavirus%20Guad.pdf
@@ -1641,6 +1661,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,source_nom,source_ur
 2020-03-17,region,REG-03,Guyane,11,,Santé publique France,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde
 2020-03-17,region,REG-04,La Réunion,12,,Santé publique France,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde
 2020-03-17,region,REG-06,Mayotte,3,,Santé publique France,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde
+2020-03-17,region,REG-11,Ile-de-France,1240,,ARS Ile-de-France,https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid10_20200314.pdf
 2020-03-17,region,REG-11,Ile-de-France,2177,,Santé publique France,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde
 2020-03-17,region,REG-24,Centre Val de Loire,103,1,ARS Centre - Val de Loire,https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-17-bulletin%20information%20COVID-19_1.pdf
 2020-03-17,region,REG-24,Centre-Val de Loire,103,,Santé publique France,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde
@@ -1650,7 +1671,9 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,source_nom,source_ur
 2020-03-17,region,REG-28,Normandie,174,,Santé publique France,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde
 2020-03-17,region,REG-32,Hauts-de-France,613,46,ARS Hauts-de-France,https://www.hauts-de-france.ars.sante.fr/coronavirus-covid-19-point-de-situation-dans-les-hauts-de-france
 2020-03-17,region,REG-32,Hauts-de-France,612,,Santé publique France,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde
+2020-03-17,region,REG-44,Grand-Est,1820,61,ARS Grand-Est,https://www.grand-est.ars.sante.fr/system/files/2020-03/CPCoronavirus_GrandEst170320.pdf
 2020-03-17,region,REG-44,Grand Est,1820,,Santé publique France,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde
+2020-03-17,region,REG-52,Pays de la Loire,,1,ARS Pays de la Loire,https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-03/2020-03-17-bulletin%20information%20COVID-19.pdf
 2020-03-17,region,REG-52,Pays de la Loire,126,,Santé publique France,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde
 2020-03-17,region,REG-53,Bretagne,236,3,ARS Bretagne,https://www.bretagne.ars.sante.fr/coronavirus-en-bretagne-point-de-situation-du-mardi-17-mars-2020-et-mesures-destinees-freiner-la
 2020-03-17,region,REG-53,Bretagne,247,,Santé publique France,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde
@@ -1666,6 +1689,23 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,source_nom,source_ur
 2020-03-17,monde,WORLD,Monde,180160,7103,Santé publique France,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde
 2020-03-18,collectivite-outremer,COM-977,Saint-Barthélemy,3,,Santé publique France,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde
 2020-03-18,collectivite-outremer,COM-978,Saint-Martin,4,,Santé publique France,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde
+2020-03-18,departement,DEP-14,Calvados,71,,ARS Normandie,https://www.normandie.ars.sante.fr/system/files/2020-03/20200318_CP-point-situation-normandie.pdf
+2020-03-18,departement,DEP-18,Cher,6,0,ARS Centre - Val de Loire,https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-18-bulletin%20information%20COVID-19.pdf
+2020-03-18,departement,DEP-22,Côtes-d'Armor,12,,ARS Bretagne,https://www.bretagne.ars.sante.fr/system/files/2020-03/CP%20Coronavirus_Bretagne_point%20de%20situation%2017h30_200318.pdf
+2020-03-18,departement,DEP-27,Eure,29,,ARS Normandie,https://www.normandie.ars.sante.fr/system/files/2020-03/20200318_CP-point-situation-normandie.pdf
+2020-03-18,departement,DEP-28,Eure-et-Loir,34,1,ARS Centre - Val de Loire,https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-18-bulletin%20information%20COVID-19.pdf
+2020-03-18,departement,DEP-29,Finistère,51,,ARS Bretagne,https://www.bretagne.ars.sante.fr/system/files/2020-03/CP%20Coronavirus_Bretagne_point%20de%20situation%2017h30_200318.pdf
+2020-03-18,departement,DEP-2A,Corse du Sud,128,,ARS Corse,https://www.corse.ars.sante.fr/coronavirus-covid-19-informations-utiles
+2020-03-18,departement,DEP-2B,Haute-Corse,24,,ARS Corse,https://www.corse.ars.sante.fr/coronavirus-covid-19-informations-utiles
+2020-03-18,departement,DEP-35,Ille-et-Vilaine,55,,ARS Bretagne,https://www.bretagne.ars.sante.fr/system/files/2020-03/CP%20Coronavirus_Bretagne_point%20de%20situation%2017h30_200318.pdf
+2020-03-18,departement,DEP-36,Indre,4,0,ARS Centre - Val de Loire,https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-18-bulletin%20information%20COVID-19.pdf
+2020-03-18,departement,DEP-37,Indre-et-Loire,36,0,ARS Centre - Val de Loire,https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-18-bulletin%20information%20COVID-19.pdf
+2020-03-18,departement,DEP-41,Loir-et-Cher,11,0,ARS Centre - Val de Loire,https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-18-bulletin%20information%20COVID-19.pdf
+2020-03-18,departement,DEP-45,Loiret,37,0,ARS Centre - Val de Loire,https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-18-bulletin%20information%20COVID-19.pdf
+2020-03-18,departement,DEP-50,Manche,42,,ARS Normandie,https://www.normandie.ars.sante.fr/system/files/2020-03/20200318_CP-point-situation-normandie.pdf
+2020-03-18,departement,DEP-56,Morbihan,134,,ARS Bretagne,https://www.bretagne.ars.sante.fr/system/files/2020-03/CP%20Coronavirus_Bretagne_point%20de%20situation%2017h30_200318.pdf
+2020-03-18,departement,DEP-61,Orne,9,,ARS Normandie,https://www.normandie.ars.sante.fr/system/files/2020-03/20200318_CP-point-situation-normandie.pdf
+2020-03-18,departement,DEP-76,Seine-Maritime,57,,ARS Normandie,https://www.normandie.ars.sante.fr/system/files/2020-03/20200318_CP-point-situation-normandie.pdf
 2020-03-18,pays,FRA,France,9134,244,Santé publique France,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde
 2020-03-18,region,REG-01,Guadeloupe,33,,Santé publique France,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde
 2020-03-18,region,REG-02,Martinique,23,,Santé publique France,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde
@@ -1673,16 +1713,20 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,source_nom,source_ur
 2020-03-18,region,REG-04,La Réunion,14,,Santé publique France,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde
 2020-03-18,region,REG-06,Mayotte,3,,Santé publique France,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde
 2020-03-18,region,REG-11,Ile-de-France,2693,,Santé publique France,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde
+2020-03-18,region,REG-24,Centre Val de Loire,128,1,ARS Centre - Val de Loire,https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-18-bulletin%20information%20COVID-19.pdf
 2020-03-18,region,REG-24,Centre-Val de Loire,128,,Santé publique France,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde
 2020-03-18,region,REG-27,Bourgogne-Franche-Comté,593,,Santé publique France,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde
+2020-03-18,region,REG-28,Normandie,208,3,ARS Normandie,https://www.normandie.ars.sante.fr/system/files/2020-03/20200318_CP-point-situation-normandie.pdf
 2020-03-18,region,REG-28,Normandie,208,,Santé publique France,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde
 2020-03-18,region,REG-32,Hauts-de-France,665,,Santé publique France,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde
 2020-03-18,region,REG-44,Grand Est,2163,,Santé publique France,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde
 2020-03-18,region,REG-52,Pays de la Loire,128,,Santé publique France,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde
+2020-03-18,region,REG-53,Bretagne,252,7,ARS Bretagne,https://www.bretagne.ars.sante.fr/system/files/2020-03/CP%20Coronavirus_Bretagne_point%20de%20situation%2017h30_200318.pdf
 2020-03-18,region,REG-53,Bretagne,273,,Santé publique France,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde
 2020-03-18,region,REG-75,Nouvelle-Aquitaine,237,,Santé publique France,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde
 2020-03-18,region,REG-76,Occitanie,371,,Santé publique France,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde
 2020-03-18,region,REG-84,Auvergne-Rhône-Alpes,858,,Santé publique France,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde
 2020-03-18,region,REG-93,Provence-Alpes-Côte d’Azur,574,,Santé publique France,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde
+2020-03-18,region,REG-94,Corse,152,,ARS Corse,https://www.corse.ars.sante.fr/coronavirus-covid-19-informations-utiles
 2020-03-18,region,REG-94,Corse,152,,Santé publique France,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde
 2020-03-18,monde,WORLD,Monde,194213,7869,Santé publique France,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde

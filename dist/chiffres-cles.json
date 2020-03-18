@@ -2929,12 +2929,34 @@
   {
     "date": "2020-03-06",
     "source": {
+      "nom": "ARS Guadeloupe",
+      "url": "https://www.guadeloupe.ars.sante.fr/system/files/2020-03/Bulletin%206%20coronavirus%20Iles%20du%20Nord.pdf",
+      "archive": "https://web.archive.org/web/20200317170304/https://www.guadeloupe.ars.sante.fr/system/files/2020-03/Bulletin%206%20coronavirus%20Iles%20du%20Nord.pdf"
+    },
+    "nom": "Saint-Barthélémy",
+    "code": "COM-977",
+    "casConfirmes": 1
+  },
+  {
+    "date": "2020-03-06",
+    "source": {
       "nom": "Santé publique France",
       "url": "https://www.santepubliquefrance.fr/content/download/235535/2526923"
     },
     "nom": "Saint-Barthélemy",
     "code": "COM-977",
     "casConfirmes": 1
+  },
+  {
+    "date": "2020-03-06",
+    "source": {
+      "nom": "ARS Guadeloupe",
+      "url": "https://www.guadeloupe.ars.sante.fr/system/files/2020-03/Bulletin%206%20coronavirus%20Iles%20du%20Nord.pdf",
+      "archive": "https://web.archive.org/web/20200317170304/https://www.guadeloupe.ars.sante.fr/system/files/2020-03/Bulletin%206%20coronavirus%20Iles%20du%20Nord.pdf"
+    },
+    "nom": "Saint-Martin",
+    "code": "COM-978",
+    "casConfirmes": 2
   },
   {
     "date": "2020-03-06",
@@ -6318,6 +6340,28 @@
     "deces": 3584,
     "nom": "Monde",
     "code": "WORLD"
+  },
+  {
+    "date": "2020-03-09",
+    "source": {
+      "nom": "ARS Guadeloupe",
+      "url": "https://www.guadeloupe.ars.sante.fr/system/files/2020-03/Bulletin%207%20coronavirus%20Iles%20du%20Nord.pdf",
+      "archive": "https://web.archive.org/web/20200317170442/https://www.guadeloupe.ars.sante.fr/system/files/2020-03/Bulletin%207%20coronavirus%20Iles%20du%20Nord.pdf"
+    },
+    "nom": "Saint-Barthélémy",
+    "code": "COM-977",
+    "casConfirmes": 1
+  },
+  {
+    "date": "2020-03-09",
+    "source": {
+      "nom": "ARS Guadeloupe",
+      "url": "https://www.guadeloupe.ars.sante.fr/system/files/2020-03/Bulletin%207%20coronavirus%20Iles%20du%20Nord.pdf",
+      "archive": "https://web.archive.org/web/20200317170442/https://www.guadeloupe.ars.sante.fr/system/files/2020-03/Bulletin%207%20coronavirus%20Iles%20du%20Nord.pdf"
+    },
+    "nom": "Saint-Martin",
+    "code": "COM-978",
+    "casConfirmes": 2
   },
   {
     "date": "2020-03-09",
@@ -12020,12 +12064,35 @@
   {
     "date": "2020-03-13",
     "source": {
+      "nom": "ARS Guadeloupe",
+      "url": "https://www.guadeloupe.ars.sante.fr/system/files/2020-03/Bulletin%208%20coronavirus%20Iles%20du%20Nord.pdf",
+      "archive": "https://web.archive.org/web/20200317170528/https://www.guadeloupe.ars.sante.fr/system/files/2020-03/Bulletin%208%20coronavirus%20Iles%20du%20Nord.pdf"
+    },
+    "nom": "Saint-Barthélémy",
+    "code": "COM-977",
+    "casConfirmes": 1
+  },
+  {
+    "date": "2020-03-13",
+    "source": {
       "nom": "Santé publique France",
       "archive": "https://web.archive.org/web/20200314005123/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "nom": "Saint-Barthélemy",
     "code": "COM-977",
     "casConfirmes": 1
+  },
+  {
+    "date": "2020-03-13",
+    "source": {
+      "nom": "ARS Guadeloupe",
+      "url": "https://www.guadeloupe.ars.sante.fr/system/files/2020-03/Bulletin%208%20coronavirus%20Iles%20du%20Nord.pdf",
+      "archive": "https://web.archive.org/web/20200317170528/https://www.guadeloupe.ars.sante.fr/system/files/2020-03/Bulletin%208%20coronavirus%20Iles%20du%20Nord.pdf"
+    },
+    "nom": "Saint-Martin",
+    "code": "COM-978",
+    "casConfirmes": 2,
+    "gueris": 1
   },
   {
     "date": "2020-03-13",
@@ -13290,12 +13357,36 @@
   {
     "date": "2020-03-14",
     "source": {
+      "nom": "ARS Guadeloupe",
+      "url": "https://www.guadeloupe.ars.sante.fr/system/files/2020-03/Bulletin%209%20coronavirus%20Iles%20du%20Nord.pdf",
+      "archive": "https://web.archive.org/web/20200317202537/https://www.guadeloupe.ars.sante.fr/system/files/2020-03/Bulletin%209%20coronavirus%20Iles%20du%20Nord.pdf"
+    },
+    "nom": "Saint-Barthélémy",
+    "code": "COM-977",
+    "casConfirmes": 3,
+    "gueris": 1
+  },
+  {
+    "date": "2020-03-14",
+    "source": {
       "nom": "Santé publique France",
       "url": "https://web.archive.org/web/20200314195752/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "nom": "Saint-Barthélemy",
     "code": "COM-977",
     "casConfirmes": 1
+  },
+  {
+    "date": "2020-03-14",
+    "source": {
+      "nom": "ARS Guadeloupe",
+      "url": "https://www.guadeloupe.ars.sante.fr/system/files/2020-03/Bulletin%209%20coronavirus%20Iles%20du%20Nord.pdf",
+      "archive": "https://web.archive.org/web/20200317202537/https://www.guadeloupe.ars.sante.fr/system/files/2020-03/Bulletin%209%20coronavirus%20Iles%20du%20Nord.pdf"
+    },
+    "nom": "Saint-Martin",
+    "code": "COM-978",
+    "casConfirmes": 2,
+    "gueris": 1
   },
   {
     "date": "2020-03-14",
@@ -14652,6 +14743,18 @@
   {
     "date": "2020-03-15",
     "source": {
+      "nom": "ARS Guadeloupe",
+      "url": "https://www.guadeloupe.ars.sante.fr/system/files/2020-03/Bulletin%2010%20coronavirus%20Iles%20du%20Nord.pdf",
+      "archive": "https://web.archive.org/web/20200317170640/https://www.guadeloupe.ars.sante.fr/system/files/2020-03/Bulletin%2010%20coronavirus%20Iles%20du%20Nord.pdf"
+    },
+    "nom": "Saint-Barthélémy",
+    "code": "COM-977",
+    "casConfirmes": 3,
+    "gueris": 1
+  },
+  {
+    "date": "2020-03-15",
+    "source": {
       "nom": "Santé publique France",
       "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200316191321/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
@@ -14659,6 +14762,18 @@
     "nom": "Saint-Barthélemy",
     "code": "COM-977",
     "casConfirmes": 3
+  },
+  {
+    "date": "2020-03-15",
+    "source": {
+      "nom": "ARS Guadeloupe",
+      "url": "https://www.guadeloupe.ars.sante.fr/system/files/2020-03/Bulletin%2010%20coronavirus%20Iles%20du%20Nord.pdf",
+      "archive": "https://web.archive.org/web/20200317170640/https://www.guadeloupe.ars.sante.fr/system/files/2020-03/Bulletin%2010%20coronavirus%20Iles%20du%20Nord.pdf"
+    },
+    "nom": "Saint-Martin",
+    "code": "COM-978",
+    "casConfirmes": 2,
+    "gueris": 2
   },
   {
     "date": "2020-03-15",
@@ -17198,12 +17313,34 @@
   {
     "date": "2020-03-17",
     "source": {
+      "nom": "ARS Grand-Est",
+      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/CPCoronavirus_GrandEst170320.pdf",
+      "achive": "https://web.archive.org/web/20200318205716/https://www.grand-est.ars.sante.fr/system/files/2020-03/CPCoronavirus_GrandEst170320.pdf"
+    },
+    "nom": "Ardennes",
+    "code": "DEP-08",
+    "casConfirmes": 3
+  },
+  {
+    "date": "2020-03-17",
+    "source": {
       "nom": "ARS Occitanie",
       "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo9_20200317.pdf"
     },
     "nom": "Ariège",
     "code": "DEP-09",
     "casConfirmes": 2
+  },
+  {
+    "date": "2020-03-17",
+    "source": {
+      "nom": "ARS Grand-Est",
+      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/CPCoronavirus_GrandEst170320.pdf",
+      "achive": "https://web.archive.org/web/20200318205716/https://www.grand-est.ars.sante.fr/system/files/2020-03/CPCoronavirus_GrandEst170320.pdf"
+    },
+    "nom": "Aube",
+    "code": "DEP-10",
+    "casConfirmes": 14
   },
   {
     "date": "2020-03-17",
@@ -17613,6 +17750,50 @@
   {
     "date": "2020-03-17",
     "source": {
+      "nom": "ARS Grand-Est",
+      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/CPCoronavirus_GrandEst170320.pdf",
+      "achive": "https://web.archive.org/web/20200318205716/https://www.grand-est.ars.sante.fr/system/files/2020-03/CPCoronavirus_GrandEst170320.pdf"
+    },
+    "nom": "Marne",
+    "code": "DEP-51",
+    "casConfirmes": 37
+  },
+  {
+    "date": "2020-03-17",
+    "source": {
+      "nom": "ARS Grand-Est",
+      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/CPCoronavirus_GrandEst170320.pdf",
+      "achive": "https://web.archive.org/web/20200318205716/https://www.grand-est.ars.sante.fr/system/files/2020-03/CPCoronavirus_GrandEst170320.pdf"
+    },
+    "nom": "Haute-Marne",
+    "code": "DEP-52",
+    "casConfirmes": 7
+  },
+  {
+    "date": "2020-03-17",
+    "source": {
+      "nom": "ARS Grand-Est",
+      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/CPCoronavirus_GrandEst170320.pdf",
+      "achive": "https://web.archive.org/web/20200318205716/https://www.grand-est.ars.sante.fr/system/files/2020-03/CPCoronavirus_GrandEst170320.pdf"
+    },
+    "nom": "Meurthe-et-Moselle",
+    "code": "DEP-54",
+    "casConfirmes": 85
+  },
+  {
+    "date": "2020-03-17",
+    "source": {
+      "nom": "ARS Grand-Est",
+      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/CPCoronavirus_GrandEst170320.pdf",
+      "achive": "https://web.archive.org/web/20200318205716/https://www.grand-est.ars.sante.fr/system/files/2020-03/CPCoronavirus_GrandEst170320.pdf"
+    },
+    "nom": "Meuse",
+    "code": "DEP-55",
+    "casConfirmes": 18
+  },
+  {
+    "date": "2020-03-17",
+    "source": {
       "nom": "ARS Bretagne",
       "url": "https://www.bretagne.ars.sante.fr/coronavirus-en-bretagne-point-de-situation-du-mardi-17-mars-2020-et-mesures-destinees-freiner-la"
     },
@@ -17631,6 +17812,17 @@
     "code": "DEP-56",
     "deces": 3,
     "casConfirmes": 132
+  },
+  {
+    "date": "2020-03-17",
+    "source": {
+      "nom": "ARS Grand-Est",
+      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/CPCoronavirus_GrandEst170320.pdf",
+      "achive": "https://web.archive.org/web/20200318205716/https://www.grand-est.ars.sante.fr/system/files/2020-03/CPCoronavirus_GrandEst170320.pdf"
+    },
+    "nom": "Moselle",
+    "code": "DEP-57",
+    "casConfirmes": 295
   },
   {
     "date": "2020-03-17",
@@ -17710,6 +17902,28 @@
     "nom": "Pyrénées-Orientales",
     "code": "DEP-66",
     "casConfirmes": 14
+  },
+  {
+    "date": "2020-03-17",
+    "source": {
+      "nom": "ARS Grand-Est",
+      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/CPCoronavirus_GrandEst170320.pdf",
+      "achive": "https://web.archive.org/web/20200318205716/https://www.grand-est.ars.sante.fr/system/files/2020-03/CPCoronavirus_GrandEst170320.pdf"
+    },
+    "nom": "Bas-Rhin",
+    "code": "DEP-67",
+    "casConfirmes": 376
+  },
+  {
+    "date": "2020-03-17",
+    "source": {
+      "nom": "ARS Grand-Est",
+      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/CPCoronavirus_GrandEst170320.pdf",
+      "achive": "https://web.archive.org/web/20200318205716/https://www.grand-est.ars.sante.fr/system/files/2020-03/CPCoronavirus_GrandEst170320.pdf"
+    },
+    "nom": "Haut-Rhin",
+    "code": "DEP-68",
+    "casConfirmes": 700
   },
   {
     "date": "2020-03-17",
@@ -17839,6 +18053,17 @@
   {
     "date": "2020-03-17",
     "source": {
+      "nom": "ARS Grand-Est",
+      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/CPCoronavirus_GrandEst170320.pdf",
+      "achive": "https://web.archive.org/web/20200318205716/https://www.grand-est.ars.sante.fr/system/files/2020-03/CPCoronavirus_GrandEst170320.pdf"
+    },
+    "nom": "Vosges",
+    "code": "DEP-88",
+    "casConfirmes": 66
+  },
+  {
+    "date": "2020-03-17",
+    "source": {
       "nom": "ARS Guadeloupe",
       "url": "https://www.guadeloupe.ars.sante.fr/system/files/2020-03/Bulletin%20n°12%20coronavirus%20Guad.pdf",
       "archive": "https://web.archive.org/web/20200318102027/https://www.guadeloupe.ars.sante.fr/system/files/2020-03/Bulletin%20n%C2%B012%20coronavirus%20Guad.pdf"
@@ -17928,6 +18153,17 @@
     "nom": "Mayotte",
     "code": "REG-06",
     "casConfirmes": 3
+  },
+  {
+    "date": "2020-03-17",
+    "source": {
+      "nom": "ARS Ile-de-France",
+      "url": "https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid10_20200314.pdf"
+    },
+    "nom": "Ile-de-France",
+    "code": "REG-11",
+    "casConfirmes": 1240,
+    "reanimation": 155
   },
   {
     "date": "2020-03-17",
@@ -18037,6 +18273,18 @@
   {
     "date": "2020-03-17",
     "source": {
+      "nom": "ARS Grand-Est",
+      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/CPCoronavirus_GrandEst170320.pdf",
+      "achive": "https://web.archive.org/web/20200318205716/https://www.grand-est.ars.sante.fr/system/files/2020-03/CPCoronavirus_GrandEst170320.pdf"
+    },
+    "nom": "Grand-Est",
+    "code": "REG-44",
+    "casConfirmes": 1820,
+    "deces": 61
+  },
+  {
+    "date": "2020-03-17",
+    "source": {
       "nom": "Santé publique France",
       "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200317191451/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
@@ -18044,6 +18292,23 @@
     "nom": "Grand Est",
     "code": "REG-44",
     "casConfirmes": 1820
+  },
+  {
+    "date": "2020-03-17",
+    "source": {
+      "nom": "ARS Pays de la Loire",
+      "url": "https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-03/2020-03-17-bulletin%20information%20COVID-19.pdf"
+    },
+    "nom": "Pays de la Loire",
+    "code": "REG-52",
+    "reanimation": 13,
+    "deces": 1,
+    "victimes": [
+      {
+        "date": "2020-03-17",
+        "age": 90
+      }
+    ]
   },
   {
     "date": "2020-03-17",
@@ -18221,6 +18486,195 @@
   {
     "date": "2020-03-18",
     "source": {
+      "nom": "ARS Normandie",
+      "url": "https://www.normandie.ars.sante.fr/system/files/2020-03/20200318_CP-point-situation-normandie.pdf"
+    },
+    "nom": "Calvados",
+    "code": "DEP-14",
+    "casConfirmes": 71
+  },
+  {
+    "date": "2020-03-18",
+    "source": {
+      "nom": "ARS Centre - Val de Loire",
+      "url": "https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-18-bulletin%20information%20COVID-19.pdf",
+      "archive": "https://web.archive.org/web/20200318205435/https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-18-bulletin%20information%20COVID-19.pdf"
+    },
+    "nom": "Cher",
+    "code": "DEP-18",
+    "casConfirmes": 6,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-18",
+    "source": {
+      "nom": "ARS Bretagne",
+      "url": "https://www.bretagne.ars.sante.fr/system/files/2020-03/CP%20Coronavirus_Bretagne_point%20de%20situation%2017h30_200318.pdf"
+    },
+    "nom": "Côtes-d'Armor",
+    "code": "DEP-22",
+    "casConfirmes": 12
+  },
+  {
+    "date": "2020-03-18",
+    "source": {
+      "nom": "ARS Normandie",
+      "url": "https://www.normandie.ars.sante.fr/system/files/2020-03/20200318_CP-point-situation-normandie.pdf"
+    },
+    "nom": "Eure",
+    "code": "DEP-27",
+    "casConfirmes": 29
+  },
+  {
+    "date": "2020-03-18",
+    "source": {
+      "nom": "ARS Centre - Val de Loire",
+      "url": "https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-18-bulletin%20information%20COVID-19.pdf",
+      "archive": "https://web.archive.org/web/20200318205435/https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-18-bulletin%20information%20COVID-19.pdf"
+    },
+    "nom": "Eure-et-Loir",
+    "code": "DEP-28",
+    "casConfirmes": 34,
+    "deces": 1
+  },
+  {
+    "date": "2020-03-18",
+    "source": {
+      "nom": "ARS Bretagne",
+      "url": "https://www.bretagne.ars.sante.fr/system/files/2020-03/CP%20Coronavirus_Bretagne_point%20de%20situation%2017h30_200318.pdf"
+    },
+    "nom": "Finistère",
+    "code": "DEP-29",
+    "casConfirmes": 51
+  },
+  {
+    "date": "2020-03-18",
+    "source": {
+      "nom": "ARS Corse",
+      "url": "https://www.corse.ars.sante.fr/coronavirus-covid-19-informations-utiles",
+      "archive": "http://web.archive.org/web/20200318173359/https://www.corse.ars.sante.fr/coronavirus-covid-19-informations-utiles"
+    },
+    "nom": "Corse du Sud",
+    "code": "DEP-2A",
+    "casConfirmes": 128
+  },
+  {
+    "date": "2020-03-18",
+    "source": {
+      "nom": "ARS Corse",
+      "url": "https://www.corse.ars.sante.fr/coronavirus-covid-19-informations-utiles",
+      "archive": "http://web.archive.org/web/20200318173359/https://www.corse.ars.sante.fr/coronavirus-covid-19-informations-utiles"
+    },
+    "nom": "Haute-Corse",
+    "code": "DEP-2B",
+    "casConfirmes": 24
+  },
+  {
+    "date": "2020-03-18",
+    "source": {
+      "nom": "ARS Bretagne",
+      "url": "https://www.bretagne.ars.sante.fr/system/files/2020-03/CP%20Coronavirus_Bretagne_point%20de%20situation%2017h30_200318.pdf"
+    },
+    "nom": "Ille-et-Vilaine",
+    "code": "DEP-35",
+    "casConfirmes": 55
+  },
+  {
+    "date": "2020-03-18",
+    "source": {
+      "nom": "ARS Centre - Val de Loire",
+      "url": "https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-18-bulletin%20information%20COVID-19.pdf",
+      "archive": "https://web.archive.org/web/20200318205435/https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-18-bulletin%20information%20COVID-19.pdf"
+    },
+    "nom": "Indre",
+    "code": "DEP-36",
+    "casConfirmes": 4,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-18",
+    "source": {
+      "nom": "ARS Centre - Val de Loire",
+      "url": "https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-18-bulletin%20information%20COVID-19.pdf",
+      "archive": "https://web.archive.org/web/20200318205435/https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-18-bulletin%20information%20COVID-19.pdf"
+    },
+    "nom": "Indre-et-Loire",
+    "code": "DEP-37",
+    "casConfirmes": 36,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-18",
+    "source": {
+      "nom": "ARS Centre - Val de Loire",
+      "url": "https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-18-bulletin%20information%20COVID-19.pdf",
+      "archive": "https://web.archive.org/web/20200318205435/https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-18-bulletin%20information%20COVID-19.pdf"
+    },
+    "nom": "Loir-et-Cher",
+    "code": "DEP-41",
+    "casConfirmes": 11,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-18",
+    "source": {
+      "nom": "ARS Centre - Val de Loire",
+      "url": "https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-18-bulletin%20information%20COVID-19.pdf",
+      "archive": "https://web.archive.org/web/20200318205435/https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-18-bulletin%20information%20COVID-19.pdf"
+    },
+    "nom": "Loiret",
+    "code": "DEP-45",
+    "casConfirmes": 37,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-18",
+    "source": {
+      "nom": "ARS Normandie",
+      "url": "https://www.normandie.ars.sante.fr/system/files/2020-03/20200318_CP-point-situation-normandie.pdf"
+    },
+    "nom": "Manche",
+    "code": "DEP-50",
+    "casConfirmes": 42
+  },
+  {
+    "date": "2020-03-18",
+    "source": {
+      "nom": "ARS Bretagne",
+      "url": "https://www.bretagne.ars.sante.fr/system/files/2020-03/CP%20Coronavirus_Bretagne_point%20de%20situation%2017h30_200318.pdf"
+    },
+    "nom": "Morbihan",
+    "code": "DEP-56",
+    "casConfirmes": 134
+  },
+  {
+    "date": "2020-03-18",
+    "source": {
+      "nom": "ARS Normandie",
+      "url": "https://www.normandie.ars.sante.fr/system/files/2020-03/20200318_CP-point-situation-normandie.pdf"
+    },
+    "nom": "Orne",
+    "code": "DEP-61",
+    "casConfirmes": 9
+  },
+  {
+    "date": "2020-03-18",
+    "source": {
+      "nom": "ARS Normandie",
+      "url": "https://www.normandie.ars.sante.fr/system/files/2020-03/20200318_CP-point-situation-normandie.pdf"
+    },
+    "nom": "Seine-Maritime",
+    "code": "DEP-76",
+    "casConfirmes": 57,
+    "victimes": [
+      {
+        "date": "2020-03-06"
+      }
+    ]
+  },
+  {
+    "date": "2020-03-18",
+    "source": {
       "nom": "Santé publique France",
       "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200318184308/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
@@ -18299,6 +18753,18 @@
   {
     "date": "2020-03-18",
     "source": {
+      "nom": "ARS Centre - Val de Loire",
+      "url": "https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-18-bulletin%20information%20COVID-19.pdf",
+      "archive": "https://web.archive.org/web/20200318205435/https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-18-bulletin%20information%20COVID-19.pdf"
+    },
+    "nom": "Centre Val de Loire",
+    "code": "REG-24",
+    "casConfirmes": 128,
+    "deces": 1
+  },
+  {
+    "date": "2020-03-18",
+    "source": {
       "nom": "Santé publique France",
       "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200318184308/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
@@ -18317,6 +18783,28 @@
     "nom": "Bourgogne-Franche-Comté",
     "code": "REG-27",
     "casConfirmes": 593
+  },
+  {
+    "date": "2020-03-18",
+    "source": {
+      "nom": "ARS Normandie",
+      "url": "https://www.normandie.ars.sante.fr/system/files/2020-03/20200318_CP-point-situation-normandie.pdf"
+    },
+    "nom": "Normandie",
+    "code": "REG-28",
+    "casConfirmes": 208,
+    "deces": 3,
+    "victimes": [
+      {
+        "date": "2020-03-18",
+        "age": 75
+      },
+      {
+        "date": "2020-03-18",
+        "age": 65
+      }
+    ],
+    "hospitalises": 45
   },
   {
     "date": "2020-03-18",
@@ -18361,6 +18849,17 @@
     "nom": "Pays de la Loire",
     "code": "REG-52",
     "casConfirmes": 128
+  },
+  {
+    "date": "2020-03-18",
+    "source": {
+      "nom": "ARS Bretagne",
+      "url": "https://www.bretagne.ars.sante.fr/system/files/2020-03/CP%20Coronavirus_Bretagne_point%20de%20situation%2017h30_200318.pdf"
+    },
+    "nom": "Bretagne",
+    "code": "REG-53",
+    "casConfirmes": 252,
+    "deces": 7
   },
   {
     "date": "2020-03-18",
@@ -18416,6 +18915,17 @@
     "nom": "Provence-Alpes-Côte d’Azur",
     "code": "REG-93",
     "casConfirmes": 574
+  },
+  {
+    "date": "2020-03-18",
+    "source": {
+      "nom": "ARS Corse",
+      "url": "https://www.corse.ars.sante.fr/coronavirus-covid-19-informations-utiles",
+      "archive": "http://web.archive.org/web/20200318173359/https://www.corse.ars.sante.fr/coronavirus-covid-19-informations-utiles"
+    },
+    "nom": "Corse",
+    "code": "REG-94",
+    "casConfirmes": 152
   },
   {
     "date": "2020-03-18",
