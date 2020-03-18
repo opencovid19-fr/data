@@ -1,0 +1,55 @@
+sex,birth_year,country,region,departement,city,group,infection_reason,confirmed_date,deceased_date,source,comments
+male,1957,France,Hauts-de-France,Aisne,,Crépy-en-Valois,contact with patient,2020-02-29,2020-03-05,CP Préfecture Hauts-de-France,source : hf5
+male,1943,France,Hauts-de-France,Aisne,,,,2020-03-08,2020-03-08,Hf13 – CP Préfecture Aisne,
+male,1931,France,Corse,Corse-du-Sud,Ajaccio,,,,2020-03-09,presse locale + CP ARS Corse,
+male,1945,France,Corse,Corse-du-Sud,Ajaccio,,,,2020-03-10,presse locale + CP ARS Corse,
+male,1933,France,Corse,Corse-du-Sud,Ajaccio,,,,2020-03-11,presse locale + CP ARS Corse,
+,,France,Bourgogne-Franche-Comté,Doubs,,,,2020-03-09,2020-03-11,Bfc10 – CP ARS Bourgogne-Franche-Comté,Most of the patients are in Doubs and Pôle métropolitain Nord Franche-Comté – no patients in Nièvre - Departement not sure – not sure if this is the patient who deceased – report says that a patient from Doubs is deceased, no more information 
+female,1931,France,Auvergne-Rhône-Alpes,Drôme,Nyons,,,2020-03-04,2020-03-08,Ara6 – CP ARS Auvergne-Rhône-Alpes,
+Male,1922,France,Grand Est,Haut-Rhin,,,,2020-03-02,2020-03-07,L'Est Republicain,
+Female,1934,France,Grand Est,Haut-Rhin,,,,2020-03-02,2020-03-07,L'Est Republicain,
+,,France,Bourgogne-Franche-Comté,Jura,,,,2020-03-10,2020-03-11,Bfc11 – CP ARS Bourgogne-Franche-Comté,Departement not sure – not sure if this is the patient who deceased – report says that a patient from Jura is deceased, no more information
+male,1928,France,Bretagne,Morbihan,Crac’h,,,2020-03-01,2020-03-03,CP ARS Bretagne,Cluster Morbihan
+Female,1947,France,Grand Est,Moselle,,,Religious Meeting in Mulhouse,2020-03-07,2020-03-08,L'Est Republicain,
+male,1959,France,Hauts-de-France,Oise,Vaumoise,,,,2020-02-25,CP ARS Hauts-de-France,
+Female,1931,France,Hauts-de-France,Oise,Crépy-en-Valois,,,,2020-03-04,O1,
+male,1947,France,Hauts-de-France,Oise,Crépy-en-Valois,Crépy-en-Valois,,2020-02-29,2020-03-04,CP ARS Hauts-de-France,source : hf4
+male,1926,France,Hauts-de-France,Oise,Creil,,,2020-03-05,2020-03-04,CP ARS Hauts-de-France,source : hf8 – hospitalized since 2020-03-01
+male,1955,France,Hauts-de-France,Oise,Saint-Vaast-les-Mello,,,2020-03-05,2020-03-04,CP ARS Hauts-de-France,source : hf8 – hospitalized since 2020-03-01
+male,1941,France,Hauts-de-France,Oise,Crépy-en-Valois,Crépy-en-Valois,Dialyse,2020-03-05,2020-03-05,CP ARS Hauts-de-France,source : hf6 – confirmed date not certain, this patient was not mentioned in previous communications, hospitalized since 2020-02-28
+female,1937,France,Hauts-de-France,Oise,Crépy-en-Valois,Crépy-en-Valois,,2020-03-07,2020-03-05,CP ARS Hauts-de-France,source : hf11
+female,1938,France,Hauts-de-France,Oise,Nanteuil-le-Haudouin,,,2020-03-08,2020-03-07,HF15 – CP ARS Hauts-de-France,
+male,1937,France,Hauts-de-France,Oise,Saint-Vaast-les-Mello,,,2020-03-08,2020-03-08,HF15 – CP ARS Hauts-de-France,
+male,1942,France,Hauts-de-France,Oise,,,,,2020-03-10,CP ARS Hauts-de-France,Source : O2
+Male,1937,France,Hauts-de-France,Oise,,,,,2020-03-11,CP ARS Hauts-de-France,Source : O2
+male,1960,France,Hauts-de-France,Oise,,,,,2020-03-12,CP ARS Hauts-de-France,Source : O3
+male,1940,France,Hauts-de-France,Oise,,,,,2020-03-12,CP ARS Hauts-de-France,Source : O3
+female,1933,France,Hauts-de-France,Oise,,,,,2020-03-12,CP ARS Hauts-de-France,Source : O3
+Female,1932,France,Hauts-de-France,Oise,,,,,2020-03-12,CP ARS Hauts-de-France,Source : O3
+,,France,Hauts-de-France,Oise,,,,,2020-03-14,CP ARS Hauts-de-France,
+,,France,Hauts-de-France,Oise,,,,,2020-03-14,CP ARS Hauts-de-France,
+,,France,Hauts-de-France,Oise,,,,,2020-03-14,CP ARS Hauts-de-France,
+,,France,Hauts-de-France,Oise,,,,,2020-03-15,,
+,,France,Hauts-de-France,Oise,,,,,2020-03-15,,
+,,France,Hauts-de-France,Oise,,,,,2020-03-15,,
+,,France,Hauts-de-France,Oise,,,,,2020-03-15,,
+,,France,Hauts-de-France,Oise,,,,,2020-03-15,,
+,,France,Hauts-de-France,Oise,,,,,2020-03-15,,
+Female,1971,France,Hauts-de-France,Pas-de-Calais,,,,,2020-03-10,PC1,
+female,1944,France,Auvergne-Rhône-Alpes,Rhône,,,,2020-03-09,2020-03-09,Ara15 – CP ARS Auvergne-Rhône-Alpes,
+male,1939,France,Auvergne-Rhône-Alpes,Savoie,,,,2020-03-06,2020-03-09,Ara15 – CP ARS Auvergne-Rhône-Alpes,
+male,1934,France,Normandie,Seine-Maritime,,,,2020-03-06,2020-03-06,CP ARS Normandie,source : n4
+male,1944,France,Hauts-de-France,Somme,,,,,2020-03-09,,Source : S1
+female,1933,France,Hauts-de-France,Somme,,,,,2020-03-09,,Source : S1
+,,France,Hauts-de-France,Somme,,,,,2020-03-12,,Source : S2
+,,France,Hauts-de-France,Somme,,,,,2020-03-15,HDF ARS,
+,,France,Hauts-de-France,Somme,,,,,2020-03-15,HDF ARS,
+,,France,Hauts-de-France,Somme,,,,,2020-03-15,HDF ARS,
+Female,1926,France,Grand Est,Vosges,,,,2020-03-06,2020-03-09,ARS,
+,,France,Bourgogne-Franche-Comté,Yonne,,,,2020-03-10,2020-03-10,Bfc11 – CP ARS Bourgogne-Franche-Comté,Departement not sure – not sure if this is the patient who deceased – report says that a patient from Paris area is deceased in Yonne, no more information
+Male,1934,France,Ile-de-France,Val-d’Oise,Méry-sur-Oise,,,,2020-03-06,HDF ARS,Source: PointSituationCovid19_20200306.pdf
+,1935,France,Ile-de-France,,,EHPAD,,,2020-03-10,HDF ARS,Source : Point-COVID19-20200310_0.pdf
+,1930,France,Ile-de-France,,,EHPAD,,,2020-03-10,HDF ARS,Source : Point-COVID19-20200310_0.pdf
+,1925,France,Ile-de-France,,,EHPAD,,,2020-03-10,HDF ARS,Source : Point-COVID19-20200310_0.pdf
+Male,1935,France,Occitanie,Hérault,Mauguio,EHPAD,,,2020-03-16,CP ARS Occitanie,Source : o19
+Female,1934,France,Occitanie,Aude,Quillan,,,,2020-03-16,CP ARS Occitanie,Source : o20

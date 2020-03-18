@@ -1,0 +1,6 @@
+/* Source and licensing information for the line(s) below can be found at https://france3-regions.francetvinfo.fr/bretagne/sites/all/modules/custom/fr3r_newsletter_text/scripts/newsletter_inscription.js. */
+(function(e){Drupal.behaviors.newsletter_inscription={attach:function(n,o){var t=e('#fr3-footer #nl-box-btn:not(.inscription-processed)');if(t.length){e('#fr3-footer #nl-box-btn').on('click',function(e){r(e)});e('#fr3-footer .abonner form').on('submit',function(e){r(e)});e('#fr3-footer #nl-box-btn').addClass('inscription-processed')};function r(n){var r=e('#fr3-footer #nl-box-email').val(),t=o.base_url;if(r==''){alert('Veuillez saisir une adresse email.')}
+else if(!r.match('^[A-Za-z0-9](([_\.\-]?[a-zA-Z0-9]+)*)@([A-Za-z0-9]+)(([\.\-]?[a-zA-Z0-9]+)*)\.([A-Za-z]{2,})$')){alert('Veuillez saisir une adresse email correcte.')}
+else{console.log('NL is sent');e.ajax({type:'GET',url:t+'/newsletter/inscription/'+r,async:!1,success:function(e,n,o){alert(e);console.log(e)},error:function(e,n,o){alert(e);console.log(e)}})};n.preventDefault()}}}}(jQuery));;
+/* Source and licensing information for the above line(s) can be found at https://france3-regions.francetvinfo.fr/bretagne/sites/all/modules/custom/fr3r_newsletter_text/scripts/newsletter_inscription.js. */
+;/*})'"*/
