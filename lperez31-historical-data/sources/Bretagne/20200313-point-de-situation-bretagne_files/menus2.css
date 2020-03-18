@@ -1,0 +1,96 @@
+
+nav#first .sub_menu {	width: 270px; position: absolute; z-index:50; visibility: hidden;}
+.ie6 nav#first .sub_menu , .ie7 nav#first .sub_menu {	 z-index:550;}
+
+nav#first .item_1 .sub_menu, nav#first .item_2 .sub_menu  {	width: 390px; }
+nav#first	{clear:left;}
+nav#first ul	{background: white; z-index:50;}
+nav#first ul li	{float: left; font-family: "Century Gothic", Arial, Verdana; font-size: 1.3em; /*border-right: 1px solid #DBDBDB; */}
+
+nav#first ul li.last { border-right:none; }
+nav#first ul li.floatright .sub_menu { right: -2px; }
+
+nav#first ul li.hover {position: relative; }
+
+nav#first ul li.hover li{background: white; border-right: none; border-top: none; border-left: none;}
+nav#first ul li	a {color: #494949; text-decoration:none;} 
+nav#first ul ul {padding: 0px 5px; font-size: 0.9em;}
+nav#first li li {font-size: 0.9em; font-family: arial; display: block; border: none; padding: 0 10px 0 0; float: left; clear: left; line-height: 17px; font-weight: normal; border-bottom: 1px solid #DBDBDB; width: 90%;	}
+
+/*#menuControle {display:none;}
+* html nav#first ul ul {display:none;}
+*/
+
+
+/* 
+	LEVEL ONE
+*/
+ul.dropdown                         { position: relative; }
+nav#first ul.dropdown a:hover,		           
+nav#first ul.dropdown a:active                 {background: white;  }
+nav#first ul.dropdown li:last-child a         { border-right: none; } /* Doesn't work in IE */
+nav#first ul.dropdown li.hover,
+nav#first ul.dropdown li:hover                { position: relative; /*border-right: 1px solid transparent;*/}
+
+
+/* 
+	LEVEL TWO
+*/
+nav#first ul.dropdown ul 	{ width: 100%; visibility: hidden;}
+/*nav#first ul.dropdown ul li 					{ float: none; }*/
+nav#first ul.dropdown ul li a					{ width: 100%; display: inline-block; padding-left: 0px;} 
+
+/*
+no-js
+*/
+.no-js  nav#first ul.dropdown ul , .no-js  nav#first .sub_menu 		{ z-index:5500000; visibility: visible; }
+.no-js  nav#first ul.dropdown li{	width:100%;	}
+.no-js  nav#first .sub_menu 		{	position: relative;	 }
+
+/* 
+	LEVEL THREE
+*/
+nav#first ul.dropdown ul ul 					{ left: 100%; top: 0; }
+nav#first ul.dropdown li:hover > ul 			{ visibility: visible; }
+
+
+/*
+récup
+*/
+nav#first ul.dropdown li a 		{display:block;  padding-left: 20px; }
+nav#first  ul.dropdown  li a span		{display:block;  padding:5px 20px 5px 0; cursor:pointer; }
+
+
+nav#first  ul li.hover li a:hover,
+nav#first  ul li.hover li:hover,  
+nav#first  ul li.hover li a:focus			{background-color:#E4F0FF;color:#3A3A3A;font-weight:bold;
+}
+
+
+nav#first  ul li	a.with_submenu		{background:url(../images/submenu_onglet-off.png) 0 0 no-repeat; }
+nav#first  ul li 	a.with_submenu span	{background:url(../images/submenu_onglet-off.png) 100% 0 no-repeat; }
+
+nav#first  ul li.last  	a.with_submenu		{background:none; }
+nav#first  ul li.last		a.with_submenu span	{background:none; }
+
+
+nav#first  ul li.hover a.with_submenu,
+nav#first  ul li	a.with_submenu:hover,
+nav#first  ul li	a.with_submenu:focus		{background:url(../images/submenu_onglet.png) 0 0 no-repeat; }
+nav#first  ul li.hover a.with_submenu span,
+nav#first  ul li	a.with_submenu:hover span,
+nav#first  ul li	a.with_submenu:focus span	{background:url(../images/submenu_onglet.png) 100% 0 no-repeat; }
+
+
+
+nav#first  ul li .block_int			{padding:0 0 0 18px; background:url(../images/sousmenu_l.png) 0 0 repeat-y; }
+nav#first  ul li .block_int_2		{padding:0 21px 0 0; background:url(../images/sousmenu_r.png) 100% 0 repeat-y; }
+nav#first  ul li .block_int_3		{*height:1%;background:#fff;position: relative;padding-bottom: 20px;padding-top: 30px;}
+nav#first  ul li .block_bottom		{padding:0 0 0 20px; background:url(../images/sousmenu_bl.png) no-repeat 0 100%; }
+nav#first  ul li .block_bottom_1		{padding:0 23px 0 0; background:url(../images/sousmenu_br.png) no-repeat 100% 100%; }
+nav#first  ul li .block_bottom_2		{height:13px; background:url(../images/sousmenu_b.png) repeat-x 0 100%; }
+
+
+nav#first  ul li ul li a			{display:block; padding: 3px 0;}
+
+

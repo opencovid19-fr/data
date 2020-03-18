@@ -1,0 +1,12 @@
+/* PRINT CSS - 20060522 */
+
+/* This CSS file hides unwanted elements when a page is printed out,
+by overriding styles set in pagelayout.css */
+
+nav#first{display:none;}
+ul.tools_visu_print{display:none;}
+div.section-top{display:none;}
+div#contacts, div#header_choix_site_departement_region, form#header_recherche{display:none;}
+a[href]:after { content: ""; }
+
+div.block_content div#col1 div.plus_liste{display:block !important;visibility:visible !important;}
