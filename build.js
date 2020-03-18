@@ -19,16 +19,23 @@ async function readYamlFile(filePath) {
   return yaml.safeLoad(content, {schema: yaml.JSON_SCHEMA})
 }
 
+function ensureArray(array) {
+  if (array && Array.isArray(array)) {
+    return array
+  }
+
+  if (array) {
+    return [array]
+  }
+
+  return []
+}
+
 function flattenData(initialData) {
   const rows = []
 
-  if (initialData.donneesRegionales && Array.isArray(initialData.donneesRegionales)) {
-    initialData.donneesRegionales.forEach(row => rows.push(row))
-  }
-
-  if (initialData.donneesDepartementales && Array.isArray(initialData.donneesDepartementales)) {
-    initialData.donneesDepartementales.forEach(row => rows.push(row))
-  }
+  ensureArray(initialData.donneesRegionales).forEach(row => rows.push(row))
+  ensureArray(initialData.donneesDepartementales).forEach(row => rows.push(row))
 
   if (initialData.donneesNationales) {
     rows.push({
