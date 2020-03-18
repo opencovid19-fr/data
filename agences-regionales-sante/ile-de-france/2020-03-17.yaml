@@ -1,9 +1,9 @@
-date: "2020-03-14"
+date: "2020-03-17"
 source:
   nom: ARS Ile-de-France
   url: https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid10_20200314.pdf
 donneesRegionales:
   nom: Ile-de-France
   code: REG-11
-  casConfirmes: 1240
+  casConfirmes: 1240 # +376
   reanimation: 155

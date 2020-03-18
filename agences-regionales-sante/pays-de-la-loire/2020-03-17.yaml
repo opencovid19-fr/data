@@ -8,5 +8,9 @@ donneesRegionales:
   casConfirmes: 109 # Pas mis à jour et pas présent dans ce communiqué de presse.
   reanimation: 13 # Dont 8 cas en attente de confirmation
   deces: 1
+  victimes:
+    - date: 2020-03-17
+      age: 90
   # Dernière publication du nombre de cas confirmés compte tenu du déclenchement du niveau 3
   # Pas de données sur le nombre de guéris et sur les départements dans ce bulletin d'information
+

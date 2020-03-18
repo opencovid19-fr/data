@@ -5,8 +5,13 @@ source:
 donneesRegionales:
   nom: Normandie
   code: REG-28
-  casConfirmes: 208
+  casConfirmes: 208 # +34
   deces: 3 
+  victimes:
+    - date: 2020-03-18
+      age: 75
+    - date: 2020-03-18
+      age: 65
   hospitalises: 45 # Pas de mise à jour
 donneesDepartementales:
   - nom: Manche
