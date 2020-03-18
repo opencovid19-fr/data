@@ -1,0 +1,1 @@
+Dans son bulletin du 11 mars, la préfecture de l'Aisne ne donne aucun chiffre, mais renvoie vers les chiffres de l'ARS des Hauts de France.
