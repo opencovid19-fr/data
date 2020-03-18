@@ -7,7 +7,8 @@
   "license": "MIT",
   "private": false,
   "scripts": {
-    "build": "node build"
+    "build": "node build",
+    "lint": "xo"
   },
   "devDependencies": {
     "fs-extra": "^8.1.0",
