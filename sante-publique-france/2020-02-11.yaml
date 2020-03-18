@@ -1,0 +1,10 @@
+date: "2020-02-11"
+source:
+  nom: Santé publique France
+  url: https://web.archive.org/web/20200211193112/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/epidemie-de-coronavirus-2019-ncov-au-depart-de-wuhan-chine
+donneesNationales:
+  casConfirmes: 11
+donneesMondiales:
+  paysTouches: 25
+  casConfirmes: 43118
+  deces: 1018 # 1 016 en Chine, 1 aux Philippines et 1 à Hong-Kong

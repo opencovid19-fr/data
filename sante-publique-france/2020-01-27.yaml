@@ -1,0 +1,11 @@
+date: "2020-01-27"
+source:
+  nom: Santé publique France
+  url: https://web.archive.org/web/20200128153608/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/cas-de-pneumonies-associees-a-un-nouveau-coronavirus-2019-ncov-a-wuhan-en-chine
+donneesNationales:
+  casConfirmes: 3
+  deces: 0
+donneesMondiales:
+  paysTouches: 13 # Il suffit de compter les pays énumérés sur la page, sans oublier la France
+  casConfirmes: 2820 # 2775+3+8+5+5+5+4+4+4+3+2+1+1
+  deces: 81

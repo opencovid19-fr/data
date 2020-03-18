@@ -1,0 +1,10 @@
+date: "2020-02-05"
+source:
+  nom: Santé publique France
+  url: https://web.archive.org/web/20200206105035/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/coronavirus-2019-ncov-france-et-monde
+donneesNationales:
+  casConfirmes: 6
+donneesMondiales:
+  paysTouches: 25
+  casConfirmes: 24530
+  deces: 493 # 492 Chine + 1 Philippines

@@ -1,0 +1,11 @@
+date: "2020-02-20"
+source:
+  nom: Santé publique France
+  url: https://web.archive.org/web/20200220180159/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde
+donneesNationales:
+  casConfirmes: 12
+  deces: 1
+donneesMondiales:
+  paysTouches: 27
+  casConfirmes: 75744
+  deces: 2128

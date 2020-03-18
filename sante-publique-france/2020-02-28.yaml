@@ -1,0 +1,62 @@
+date: "2020-02-28"
+source:
+  nom: Santé publique France
+  url: https://web.archive.org/web/20200229212809/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france
+donneesNationales:
+  casConfirmes: 38
+  deces: 2
+donneesRegionales:
+  - nom: Auvergne-Rhône-Alpes
+    code: REG-84
+    casConfirmes: 11
+  - nom: Bourgogne-Franche-Comté
+    code: REG-27
+    casConfirmes: 4
+  - nom: Bretagne
+    code: REG-53
+    casConfirmes: 1
+  - nom: Centre-Val de Loire
+    code: REG-24
+    casConfirmes: 0
+  - nom: Corse
+    code: REG-94
+    casConfirmes: 0
+  - nom: Grand Est
+    code: REG-44
+    casConfirmes: 1
+  - nom: Hauts-de-France
+    code: REG-32
+    casConfirmes: 9
+  - nom: Ile-de-France
+    code: REG-11
+    casConfirmes: 9
+  - nom: Normandie
+    code: REG-28
+    casConfirmes: 0
+  - nom: Nouvelle-Aquitaine
+    code: REG-75
+    casConfirmes: 1
+  - nom: Occitanie
+    code: REG-76
+    casConfirmes: 1
+  - nom: Pays de la Loire
+    code: REG-52
+    casConfirmes: 1
+  - nom: Provence-Alpes-Côte d’Azur
+    code: REG-93
+    casConfirmes: 0
+  - nom: Guadeloupe
+    code: REG-01
+    casConfirmes: 0
+  - nom: Guyane
+    code: REG-03
+    casConfirmes: 0
+  - nom: Martinique
+    code: REG-02
+    casConfirmes: 0
+  - nom: Mayotte
+    code: REG-06
+    casConfirmes: 0
+  - nom: La Réunion
+    code: REG-04
+    casConfirmes: 0
