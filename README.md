@@ -56,7 +56,7 @@ source:
   url: https://site.web/lien-vers-le-bulletin.pdf
   archive: https://web.archive.org/web/XXXXXX/https://site.web/lien-vers-le-bulletin
 ```
-Le fichier YAML doit commencer par la date du bulletin, suivi pour un bloc source. Il convient de mettre le nom et l'url de la source (de préférence un bulletin PDF ou à defaut une page web). Il est possible d'ajouter `archive:` est de coller un lien vers une page web archivée sur https://web.archive.org, en effet certains bulletins web sont écrasés chaque jour sur la même url.
+Le fichier YAML doit commencer par la date du bulletin, suivi pour un bloc source. Il convient de mettre le nom et l'url de la source (de préférence un bulletin PDF ou à defaut une page web). Pour les pages web, il convient de rajouter une `archive:`. Pour se faire, rendez-vous sur https://web.archive.org/save, collez votre url, puis appuyez sur 'save page'. Un lien commençant par `https://web.archive.org/web/` sera généré. Collez ce lien derrière la balise `archive:`. Notez que le lien peut prendre du temps avant d'être fonctionnel. Il est également possible d'archiver un fichier PDF. Certains bulletins web ou PDF sont écrasés chaque jour donc pensez à faire des archives sur https://web.archive.org/save.
 
 #### Bloc YAML par région ou département 
 
