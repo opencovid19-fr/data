@@ -17,27 +17,17 @@ donneesDepartementales:
   - nom: Manche
     code: DEP-50
     casConfirmes: 42 # +10 par rapport à hier
-    hospitalises: 1
-    deces: 0 # Reprise fichier précédent
   - nom: Calvados
     code: DEP-14
     casConfirmes: 71 # +5 par rapport à hier
-    hospitalises: 4
-    deces: 0 # Reprise fichier précédent
   - nom: Seine-Maritime
     code: DEP-76
     casConfirmes: 57 # + 18 par rapport à hier
-    hospitalises: 8
-    deces: 1 # Reprise fichier précédent
     victimes:
       - date: 2020-03-06
   - nom: Eure
     code: DEP-27
     casConfirmes: 29 # +0
-    hospitalises: 5
-    deces: 0 # Reprise fichier précédent
   - nom: Orne
     code: DEP-61
     casConfirmes: 9 # +1
-    hospitalises: 1
-    deces: 0 # Reprise fichier précédent
