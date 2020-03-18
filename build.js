@@ -80,6 +80,7 @@ function jsonToCsvRow(json) {
     maille_nom: json.nom,
     cas_confirmes: 'casConfirmes' in json ? json.casConfirmes : '',
     deces: 'deces' in json ? json.deces : '',
+    reanimation: 'reanimation' in json ? json.reanimation : '',
     source_nom: (json.source && json.source.nom) || '',
     source_url: (json.source && json.source.url) || ''
   }
