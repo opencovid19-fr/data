@@ -1,10 +1,9 @@
 #!/usr/bin/env node
 const {join} = require('path')
 const {flatten, chain} = require('lodash')
-const yaml = require('js-yaml')
-const {readFile, outputJson, outputFile} = require('fs-extra')
+const {outputJson} = require('fs-extra')
 const glob = require('glob')
-const Papa = require('papaparse')
+const {ensureArray, readYamlFile, outputCsv} = require('./lib/util')
 
 const sources = [
   'agences-regionales-sante',
@@ -13,23 +12,6 @@ const sources = [
 ]
 
 const distPath = join(__dirname, 'dist')
-
-async function readYamlFile(filePath) {
-  const content = await readFile(filePath, {encoding: 'utf8'})
-  return yaml.safeLoad(content, {schema: yaml.JSON_SCHEMA})
-}
-
-function ensureArray(array) {
-  if (array && Array.isArray(array)) {
-    return array
-  }
-
-  if (array) {
-    return [array]
-  }
-
-  return []
-}
 
 function flattenData(initialData) {
   const rows = []
@@ -100,11 +82,6 @@ function jsonToCsvRow(json) {
     source_nom: (json.source && json.source.nom) || '',
     source_url: (json.source && json.source.url) || ''
   }
-}
-
-async function outputCsv(filePath, data) {
-  const csvData = Papa.unparse(data)
-  await outputFile(filePath, csvData)
 }
 
 async function main() {
