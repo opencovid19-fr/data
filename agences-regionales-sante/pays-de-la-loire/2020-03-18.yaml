@@ -7,9 +7,9 @@ donneesRegionales:
   nom: Pays de la Loire
   code: REG-52
   reanimation: 13 
-   victimes:
-  - date : 2020-03-18
-  - date : 2020-03-18
+  victimes:
+    - date: 2020-03-18
+    - date: 2020-03-18
   # Dernière publication du nombre de cas confirmés compte tenu du déclenchement du niveau 3
   # Pas de données sur le nombre de guéris et sur les départements dans ce bulletin d'information
 
