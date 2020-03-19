@@ -8,11 +8,6 @@ donneesRegionales:
   code: REG-28
   casConfirmes: 241 # +33
   deces: 5 
-  victimes:
-    - date: 2020-03-18
-      age: 75
-    - date: 2020-03-18
-      age: 65
   hospitalises: 46 # +1 par rapport à hier
 donneesDepartementales:
   - nom: Manche
@@ -24,8 +19,6 @@ donneesDepartementales:
   - nom: Seine-Maritime
     code: DEP-76
     casConfirmes: 77 # + 20 par rapport à hier
-    victimes:
-      - date: 2020-03-06
   - nom: Eure
     code: DEP-27
     casConfirmes: 35 # +6
