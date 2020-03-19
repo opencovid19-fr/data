@@ -1,4 +1,4 @@
-# Guide d'utilisation de github pour le projet opencovid19-fr/data
+# Guide d'utilisation de github pour opencovid19-fr/data
 
 Ce guide d'utilisation est a destination de ceux qui ont peut ou pas
 d'experience utilisant `git` ou `github` notamment dans un contexte
@@ -20,7 +20,7 @@ pour assurer la sauvegarde d'etapes intermediaires.
 
 ## Guide en images
 
-#### Creation d'une copie personelle (`fork`) 
+### Creation d'une copie personelle (`fork`) 
 
 (:warning: Cette etape n'est a faire que la premiere fois)
 
@@ -33,7 +33,7 @@ Cette operation vous donne accees a une copie de l'archive sur laquel vous pourr
 Cette copie se distingue de l'original car elle aura le nom: `<nom d'utilisateur>/data`
 (dans mon cas `payoto/data`).
 
-#### Creation d'un nouveau fichier de donnees `YAML`
+### Creation d'un nouveau fichier de donnees `YAML`
 
 Dans cette copie personnelle creer un nouveau fichier `YAML` en cliquant sur
 le bouton `create new file`:
@@ -42,6 +42,7 @@ le bouton `create new file`:
 
 Ensuite nommez le nouveau fichier de telle maniere a ce qu'il soit dans
 le bon sous dossier:
+
 ![](https://raw.githubusercontent.com/payoto/data/master/docs/img/explain_github_2_newfile.png)
 
 Ajoutez ensuite le contenu du fichier comme si dessous
@@ -64,7 +65,7 @@ en faisant un `commit`. Le commit contient deux parties:
 Vous avez maintenant ajoute vos donnees a votre copie personnelle de 
 l'archive.
 
-#### Creation d'une pull request
+### Creation d'une pull request
 
 Il s'agit maintenant de transferer ces modifications a l'archive d'origine
 en creant une "pull request".
