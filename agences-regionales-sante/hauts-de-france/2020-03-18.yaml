@@ -10,24 +10,19 @@ donneesRegionales:
   deces: 55
 donneesDepartementales:
   - nom: Oise
-    code: DEP-60
-    casConfirmes: 
+    code: DEP-60 
     deces: 35
   - nom: Aisne
     code: DEP-02
-    casConfirmes: 
     deces: 9
   - nom: Nord
     code: DEP-59
-    casConfirmes: 
     deces: 1
   - nom: Pas-de-Calais
     code: DEP-62
-    casConfirmes: 
     deces: 1
   - nom: Somme
     code: DEP-80
-    casConfirmes: 
     deces: 9
     
     # Données départementales manquantes sur les cas confirmés
