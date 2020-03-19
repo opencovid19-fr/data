@@ -1,0 +1,24 @@
+date: "2020-03-19"
+source:
+    nom: ARS Bretagne
+    url: https://www.bretagne.ars.sante.fr/system/files/2020-03/CP%20Coronavirus_Bretagne_point%20de%20situation%2017h30_200319.pdf
+    archive: https://web.archive.org/web/20200319215630/https://www.bretagne.ars.sante.fr/system/files/2020-03/CP%20Coronavirus_Bretagne_point%20de%20situation%2017h30_200319.pdf
+donneesRegionales:
+  nom: Bretagne
+  code: REG-53
+  casConfirmes: 268
+  deces: 10
+  reanimation: 26
+donneesDepartementales:
+  - nom: Morbihan
+    code: DEP-56
+    casConfirmes: 134
+  - nom: Ille-et-Vilaine
+    code: DEP-35
+    casConfirmes: 58
+  - nom: Finistère
+    code: DEP-29
+    casConfirmes: 60
+  - nom: Côtes-d'Armor
+    code: DEP-22
+    casConfirmes: 16
