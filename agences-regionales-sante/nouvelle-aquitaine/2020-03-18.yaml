@@ -7,7 +7,7 @@ donneesRegionales:
   nom: Nouvelle-Aquitaine
   code: REG-75
   casConfirmes: 242
-  gueris: 2
+  deces: 2 # deces du bulletin du 2020-03-15
 donneesDepartementales:
   - nom: Charente
     code: DEP-16
