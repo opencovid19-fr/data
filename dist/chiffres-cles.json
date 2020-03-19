@@ -134,6 +134,19 @@
   {
     "date": "2020-01-24",
     "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/cas-de-pneumonies-associees-a-un-nouveau-coronavirus-2019-ncov-a-wuhan-en-chine",
+      "archive": "https://web.archive.org/web/20200124202351/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/cas-de-pneumonies-associees-a-un-nouveau-coronavirus-2019-ncov-a-wuhan-en-chine"
+    },
+    "sourceType": "sante-publique-france",
+    "casConfirmes": 0,
+    "deces": 0,
+    "nom": "France",
+    "code": "FRA"
+  },
+  {
+    "date": "2020-01-24",
+    "source": {
       "nom": "ARS Nouvelle-Aquitaine",
       "url": "https://www.nouvelle-aquitaine.ars.sante.fr/communique-de-presse-coronavirus-point-de-situation-en-nouvelle-aquitaine-du-08032020"
     },
@@ -141,6 +154,74 @@
     "nom": "Nouvelle-Aquitaine",
     "code": "REG-75",
     "casConfirmes": 1
+  },
+  {
+    "date": "2020-01-24",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/cas-de-pneumonies-associees-a-un-nouveau-coronavirus-2019-ncov-a-wuhan-en-chine",
+      "archive": "https://web.archive.org/web/20200124202351/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/cas-de-pneumonies-associees-a-un-nouveau-coronavirus-2019-ncov-a-wuhan-en-chine"
+    },
+    "sourceType": "sante-publique-france",
+    "paysTouches": 8,
+    "casConfirmes": 897,
+    "deces": 26,
+    "nom": "Monde",
+    "code": "WORLD"
+  },
+  {
+    "date": "2020-01-25",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/cas-de-pneumonies-associees-a-un-nouveau-coronavirus-2019-ncov-a-wuhan-en-chine",
+      "archive": "https://web.archive.org/web/20200126024644/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/cas-de-pneumonies-associees-a-un-nouveau-coronavirus-2019-ncov-a-wuhan-en-chine"
+    },
+    "sourceType": "sante-publique-france",
+    "casConfirmes": 3,
+    "deces": 0,
+    "nom": "France",
+    "code": "FRA"
+  },
+  {
+    "date": "2020-01-25",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/cas-de-pneumonies-associees-a-un-nouveau-coronavirus-2019-ncov-a-wuhan-en-chine",
+      "archive": "https://web.archive.org/web/20200126024644/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/cas-de-pneumonies-associees-a-un-nouveau-coronavirus-2019-ncov-a-wuhan-en-chine"
+    },
+    "sourceType": "sante-publique-france",
+    "paysTouches": 14,
+    "casConfirmes": 1329,
+    "deces": 41,
+    "nom": "Monde",
+    "code": "WORLD"
+  },
+  {
+    "date": "2020-01-26",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/cas-de-pneumonies-associees-a-un-nouveau-coronavirus-2019-ncov-a-wuhan-en-chine",
+      "archive": "https://web.archive.org/web/20200127144431/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/cas-de-pneumonies-associees-a-un-nouveau-coronavirus-2019-ncov-a-wuhan-en-chine"
+    },
+    "sourceType": "sante-publique-france",
+    "casConfirmes": 3,
+    "deces": 0,
+    "nom": "France",
+    "code": "FRA"
+  },
+  {
+    "date": "2020-01-26",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/cas-de-pneumonies-associees-a-un-nouveau-coronavirus-2019-ncov-a-wuhan-en-chine",
+      "archive": "https://web.archive.org/web/20200127144431/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/cas-de-pneumonies-associees-a-un-nouveau-coronavirus-2019-ncov-a-wuhan-en-chine"
+    },
+    "sourceType": "sante-publique-france",
+    "paysTouches": 13,
+    "casConfirmes": 2026,
+    "deces": 56,
+    "nom": "Monde",
+    "code": "WORLD"
   },
   {
     "date": "2020-01-27",
@@ -154,6 +235,219 @@
     "nom": "Hérault"
   },
   {
+    "date": "2020-01-27",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/cas-de-pneumonies-associees-a-un-nouveau-coronavirus-2019-ncov-a-wuhan-en-chine",
+      "archive": "https://web.archive.org/web/20200128153608/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/cas-de-pneumonies-associees-a-un-nouveau-coronavirus-2019-ncov-a-wuhan-en-chine"
+    },
+    "sourceType": "sante-publique-france",
+    "casConfirmes": 3,
+    "deces": 0,
+    "nom": "France",
+    "code": "FRA"
+  },
+  {
+    "date": "2020-01-27",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/cas-de-pneumonies-associees-a-un-nouveau-coronavirus-2019-ncov-a-wuhan-en-chine",
+      "archive": "https://web.archive.org/web/20200128153608/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/cas-de-pneumonies-associees-a-un-nouveau-coronavirus-2019-ncov-a-wuhan-en-chine"
+    },
+    "sourceType": "sante-publique-france",
+    "paysTouches": 13,
+    "casConfirmes": 2820,
+    "deces": 81,
+    "nom": "Monde",
+    "code": "WORLD"
+  },
+  {
+    "date": "2020-01-29",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/cas-de-pneumonies-associees-a-un-nouveau-coronavirus-2019-ncov-a-wuhan-en-chine",
+      "archive": "https://web.archive.org/web/20200130082013/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/cas-de-pneumonies-associees-a-un-nouveau-coronavirus-2019-ncov-a-wuhan-en-chine"
+    },
+    "sourceType": "sante-publique-france",
+    "casConfirmes": 4,
+    "deces": 0,
+    "nom": "France",
+    "code": "FRA"
+  },
+  {
+    "date": "2020-01-29",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/cas-de-pneumonies-associees-a-un-nouveau-coronavirus-2019-ncov-a-wuhan-en-chine",
+      "archive": "https://web.archive.org/web/20200130082013/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/cas-de-pneumonies-associees-a-un-nouveau-coronavirus-2019-ncov-a-wuhan-en-chine"
+    },
+    "sourceType": "sante-publique-france",
+    "paysTouches": 17,
+    "casConfirmes": 6072,
+    "deces": 132,
+    "nom": "Monde",
+    "code": "WORLD"
+  },
+  {
+    "date": "2020-01-30",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/cas-de-pneumonies-associees-a-un-nouveau-coronavirus-2019-ncov-a-wuhan-en-chine",
+      "archive": "https://web.archive.org/web/20200131123433/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/cas-de-pneumonies-associees-a-un-nouveau-coronavirus-2019-ncov-a-wuhan-en-chine"
+    },
+    "sourceType": "sante-publique-france",
+    "casConfirmes": 5,
+    "deces": 0,
+    "nom": "France",
+    "code": "FRA"
+  },
+  {
+    "date": "2020-01-30",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/cas-de-pneumonies-associees-a-un-nouveau-coronavirus-2019-ncov-a-wuhan-en-chine",
+      "archive": "https://web.archive.org/web/20200131123433/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/cas-de-pneumonies-associees-a-un-nouveau-coronavirus-2019-ncov-a-wuhan-en-chine"
+    },
+    "sourceType": "sante-publique-france",
+    "paysTouches": 17,
+    "casConfirmes": 7790,
+    "deces": 170,
+    "nom": "Monde",
+    "code": "WORLD"
+  },
+  {
+    "date": "2020-01-31",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/cas-de-pneumonies-associees-a-un-nouveau-coronavirus-2019-ncov-a-wuhan-en-chine",
+      "archive": "https://web.archive.org/web/20200201131050/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/cas-de-pneumonies-associees-a-un-nouveau-coronavirus-2019-ncov-a-wuhan-en-chine"
+    },
+    "sourceType": "sante-publique-france",
+    "casConfirmes": 6,
+    "deces": 0,
+    "nom": "France",
+    "code": "FRA"
+  },
+  {
+    "date": "2020-01-31",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/cas-de-pneumonies-associees-a-un-nouveau-coronavirus-2019-ncov-a-wuhan-en-chine",
+      "archive": "https://web.archive.org/web/20200201131050/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/cas-de-pneumonies-associees-a-un-nouveau-coronavirus-2019-ncov-a-wuhan-en-chine"
+    },
+    "sourceType": "sante-publique-france",
+    "paysTouches": 21,
+    "casConfirmes": 9831,
+    "deces": 213,
+    "nom": "Monde",
+    "code": "WORLD"
+  },
+  {
+    "date": "2020-02-03",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/cas-de-pneumonies-associees-a-un-nouveau-coronavirus-2019-ncov-a-wuhan-en-chine",
+      "archive": "https://web.archive.org/web/20200204141452/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/cas-de-pneumonies-associees-a-un-nouveau-coronavirus-2019-ncov-a-wuhan-en-chine"
+    },
+    "sourceType": "sante-publique-france",
+    "casConfirmes": 6,
+    "deces": 0,
+    "nom": "France",
+    "code": "FRA"
+  },
+  {
+    "date": "2020-02-03",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/cas-de-pneumonies-associees-a-un-nouveau-coronavirus-2019-ncov-a-wuhan-en-chine",
+      "archive": "https://web.archive.org/web/20200204141452/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/cas-de-pneumonies-associees-a-un-nouveau-coronavirus-2019-ncov-a-wuhan-en-chine"
+    },
+    "sourceType": "sante-publique-france",
+    "paysTouches": 25,
+    "casConfirmes": 17383,
+    "deces": 362,
+    "nom": "Monde",
+    "code": "WORLD"
+  },
+  {
+    "date": "2020-02-05",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/coronavirus-2019-ncov-france-et-monde",
+      "archive": "https://web.archive.org/web/20200206105035/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/coronavirus-2019-ncov-france-et-monde"
+    },
+    "sourceType": "sante-publique-france",
+    "casConfirmes": 6,
+    "nom": "France",
+    "code": "FRA"
+  },
+  {
+    "date": "2020-02-05",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/coronavirus-2019-ncov-france-et-monde",
+      "archive": "https://web.archive.org/web/20200206105035/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/coronavirus-2019-ncov-france-et-monde"
+    },
+    "sourceType": "sante-publique-france",
+    "paysTouches": 26,
+    "casConfirmes": 24530,
+    "deces": 493,
+    "nom": "Monde",
+    "code": "WORLD"
+  },
+  {
+    "date": "2020-02-06",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/epidemie-de-coronavirus-2019-ncov-au-depart-de-wuhan-chine",
+      "archive": "https://web.archive.org/web/20200207132717/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/epidemie-de-coronavirus-2019-ncov-au-depart-de-wuhan-chine"
+    },
+    "sourceType": "sante-publique-france",
+    "casConfirmes": 6,
+    "nom": "France",
+    "code": "FRA"
+  },
+  {
+    "date": "2020-02-06",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/epidemie-de-coronavirus-2019-ncov-au-depart-de-wuhan-chine",
+      "archive": "https://web.archive.org/web/20200207132717/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/epidemie-de-coronavirus-2019-ncov-au-depart-de-wuhan-chine"
+    },
+    "sourceType": "sante-publique-france",
+    "paysTouches": 26,
+    "casConfirmes": 28284,
+    "deces": 565,
+    "nom": "Monde",
+    "code": "WORLD"
+  },
+  {
+    "date": "2020-02-07",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/epidemie-de-coronavirus-2019-ncov-au-depart-de-wuhan-chine",
+      "archive": "https://web.archive.org/web/20200207164830/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/epidemie-de-coronavirus-2019-ncov-au-depart-de-wuhan-chine"
+    },
+    "sourceType": "sante-publique-france",
+    "casConfirmes": 6,
+    "nom": "France",
+    "code": "FRA"
+  },
+  {
+    "date": "2020-02-07",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/epidemie-de-coronavirus-2019-ncov-au-depart-de-wuhan-chine",
+      "archive": "https://web.archive.org/web/20200207164830/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/epidemie-de-coronavirus-2019-ncov-au-depart-de-wuhan-chine"
+    },
+    "sourceType": "sante-publique-france",
+    "paysTouches": 26,
+    "casConfirmes": 31503,
+    "deces": 638,
+    "nom": "Monde",
+    "code": "WORLD"
+  },
+  {
     "date": "2020-02-08",
     "source": {
       "nom": "Coronavirus-France-Dataset",
@@ -163,6 +457,137 @@
     "casConfirmes": 6,
     "code": "DEP-74",
     "nom": "Haute-Savoie"
+  },
+  {
+    "date": "2020-02-08",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/epidemie-de-coronavirus-2019-ncov-au-depart-de-wuhan-chine",
+      "archive": "https://web.archive.org/web/20200208170452/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/epidemie-de-coronavirus-2019-ncov-au-depart-de-wuhan-chine"
+    },
+    "sourceType": "sante-publique-france",
+    "casConfirmes": 11,
+    "nom": "France",
+    "code": "FRA"
+  },
+  {
+    "date": "2020-02-08",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/epidemie-de-coronavirus-2019-ncov-au-depart-de-wuhan-chine",
+      "archive": "https://web.archive.org/web/20200208170452/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/epidemie-de-coronavirus-2019-ncov-au-depart-de-wuhan-chine"
+    },
+    "sourceType": "sante-publique-france",
+    "paysTouches": 26,
+    "casConfirmes": 34945,
+    "deces": 724,
+    "nom": "Monde",
+    "code": "WORLD"
+  },
+  {
+    "date": "2020-02-10",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/epidemie-de-coronavirus-2019-ncov-au-depart-de-wuhan-chine",
+      "archive": "https://web.archive.org/web/20200210163443/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/epidemie-de-coronavirus-2019-ncov-au-depart-de-wuhan-chine"
+    },
+    "sourceType": "sante-publique-france",
+    "casConfirmes": 11,
+    "nom": "France",
+    "code": "FRA"
+  },
+  {
+    "date": "2020-02-10",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/epidemie-de-coronavirus-2019-ncov-au-depart-de-wuhan-chine",
+      "archive": "https://web.archive.org/web/20200210163443/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/epidemie-de-coronavirus-2019-ncov-au-depart-de-wuhan-chine"
+    },
+    "sourceType": "sante-publique-france",
+    "paysTouches": 26,
+    "casConfirmes": 40553,
+    "deces": 910,
+    "nom": "Monde",
+    "code": "WORLD"
+  },
+  {
+    "date": "2020-02-11",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/epidemie-de-coronavirus-2019-ncov-au-depart-de-wuhan-chine",
+      "archive": "https://web.archive.org/web/20200211193112/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/epidemie-de-coronavirus-2019-ncov-au-depart-de-wuhan-chine"
+    },
+    "sourceType": "sante-publique-france",
+    "casConfirmes": 11,
+    "nom": "France",
+    "code": "FRA"
+  },
+  {
+    "date": "2020-02-11",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/epidemie-de-coronavirus-2019-ncov-au-depart-de-wuhan-chine",
+      "archive": "https://web.archive.org/web/20200211193112/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/epidemie-de-coronavirus-2019-ncov-au-depart-de-wuhan-chine"
+    },
+    "sourceType": "sante-publique-france",
+    "paysTouches": 26,
+    "casConfirmes": 43118,
+    "deces": 1018,
+    "nom": "Monde",
+    "code": "WORLD"
+  },
+  {
+    "date": "2020-02-12",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/epidemie-de-coronavirus-covid-19-au-depart-de-wuhan-chine",
+      "archive": "https://web.archive.org/web/20200212192607/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/epidemie-de-coronavirus-covid-19-au-depart-de-wuhan-chine"
+    },
+    "sourceType": "sante-publique-france",
+    "casConfirmes": 11,
+    "nom": "France",
+    "code": "FRA"
+  },
+  {
+    "date": "2020-02-12",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/epidemie-de-coronavirus-covid-19-au-depart-de-wuhan-chine",
+      "archive": "https://web.archive.org/web/20200212192607/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/epidemie-de-coronavirus-covid-19-au-depart-de-wuhan-chine"
+    },
+    "sourceType": "sante-publique-france",
+    "paysTouches": 26,
+    "casConfirmes": 45179,
+    "deces": 1116,
+    "nom": "Monde",
+    "code": "WORLD"
+  },
+  {
+    "date": "2020-02-20",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200220180159/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+    },
+    "sourceType": "sante-publique-france",
+    "casConfirmes": 12,
+    "deces": 1,
+    "nom": "France",
+    "code": "FRA"
+  },
+  {
+    "date": "2020-02-20",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200220180159/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+    },
+    "sourceType": "sante-publique-france",
+    "paysTouches": 28,
+    "casConfirmes": 75744,
+    "deces": 2128,
+    "nom": "Monde",
+    "code": "WORLD"
   },
   {
     "date": "2020-02-24",
@@ -294,6 +719,19 @@
   {
     "date": "2020-02-26",
     "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200226194048/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+    },
+    "sourceType": "sante-publique-france",
+    "casConfirmes": 17,
+    "deces": 2,
+    "nom": "France",
+    "code": "FRA"
+  },
+  {
+    "date": "2020-02-26",
+    "source": {
       "nom": "ARS Hauts-de-France",
       "url": "https://www.hauts-de-france.ars.sante.fr/coronavirus-point-de-situation-en-hauts-de-france",
       "archive": "https://web.archive.org/web/20200315094209/https://www.hauts-de-france.ars.sante.fr/coronavirus-point-de-situation-en-hauts-de-france"
@@ -315,6 +753,20 @@
     "code": "REG-44",
     "casConfirmes": 1,
     "deces": 0
+  },
+  {
+    "date": "2020-02-26",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200226194048/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+    },
+    "sourceType": "sante-publique-france",
+    "paysTouches": 40,
+    "casConfirmes": 81027,
+    "deces": 2764,
+    "nom": "Monde",
+    "code": "WORLD"
   },
   {
     "date": "2020-02-27",
@@ -497,6 +949,115 @@
   {
     "date": "2020-02-28",
     "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france",
+      "archive": "https://web.archive.org/web/20200229212809/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france"
+    },
+    "sourceType": "sante-publique-france",
+    "casConfirmes": 38,
+    "deces": 2,
+    "nom": "France",
+    "code": "FRA"
+  },
+  {
+    "date": "2020-02-28",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france",
+      "archive": "https://web.archive.org/web/20200229212809/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Guadeloupe",
+    "code": "REG-01",
+    "casConfirmes": 0
+  },
+  {
+    "date": "2020-02-28",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france",
+      "archive": "https://web.archive.org/web/20200229212809/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Martinique",
+    "code": "REG-02",
+    "casConfirmes": 0
+  },
+  {
+    "date": "2020-02-28",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france",
+      "archive": "https://web.archive.org/web/20200229212809/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Guyane",
+    "code": "REG-03",
+    "casConfirmes": 0
+  },
+  {
+    "date": "2020-02-28",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france",
+      "archive": "https://web.archive.org/web/20200229212809/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "La Réunion",
+    "code": "REG-04",
+    "casConfirmes": 0
+  },
+  {
+    "date": "2020-02-28",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france",
+      "archive": "https://web.archive.org/web/20200229212809/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Mayotte",
+    "code": "REG-06",
+    "casConfirmes": 0
+  },
+  {
+    "date": "2020-02-28",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france",
+      "archive": "https://web.archive.org/web/20200229212809/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Ile-de-France",
+    "code": "REG-11",
+    "casConfirmes": 9
+  },
+  {
+    "date": "2020-02-28",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france",
+      "archive": "https://web.archive.org/web/20200229212809/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Centre-Val de Loire",
+    "code": "REG-24",
+    "casConfirmes": 0
+  },
+  {
+    "date": "2020-02-28",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france",
+      "archive": "https://web.archive.org/web/20200229212809/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Bourgogne-Franche-Comté",
+    "code": "REG-27",
+    "casConfirmes": 4
+  },
+  {
+    "date": "2020-02-28",
+    "source": {
       "nom": "ARS Normandie",
       "url": "https://www.normandie.ars.sante.fr/system/files/2020-03/CP-ars-normandie-02.03.pdf"
     },
@@ -504,6 +1065,126 @@
     "nom": "Normandie",
     "code": "REG-28",
     "casConfirmes": 1
+  },
+  {
+    "date": "2020-02-28",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france",
+      "archive": "https://web.archive.org/web/20200229212809/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Normandie",
+    "code": "REG-28",
+    "casConfirmes": 0
+  },
+  {
+    "date": "2020-02-28",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france",
+      "archive": "https://web.archive.org/web/20200229212809/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Hauts-de-France",
+    "code": "REG-32",
+    "casConfirmes": 9
+  },
+  {
+    "date": "2020-02-28",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france",
+      "archive": "https://web.archive.org/web/20200229212809/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Grand Est",
+    "code": "REG-44",
+    "casConfirmes": 1
+  },
+  {
+    "date": "2020-02-28",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france",
+      "archive": "https://web.archive.org/web/20200229212809/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Pays de la Loire",
+    "code": "REG-52",
+    "casConfirmes": 1
+  },
+  {
+    "date": "2020-02-28",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france",
+      "archive": "https://web.archive.org/web/20200229212809/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Bretagne",
+    "code": "REG-53",
+    "casConfirmes": 1
+  },
+  {
+    "date": "2020-02-28",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france",
+      "archive": "https://web.archive.org/web/20200229212809/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Nouvelle-Aquitaine",
+    "code": "REG-75",
+    "casConfirmes": 1
+  },
+  {
+    "date": "2020-02-28",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france",
+      "archive": "https://web.archive.org/web/20200229212809/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Occitanie",
+    "code": "REG-76",
+    "casConfirmes": 1
+  },
+  {
+    "date": "2020-02-28",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france",
+      "archive": "https://web.archive.org/web/20200229212809/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Auvergne-Rhône-Alpes",
+    "code": "REG-84",
+    "casConfirmes": 11
+  },
+  {
+    "date": "2020-02-28",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france",
+      "archive": "https://web.archive.org/web/20200229212809/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Provence-Alpes-Côte d’Azur",
+    "code": "REG-93",
+    "casConfirmes": 0
+  },
+  {
+    "date": "2020-02-28",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france",
+      "archive": "https://web.archive.org/web/20200229212809/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Corse",
+    "code": "REG-94",
+    "casConfirmes": 0
   },
   {
     "date": "2020-02-29",
@@ -673,6 +1354,29 @@
   {
     "date": "2020-02-29",
     "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france",
+      "archive": "https://web.archive.org/web/20200229212809/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france"
+    },
+    "sourceType": "sante-publique-france",
+    "casConfirmes": 73,
+    "deces": 2,
+    "victimes": [
+      {
+        "sexe": "homme",
+        "age": 81
+      },
+      {
+        "sexe": "homme",
+        "age": 60
+      }
+    ],
+    "nom": "France",
+    "code": "FRA"
+  },
+  {
+    "date": "2020-02-29",
+    "source": {
       "nom": "ARS Nouvelle-Aquitaine",
       "url": "https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-02/CP_Covid19_ARSNA_29_02_2020.pdf"
     },
@@ -783,6 +1487,30 @@
   {
     "date": "2020-03-02",
     "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france",
+      "archive": "https://web.archive.org/web/20200303124836/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Saint-Barthélemy",
+    "code": "COM-977",
+    "casConfirmes": 1
+  },
+  {
+    "date": "2020-03-02",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france",
+      "archive": "https://web.archive.org/web/20200303124836/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Saint-Martin",
+    "code": "COM-978",
+    "casConfirmes": 2
+  },
+  {
+    "date": "2020-03-02",
+    "source": {
       "nom": "ARS Auvergne Rhône-Alpes",
       "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200302_ARSARA_COVID-19_Point_Situation.pdf"
     },
@@ -791,6 +1519,18 @@
     "code": "DEP-01",
     "casConfirmes": 3,
     "deces": 0
+  },
+  {
+    "date": "2020-03-02",
+    "source": {
+      "nom": "Préfecture de l'Aisne",
+      "url": "http://www.aisne.gouv.fr/content/download/26029/171878/file/20200302_CP-point-de-situation_VF.pdf"
+    },
+    "sourceType": "prefectures",
+    "nom": "Aisne",
+    "code": "DEP-02",
+    "deces": 0,
+    "casConfirmes": 2
   },
   {
     "date": "2020-03-02",
@@ -1006,6 +1746,129 @@
   {
     "date": "2020-03-02",
     "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france",
+      "archive": "https://web.archive.org/web/20200303124836/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france"
+    },
+    "sourceType": "sante-publique-france",
+    "casConfirmes": 178,
+    "deces": 3,
+    "victimes": [
+      {
+        "sexe": "homme",
+        "age": 81
+      },
+      {
+        "sexe": "homme",
+        "age": 60
+      },
+      {
+        "sexe": "femme",
+        "age": 89
+      }
+    ],
+    "nom": "France",
+    "code": "FRA"
+  },
+  {
+    "date": "2020-03-02",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france",
+      "archive": "https://web.archive.org/web/20200303124836/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Guadeloupe",
+    "code": "REG-01",
+    "casConfirmes": 0
+  },
+  {
+    "date": "2020-03-02",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france",
+      "archive": "https://web.archive.org/web/20200303124836/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Martinique",
+    "code": "REG-02",
+    "casConfirmes": 0
+  },
+  {
+    "date": "2020-03-02",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france",
+      "archive": "https://web.archive.org/web/20200303124836/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Guyane",
+    "code": "REG-03",
+    "casConfirmes": 0
+  },
+  {
+    "date": "2020-03-02",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france",
+      "archive": "https://web.archive.org/web/20200303124836/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "La Réunion",
+    "code": "REG-04",
+    "casConfirmes": 0
+  },
+  {
+    "date": "2020-03-02",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france",
+      "archive": "https://web.archive.org/web/20200303124836/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Mayotte",
+    "code": "REG-06",
+    "casConfirmes": 0
+  },
+  {
+    "date": "2020-03-02",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france",
+      "archive": "https://web.archive.org/web/20200303124836/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Ile-de-France",
+    "code": "REG-11",
+    "casConfirmes": 34
+  },
+  {
+    "date": "2020-03-02",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france",
+      "archive": "https://web.archive.org/web/20200303124836/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Centre-Val de Loire",
+    "code": "REG-24",
+    "casConfirmes": 0
+  },
+  {
+    "date": "2020-03-02",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france",
+      "archive": "https://web.archive.org/web/20200303124836/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Bourgogne-Franche-Comté",
+    "code": "REG-27",
+    "casConfirmes": 8
+  },
+  {
+    "date": "2020-03-02",
+    "source": {
       "nom": "ARS Normandie",
       "url": "https://www.normandie.ars.sante.fr/system/files/2020-03/CP-ars-normandie-02.03.pdf"
     },
@@ -1014,6 +1877,30 @@
     "code": "REG-28",
     "casConfirmes": 2,
     "deces": 0
+  },
+  {
+    "date": "2020-03-02",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france",
+      "archive": "https://web.archive.org/web/20200303124836/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Normandie",
+    "code": "REG-28",
+    "casConfirmes": 2
+  },
+  {
+    "date": "2020-03-02",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france",
+      "archive": "https://web.archive.org/web/20200303124836/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Hauts-de-France",
+    "code": "REG-32",
+    "casConfirmes": 45
   },
   {
     "date": "2020-03-02",
@@ -1030,6 +1917,66 @@
   {
     "date": "2020-03-02",
     "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france",
+      "archive": "https://web.archive.org/web/20200303124836/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Grand Est",
+    "code": "REG-44",
+    "casConfirmes": 12
+  },
+  {
+    "date": "2020-03-02",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france",
+      "archive": "https://web.archive.org/web/20200303124836/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Pays de la Loire",
+    "code": "REG-52",
+    "casConfirmes": 5
+  },
+  {
+    "date": "2020-03-02",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france",
+      "archive": "https://web.archive.org/web/20200303124836/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Bretagne",
+    "code": "REG-53",
+    "casConfirmes": 13
+  },
+  {
+    "date": "2020-03-02",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france",
+      "archive": "https://web.archive.org/web/20200303124836/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Nouvelle-Aquitaine",
+    "code": "REG-75",
+    "casConfirmes": 4
+  },
+  {
+    "date": "2020-03-02",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france",
+      "archive": "https://web.archive.org/web/20200303124836/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Occitanie",
+    "code": "REG-76",
+    "casConfirmes": 6
+  },
+  {
+    "date": "2020-03-02",
+    "source": {
       "nom": "ARS Auvergne Rhône-Alpes",
       "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200302_ARSARA_COVID-19_Point_Situation.pdf"
     },
@@ -1039,6 +1986,42 @@
     "casConfirmes": 32,
     "gueris": 6,
     "deces": 0
+  },
+  {
+    "date": "2020-03-02",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france",
+      "archive": "https://web.archive.org/web/20200303124836/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Auvergne-Rhône-Alpes",
+    "code": "REG-84",
+    "casConfirmes": 37
+  },
+  {
+    "date": "2020-03-02",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france",
+      "archive": "https://web.archive.org/web/20200303124836/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Provence-Alpes-Côte d’Azur",
+    "code": "REG-93",
+    "casConfirmes": 9
+  },
+  {
+    "date": "2020-03-02",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france",
+      "archive": "https://web.archive.org/web/20200303124836/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Corse",
+    "code": "REG-94",
+    "casConfirmes": 0
   },
   {
     "date": "2020-03-03",
@@ -1051,6 +2034,18 @@
     "code": "DEP-01",
     "casConfirmes": 3,
     "deces": 0
+  },
+  {
+    "date": "2020-03-03",
+    "source": {
+      "nom": "Préfecture de l'Aisne",
+      "url": "http://www.aisne.gouv.fr/content/download/26033/171905/file/20200303_CP-point-de-situation%20VF.pdf"
+    },
+    "sourceType": "prefectures",
+    "nom": "Aisne",
+    "code": "DEP-02",
+    "deces": 0,
+    "casConfirmes": 6
   },
   {
     "date": "2020-03-03",
@@ -1301,6 +2296,19 @@
   {
     "date": "2020-03-03",
     "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200303185725/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+    },
+    "sourceType": "sante-publique-france",
+    "casConfirmes": 212,
+    "deces": 4,
+    "nom": "France",
+    "code": "FRA"
+  },
+  {
+    "date": "2020-03-03",
+    "source": {
       "nom": "ARS Bourgogne-Franche-Comté",
       "url": "https://www.bourgogne-franche-comte.ars.sante.fr/system/files/2020-03/2020.03.03_COVID19_SITUATION%20BFC.pdf"
     },
@@ -1335,10 +2343,25 @@
     "deces": 0
   },
   {
+    "date": "2020-03-03",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200303185725/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+    },
+    "sourceType": "sante-publique-france",
+    "paysTouches": 74,
+    "casConfirmes": 90663,
+    "deces": 3125,
+    "nom": "Monde",
+    "code": "WORLD"
+  },
+  {
     "date": "2020-03-04",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/content/download/235529/2526819"
+      "url": "https://www.santepubliquefrance.fr/content/download/235529/2526819",
+      "archive": "https://web.archive.org/web/20200305181330/https://www.santepubliquefrance.fr/content/download/234628/link_1_file_to_download/COVID19_PE_20200304.pdf"
     },
     "sourceType": "sante-publique-france",
     "nom": "Saint-Barthélemy",
@@ -1349,7 +2372,8 @@
     "date": "2020-03-04",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/content/download/235529/2526819"
+      "url": "https://www.santepubliquefrance.fr/content/download/235529/2526819",
+      "archive": "https://web.archive.org/web/20200305181330/https://www.santepubliquefrance.fr/content/download/234628/link_1_file_to_download/COVID19_PE_20200304.pdf"
     },
     "sourceType": "sante-publique-france",
     "nom": "Saint-Martin",
@@ -1367,6 +2391,18 @@
     "code": "DEP-01",
     "casConfirmes": 4,
     "deces": 0
+  },
+  {
+    "date": "2020-03-04",
+    "source": {
+      "nom": "Préfecture de l'Aisne",
+      "url": "http://www.aisne.gouv.fr/content/download/26047/172005/file/20200304_CP-point-de-situation_04.03.2020.pdf"
+    },
+    "sourceType": "prefectures",
+    "nom": "Aisne",
+    "code": "DEP-02",
+    "deces": 0,
+    "casConfirmes": 12
   },
   {
     "date": "2020-03-04",
@@ -1901,7 +2937,8 @@
     "date": "2020-03-04",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/content/download/235529/2526819"
+      "url": "https://www.santepubliquefrance.fr/content/download/235529/2526819",
+      "archive": "https://web.archive.org/web/20200305181330/https://www.santepubliquefrance.fr/content/download/234628/link_1_file_to_download/COVID19_PE_20200304.pdf"
     },
     "sourceType": "sante-publique-france",
     "casConfirmes": 285,
@@ -1914,7 +2951,8 @@
     "date": "2020-03-04",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/content/download/235529/2526819"
+      "url": "https://www.santepubliquefrance.fr/content/download/235529/2526819",
+      "archive": "https://web.archive.org/web/20200305181330/https://www.santepubliquefrance.fr/content/download/234628/link_1_file_to_download/COVID19_PE_20200304.pdf"
     },
     "sourceType": "sante-publique-france",
     "nom": "Guadeloupe",
@@ -1925,7 +2963,8 @@
     "date": "2020-03-04",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/content/download/235529/2526819"
+      "url": "https://www.santepubliquefrance.fr/content/download/235529/2526819",
+      "archive": "https://web.archive.org/web/20200305181330/https://www.santepubliquefrance.fr/content/download/234628/link_1_file_to_download/COVID19_PE_20200304.pdf"
     },
     "sourceType": "sante-publique-france",
     "nom": "Martinique",
@@ -1948,7 +2987,8 @@
     "date": "2020-03-04",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/content/download/235529/2526819"
+      "url": "https://www.santepubliquefrance.fr/content/download/235529/2526819",
+      "archive": "https://web.archive.org/web/20200305181330/https://www.santepubliquefrance.fr/content/download/234628/link_1_file_to_download/COVID19_PE_20200304.pdf"
     },
     "sourceType": "sante-publique-france",
     "nom": "Guyane",
@@ -1959,7 +2999,8 @@
     "date": "2020-03-04",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/content/download/235529/2526819"
+      "url": "https://www.santepubliquefrance.fr/content/download/235529/2526819",
+      "archive": "https://web.archive.org/web/20200305181330/https://www.santepubliquefrance.fr/content/download/234628/link_1_file_to_download/COVID19_PE_20200304.pdf"
     },
     "sourceType": "sante-publique-france",
     "nom": "La Réunion",
@@ -1970,7 +3011,8 @@
     "date": "2020-03-04",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/content/download/235529/2526819"
+      "url": "https://www.santepubliquefrance.fr/content/download/235529/2526819",
+      "archive": "https://web.archive.org/web/20200305181330/https://www.santepubliquefrance.fr/content/download/234628/link_1_file_to_download/COVID19_PE_20200304.pdf"
     },
     "sourceType": "sante-publique-france",
     "nom": "Mayotte",
@@ -1981,7 +3023,8 @@
     "date": "2020-03-04",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/content/download/235529/2526819"
+      "url": "https://www.santepubliquefrance.fr/content/download/235529/2526819",
+      "archive": "https://web.archive.org/web/20200305181330/https://www.santepubliquefrance.fr/content/download/234628/link_1_file_to_download/COVID19_PE_20200304.pdf"
     },
     "sourceType": "sante-publique-france",
     "nom": "Ile-de-France",
@@ -1992,7 +3035,8 @@
     "date": "2020-03-04",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/content/download/235529/2526819"
+      "url": "https://www.santepubliquefrance.fr/content/download/235529/2526819",
+      "archive": "https://web.archive.org/web/20200305181330/https://www.santepubliquefrance.fr/content/download/234628/link_1_file_to_download/COVID19_PE_20200304.pdf"
     },
     "sourceType": "sante-publique-france",
     "nom": "Centre-Val de Loire",
@@ -2015,7 +3059,8 @@
     "date": "2020-03-04",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/content/download/235529/2526819"
+      "url": "https://www.santepubliquefrance.fr/content/download/235529/2526819",
+      "archive": "https://web.archive.org/web/20200305181330/https://www.santepubliquefrance.fr/content/download/234628/link_1_file_to_download/COVID19_PE_20200304.pdf"
     },
     "sourceType": "sante-publique-france",
     "nom": "Bourgogne-Franche-Comté",
@@ -2026,7 +3071,8 @@
     "date": "2020-03-04",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/content/download/235529/2526819"
+      "url": "https://www.santepubliquefrance.fr/content/download/235529/2526819",
+      "archive": "https://web.archive.org/web/20200305181330/https://www.santepubliquefrance.fr/content/download/234628/link_1_file_to_download/COVID19_PE_20200304.pdf"
     },
     "sourceType": "sante-publique-france",
     "nom": "Normandie",
@@ -2037,7 +3083,8 @@
     "date": "2020-03-04",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/content/download/235529/2526819"
+      "url": "https://www.santepubliquefrance.fr/content/download/235529/2526819",
+      "archive": "https://web.archive.org/web/20200305181330/https://www.santepubliquefrance.fr/content/download/234628/link_1_file_to_download/COVID19_PE_20200304.pdf"
     },
     "sourceType": "sante-publique-france",
     "nom": "Hauts-de-France",
@@ -2060,7 +3107,8 @@
     "date": "2020-03-04",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/content/download/235529/2526819"
+      "url": "https://www.santepubliquefrance.fr/content/download/235529/2526819",
+      "archive": "https://web.archive.org/web/20200305181330/https://www.santepubliquefrance.fr/content/download/234628/link_1_file_to_download/COVID19_PE_20200304.pdf"
     },
     "sourceType": "sante-publique-france",
     "nom": "Grand Est",
@@ -2071,7 +3119,8 @@
     "date": "2020-03-04",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/content/download/235529/2526819"
+      "url": "https://www.santepubliquefrance.fr/content/download/235529/2526819",
+      "archive": "https://web.archive.org/web/20200305181330/https://www.santepubliquefrance.fr/content/download/234628/link_1_file_to_download/COVID19_PE_20200304.pdf"
     },
     "sourceType": "sante-publique-france",
     "nom": "Pays de la Loire",
@@ -2093,7 +3142,8 @@
     "date": "2020-03-04",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/content/download/235529/2526819"
+      "url": "https://www.santepubliquefrance.fr/content/download/235529/2526819",
+      "archive": "https://web.archive.org/web/20200305181330/https://www.santepubliquefrance.fr/content/download/234628/link_1_file_to_download/COVID19_PE_20200304.pdf"
     },
     "sourceType": "sante-publique-france",
     "nom": "Bretagne",
@@ -2116,7 +3166,8 @@
     "date": "2020-03-04",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/content/download/235529/2526819"
+      "url": "https://www.santepubliquefrance.fr/content/download/235529/2526819",
+      "archive": "https://web.archive.org/web/20200305181330/https://www.santepubliquefrance.fr/content/download/234628/link_1_file_to_download/COVID19_PE_20200304.pdf"
     },
     "sourceType": "sante-publique-france",
     "nom": "Nouvelle-Aquitaine",
@@ -2127,7 +3178,8 @@
     "date": "2020-03-04",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/content/download/235529/2526819"
+      "url": "https://www.santepubliquefrance.fr/content/download/235529/2526819",
+      "archive": "https://web.archive.org/web/20200305181330/https://www.santepubliquefrance.fr/content/download/234628/link_1_file_to_download/COVID19_PE_20200304.pdf"
     },
     "sourceType": "sante-publique-france",
     "nom": "Occitanie",
@@ -2152,7 +3204,8 @@
     "date": "2020-03-04",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/content/download/235529/2526819"
+      "url": "https://www.santepubliquefrance.fr/content/download/235529/2526819",
+      "archive": "https://web.archive.org/web/20200305181330/https://www.santepubliquefrance.fr/content/download/234628/link_1_file_to_download/COVID19_PE_20200304.pdf"
     },
     "sourceType": "sante-publique-france",
     "nom": "Auvergne-Rhône-Alpes",
@@ -2175,7 +3228,8 @@
     "date": "2020-03-04",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/content/download/235529/2526819"
+      "url": "https://www.santepubliquefrance.fr/content/download/235529/2526819",
+      "archive": "https://web.archive.org/web/20200305181330/https://www.santepubliquefrance.fr/content/download/234628/link_1_file_to_download/COVID19_PE_20200304.pdf"
     },
     "sourceType": "sante-publique-france",
     "nom": "Provence-Alpes-Côte d’Azur",
@@ -2186,7 +3240,8 @@
     "date": "2020-03-04",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/content/download/235529/2526819"
+      "url": "https://www.santepubliquefrance.fr/content/download/235529/2526819",
+      "archive": "https://web.archive.org/web/20200305181330/https://www.santepubliquefrance.fr/content/download/234628/link_1_file_to_download/COVID19_PE_20200304.pdf"
     },
     "sourceType": "sante-publique-france",
     "nom": "Corse",
@@ -2197,7 +3252,8 @@
     "date": "2020-03-04",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/content/download/235529/2526819"
+      "url": "https://www.santepubliquefrance.fr/content/download/235529/2526819",
+      "archive": "https://web.archive.org/web/20200305181330/https://www.santepubliquefrance.fr/content/download/234628/link_1_file_to_download/COVID19_PE_20200304.pdf"
     },
     "sourceType": "sante-publique-france",
     "paysTouches": 77,
@@ -2239,6 +3295,25 @@
     "code": "DEP-01",
     "casConfirmes": 4,
     "deces": 0
+  },
+  {
+    "date": "2020-03-05",
+    "source": {
+      "nom": "Préfecture de l'Aisne",
+      "url": "http://www.aisne.gouv.fr/content/download/26060/172117/file/20200305_CP-point-de-situation.pdf"
+    },
+    "sourceType": "prefectures",
+    "nom": "Aisne",
+    "code": "DEP-02",
+    "deces": 1,
+    "casConfirmes": 14,
+    "victimes": [
+      {
+        "date": "2020-03-05",
+        "sexe": "homme",
+        "age": 63
+      }
+    ]
   },
   {
     "date": "2020-03-05",
@@ -3227,7 +4302,8 @@
     "date": "2020-03-06",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/content/download/235535/2526923"
+      "url": "https://www.santhttps://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-mondeepubliquefrance.fr/content/download/235535/2526923",
+      "archive": "https://web.archive.org/web/20200308004050/https://www.santepubliquefrance.fr/content/download/234974/link_1_file_to_download/COVID19_PE_20200306.pdf"
     },
     "sourceType": "sante-publique-france",
     "nom": "Saint-Barthélemy",
@@ -3250,7 +4326,8 @@
     "date": "2020-03-06",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/content/download/235535/2526923"
+      "url": "https://www.santhttps://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-mondeepubliquefrance.fr/content/download/235535/2526923",
+      "archive": "https://web.archive.org/web/20200308004050/https://www.santepubliquefrance.fr/content/download/234974/link_1_file_to_download/COVID19_PE_20200306.pdf"
     },
     "sourceType": "sante-publique-france",
     "nom": "Saint-Martin",
@@ -4218,7 +5295,8 @@
     "date": "2020-03-06",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/content/download/235535/2526923"
+      "url": "https://www.santhttps://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-mondeepubliquefrance.fr/content/download/235535/2526923",
+      "archive": "https://web.archive.org/web/20200308004050/https://www.santepubliquefrance.fr/content/download/234974/link_1_file_to_download/COVID19_PE_20200306.pdf"
     },
     "sourceType": "sante-publique-france",
     "casConfirmes": 613,
@@ -4231,7 +5309,8 @@
     "date": "2020-03-06",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/content/download/235535/2526923"
+      "url": "https://www.santhttps://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-mondeepubliquefrance.fr/content/download/235535/2526923",
+      "archive": "https://web.archive.org/web/20200308004050/https://www.santepubliquefrance.fr/content/download/234974/link_1_file_to_download/COVID19_PE_20200306.pdf"
     },
     "sourceType": "sante-publique-france",
     "nom": "Guadeloupe",
@@ -4242,7 +5321,8 @@
     "date": "2020-03-06",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/content/download/235535/2526923"
+      "url": "https://www.santhttps://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-mondeepubliquefrance.fr/content/download/235535/2526923",
+      "archive": "https://web.archive.org/web/20200308004050/https://www.santepubliquefrance.fr/content/download/234974/link_1_file_to_download/COVID19_PE_20200306.pdf"
     },
     "sourceType": "sante-publique-france",
     "nom": "Martinique",
@@ -4253,7 +5333,8 @@
     "date": "2020-03-06",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/content/download/235535/2526923"
+      "url": "https://www.santhttps://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-mondeepubliquefrance.fr/content/download/235535/2526923",
+      "archive": "https://web.archive.org/web/20200308004050/https://www.santepubliquefrance.fr/content/download/234974/link_1_file_to_download/COVID19_PE_20200306.pdf"
     },
     "sourceType": "sante-publique-france",
     "nom": "Guyane",
@@ -4264,7 +5345,8 @@
     "date": "2020-03-06",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/content/download/235535/2526923"
+      "url": "https://www.santhttps://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-mondeepubliquefrance.fr/content/download/235535/2526923",
+      "archive": "https://web.archive.org/web/20200308004050/https://www.santepubliquefrance.fr/content/download/234974/link_1_file_to_download/COVID19_PE_20200306.pdf"
     },
     "sourceType": "sante-publique-france",
     "nom": "La Réunion",
@@ -4275,7 +5357,8 @@
     "date": "2020-03-06",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/content/download/235535/2526923"
+      "url": "https://www.santhttps://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-mondeepubliquefrance.fr/content/download/235535/2526923",
+      "archive": "https://web.archive.org/web/20200308004050/https://www.santepubliquefrance.fr/content/download/234974/link_1_file_to_download/COVID19_PE_20200306.pdf"
     },
     "sourceType": "sante-publique-france",
     "nom": "Mayotte",
@@ -4298,7 +5381,8 @@
     "date": "2020-03-06",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/content/download/235535/2526923"
+      "url": "https://www.santhttps://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-mondeepubliquefrance.fr/content/download/235535/2526923",
+      "archive": "https://web.archive.org/web/20200308004050/https://www.santepubliquefrance.fr/content/download/234974/link_1_file_to_download/COVID19_PE_20200306.pdf"
     },
     "sourceType": "sante-publique-france",
     "nom": "Ile-de-France",
@@ -4320,7 +5404,8 @@
     "date": "2020-03-06",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/content/download/235535/2526923"
+      "url": "https://www.santhttps://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-mondeepubliquefrance.fr/content/download/235535/2526923",
+      "archive": "https://web.archive.org/web/20200308004050/https://www.santepubliquefrance.fr/content/download/234974/link_1_file_to_download/COVID19_PE_20200306.pdf"
     },
     "sourceType": "sante-publique-france",
     "nom": "Centre-Val de Loire",
@@ -4343,7 +5428,8 @@
     "date": "2020-03-06",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/content/download/235535/2526923"
+      "url": "https://www.santhttps://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-mondeepubliquefrance.fr/content/download/235535/2526923",
+      "archive": "https://web.archive.org/web/20200308004050/https://www.santepubliquefrance.fr/content/download/234974/link_1_file_to_download/COVID19_PE_20200306.pdf"
     },
     "sourceType": "sante-publique-france",
     "nom": "Bourgogne-Franche-Comté",
@@ -4354,7 +5440,8 @@
     "date": "2020-03-06",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/content/download/235535/2526923"
+      "url": "https://www.santhttps://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-mondeepubliquefrance.fr/content/download/235535/2526923",
+      "archive": "https://web.archive.org/web/20200308004050/https://www.santepubliquefrance.fr/content/download/234974/link_1_file_to_download/COVID19_PE_20200306.pdf"
     },
     "sourceType": "sante-publique-france",
     "nom": "Normandie",
@@ -4365,7 +5452,8 @@
     "date": "2020-03-06",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/content/download/235535/2526923"
+      "url": "https://www.santhttps://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-mondeepubliquefrance.fr/content/download/235535/2526923",
+      "archive": "https://web.archive.org/web/20200308004050/https://www.santepubliquefrance.fr/content/download/234974/link_1_file_to_download/COVID19_PE_20200306.pdf"
     },
     "sourceType": "sante-publique-france",
     "nom": "Hauts-de-France",
@@ -4400,7 +5488,8 @@
     "date": "2020-03-06",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/content/download/235535/2526923"
+      "url": "https://www.santhttps://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-mondeepubliquefrance.fr/content/download/235535/2526923",
+      "archive": "https://web.archive.org/web/20200308004050/https://www.santepubliquefrance.fr/content/download/234974/link_1_file_to_download/COVID19_PE_20200306.pdf"
     },
     "sourceType": "sante-publique-france",
     "nom": "Grand Est",
@@ -4422,7 +5511,8 @@
     "date": "2020-03-06",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/content/download/235535/2526923"
+      "url": "https://www.santhttps://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-mondeepubliquefrance.fr/content/download/235535/2526923",
+      "archive": "https://web.archive.org/web/20200308004050/https://www.santepubliquefrance.fr/content/download/234974/link_1_file_to_download/COVID19_PE_20200306.pdf"
     },
     "sourceType": "sante-publique-france",
     "nom": "Pays de la Loire",
@@ -4444,7 +5534,8 @@
     "date": "2020-03-06",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/content/download/235535/2526923"
+      "url": "https://www.santhttps://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-mondeepubliquefrance.fr/content/download/235535/2526923",
+      "archive": "https://web.archive.org/web/20200308004050/https://www.santepubliquefrance.fr/content/download/234974/link_1_file_to_download/COVID19_PE_20200306.pdf"
     },
     "sourceType": "sante-publique-france",
     "nom": "Bretagne",
@@ -4468,7 +5559,8 @@
     "date": "2020-03-06",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/content/download/235535/2526923"
+      "url": "https://www.santhttps://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-mondeepubliquefrance.fr/content/download/235535/2526923",
+      "archive": "https://web.archive.org/web/20200308004050/https://www.santepubliquefrance.fr/content/download/234974/link_1_file_to_download/COVID19_PE_20200306.pdf"
     },
     "sourceType": "sante-publique-france",
     "nom": "Nouvelle-Aquitaine",
@@ -4479,7 +5571,8 @@
     "date": "2020-03-06",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/content/download/235535/2526923"
+      "url": "https://www.santhttps://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-mondeepubliquefrance.fr/content/download/235535/2526923",
+      "archive": "https://web.archive.org/web/20200308004050/https://www.santepubliquefrance.fr/content/download/234974/link_1_file_to_download/COVID19_PE_20200306.pdf"
     },
     "sourceType": "sante-publique-france",
     "nom": "Occitanie",
@@ -4503,7 +5596,8 @@
     "date": "2020-03-06",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/content/download/235535/2526923"
+      "url": "https://www.santhttps://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-mondeepubliquefrance.fr/content/download/235535/2526923",
+      "archive": "https://web.archive.org/web/20200308004050/https://www.santepubliquefrance.fr/content/download/234974/link_1_file_to_download/COVID19_PE_20200306.pdf"
     },
     "sourceType": "sante-publique-france",
     "nom": "Auvergne-Rhône-Alpes",
@@ -4526,7 +5620,8 @@
     "date": "2020-03-06",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/content/download/235535/2526923"
+      "url": "https://www.santhttps://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-mondeepubliquefrance.fr/content/download/235535/2526923",
+      "archive": "https://web.archive.org/web/20200308004050/https://www.santepubliquefrance.fr/content/download/234974/link_1_file_to_download/COVID19_PE_20200306.pdf"
     },
     "sourceType": "sante-publique-france",
     "nom": "Provence-Alpes-Côte d’Azur",
@@ -4551,7 +5646,8 @@
     "date": "2020-03-06",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/content/download/235535/2526923"
+      "url": "https://www.santhttps://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-mondeepubliquefrance.fr/content/download/235535/2526923",
+      "archive": "https://web.archive.org/web/20200308004050/https://www.santepubliquefrance.fr/content/download/234974/link_1_file_to_download/COVID19_PE_20200306.pdf"
     },
     "sourceType": "sante-publique-france",
     "nom": "Corse",
@@ -4562,7 +5658,8 @@
     "date": "2020-03-06",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/content/download/235535/2526923"
+      "url": "https://www.santhttps://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-mondeepubliquefrance.fr/content/download/235535/2526923",
+      "archive": "https://web.archive.org/web/20200308004050/https://www.santepubliquefrance.fr/content/download/234974/link_1_file_to_download/COVID19_PE_20200306.pdf"
     },
     "sourceType": "sante-publique-france",
     "paysTouches": 85,
@@ -4575,7 +5672,8 @@
     "date": "2020-03-07",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/content/download/235538/2526975"
+      "url": "https://www.santepubliquefrance.fr/content/download/235538/2526975",
+      "archive": "https://web.archive.org/web/20200319120255/https://www.santepubliquefrance.fr/content/download/234974/link_1_file_to_download/COVID19_PE_20200307.pdf"
     },
     "sourceType": "sante-publique-france",
     "nom": "Saint-Barthélemy",
@@ -4586,7 +5684,8 @@
     "date": "2020-03-07",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/content/download/235538/2526975"
+      "url": "https://www.santepubliquefrance.fr/content/download/235538/2526975",
+      "archive": "https://web.archive.org/web/20200319120255/https://www.santepubliquefrance.fr/content/download/234974/link_1_file_to_download/COVID19_PE_20200307.pdf"
     },
     "sourceType": "sante-publique-france",
     "nom": "Saint-Martin",
@@ -4604,6 +5703,17 @@
     "code": "DEP-01",
     "casConfirmes": 7,
     "deces": 0
+  },
+  {
+    "date": "2020-03-07",
+    "source": {
+      "nom": "Préfecture de l'Aisne",
+      "url": "http://www.aisne.gouv.fr/content/download/26097/172324/file/20200307_CP-point-de-situation_12h.pdf"
+    },
+    "sourceType": "prefectures",
+    "nom": "Aisne",
+    "code": "DEP-02",
+    "casConfirmes": 20
   },
   {
     "date": "2020-03-07",
@@ -5435,7 +6545,8 @@
     "date": "2020-03-07",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/content/download/235538/2526975"
+      "url": "https://www.santepubliquefrance.fr/content/download/235538/2526975",
+      "archive": "https://web.archive.org/web/20200319120255/https://www.santepubliquefrance.fr/content/download/234974/link_1_file_to_download/COVID19_PE_20200307.pdf"
     },
     "sourceType": "sante-publique-france",
     "casConfirmes": 949,
@@ -5448,7 +6559,8 @@
     "date": "2020-03-07",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/content/download/235538/2526975"
+      "url": "https://www.santepubliquefrance.fr/content/download/235538/2526975",
+      "archive": "https://web.archive.org/web/20200319120255/https://www.santepubliquefrance.fr/content/download/234974/link_1_file_to_download/COVID19_PE_20200307.pdf"
     },
     "sourceType": "sante-publique-france",
     "nom": "Guadeloupe",
@@ -5459,7 +6571,8 @@
     "date": "2020-03-07",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/content/download/235538/2526975"
+      "url": "https://www.santepubliquefrance.fr/content/download/235538/2526975",
+      "archive": "https://web.archive.org/web/20200319120255/https://www.santepubliquefrance.fr/content/download/234974/link_1_file_to_download/COVID19_PE_20200307.pdf"
     },
     "sourceType": "sante-publique-france",
     "nom": "Martinique",
@@ -5470,7 +6583,8 @@
     "date": "2020-03-07",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/content/download/235538/2526975"
+      "url": "https://www.santepubliquefrance.fr/content/download/235538/2526975",
+      "archive": "https://web.archive.org/web/20200319120255/https://www.santepubliquefrance.fr/content/download/234974/link_1_file_to_download/COVID19_PE_20200307.pdf"
     },
     "sourceType": "sante-publique-france",
     "nom": "Guyane",
@@ -5481,7 +6595,8 @@
     "date": "2020-03-07",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/content/download/235538/2526975"
+      "url": "https://www.santepubliquefrance.fr/content/download/235538/2526975",
+      "archive": "https://web.archive.org/web/20200319120255/https://www.santepubliquefrance.fr/content/download/234974/link_1_file_to_download/COVID19_PE_20200307.pdf"
     },
     "sourceType": "sante-publique-france",
     "nom": "La Réunion",
@@ -5492,7 +6607,8 @@
     "date": "2020-03-07",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/content/download/235538/2526975"
+      "url": "https://www.santepubliquefrance.fr/content/download/235538/2526975",
+      "archive": "https://web.archive.org/web/20200319120255/https://www.santepubliquefrance.fr/content/download/234974/link_1_file_to_download/COVID19_PE_20200307.pdf"
     },
     "sourceType": "sante-publique-france",
     "nom": "Mayotte",
@@ -5515,7 +6631,8 @@
     "date": "2020-03-07",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/content/download/235538/2526975"
+      "url": "https://www.santepubliquefrance.fr/content/download/235538/2526975",
+      "archive": "https://web.archive.org/web/20200319120255/https://www.santepubliquefrance.fr/content/download/234974/link_1_file_to_download/COVID19_PE_20200307.pdf"
     },
     "sourceType": "sante-publique-france",
     "nom": "Ile-de-France",
@@ -5526,7 +6643,8 @@
     "date": "2020-03-07",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/content/download/235538/2526975"
+      "url": "https://www.santepubliquefrance.fr/content/download/235538/2526975",
+      "archive": "https://web.archive.org/web/20200319120255/https://www.santepubliquefrance.fr/content/download/234974/link_1_file_to_download/COVID19_PE_20200307.pdf"
     },
     "sourceType": "sante-publique-france",
     "nom": "Centre-Val de Loire",
@@ -5549,7 +6667,8 @@
     "date": "2020-03-07",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/content/download/235538/2526975"
+      "url": "https://www.santepubliquefrance.fr/content/download/235538/2526975",
+      "archive": "https://web.archive.org/web/20200319120255/https://www.santepubliquefrance.fr/content/download/234974/link_1_file_to_download/COVID19_PE_20200307.pdf"
     },
     "sourceType": "sante-publique-france",
     "nom": "Bourgogne-Franche-Comté",
@@ -5572,7 +6691,8 @@
     "date": "2020-03-07",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/content/download/235538/2526975"
+      "url": "https://www.santepubliquefrance.fr/content/download/235538/2526975",
+      "archive": "https://web.archive.org/web/20200319120255/https://www.santepubliquefrance.fr/content/download/234974/link_1_file_to_download/COVID19_PE_20200307.pdf"
     },
     "sourceType": "sante-publique-france",
     "nom": "Normandie",
@@ -5583,7 +6703,8 @@
     "date": "2020-03-07",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/content/download/235538/2526975"
+      "url": "https://www.santepubliquefrance.fr/content/download/235538/2526975",
+      "archive": "https://web.archive.org/web/20200319120255/https://www.santepubliquefrance.fr/content/download/234974/link_1_file_to_download/COVID19_PE_20200307.pdf"
     },
     "sourceType": "sante-publique-france",
     "nom": "Hauts-de-France",
@@ -5594,7 +6715,8 @@
     "date": "2020-03-07",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/content/download/235538/2526975"
+      "url": "https://www.santepubliquefrance.fr/content/download/235538/2526975",
+      "archive": "https://web.archive.org/web/20200319120255/https://www.santepubliquefrance.fr/content/download/234974/link_1_file_to_download/COVID19_PE_20200307.pdf"
     },
     "sourceType": "sante-publique-france",
     "nom": "Grand Est",
@@ -5605,7 +6727,8 @@
     "date": "2020-03-07",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/content/download/235538/2526975"
+      "url": "https://www.santepubliquefrance.fr/content/download/235538/2526975",
+      "archive": "https://web.archive.org/web/20200319120255/https://www.santepubliquefrance.fr/content/download/234974/link_1_file_to_download/COVID19_PE_20200307.pdf"
     },
     "sourceType": "sante-publique-france",
     "nom": "Pays de la Loire",
@@ -5627,7 +6750,8 @@
     "date": "2020-03-07",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/content/download/235538/2526975"
+      "url": "https://www.santepubliquefrance.fr/content/download/235538/2526975",
+      "archive": "https://web.archive.org/web/20200319120255/https://www.santepubliquefrance.fr/content/download/234974/link_1_file_to_download/COVID19_PE_20200307.pdf"
     },
     "sourceType": "sante-publique-france",
     "nom": "Bretagne",
@@ -5650,7 +6774,8 @@
     "date": "2020-03-07",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/content/download/235538/2526975"
+      "url": "https://www.santepubliquefrance.fr/content/download/235538/2526975",
+      "archive": "https://web.archive.org/web/20200319120255/https://www.santepubliquefrance.fr/content/download/234974/link_1_file_to_download/COVID19_PE_20200307.pdf"
     },
     "sourceType": "sante-publique-france",
     "nom": "Nouvelle-Aquitaine",
@@ -5674,7 +6799,8 @@
     "date": "2020-03-07",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/content/download/235538/2526975"
+      "url": "https://www.santepubliquefrance.fr/content/download/235538/2526975",
+      "archive": "https://web.archive.org/web/20200319120255/https://www.santepubliquefrance.fr/content/download/234974/link_1_file_to_download/COVID19_PE_20200307.pdf"
     },
     "sourceType": "sante-publique-france",
     "nom": "Occitanie",
@@ -5698,7 +6824,8 @@
     "date": "2020-03-07",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/content/download/235538/2526975"
+      "url": "https://www.santepubliquefrance.fr/content/download/235538/2526975",
+      "archive": "https://web.archive.org/web/20200319120255/https://www.santepubliquefrance.fr/content/download/234974/link_1_file_to_download/COVID19_PE_20200307.pdf"
     },
     "sourceType": "sante-publique-france",
     "nom": "Auvergne-Rhône-Alpes",
@@ -5721,7 +6848,8 @@
     "date": "2020-03-07",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/content/download/235538/2526975"
+      "url": "https://www.santepubliquefrance.fr/content/download/235538/2526975",
+      "archive": "https://web.archive.org/web/20200319120255/https://www.santepubliquefrance.fr/content/download/234974/link_1_file_to_download/COVID19_PE_20200307.pdf"
     },
     "sourceType": "sante-publique-france",
     "nom": "Provence-Alpes-Côte d’Azur",
@@ -5746,7 +6874,8 @@
     "date": "2020-03-07",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/content/download/235538/2526975"
+      "url": "https://www.santepubliquefrance.fr/content/download/235538/2526975",
+      "archive": "https://web.archive.org/web/20200319120255/https://www.santepubliquefrance.fr/content/download/234974/link_1_file_to_download/COVID19_PE_20200307.pdf"
     },
     "sourceType": "sante-publique-france",
     "nom": "Corse",
@@ -5757,7 +6886,8 @@
     "date": "2020-03-07",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://www.santepubliquefrance.fr/content/download/235538/2526975"
+      "url": "https://www.santepubliquefrance.fr/content/download/235538/2526975",
+      "archive": "https://web.archive.org/web/20200319120255/https://www.santepubliquefrance.fr/content/download/234974/link_1_file_to_download/COVID19_PE_20200307.pdf"
     },
     "sourceType": "sante-publique-france",
     "paysTouches": 93,
@@ -6809,7 +7939,8 @@
     "date": "2020-03-08",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://web.archive.org/web/20200309074325/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200309074325/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
     "casConfirmes": 1126,
@@ -6941,7 +8072,8 @@
     "date": "2020-03-08",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://web.archive.org/web/20200309074325/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200309074325/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
     "casConfirmes": 105828,
@@ -7000,6 +8132,24 @@
       {
         "age": 77,
         "sexe": "homme"
+      }
+    ]
+  },
+  {
+    "date": "2020-03-09",
+    "source": {
+      "nom": "Préfecture de l'Aisne",
+      "url": "http://www.aisne.gouv.fr/content/download/26101/172362/file/20200309_CP-point-de-situationVF.pdf"
+    },
+    "sourceType": "prefectures",
+    "nom": "Aisne",
+    "code": "DEP-02",
+    "deces": 2,
+    "casConfirmes": 28,
+    "victimes": [
+      {
+        "date": "2020-03-08",
+        "age": 77
       }
     ]
   },
@@ -8065,7 +9215,8 @@
     "date": "2020-03-09",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://web.archive.org/web/20200309183257/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200309183257/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
     "casConfirmes": 1412,
@@ -8212,7 +9363,8 @@
     "date": "2020-03-09",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://web.archive.org/web/20200309183257/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200309183257/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
     "casConfirmes": 109695,
@@ -8224,6 +9376,7 @@
     "date": "2020-03-10",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200311105030/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -8235,6 +9388,7 @@
     "date": "2020-03-10",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200311105030/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -8265,6 +9419,18 @@
     "code": "DEP-02",
     "casConfirmes": 30,
     "deces": 2
+  },
+  {
+    "date": "2020-03-10",
+    "source": {
+      "nom": "Préfecture de l'Aisne",
+      "url": "http://www.aisne.gouv.fr/content/download/26114/172456/file/20200310_CP-point-de-situation.pdf"
+    },
+    "sourceType": "prefectures",
+    "nom": "Aisne",
+    "code": "DEP-02",
+    "deces": 2,
+    "casConfirmes": 31
   },
   {
     "date": "2020-03-10",
@@ -9460,6 +10626,7 @@
     "date": "2020-03-10",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200311105030/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -9472,6 +10639,7 @@
     "date": "2020-03-10",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200311105030/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -9483,6 +10651,7 @@
     "date": "2020-03-10",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200311105030/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -9494,6 +10663,7 @@
     "date": "2020-03-10",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200311105030/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -9505,6 +10675,7 @@
     "date": "2020-03-10",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200311105030/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -9516,6 +10687,7 @@
     "date": "2020-03-10",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200311105030/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -9553,6 +10725,7 @@
     "date": "2020-03-10",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200311105030/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -9575,6 +10748,7 @@
     "date": "2020-03-10",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200311105030/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -9599,6 +10773,7 @@
     "date": "2020-03-10",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200311105030/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -9622,6 +10797,7 @@
     "date": "2020-03-10",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200311105030/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -9645,6 +10821,7 @@
     "date": "2020-03-10",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200311105030/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -9668,6 +10845,7 @@
     "date": "2020-03-10",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200311105030/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -9691,6 +10869,7 @@
     "date": "2020-03-10",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200311105030/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -9713,6 +10892,7 @@
     "date": "2020-03-10",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200311105030/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -9736,6 +10916,7 @@
     "date": "2020-03-10",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200311105030/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -9747,6 +10928,7 @@
     "date": "2020-03-10",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200311105030/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -9771,6 +10953,7 @@
     "date": "2020-03-10",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200311105030/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -9794,6 +10977,7 @@
     "date": "2020-03-10",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200311105030/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -9819,6 +11003,7 @@
     "date": "2020-03-10",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200311105030/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -9830,6 +11015,7 @@
     "date": "2020-03-11",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200311235725/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -9841,6 +11027,7 @@
     "date": "2020-03-11",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200311235725/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -11161,6 +12348,7 @@
     "date": "2020-03-11",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200311235725/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -11185,6 +12373,7 @@
     "date": "2020-03-11",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200311235725/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -11196,6 +12385,7 @@
     "date": "2020-03-11",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200311235725/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -11219,6 +12409,7 @@
     "date": "2020-03-11",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200311235725/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -11230,6 +12421,7 @@
     "date": "2020-03-11",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200311235725/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -11241,6 +12433,7 @@
     "date": "2020-03-11",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200311235725/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -11278,6 +12471,7 @@
     "date": "2020-03-11",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200311235725/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -11300,6 +12494,7 @@
     "date": "2020-03-11",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200311235725/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -11324,6 +12519,7 @@
     "date": "2020-03-11",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200311235725/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -11347,6 +12543,7 @@
     "date": "2020-03-11",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200311235725/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -11358,6 +12555,7 @@
     "date": "2020-03-11",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200311235725/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -11381,6 +12579,7 @@
     "date": "2020-03-11",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200311235725/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -11392,6 +12591,7 @@
     "date": "2020-03-11",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200311235725/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -11415,6 +12615,7 @@
     "date": "2020-03-11",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200311235725/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -11438,6 +12639,7 @@
     "date": "2020-03-11",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200311235725/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -11462,6 +12664,7 @@
     "date": "2020-03-11",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200311235725/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -11486,6 +12689,7 @@
     "date": "2020-03-11",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200311235725/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -11510,6 +12714,7 @@
     "date": "2020-03-11",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200311235725/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -11536,6 +12741,7 @@
     "date": "2020-03-11",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200311235725/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -11547,6 +12753,7 @@
     "date": "2020-03-11",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200311235725/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -11559,6 +12766,7 @@
     "date": "2020-03-12",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200312205456/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -11570,6 +12778,7 @@
     "date": "2020-03-12",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200312205456/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -11613,6 +12822,18 @@
     "code": "DEP-03",
     "casConfirmes": 1,
     "deces": 0
+  },
+  {
+    "date": "2020-03-12",
+    "source": {
+      "nom": "Préfecture de l'Allier, ARS Auvergne Rhône-Alpes",
+      "url": "http://www.allier.gouv.fr/IMG/pdf/200312_arsara_covid-19_allier.pdf"
+    },
+    "sourceType": "prefectures",
+    "nom": "Allier",
+    "code": "DEP-03",
+    "deces": 0,
+    "casConfirmes": 1
   },
   {
     "date": "2020-03-12",
@@ -12792,6 +14013,7 @@
     "date": "2020-03-12",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200312205456/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -12804,6 +14026,7 @@
     "date": "2020-03-12",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200312205456/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -12815,6 +14038,7 @@
     "date": "2020-03-12",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200312205456/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -12826,6 +14050,7 @@
     "date": "2020-03-12",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200312205456/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -12837,6 +14062,7 @@
     "date": "2020-03-12",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200312205456/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -12848,6 +14074,7 @@
     "date": "2020-03-12",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200312205456/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -12885,6 +14112,7 @@
     "date": "2020-03-12",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200312205456/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -12907,6 +14135,7 @@
     "date": "2020-03-12",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200312205456/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -12931,6 +14160,7 @@
     "date": "2020-03-12",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200312205456/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -12955,6 +14185,7 @@
     "date": "2020-03-12",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200312205456/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -12979,6 +14210,7 @@
     "date": "2020-03-12",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200312205456/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -12990,6 +14222,7 @@
     "date": "2020-03-12",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200312205456/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -13013,6 +14246,7 @@
     "date": "2020-03-12",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200312205456/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -13036,6 +14270,7 @@
     "date": "2020-03-12",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200312205456/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -13059,6 +14294,7 @@
     "date": "2020-03-12",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200312205456/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -13083,6 +14319,7 @@
     "date": "2020-03-12",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200312205456/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -13107,6 +14344,7 @@
     "date": "2020-03-12",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200312205456/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -13131,6 +14369,7 @@
     "date": "2020-03-12",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200312205456/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -13156,6 +14395,7 @@
     "date": "2020-03-12",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200312205456/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -13167,6 +14407,7 @@
     "date": "2020-03-12",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200312205456/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -13191,6 +14432,7 @@
     "date": "2020-03-13",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200314005123/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -13215,6 +14457,7 @@
     "date": "2020-03-13",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200314005123/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -14206,6 +15449,7 @@
     "date": "2020-03-13",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200314005123/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -14230,6 +15474,7 @@
     "date": "2020-03-13",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200314005123/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -14241,6 +15486,7 @@
     "date": "2020-03-13",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200314005123/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -14252,6 +15498,7 @@
     "date": "2020-03-13",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200314005123/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -14263,6 +15510,7 @@
     "date": "2020-03-13",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200314005123/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -14274,6 +15522,7 @@
     "date": "2020-03-13",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200314005123/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -14296,6 +15545,7 @@
     "date": "2020-03-13",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200314005123/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -14318,6 +15568,7 @@
     "date": "2020-03-13",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200314005123/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -14342,6 +15593,7 @@
     "date": "2020-03-13",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200314005123/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -14366,6 +15618,7 @@
     "date": "2020-03-13",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200314005123/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -14390,6 +15643,7 @@
     "date": "2020-03-13",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200314005123/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -14413,6 +15667,7 @@
     "date": "2020-03-13",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200314005123/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -14436,6 +15691,7 @@
     "date": "2020-03-13",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200314005123/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -14459,6 +15715,7 @@
     "date": "2020-03-13",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200314005123/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -14482,6 +15739,7 @@
     "date": "2020-03-13",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200314005123/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -14506,6 +15764,7 @@
     "date": "2020-03-13",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200314005123/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -14517,6 +15776,7 @@
     "date": "2020-03-13",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200314005123/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -14541,6 +15801,7 @@
     "date": "2020-03-13",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200314005123/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -14567,6 +15828,7 @@
     "date": "2020-03-13",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200314005123/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -14578,6 +15840,7 @@
     "date": "2020-03-13",
     "source": {
       "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200314005123/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
@@ -14603,7 +15866,8 @@
     "date": "2020-03-14",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://web.archive.org/web/20200314195752/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200314195752/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
     "nom": "Saint-Barthélemy",
@@ -14627,7 +15891,8 @@
     "date": "2020-03-14",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://web.archive.org/web/20200314195752/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200314195752/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
     "nom": "Saint-Martin",
@@ -15704,7 +16969,8 @@
     "date": "2020-03-14",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://web.archive.org/web/20200314195752/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200314195752/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
     "casConfirmes": 4499,
@@ -15727,7 +16993,8 @@
     "date": "2020-03-14",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://web.archive.org/web/20200314195752/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200314195752/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
     "nom": "Guadeloupe",
@@ -15738,7 +17005,8 @@
     "date": "2020-03-14",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://web.archive.org/web/20200314195752/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200314195752/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
     "nom": "Martinique",
@@ -15762,7 +17030,8 @@
     "date": "2020-03-14",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://web.archive.org/web/20200314195752/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200314195752/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
     "nom": "Guyane",
@@ -15773,7 +17042,8 @@
     "date": "2020-03-14",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://web.archive.org/web/20200314195752/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200314195752/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
     "nom": "La Réunion",
@@ -15784,7 +17054,8 @@
     "date": "2020-03-14",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://web.archive.org/web/20200314195752/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200314195752/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
     "nom": "Mayotte",
@@ -15807,7 +17078,8 @@
     "date": "2020-03-14",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://web.archive.org/web/20200314195752/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200314195752/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
     "nom": "Ile-de-France",
@@ -15829,7 +17101,8 @@
     "date": "2020-03-14",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://web.archive.org/web/20200314195752/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200314195752/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
     "nom": "Centre-Val de Loire",
@@ -15853,7 +17126,8 @@
     "date": "2020-03-14",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://web.archive.org/web/20200314195752/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200314195752/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
     "nom": "Bourgogne-Franche-Comté",
@@ -15877,7 +17151,8 @@
     "date": "2020-03-14",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://web.archive.org/web/20200314195752/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200314195752/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
     "nom": "Normandie",
@@ -15901,7 +17176,8 @@
     "date": "2020-03-14",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://web.archive.org/web/20200314195752/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200314195752/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
     "nom": "Hauts-de-France",
@@ -15924,7 +17200,8 @@
     "date": "2020-03-14",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://web.archive.org/web/20200314195752/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200314195752/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
     "nom": "Grand Est",
@@ -15947,7 +17224,8 @@
     "date": "2020-03-14",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://web.archive.org/web/20200314195752/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200314195752/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
     "nom": "Pays de la Loire",
@@ -15970,7 +17248,8 @@
     "date": "2020-03-14",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://web.archive.org/web/20200314195752/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200314195752/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
     "nom": "Bretagne",
@@ -15993,7 +17272,8 @@
     "date": "2020-03-14",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://web.archive.org/web/20200314195752/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200314195752/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
     "nom": "Nouvelle-Aquitaine",
@@ -16017,7 +17297,8 @@
     "date": "2020-03-14",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://web.archive.org/web/20200314195752/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200314195752/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
     "nom": "Occitanie",
@@ -16041,7 +17322,8 @@
     "date": "2020-03-14",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://web.archive.org/web/20200314195752/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200314195752/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
     "nom": "Auvergne-Rhône-Alpes",
@@ -16052,7 +17334,8 @@
     "date": "2020-03-14",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://web.archive.org/web/20200314195752/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200314195752/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
     "nom": "Provence-Alpes-Côte d’Azur",
@@ -16077,7 +17360,8 @@
     "date": "2020-03-14",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://web.archive.org/web/20200314195752/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200314195752/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
     "nom": "Corse",
@@ -16088,7 +17372,8 @@
     "date": "2020-03-14",
     "source": {
       "nom": "Santé publique France",
-      "url": "https://web.archive.org/web/20200314195752/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200314195752/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
     "casConfirmes": 143247,
@@ -20949,6 +22234,20 @@
   {
     "date": "2020-03-18",
     "source": {
+      "nom": "ARS Guyane",
+      "url": "https://www.guyane.ars.sante.fr/system/files/2020-03/2020_03_18_CP%20COVID-19.pdf",
+      "archive": "https://web.archive.org/web/20200319213532/https://www.guyane.ars.sante.fr/system/files/2020-03/2020_03_18_CP%20COVID-19.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Guyane",
+    "code": "DEP-973",
+    "casConfirmes": 15,
+    "gueris": 5,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-18",
+    "source": {
       "nom": "Santé publique France",
       "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200318184308/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
@@ -20982,6 +22281,20 @@
     "nom": "Martinique",
     "code": "REG-02",
     "casConfirmes": 23
+  },
+  {
+    "date": "2020-03-18",
+    "source": {
+      "nom": "ARS Guyane",
+      "url": "https://www.guyane.ars.sante.fr/system/files/2020-03/2020_03_18_CP%20COVID-19.pdf",
+      "archive": "https://web.archive.org/web/20200319213532/https://www.guyane.ars.sante.fr/system/files/2020-03/2020_03_18_CP%20COVID-19.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Guyane",
+    "code": "REG-03",
+    "casConfirmes": 15,
+    "gueris": 5,
+    "deces": 0
   },
   {
     "date": "2020-03-18",
@@ -21357,6 +22670,54 @@
   {
     "date": "2020-03-19",
     "source": {
+      "nom": "ARS Auvergne Rhône-Alpes",
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200319_ARSARA_PrefARA_CP_COVID-19_Point_Situation_0.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Ain",
+    "code": "DEP-01",
+    "casConfirmes": 84,
+    "deces": 5
+  },
+  {
+    "date": "2020-03-19",
+    "source": {
+      "nom": "ARS Auvergne Rhône-Alpes",
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200319_ARSARA_PrefARA_CP_COVID-19_Point_Situation_0.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Allier",
+    "code": "DEP-03",
+    "casConfirmes": 10,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-19",
+    "source": {
+      "nom": "ARS Auvergne Rhône-Alpes",
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200319_ARSARA_PrefARA_CP_COVID-19_Point_Situation_0.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Ardèche",
+    "code": "DEP-07",
+    "casConfirmes": 48,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-19",
+    "source": {
+      "nom": "ARS Auvergne Rhône-Alpes",
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200319_ARSARA_PrefARA_CP_COVID-19_Point_Situation_0.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Cantal",
+    "code": "DEP-15",
+    "casConfirmes": 10,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-19",
+    "source": {
       "nom": "ARS Nouvelle-Aquitaine",
       "url": "https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_19_03_2020.pdf",
       "archive": "https://web.archive.org/web/20200319185718/https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_19_03_2020.pdf"
@@ -21377,6 +22738,19 @@
     "nom": "Charente-Maritime",
     "code": "DEP-17",
     "casConfirmes": 33
+  },
+  {
+    "date": "2020-03-19",
+    "source": {
+      "nom": "ARS Centre - Val de Loire",
+      "url": "https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-19-bulletin%20information%20COVID-19_0.pdf",
+      "archive": "http://web.archive.org/web/20200319201936/https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-19-bulletin%20information%20COVID-19_0.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Cher",
+    "code": "DEP-18",
+    "casConfirmes": 8,
+    "deces": 0
   },
   {
     "date": "2020-03-19",
@@ -21417,6 +22791,31 @@
   {
     "date": "2020-03-19",
     "source": {
+      "nom": "ARS Auvergne Rhône-Alpes",
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200319_ARSARA_PrefARA_CP_COVID-19_Point_Situation_0.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Drôme",
+    "code": "DEP-26",
+    "casConfirmes": 86,
+    "deces": 3
+  },
+  {
+    "date": "2020-03-19",
+    "source": {
+      "nom": "ARS Centre - Val de Loire",
+      "url": "https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-19-bulletin%20information%20COVID-19_0.pdf",
+      "archive": "http://web.archive.org/web/20200319201936/https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-19-bulletin%20information%20COVID-19_0.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Eure-et-Loir",
+    "code": "DEP-28",
+    "casConfirmes": 41,
+    "deces": 1
+  },
+  {
+    "date": "2020-03-19",
+    "source": {
       "nom": "ARS Corse",
       "url": "https://www.corse.ars.sante.fr/informations-utiles-et-point-de-situation",
       "archive": "http://web.archive.org/web/20200319171359/https://www.corse.ars.sante.fr/informations-utiles-et-point-de-situation"
@@ -21453,6 +22852,44 @@
   {
     "date": "2020-03-19",
     "source": {
+      "nom": "ARS Centre - Val de Loire",
+      "url": "https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-19-bulletin%20information%20COVID-19_0.pdf",
+      "archive": "http://web.archive.org/web/20200319201936/https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-19-bulletin%20information%20COVID-19_0.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Indre",
+    "code": "DEP-36",
+    "casConfirmes": 5,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-19",
+    "source": {
+      "nom": "ARS Centre - Val de Loire",
+      "url": "https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-19-bulletin%20information%20COVID-19_0.pdf",
+      "archive": "http://web.archive.org/web/20200319201936/https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-19-bulletin%20information%20COVID-19_0.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Indre-et-Loire",
+    "code": "DEP-37",
+    "casConfirmes": 41,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-19",
+    "source": {
+      "nom": "ARS Auvergne Rhône-Alpes",
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200319_ARSARA_PrefARA_CP_COVID-19_Point_Situation_0.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Isère",
+    "code": "DEP-38",
+    "casConfirmes": 66,
+    "deces": 1
+  },
+  {
+    "date": "2020-03-19",
+    "source": {
       "nom": "ARS Nouvelle-Aquitaine",
       "url": "https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_19_03_2020.pdf",
       "archive": "https://web.archive.org/web/20200319185718/https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_19_03_2020.pdf"
@@ -21465,6 +22902,56 @@
   {
     "date": "2020-03-19",
     "source": {
+      "nom": "ARS Centre - Val de Loire",
+      "url": "https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-19-bulletin%20information%20COVID-19_0.pdf",
+      "archive": "http://web.archive.org/web/20200319201936/https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-19-bulletin%20information%20COVID-19_0.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Loir-et-Cher",
+    "code": "DEP-41",
+    "casConfirmes": 12,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-19",
+    "source": {
+      "nom": "ARS Auvergne Rhône-Alpes",
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200319_ARSARA_PrefARA_CP_COVID-19_Point_Situation_0.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Loire",
+    "code": "DEP-42",
+    "casConfirmes": 145,
+    "deces": 2
+  },
+  {
+    "date": "2020-03-19",
+    "source": {
+      "nom": "ARS Auvergne Rhône-Alpes",
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200319_ARSARA_PrefARA_CP_COVID-19_Point_Situation_0.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Haute-Loire",
+    "code": "DEP-43",
+    "casConfirmes": 8,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-19",
+    "source": {
+      "nom": "ARS Centre - Val de Loire",
+      "url": "https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-19-bulletin%20information%20COVID-19_0.pdf",
+      "archive": "http://web.archive.org/web/20200319201936/https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-19-bulletin%20information%20COVID-19_0.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Loiret",
+    "code": "DEP-45",
+    "casConfirmes": 50,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-19",
+    "source": {
       "nom": "ARS Nouvelle-Aquitaine",
       "url": "https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_19_03_2020.pdf",
       "archive": "https://web.archive.org/web/20200319185718/https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_19_03_2020.pdf"
@@ -21473,6 +22960,18 @@
     "nom": "Lot-et-Garonne",
     "code": "DEP-47",
     "casConfirmes": 59
+  },
+  {
+    "date": "2020-03-19",
+    "source": {
+      "nom": "ARS Auvergne Rhône-Alpes",
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200319_ARSARA_PrefARA_CP_COVID-19_Point_Situation_0.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Puy-de-Dôme",
+    "code": "DEP-63",
+    "casConfirmes": 34,
+    "deces": 0
   },
   {
     "date": "2020-03-19",
@@ -21492,6 +22991,42 @@
         "date": "2020-03-19"
       }
     ]
+  },
+  {
+    "date": "2020-03-19",
+    "source": {
+      "nom": "ARS Auvergne Rhône-Alpes",
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200319_ARSARA_PrefARA_CP_COVID-19_Point_Situation_0.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Rhône",
+    "code": "DEP-69",
+    "casConfirmes": 267,
+    "deces": 20
+  },
+  {
+    "date": "2020-03-19",
+    "source": {
+      "nom": "ARS Auvergne Rhône-Alpes",
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200319_ARSARA_PrefARA_CP_COVID-19_Point_Situation_0.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Savoie",
+    "code": "DEP-73",
+    "casConfirmes": 47,
+    "deces": 1
+  },
+  {
+    "date": "2020-03-19",
+    "source": {
+      "nom": "ARS Auvergne Rhône-Alpes",
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200319_ARSARA_PrefARA_CP_COVID-19_Point_Situation_0.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Haute-Savoie",
+    "code": "DEP-74",
+    "casConfirmes": 199,
+    "deces": 7
   },
   {
     "date": "2020-03-19",
@@ -21532,6 +23067,20 @@
   {
     "date": "2020-03-19",
     "source": {
+      "nom": "ARS Guadeloupe",
+      "url": "https://www.guadeloupe.ars.sante.fr/system/files/2020-03/19032020%20point%20de%20situation%20Coronavirus.pdf",
+      "archive": "http://web.archive.org/web/20200319203031/https://www.guadeloupe.ars.sante.fr/system/files/2020-03/19032020%20point%20de%20situation%20Coronavirus.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Guadeloupe",
+    "code": "DEP-971",
+    "casConfirmes": 45,
+    "hospitalises": 8,
+    "reanimation": 3
+  },
+  {
+    "date": "2020-03-19",
+    "source": {
       "nom": "Santé publique France",
       "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200319194637/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
@@ -21541,6 +23090,20 @@
     "deces": 372,
     "nom": "France",
     "code": "FRA"
+  },
+  {
+    "date": "2020-03-19",
+    "source": {
+      "nom": "ARS Guadeloupe",
+      "url": "https://www.guadeloupe.ars.sante.fr/system/files/2020-03/19032020%20point%20de%20situation%20Coronavirus.pdf",
+      "archive": "http://web.archive.org/web/20200319203031/https://www.guadeloupe.ars.sante.fr/system/files/2020-03/19032020%20point%20de%20situation%20Coronavirus.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Guadeloupe",
+    "code": "REG-01",
+    "casConfirmes": 45,
+    "hospitalises": 8,
+    "reanimation": 3
   },
   {
     "date": "2020-03-19",
@@ -21617,6 +23180,19 @@
   {
     "date": "2020-03-19",
     "source": {
+      "nom": "ARS Centre - Val de Loire",
+      "url": "https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-19-bulletin%20information%20COVID-19_0.pdf",
+      "archive": "http://web.archive.org/web/20200319201936/https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-19-bulletin%20information%20COVID-19_0.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Centre Val de Loire",
+    "code": "REG-24",
+    "casConfirmes": 157,
+    "deces": 1
+  },
+  {
+    "date": "2020-03-19",
+    "source": {
       "nom": "Santé publique France",
       "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200319194637/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
@@ -21625,6 +23201,18 @@
     "nom": "Centre-Val de Loire",
     "code": "REG-24",
     "casConfirmes": 157
+  },
+  {
+    "date": "2020-03-19",
+    "source": {
+      "nom": "ARS Auvergne Rhône-Alpes",
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200319_ARSARA_PrefARA_CP_COVID-19_Point_Situation_0.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Auvergne Rhône-Alpes",
+    "code": "REG-27",
+    "casConfirmes": 1014,
+    "deces": 39
   },
   {
     "date": "2020-03-19",
