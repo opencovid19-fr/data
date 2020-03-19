@@ -1,0 +1,16 @@
+date: "2020-03-19"
+source:
+  nom: ARS Martinique
+  url: http://www.martinique.ars.sante.fr/system/files/2020-03/Point%20de%20situation%20%2019%20mars%202020.pdf
+  archive: https://web.archive.org/web/20200319222201/https://www.martinique.ars.sante.fr/system/files/2020-03/Point%20de%20situation%20%2019%20mars%202020.pdf
+donneesRegionales:
+  nom: Martinique
+  code: REG-02
+  casConfirmes: 32
+  reanimation: 7 # 7 personnes hospitalisé en réa
+  hospitalises: 7
+donneesDepartementales:
+  - nom: Martinique
+    code: DEP-972
+    casConfirmes: 32
+    deces: 0
