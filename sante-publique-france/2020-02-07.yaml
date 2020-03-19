@@ -1,10 +1,11 @@
 date: "2020-02-07"
 source:
   nom: Santé publique France
-  url: https://web.archive.org/web/20200207164830/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/epidemie-de-coronavirus-2019-ncov-au-depart-de-wuhan-chine
+  url: https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/epidemie-de-coronavirus-2019-ncov-au-depart-de-wuhan-chine
+  archive: https://web.archive.org/web/20200207164830/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/epidemie-de-coronavirus-2019-ncov-au-depart-de-wuhan-chine
 donneesNationales:
   casConfirmes: 6
 donneesMondiales:
-  paysTouches: 25
+  paysTouches: 26
   casConfirmes: 31503
   deces: 638 # 637 en Chine et 1 aux Philippines

@@ -1,7 +1,8 @@
 date: "2020-03-02"
 source:
   nom: Santé publique France
-  url: https://web.archive.org/web/20200303185459/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france
+  url: https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france
+  archive: https://web.archive.org/web/20200303124836/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france
 donneesNationales:
   casConfirmes: 178
   deces: 3

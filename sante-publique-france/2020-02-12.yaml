@@ -1,10 +1,11 @@
 date: "2020-02-12"
 source:
   nom: Santé publique France
-  url: https://web.archive.org/web/20200212192607/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/epidemie-de-coronavirus-covid-19-au-depart-de-wuhan-chine
+  url: https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/epidemie-de-coronavirus-covid-19-au-depart-de-wuhan-chine
+  archive: https://web.archive.org/web/20200212192607/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/epidemie-de-coronavirus-covid-19-au-depart-de-wuhan-chine
 donneesNationales:
   casConfirmes: 11
 donneesMondiales:
-  paysTouches: 25
+  paysTouches: 26
   casConfirmes: 45179
   deces: 1116 # 1 114 en Chine, 1 aux Philippines et 1 à Hong-Kong
