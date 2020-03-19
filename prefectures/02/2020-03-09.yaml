@@ -5,8 +5,8 @@ source:
 donneesDepartementales:
   - nom: Aisne
     code: DEP-02
-    deces: 2
+    deces: 2 # Dans ce bulletin, il est noté 1 nouveaux décès. Dans le bulletin du 10/03, il est notés au total 2 décès, 1 le 5/03 et 1 le 8/03
     casConfirmes: 28
     victimes:
      - date: 2020-03-08
-       zge: 77
+       age: 77
