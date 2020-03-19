@@ -1,10 +1,10 @@
 date: '2020-03-01'
 donneesDepartementales:
 - casConfirmes: 1
-  code: DEP-977
+  code: COM-977
   nom: Saint-Barthélemy
 - casConfirmes: 2
-  code: DEP-978
+  code: COM-978
   nom: Saint-Martin
 source:
   nom: Coronavirus-France-Dataset

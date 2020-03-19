@@ -39,10 +39,11 @@ function flattenData(initialData) {
   return rows
 }
 
-function flattenSourcesData({source, date, rows}) {
+function flattenSourcesData({sourceType, date, source, rows}) {
   return rows.map(row => ({
     date,
     source,
+    sourceType,
     ...row
   }))
 }
@@ -80,25 +81,45 @@ function jsonToCsvRow(json) {
     maille_nom: json.nom,
     cas_confirmes: 'casConfirmes' in json ? json.casConfirmes : '',
     deces: 'deces' in json ? json.deces : '',
+    reanimation: 'reanimation' in json ? json.reanimation : '',
     source_nom: (json.source && json.source.nom) || '',
-    source_url: (json.source && json.source.url) || ''
+    source_url: (json.source && json.source.url) || '',
+    source_type: json.sourceType
   }
+}
+
+function showMetrics(rows) {
+  const wCasConfirmes = rows.filter(r => 'casConfirmes' in r)
+  const wDeces = rows.filter(r => 'deces' in r)
+  const wReanimation = rows.filter(r => 'reanimation' in r)
+  const wHospitalises = rows.filter(r => 'hospitalises' in r)
+  const woSource = rows.filter(row => !row.source || !row.source.nom)
+
+  console.log(`Nombre d’entrées : ${rows.length}`)
+  console.log(`Nombre d’entrées avec le nombre de cas confirmés : ${wCasConfirmes.length}`)
+  console.log(`Nombre d’entrées avec le nombre de décès : ${wDeces.length}`)
+  console.log(`Nombre d’entrées avec le nombre de réanimations : ${wReanimation.length}`)
+  console.log(`Nombre d’entrées avec le nombre d’hospitalisations : ${wHospitalises.length}`)
+  console.log(`Nombre d’entrées sans source : ${woSource.length}`)
 }
 
 async function main() {
   const sourcesFiles = flatten(sources.map(source => glob.sync(`${source}/**/*.yaml`)))
 
   const sourcesData = await Promise.all(sourcesFiles.map(async sourceFile => {
+    const sourceType = sourceFile.split('/')[0]
     const data = await readYamlFile(join(__dirname, sourceFile))
-    return {date: data.date, source: data.source, rows: flattenData(data)}
+    return {date: data.date, source: data.source, rows: flattenData(data), sourceType}
   }))
 
   const flattenedData = chain(sourcesData)
     .map(flattenSourcesData)
     .flatten()
-    .filter(r => 'casConfirmes' in r || 'deces' in r)
+    .filter(r => 'casConfirmes' in r || 'deces' in r || 'reanimation' in r)
     .sortBy(r => `${r.date}-${r.code}`)
     .value()
+
+  showMetrics(flattenedData)
 
   await outputJson(join(distPath, 'chiffres-cles.json'), flattenedData, {spaces: 2})
   await outputCsv(join(distPath, 'chiffres-cles.csv'), flattenedData.map(jsonToCsvRow))

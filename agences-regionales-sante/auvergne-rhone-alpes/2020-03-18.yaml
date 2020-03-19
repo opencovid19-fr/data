@@ -1,40 +1,40 @@
-date: 2020-03-16
+date: 2020-03-18
 source:
   nom: ARS Auvergne Rhône-Alpes
-  url: https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200316_ARSARA_COVID-19_Point_Situation.pdf
+  url: https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200318_ARSARA_PrefARA_CP_COVID-19_Point_Situation.pdf
 donneesRegionales:
   nom: Auvergne Rhône-Alpes
-  code: REG-84
-  casConfirmes: 617
-  deces: 20
+  code: REG-27
+  casConfirmes: 858
+  deces: 27
 donneesDepartementales:
   - nom: Ain
     code: DEP-01
-    casConfirmes: 59
-    deces: 1
+    casConfirmes: 77
+    deces: 3
   - nom: Allier
     code: DEP-03
-    casConfirmes: 5
+    casConfirmes: 9
     deces: 0
   - nom: Ardèche
     code: DEP-07
-    casConfirmes: 29
+    casConfirmes: 47
     deces: 0
   - nom: Cantal
     code: DEP-15
-    casConfirmes: 0 # le cas vient d'une autre région
+    casConfirmes: 5
     deces: 0    
   - nom: Drôme
     code: DEP-26
-    casConfirmes: 69
-    deces: 1
+    casConfirmes: 77
+    deces: 2
   - nom: Isère
     code: DEP-38
-    casConfirmes: 35
+    casConfirmes: 58
     deces: 1
   - nom: Loire
     code: DEP-42
-    casConfirmes: 76
+    casConfirmes: 120
     deces : 1
   - nom: Haute-Loire
     code: DEP-43
@@ -42,17 +42,17 @@ donneesDepartementales:
     deces: 0
   - nom: Puy-de-Dôme
     code: DEP-63
-    casConfirmes: 20
+    casConfirmes: 31
     deces: 0
   - nom: Rhône
     code: DEP-69
-    casConfirmes: 164
-    deces: 10
+    casConfirmes: 220
+    deces: 13
   - nom: Savoie
     code: DEP-73
-    casConfirmes: 26
+    casConfirmes: 34
     deces: 1
   - nom: Haute-Savoie
     code: DEP-74
-    casConfirmes: 126
-    deces: 5
+    casConfirmes: 161
+    deces: 6
