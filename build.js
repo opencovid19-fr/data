@@ -39,10 +39,11 @@ function flattenData(initialData) {
   return rows
 }
 
-function flattenSourcesData({source, date, rows}) {
+function flattenSourcesData({sourceType, date, source, rows}) {
   return rows.map(row => ({
     date,
     source,
+    sourceType,
     ...row
   }))
 }
@@ -82,7 +83,8 @@ function jsonToCsvRow(json) {
     deces: 'deces' in json ? json.deces : '',
     reanimation: 'reanimation' in json ? json.reanimation : '',
     source_nom: (json.source && json.source.nom) || '',
-    source_url: (json.source && json.source.url) || ''
+    source_url: (json.source && json.source.url) || '',
+    source_type: json.sourceType
   }
 }
 
@@ -105,8 +107,9 @@ async function main() {
   const sourcesFiles = flatten(sources.map(source => glob.sync(`${source}/**/*.yaml`)))
 
   const sourcesData = await Promise.all(sourcesFiles.map(async sourceFile => {
+    const sourceType = sourceFile.split('/')[0]
     const data = await readYamlFile(join(__dirname, sourceFile))
-    return {date: data.date, source: data.source, rows: flattenData(data)}
+    return {date: data.date, source: data.source, rows: flattenData(data), sourceType}
   }))
 
   const flattenedData = chain(sourcesData)
