@@ -6,11 +6,6 @@ source:
 donneesRegionales:
   nom: Martinique
   code: REG-02
-  casConfirmes: 32
-  reanimation: 7 # 7 personnes hospitalisé en réa
+  casConfirmes: 32 # +9
+  reanimation: 7   # 7 personnes hospitalisé en réa
   hospitalises: 7
-donneesDepartementales:
-  - nom: Martinique
-    code: DEP-972
-    casConfirmes: 32
-    deces: 0
