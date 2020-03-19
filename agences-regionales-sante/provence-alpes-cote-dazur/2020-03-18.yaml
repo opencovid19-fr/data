@@ -14,24 +14,18 @@ donneesDepartementales:
   - nom: Alpes-de-Haute-Provence
     code: DEP-04
     casConfirmes: 7
-    deces: 0
   - nom: Hautes-Alpes
     code: DEP-05
     casConfirmes: 32
-    deces: 0
   - nom: Alpes-Maritimes
     code: DEP-06
     casConfirmes: 110
-    deces: 1
   - nom: Bouches-du-Rhône
     code: DEP-13
     casConfirmes: 303
-    deces: 2
   - nom: Var
     code: DEP-83
     casConfirmes: 103
-    deces: 1
   - nom: Vaucluse
     code: DEP-84
     casConfirmes: 15
-    deces: 0
