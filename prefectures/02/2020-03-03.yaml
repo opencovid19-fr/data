@@ -1,0 +1,9 @@
+date: "2020-03-03"
+source:
+  nom: Préfecture de l'Aisne
+  url: http://www.aisne.gouv.fr/content/download/26033/171905/file/20200303_CP-point-de-situation%20VF.pdf
+donneesDepartementales:
+  - nom: Aisne
+    code: DEP-02
+    deces: 0
+    casConfirmes: 6
