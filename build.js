@@ -115,7 +115,7 @@ async function main() {
   const flattenedData = chain(sourcesData)
     .map(flattenSourcesData)
     .flatten()
-    .filter(r => 'casConfirmes' in r || 'deces' in r)
+    .filter(r => 'casConfirmes' in r || 'deces' in r || 'reanimation' in r)
     .sortBy(r => `${r.date}-${r.code}`)
     .value()
 
