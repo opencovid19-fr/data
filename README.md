@@ -31,7 +31,9 @@ Vous pouvez [vous proposer comme volontaire sur un département ou une région d
 
 Vous pouvez aussi consulter [le guide de contribution pour l'ensemble des projets de collecte de données](https://github.com/opencovid19-fr/comment-contribuer).
 
-Les contributions se font via les fichiers YAML et non dans le fichier de sortie(CSV/JSON).
+## Contributions des données
+
+Les contributions se font sur ce repository via les fichiers YAML et non dans le fichier de sortie(CSV/JSON).
 
 Tâches :
 
@@ -45,6 +47,23 @@ Les sources de données (PDF ou site web) sont notées dans chaque fichier YAML.
 ### Comment compléter les fichiers YAML
 
 Consigne générale : le nombre d'espaces en début de ligne est très important, ainsi que la position des tirets `-`, soyez vigilant en complétant les fichiers.
+
+#### Creer un fichier YAML
+
+Pour creer un fichier YAML vous devrez faire votre propre copie du 
+repository, qui sera modifiable pour vous, et depuis laquel vous
+pourrez soumetre vos `pull requests`:
+
+  - (A la premiere utilisation) Faites une copie (`fork`; en haut a droite)
+  - Dans le nouveau repository ajoutez vos fichiers dans les sous dossier 
+  correspondant aux regions/departement de vos données.
+  - Creer une pull request pour ajouter vos données au parent;
+  - Votre pull request sera examiné par d'autres membres avant d'etre ajoutée
+  a l'archive d'origine (`merge`). Il est possible que vous aillez des 
+  modifications a faire si il y a des erreurs.
+
+Pour une explication approfondie, par étapes, visuelle referez vous au fichier
+readme [docs/utilise-github.md](https://github.com/opencovid19-fr/data/blob/master/docs/README.md).
 
 #### Entête de fichier YAML
 
