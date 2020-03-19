@@ -627,6 +627,26 @@
       "nom": "Coronavirus-France-Dataset",
       "url": "https://github.com/lperez31/coronavirus-france-dataset"
     },
+    "casConfirmes": 1,
+    "code": "COM-977",
+    "nom": "Saint-Barthélemy"
+  },
+  {
+    "date": "2020-03-01",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
+    "casConfirmes": 2,
+    "code": "COM-978",
+    "nom": "Saint-Martin"
+  },
+  {
+    "date": "2020-03-01",
+    "source": {
+      "nom": "Coronavirus-France-Dataset",
+      "url": "https://github.com/lperez31/coronavirus-france-dataset"
+    },
     "casConfirmes": 2,
     "code": "DEP-02",
     "nom": "Aisne"
@@ -690,26 +710,6 @@
     "casConfirmes": 1,
     "code": "DEP-72",
     "nom": "Sarthe"
-  },
-  {
-    "date": "2020-03-01",
-    "source": {
-      "nom": "Coronavirus-France-Dataset",
-      "url": "https://github.com/lperez31/coronavirus-france-dataset"
-    },
-    "casConfirmes": 1,
-    "code": "DEP-977",
-    "nom": "Saint-Barthélemy"
-  },
-  {
-    "date": "2020-03-01",
-    "source": {
-      "nom": "Coronavirus-France-Dataset",
-      "url": "https://github.com/lperez31/coronavirus-france-dataset"
-    },
-    "casConfirmes": 2,
-    "code": "DEP-978",
-    "nom": "Saint-Martin"
   },
   {
     "date": "2020-03-02",
@@ -18486,12 +18486,86 @@
   {
     "date": "2020-03-18",
     "source": {
+      "nom": "ARS Auvergne Rhône-Alpes",
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200318_ARSARA_PrefARA_CP_COVID-19_Point_Situation.pdf"
+    },
+    "nom": "Ain",
+    "code": "DEP-01",
+    "casConfirmes": 77,
+    "deces": 3
+  },
+  {
+    "date": "2020-03-18",
+    "source": {
+      "nom": "ARS Auvergne Rhône-Alpes",
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200318_ARSARA_PrefARA_CP_COVID-19_Point_Situation.pdf"
+    },
+    "nom": "Allier",
+    "code": "DEP-03",
+    "casConfirmes": 9,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-18",
+    "source": {
+      "nom": "ARS Auvergne Rhône-Alpes",
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200318_ARSARA_PrefARA_CP_COVID-19_Point_Situation.pdf"
+    },
+    "nom": "Ardèche",
+    "code": "DEP-07",
+    "casConfirmes": 47,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-18",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo10_20200318.pdf"
+    },
+    "nom": "Ariège",
+    "code": "DEP-09",
+    "casConfirmes": 2
+  },
+  {
+    "date": "2020-03-18",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo10_20200318.pdf"
+    },
+    "nom": "Aude",
+    "code": "DEP-11",
+    "casConfirmes": 42
+  },
+  {
+    "date": "2020-03-18",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo10_20200318.pdf"
+    },
+    "nom": "Aveyron",
+    "code": "DEP-12",
+    "casConfirmes": 22
+  },
+  {
+    "date": "2020-03-18",
+    "source": {
       "nom": "ARS Normandie",
       "url": "https://www.normandie.ars.sante.fr/system/files/2020-03/20200318_CP-point-situation-normandie.pdf"
     },
     "nom": "Calvados",
     "code": "DEP-14",
     "casConfirmes": 71
+  },
+  {
+    "date": "2020-03-18",
+    "source": {
+      "nom": "ARS Auvergne Rhône-Alpes",
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200318_ARSARA_PrefARA_CP_COVID-19_Point_Situation.pdf"
+    },
+    "nom": "Cantal",
+    "code": "DEP-15",
+    "casConfirmes": 5,
+    "deces": 0
   },
   {
     "date": "2020-03-18",
@@ -18514,6 +18588,17 @@
     "nom": "Côtes-d'Armor",
     "code": "DEP-22",
     "casConfirmes": 12
+  },
+  {
+    "date": "2020-03-18",
+    "source": {
+      "nom": "ARS Auvergne Rhône-Alpes",
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200318_ARSARA_PrefARA_CP_COVID-19_Point_Situation.pdf"
+    },
+    "nom": "Drôme",
+    "code": "DEP-26",
+    "casConfirmes": 77,
+    "deces": 2
   },
   {
     "date": "2020-03-18",
@@ -18572,6 +18657,46 @@
   {
     "date": "2020-03-18",
     "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo10_20200318.pdf"
+    },
+    "nom": "Gard",
+    "code": "DEP-30",
+    "casConfirmes": 39
+  },
+  {
+    "date": "2020-03-18",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo10_20200318.pdf"
+    },
+    "nom": "Haute-Garonne",
+    "code": "DEP-31",
+    "casConfirmes": 57
+  },
+  {
+    "date": "2020-03-18",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo10_20200318.pdf"
+    },
+    "nom": "Gers",
+    "code": "DEP-32",
+    "casConfirmes": 12
+  },
+  {
+    "date": "2020-03-18",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo10_20200318.pdf"
+    },
+    "nom": "Hérault",
+    "code": "DEP-34",
+    "casConfirmes": 137
+  },
+  {
+    "date": "2020-03-18",
+    "source": {
       "nom": "ARS Bretagne",
       "url": "https://www.bretagne.ars.sante.fr/system/files/2020-03/CP%20Coronavirus_Bretagne_point%20de%20situation%2017h30_200318.pdf"
     },
@@ -18606,6 +18731,17 @@
   {
     "date": "2020-03-18",
     "source": {
+      "nom": "ARS Auvergne Rhône-Alpes",
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200318_ARSARA_PrefARA_CP_COVID-19_Point_Situation.pdf"
+    },
+    "nom": "Isère",
+    "code": "DEP-38",
+    "casConfirmes": 58,
+    "deces": 1
+  },
+  {
+    "date": "2020-03-18",
+    "source": {
       "nom": "ARS Centre - Val de Loire",
       "url": "https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-18-bulletin%20information%20COVID-19.pdf",
       "archive": "https://web.archive.org/web/20200318205435/https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-18-bulletin%20information%20COVID-19.pdf"
@@ -18613,6 +18749,28 @@
     "nom": "Loir-et-Cher",
     "code": "DEP-41",
     "casConfirmes": 11,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-18",
+    "source": {
+      "nom": "ARS Auvergne Rhône-Alpes",
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200318_ARSARA_PrefARA_CP_COVID-19_Point_Situation.pdf"
+    },
+    "nom": "Loire",
+    "code": "DEP-42",
+    "casConfirmes": 120,
+    "deces": 1
+  },
+  {
+    "date": "2020-03-18",
+    "source": {
+      "nom": "ARS Auvergne Rhône-Alpes",
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200318_ARSARA_PrefARA_CP_COVID-19_Point_Situation.pdf"
+    },
+    "nom": "Haute-Loire",
+    "code": "DEP-43",
+    "casConfirmes": 7,
     "deces": 0
   },
   {
@@ -18626,6 +18784,26 @@
     "code": "DEP-45",
     "casConfirmes": 37,
     "deces": 0
+  },
+  {
+    "date": "2020-03-18",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo10_20200318.pdf"
+    },
+    "nom": "Lot",
+    "code": "DEP-46",
+    "casConfirmes": 4
+  },
+  {
+    "date": "2020-03-18",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo10_20200318.pdf"
+    },
+    "nom": "Lozère",
+    "code": "DEP-48",
+    "casConfirmes": 8
   },
   {
     "date": "2020-03-18",
@@ -18660,6 +18838,70 @@
   {
     "date": "2020-03-18",
     "source": {
+      "nom": "ARS Auvergne Rhône-Alpes",
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200318_ARSARA_PrefARA_CP_COVID-19_Point_Situation.pdf"
+    },
+    "nom": "Puy-de-Dôme",
+    "code": "DEP-63",
+    "casConfirmes": 31,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-18",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo10_20200318.pdf"
+    },
+    "nom": "Hautes-Pyrénées",
+    "code": "DEP-65",
+    "casConfirmes": 7
+  },
+  {
+    "date": "2020-03-18",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo10_20200318.pdf"
+    },
+    "nom": "Pyrénées-Orientales",
+    "code": "DEP-66",
+    "casConfirmes": 26
+  },
+  {
+    "date": "2020-03-18",
+    "source": {
+      "nom": "ARS Auvergne Rhône-Alpes",
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200318_ARSARA_PrefARA_CP_COVID-19_Point_Situation.pdf"
+    },
+    "nom": "Rhône",
+    "code": "DEP-69",
+    "casConfirmes": 220,
+    "deces": 13
+  },
+  {
+    "date": "2020-03-18",
+    "source": {
+      "nom": "ARS Auvergne Rhône-Alpes",
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200318_ARSARA_PrefARA_CP_COVID-19_Point_Situation.pdf"
+    },
+    "nom": "Savoie",
+    "code": "DEP-73",
+    "casConfirmes": 34,
+    "deces": 1
+  },
+  {
+    "date": "2020-03-18",
+    "source": {
+      "nom": "ARS Auvergne Rhône-Alpes",
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200318_ARSARA_PrefARA_CP_COVID-19_Point_Situation.pdf"
+    },
+    "nom": "Haute-Savoie",
+    "code": "DEP-74",
+    "casConfirmes": 161,
+    "deces": 6
+  },
+  {
+    "date": "2020-03-18",
+    "source": {
       "nom": "ARS Normandie",
       "url": "https://www.normandie.ars.sante.fr/system/files/2020-03/20200318_CP-point-situation-normandie.pdf"
     },
@@ -18671,6 +18913,26 @@
         "date": "2020-03-06"
       }
     ]
+  },
+  {
+    "date": "2020-03-18",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo10_20200318.pdf"
+    },
+    "nom": "Tarn",
+    "code": "DEP-81",
+    "casConfirmes": 13
+  },
+  {
+    "date": "2020-03-18",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo10_20200318.pdf"
+    },
+    "nom": "Tarn-et-Garonne",
+    "code": "DEP-82",
+    "casConfirmes": 8
   },
   {
     "date": "2020-03-18",
@@ -18772,6 +19034,17 @@
     "nom": "Centre-Val de Loire",
     "code": "REG-24",
     "casConfirmes": 128
+  },
+  {
+    "date": "2020-03-18",
+    "source": {
+      "nom": "ARS Auvergne Rhône-Alpes",
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200318_ARSARA_PrefARA_CP_COVID-19_Point_Situation.pdf"
+    },
+    "nom": "Auvergne Rhône-Alpes",
+    "code": "REG-27",
+    "casConfirmes": 858,
+    "deces": 27
   },
   {
     "date": "2020-03-18",
@@ -18882,6 +19155,19 @@
     "nom": "Nouvelle-Aquitaine",
     "code": "REG-75",
     "casConfirmes": 237
+  },
+  {
+    "date": "2020-03-18",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo10_20200318.pdf"
+    },
+    "nom": "Occitanie",
+    "code": "REG-76",
+    "casConfirmes": 389,
+    "hospitalises": 99,
+    "reanimation": 37,
+    "deces": 10
   },
   {
     "date": "2020-03-18",
