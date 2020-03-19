@@ -1,0 +1,15 @@
+date: 2020-03-18
+source:
+    nom: ARS Guyane
+    url: https://www.guyane.ars.sante.fr/coronavirus-4-nouveaux-cas-de-coronavirus-en-guyane
+    archive: https://web.archive.org/web/20200319221158/https://www.guyane.ars.sante.fr/coronavirus-4-nouveaux-cas-de-coronavirus-en-guyane
+donneesRegionales:
+  nom: Guyane
+  code: REG-03
+  casConfirmes: 15
+  gueris: 5
+  deces: 0
+donneesDepartementales:
+  - nom: Guyane
+    code: DEP-973
+    casConfirmes: 15
