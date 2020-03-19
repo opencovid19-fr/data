@@ -33,7 +33,7 @@ Vous pouvez aussi consulter [le guide de contribution pour l'ensemble des projet
 
 ## Contributions des données
 
-Les contributions se font sur ce repository via les fichiers YAML et non dans le fichier de sortie(CSV/JSON).
+Les contributions se font dans cette archive via les fichiers YAML et non dans le fichier de sortie(CSV/JSON).
 
 Tâches :
 
@@ -63,7 +63,7 @@ pourrez soumetre vos `pull requests`:
   modifications a faire si il y a des erreurs.
 
 Pour une explication approfondie, par étapes, visuelle referez vous au fichier
-readme [docs/utilise-github.md](https://github.com/opencovid19-fr/data/blob/master/docs/README.md).
+readme [docs/utilise-github.md](https://github.com/payoto/data/blob/master/docs/utilise-github.md).
 
 #### Entête de fichier YAML
 
