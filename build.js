@@ -8,6 +8,7 @@ const {ensureArray, readYamlFile, outputCsv} = require('./lib/util')
 const sources = [
   'agences-regionales-sante',
   'sante-publique-france',
+  'ministere-sante',
   'prefectures',
   'lperez31-historical-data'
 ]

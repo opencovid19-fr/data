@@ -1,0 +1,31 @@
+date: "2020-03-06"
+source:
+  nom: ARS Hauts-de-France
+  url: https://www.hauts-de-france.ars.sante.fr/covid-19-une-ecole-fermee-dans-le-douaisis
+  archive: https://web.archive.org/web/20200320155122/https://www.hauts-de-france.ars.sante.fr/covid-19-une-ecole-fermee-dans-le-douaisis
+donneesRegionales:
+  nom: Hauts-de-France
+  code: REG-32
+  casConfirmes: 12
+donneesDepartementales:
+  - nom: Aisne
+    code: DEP-02
+    deces: 1
+  - nom: Nord
+    code: DEP-59
+    casConfirmes: 4 # url
+  - nom: Oise
+    code: DEP-60
+    deces: 5 # url-2
+  - nom: Pas-de-Calais
+    code: DEP-62
+    casConfirmes: 0
+    deces: 0
+  - nom: Somme
+    code: DEP-80
+    casConfirmes: 3 #url-3
+
+    # url-2: https://www.hauts-de-france.ars.sante.fr/coronavirus-covid-19-deces-de-deux-hommes-dans-loise
+    #archive-2: https://web.archive.org/web/20200320160447/https://www.hauts-de-france.ars.sante.fr/coronavirus-covid-19-deces-de-deux-hommes-dans-loise
+    # url-3: https://www.hauts-de-france.ars.sante.fr/point-de-situation-dans-la-somme-au-6-mars-2020-un-troisieme-cas-confirme
+    #archive-3: https://web.archive.org/web/20200320160544/https://www.hauts-de-france.ars.sante.fr/point-de-situation-dans-la-somme-au-6-mars-2020-un-troisieme-cas-confirme
