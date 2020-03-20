@@ -1,0 +1,15 @@
+date: 2020-03-10
+source:
+  nom: Ministère des Solidarités et de la Santé
+  url: https://www.dailymotion.com/video/x7smg45
+donneesNationales:
+  casConfirmes: 1784 # source : santé publique france. +372 qu'hier
+  deces: 33 # 19 hommes et 14 femmes
+  reanimation: 86 # en situation grâve et réanimation
+donneesMondiales:
+  casConfirmes: 116000
+  gueris: 64000
+  paysTouches: 106
+  deces: 4088
+
+# données nationales à 2'50
