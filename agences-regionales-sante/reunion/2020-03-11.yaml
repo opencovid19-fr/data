@@ -2,8 +2,8 @@ date: 2020-03-11
 source:
   nom: ARS Réunion
   url: https://www.lareunion.ars.sante.fr/coronavirus-covid-19-la-reunion-un-premier-cas-avere
-  archive: https://web.archive.org/web/20200319230120/https://www.lareunion.ars.sante.fr/coronavirus-covid-19-la-reunion-un-premier-cas-avere
+  archive: https://web.archive.org/web/20200320071250/https://www.lareunion.ars.sante.fr/coronavirus-covid-19-la-reunion-un-premier-cas-avere
 donneesRegionales:
   nom: Réunion
   code: COM-974
-  casConfirmes: 1
+  casConfirmes: 1 # Ce patient est pris en charge par les équipes du CHU Nord
