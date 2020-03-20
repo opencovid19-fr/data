@@ -581,6 +581,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,reanimation,source_n
 2020-03-07,departement,DEP-94,Val-de-Marne,10,,,ARS Ile-de-France,https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200307.pdf,agences-regionales-sante
 2020-03-07,departement,DEP-95,Val-d'Oise,31,1,,ARS Ile-de-France,https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200307.pdf,agences-regionales-sante
 2020-03-07,pays,FRA,France,949,11,45,Santé publique France,https://www.santepubliquefrance.fr/content/download/235538/2526975,sante-publique-france
+2020-03-07,pays,FRA,France,949,16,45,Ministère des Solidarités et de la Santé,https://www.dailymotion.com/video/x7ska17,ministere-sante
 2020-03-07,region,REG-01,Guadeloupe,0,,,Santé publique France,https://www.santepubliquefrance.fr/content/download/235538/2526975,sante-publique-france
 2020-03-07,region,REG-02,Martinique,2,,,Santé publique France,https://www.santepubliquefrance.fr/content/download/235538/2526975,sante-publique-france
 2020-03-07,region,REG-03,Guyane,5,,,Santé publique France,https://www.santepubliquefrance.fr/content/download/235538/2526975,sante-publique-france
@@ -609,6 +610,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,reanimation,source_n
 2020-03-07,region,REG-94,Corse,19,0,0,Le Petit Corse,https://journal-lepetitcorse.fr/2020/03/07/covid-19-point-de-situation-ars-du-samedi-7mars-19h/,agences-regionales-sante
 2020-03-07,region,REG-94,Corse,5,,,Santé publique France,https://www.santepubliquefrance.fr/content/download/235538/2526975,sante-publique-france
 2020-03-07,monde,WORLD,Monde,101855,3488,,Santé publique France,https://www.santepubliquefrance.fr/content/download/235538/2526975,sante-publique-france
+2020-03-07,monde,WORLD,Monde,102000,3500,,Ministère des Solidarités et de la Santé,https://www.dailymotion.com/video/x7ska17,ministere-sante
 2020-03-08,departement,DEP-01,Ain,8,0,,ARS Auvergne Rhône-Alpes,https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200308_ARSARA_COVID-19_Point_Situation_1.pdf,agences-regionales-sante
 2020-03-08,departement,DEP-02,Aisne,21,,,Coronavirus-France-Dataset,https://github.com/lperez31/coronavirus-france-dataset,lperez31-historical-data
 2020-03-08,departement,DEP-04,Alpes-de-Haute-Provence,0,0,,ARS Provence-Alpes-Côte d’Azur,https://www.paca.ars.sante.fr/coronavirus-en-provence-alpes-cote-dazur-point-de-situation-du-8-mars,agences-regionales-sante

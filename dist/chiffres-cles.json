@@ -6812,6 +6812,19 @@
   {
     "date": "2020-03-07",
     "source": {
+      "nom": "Ministère des Solidarités et de la Santé",
+      "url": "https://www.dailymotion.com/video/x7ska17"
+    },
+    "sourceType": "ministere-sante",
+    "casConfirmes": 949,
+    "deces": 16,
+    "reanimation": 45,
+    "nom": "France",
+    "code": "FRA"
+  },
+  {
+    "date": "2020-03-07",
+    "source": {
       "nom": "Santé publique France",
       "url": "https://www.santepubliquefrance.fr/content/download/235538/2526975",
       "archive": "https://web.archive.org/web/20200319120255/https://www.santepubliquefrance.fr/content/download/234974/link_1_file_to_download/COVID19_PE_20200307.pdf"
@@ -7147,6 +7160,20 @@
     "paysTouches": 93,
     "casConfirmes": 101855,
     "deces": 3488,
+    "nom": "Monde",
+    "code": "WORLD"
+  },
+  {
+    "date": "2020-03-07",
+    "source": {
+      "nom": "Ministère des Solidarités et de la Santé",
+      "url": "https://www.dailymotion.com/video/x7ska17"
+    },
+    "sourceType": "ministere-sante",
+    "casConfirmes": 102000,
+    "gueris": 57500,
+    "paysTouches": 96,
+    "deces": 3500,
     "nom": "Monde",
     "code": "WORLD"
   },
