@@ -3299,6 +3299,17 @@
   {
     "date": "2020-03-05",
     "source": {
+      "nom": "ARS Hauts-de-France",
+      "url": "https://www.hauts-de-france.ars.sante.fr/un-cas-de-coronavirus-confirme-dans-le-nord"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Aisne",
+    "code": "DEP-02",
+    "deces": 1
+  },
+  {
+    "date": "2020-03-05",
+    "source": {
       "nom": "Préfecture de l'Aisne",
       "url": "http://www.aisne.gouv.fr/content/download/26060/172117/file/20200305_CP-point-de-situation.pdf"
     },
@@ -3691,6 +3702,28 @@
   },
   {
     "date": "2020-03-05",
+    "source": {
+      "nom": "ARS Hauts-de-France",
+      "url": "https://www.hauts-de-france.ars.sante.fr/un-cas-de-coronavirus-confirme-dans-le-nord"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Nord",
+    "code": "DEP-59",
+    "casConfirmes": 1
+  },
+  {
+    "date": "2020-03-05",
+    "source": {
+      "nom": "ARS Hauts-de-France",
+      "url": "https://www.hauts-de-france.ars.sante.fr/un-cas-de-coronavirus-confirme-dans-le-nord"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Oise",
+    "code": "DEP-60",
+    "deces": 3
+  },
+  {
+    "date": "2020-03-05",
     "sourceType": "prefectures",
     "nom": "Oise",
     "code": "DEP-60",
@@ -3706,6 +3739,17 @@
     "casConfirmes": 6,
     "code": "DEP-60",
     "nom": "Oise"
+  },
+  {
+    "date": "2020-03-05",
+    "source": {
+      "nom": "ARS Hauts-de-France",
+      "url": "https://www.hauts-de-france.ars.sante.fr/un-cas-de-coronavirus-confirme-dans-le-nord"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Pas-de-Calais",
+    "code": "DEP-62",
+    "deces": 0
   },
   {
     "date": "2020-03-05",
@@ -3831,6 +3875,17 @@
     "casConfirmes": 1,
     "code": "DEP-79",
     "nom": "Deux-Sèvres"
+  },
+  {
+    "date": "2020-03-05",
+    "source": {
+      "nom": "ARS Hauts-de-France",
+      "url": "https://www.hauts-de-france.ars.sante.fr/un-cas-de-coronavirus-confirme-dans-le-nord"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Somme",
+    "code": "DEP-80",
+    "deces": 0
   },
   {
     "date": "2020-03-05",
@@ -4111,6 +4166,18 @@
     "nom": "Normandie",
     "code": "REG-28",
     "casConfirmes": 6
+  },
+  {
+    "date": "2020-03-05",
+    "source": {
+      "nom": "ARS Hauts-de-France",
+      "url": "https://www.hauts-de-france.ars.sante.fr/un-cas-de-coronavirus-confirme-dans-le-nord"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Hauts-de-France",
+    "code": "REG-32",
+    "casConfirmes": 5,
+    "deces": 4
   },
   {
     "date": "2020-03-05",
@@ -11014,6 +11081,18 @@
   {
     "date": "2020-03-11",
     "source": {
+      "nom": "ARS Réunion",
+      "url": "https://www.lareunion.ars.sante.fr/coronavirus-covid-19-la-reunion-un-premier-cas-avere",
+      "archive": "https://web.archive.org/web/20200320071250/https://www.lareunion.ars.sante.fr/coronavirus-covid-19-la-reunion-un-premier-cas-avere"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Réunion",
+    "code": "COM-974",
+    "casConfirmes": 1
+  },
+  {
+    "date": "2020-03-11",
+    "source": {
       "nom": "Santé publique France",
       "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200311235725/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
@@ -12765,6 +12844,18 @@
   {
     "date": "2020-03-12",
     "source": {
+      "nom": "ARS Réunion",
+      "url": "https://www.lareunion.ars.sante.fr/coronavirus-covid-19-la-reunion-un-4eme-cas-confirme",
+      "archive": "http://web.archive.org/web/20200320081313/https://www.lareunion.ars.sante.fr/coronavirus-covid-19-la-reunion-un-4eme-cas-confirme"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Réunion",
+    "code": "COM-974",
+    "casConfirmes": 4
+  },
+  {
+    "date": "2020-03-12",
+    "source": {
       "nom": "Santé publique France",
       "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200312205456/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
@@ -14415,6 +14506,18 @@
     "deces": 4617,
     "nom": "Monde",
     "code": "WORLD"
+  },
+  {
+    "date": "2020-03-13",
+    "source": {
+      "nom": "ARS Réunion",
+      "url": "https://www.lareunion.ars.sante.fr/coronavirus-covid-19-la-reunion-un-5eme-cas-confirme",
+      "archive": "http://web.archive.org/web/20200320081413/https://www.lareunion.ars.sante.fr/coronavirus-covid-19-la-reunion-un-5eme-cas-confirme"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Réunion",
+    "code": "COM-974",
+    "casConfirmes": 5
   },
   {
     "date": "2020-03-13",
@@ -17384,6 +17487,18 @@
   {
     "date": "2020-03-15",
     "source": {
+      "nom": "ARS Réunion",
+      "url": "https://www.lareunion.ars.sante.fr/coronavirus-covidd-19-la-reunion-2-nouveaux-cas-confirmes-9-au-total",
+      "archive": "http://web.archive.org/web/20200320081651/https://www.lareunion.ars.sante.fr/coronavirus-covidd-19-la-reunion-2-nouveaux-cas-confirmes-9-au-total"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Réunion",
+    "code": "COM-974",
+    "casConfirmes": 9
+  },
+  {
+    "date": "2020-03-15",
+    "source": {
       "nom": "ARS Guadeloupe",
       "url": "https://www.guadeloupe.ars.sante.fr/system/files/2020-03/Bulletin%2010%20coronavirus%20Iles%20du%20Nord.pdf",
       "archive": "https://web.archive.org/web/20200317170640/https://www.guadeloupe.ars.sante.fr/system/files/2020-03/Bulletin%2010%20coronavirus%20Iles%20du%20Nord.pdf"
@@ -20070,6 +20185,18 @@
   {
     "date": "2020-03-17",
     "source": {
+      "nom": "ARS Réunion",
+      "url": "https://www.lareunion.ars.sante.fr/coronavirus-covid-19-la-reunion-3-nouveaux-cas-confirmes",
+      "archive": "http://web.archive.org/web/20200320081750/https://www.lareunion.ars.sante.fr/coronavirus-covid-19-la-reunion-3-nouveaux-cas-confirmes"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Réunion",
+    "code": "COM-974",
+    "casConfirmes": 12
+  },
+  {
+    "date": "2020-03-17",
+    "source": {
       "nom": "Santé publique France",
       "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200317191451/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
@@ -21437,6 +21564,18 @@
   {
     "date": "2020-03-18",
     "source": {
+      "nom": "ARS Réunion",
+      "url": "https://www.lareunion.ars.sante.fr/coronavirus-covid-19-la-reunion-2-nouveaux-cas-confirmes",
+      "archive": "http://web.archive.org/web/20200320081925/https://www.lareunion.ars.sante.fr/coronavirus-covid-19-la-reunion-2-nouveaux-cas-confirmes"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Réunion",
+    "code": "COM-974",
+    "casConfirmes": 14
+  },
+  {
+    "date": "2020-03-18",
+    "source": {
       "nom": "Santé publique France",
       "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200318184308/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
@@ -22481,6 +22620,26 @@
   {
     "date": "2020-03-18",
     "source": {
+      "nom": "ARS Pays de la Loire",
+      "url": "https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-03/2020-03-18-bulletin%20information%20COVID-19%20%282%29.pdf",
+      "archive": "https://web.archive.org/web/20200319204751/https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-03/2020-03-18-bulletin%20information%20COVID-19%20%282%29.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Pays de la Loire",
+    "code": "REG-52",
+    "reanimation": 13,
+    "victimes": [
+      {
+        "date": "2020-03-18"
+      },
+      {
+        "date": "2020-03-18"
+      }
+    ]
+  },
+  {
+    "date": "2020-03-18",
+    "source": {
       "nom": "Santé publique France",
       "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200318184308/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
@@ -22646,6 +22805,18 @@
   {
     "date": "2020-03-19",
     "source": {
+      "nom": "ARS Réunion",
+      "url": "https://www.lareunion.ars.sante.fr/coronavirus-covid-19-la-reunion-1-nouveau-cas-confirme",
+      "archive": "http://web.archive.org/web/20200320082031/https://www.lareunion.ars.sante.fr/coronavirus-covid-19-la-reunion-1-nouveau-cas-confirme"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Réunion",
+    "code": "COM-974",
+    "casConfirmes": 15
+  },
+  {
+    "date": "2020-03-19",
+    "source": {
       "nom": "Santé publique France",
       "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200319194637/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
@@ -22694,6 +22865,42 @@
   {
     "date": "2020-03-19",
     "source": {
+      "nom": "ARS Provence-Alpes-Côte d’Azur",
+      "url": "https://www.paca.ars.sante.fr/coronavirus-en-provence-alpes-cote-dazur-point-de-situation-au-19-mars",
+      "archive": "https://web.archive.org/web/20200319214700/https://www.paca.ars.sante.fr/coronavirus-en-provence-alpes-cote-dazur-point-de-situation-au-19-mars"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Alpes-de-Haute-Provence",
+    "code": "DEP-04",
+    "casConfirmes": 8
+  },
+  {
+    "date": "2020-03-19",
+    "source": {
+      "nom": "ARS Provence-Alpes-Côte d’Azur",
+      "url": "https://www.paca.ars.sante.fr/coronavirus-en-provence-alpes-cote-dazur-point-de-situation-au-19-mars",
+      "archive": "https://web.archive.org/web/20200319214700/https://www.paca.ars.sante.fr/coronavirus-en-provence-alpes-cote-dazur-point-de-situation-au-19-mars"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Hautes-Alpes",
+    "code": "DEP-05",
+    "casConfirmes": 31
+  },
+  {
+    "date": "2020-03-19",
+    "source": {
+      "nom": "ARS Provence-Alpes-Côte d’Azur",
+      "url": "https://www.paca.ars.sante.fr/coronavirus-en-provence-alpes-cote-dazur-point-de-situation-au-19-mars",
+      "archive": "https://web.archive.org/web/20200319214700/https://www.paca.ars.sante.fr/coronavirus-en-provence-alpes-cote-dazur-point-de-situation-au-19-mars"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Alpes-Maritimes",
+    "code": "DEP-06",
+    "casConfirmes": 133
+  },
+  {
+    "date": "2020-03-19",
+    "source": {
       "nom": "ARS Auvergne Rhône-Alpes",
       "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200319_ARSARA_PrefARA_CP_COVID-19_Point_Situation_0.pdf"
     },
@@ -22702,6 +22909,63 @@
     "code": "DEP-07",
     "casConfirmes": 48,
     "deces": 0
+  },
+  {
+    "date": "2020-03-19",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo11_20200319.png"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Ariège",
+    "code": "DEP-09",
+    "casConfirmes": 3
+  },
+  {
+    "date": "2020-03-19",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo11_20200319.png"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Aude",
+    "code": "DEP-11",
+    "casConfirmes": 44
+  },
+  {
+    "date": "2020-03-19",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo11_20200319.png"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Aveyron",
+    "code": "DEP-12",
+    "casConfirmes": 29
+  },
+  {
+    "date": "2020-03-19",
+    "source": {
+      "nom": "ARS Provence-Alpes-Côte d’Azur",
+      "url": "https://www.paca.ars.sante.fr/coronavirus-en-provence-alpes-cote-dazur-point-de-situation-au-19-mars",
+      "archive": "https://web.archive.org/web/20200319214700/https://www.paca.ars.sante.fr/coronavirus-en-provence-alpes-cote-dazur-point-de-situation-au-19-mars"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Bouches-du-Rhône",
+    "code": "DEP-13",
+    "casConfirmes": 377
+  },
+  {
+    "date": "2020-03-19",
+    "source": {
+      "nom": "ARS Normandie",
+      "url": "https://www.normandie.ars.sante.fr/system/files/2020-03/20200319_CP-point-situation-normandie.pdf",
+      "archive": "https://web.archive.org/web/20200319214008/https://www.normandie.ars.sante.fr/system/files/2020-03/20200319_CP-point-situation-normandie.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Calvados",
+    "code": "DEP-14",
+    "casConfirmes": 76
   },
   {
     "date": "2020-03-19",
@@ -22767,6 +23031,18 @@
   {
     "date": "2020-03-19",
     "source": {
+      "nom": "ARS Bretagne",
+      "url": "https://www.bretagne.ars.sante.fr/system/files/2020-03/CP%20Coronavirus_Bretagne_point%20de%20situation%2017h30_200319.pdf",
+      "archive": "https://web.archive.org/web/20200319215630/https://www.bretagne.ars.sante.fr/system/files/2020-03/CP%20Coronavirus_Bretagne_point%20de%20situation%2017h30_200319.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Côtes-d'Armor",
+    "code": "DEP-22",
+    "casConfirmes": 16
+  },
+  {
+    "date": "2020-03-19",
+    "source": {
       "nom": "ARS Nouvelle-Aquitaine",
       "url": "https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_19_03_2020.pdf",
       "archive": "https://web.archive.org/web/20200319185718/https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_19_03_2020.pdf"
@@ -22803,6 +23079,18 @@
   {
     "date": "2020-03-19",
     "source": {
+      "nom": "ARS Normandie",
+      "url": "https://www.normandie.ars.sante.fr/system/files/2020-03/20200319_CP-point-situation-normandie.pdf",
+      "archive": "https://web.archive.org/web/20200319214008/https://www.normandie.ars.sante.fr/system/files/2020-03/20200319_CP-point-situation-normandie.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Eure",
+    "code": "DEP-27",
+    "casConfirmes": 35
+  },
+  {
+    "date": "2020-03-19",
+    "source": {
       "nom": "ARS Centre - Val de Loire",
       "url": "https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-19-bulletin%20information%20COVID-19_0.pdf",
       "archive": "http://web.archive.org/web/20200319201936/https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-19-bulletin%20information%20COVID-19_0.pdf"
@@ -22812,6 +23100,18 @@
     "code": "DEP-28",
     "casConfirmes": 41,
     "deces": 1
+  },
+  {
+    "date": "2020-03-19",
+    "source": {
+      "nom": "ARS Bretagne",
+      "url": "https://www.bretagne.ars.sante.fr/system/files/2020-03/CP%20Coronavirus_Bretagne_point%20de%20situation%2017h30_200319.pdf",
+      "archive": "https://web.archive.org/web/20200319215630/https://www.bretagne.ars.sante.fr/system/files/2020-03/CP%20Coronavirus_Bretagne_point%20de%20situation%2017h30_200319.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Finistère",
+    "code": "DEP-29",
+    "casConfirmes": 60
   },
   {
     "date": "2020-03-19",
@@ -22840,6 +23140,39 @@
   {
     "date": "2020-03-19",
     "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo11_20200319.png"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Gard",
+    "code": "DEP-30",
+    "casConfirmes": 44
+  },
+  {
+    "date": "2020-03-19",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo11_20200319.png"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Haute-Garonne",
+    "code": "DEP-31",
+    "casConfirmes": 72
+  },
+  {
+    "date": "2020-03-19",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo11_20200319.png"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Gers",
+    "code": "DEP-32",
+    "casConfirmes": 14
+  },
+  {
+    "date": "2020-03-19",
+    "source": {
       "nom": "ARS Nouvelle-Aquitaine",
       "url": "https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_19_03_2020.pdf",
       "archive": "https://web.archive.org/web/20200319185718/https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_19_03_2020.pdf"
@@ -22848,6 +23181,29 @@
     "nom": "Gironde",
     "code": "DEP-33",
     "casConfirmes": 54
+  },
+  {
+    "date": "2020-03-19",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo11_20200319.png"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Hérault",
+    "code": "DEP-34",
+    "casConfirmes": 171
+  },
+  {
+    "date": "2020-03-19",
+    "source": {
+      "nom": "ARS Bretagne",
+      "url": "https://www.bretagne.ars.sante.fr/system/files/2020-03/CP%20Coronavirus_Bretagne_point%20de%20situation%2017h30_200319.pdf",
+      "archive": "https://web.archive.org/web/20200319215630/https://www.bretagne.ars.sante.fr/system/files/2020-03/CP%20Coronavirus_Bretagne_point%20de%20situation%2017h30_200319.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Ille-et-Vilaine",
+    "code": "DEP-35",
+    "casConfirmes": 58
   },
   {
     "date": "2020-03-19",
@@ -22952,6 +23308,17 @@
   {
     "date": "2020-03-19",
     "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo11_20200319.png"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Lot",
+    "code": "DEP-46",
+    "casConfirmes": 4
+  },
+  {
+    "date": "2020-03-19",
+    "source": {
       "nom": "ARS Nouvelle-Aquitaine",
       "url": "https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_19_03_2020.pdf",
       "archive": "https://web.archive.org/web/20200319185718/https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_19_03_2020.pdf"
@@ -22960,6 +23327,53 @@
     "nom": "Lot-et-Garonne",
     "code": "DEP-47",
     "casConfirmes": 59
+  },
+  {
+    "date": "2020-03-19",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo11_20200319.png"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Lozère",
+    "code": "DEP-48",
+    "casConfirmes": 8
+  },
+  {
+    "date": "2020-03-19",
+    "source": {
+      "nom": "ARS Normandie",
+      "url": "https://www.normandie.ars.sante.fr/system/files/2020-03/20200319_CP-point-situation-normandie.pdf",
+      "archive": "https://web.archive.org/web/20200319214008/https://www.normandie.ars.sante.fr/system/files/2020-03/20200319_CP-point-situation-normandie.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Manche",
+    "code": "DEP-50",
+    "casConfirmes": 44
+  },
+  {
+    "date": "2020-03-19",
+    "source": {
+      "nom": "ARS Bretagne",
+      "url": "https://www.bretagne.ars.sante.fr/system/files/2020-03/CP%20Coronavirus_Bretagne_point%20de%20situation%2017h30_200319.pdf",
+      "archive": "https://web.archive.org/web/20200319215630/https://www.bretagne.ars.sante.fr/system/files/2020-03/CP%20Coronavirus_Bretagne_point%20de%20situation%2017h30_200319.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Morbihan",
+    "code": "DEP-56",
+    "casConfirmes": 134
+  },
+  {
+    "date": "2020-03-19",
+    "source": {
+      "nom": "ARS Normandie",
+      "url": "https://www.normandie.ars.sante.fr/system/files/2020-03/20200319_CP-point-situation-normandie.pdf",
+      "archive": "https://web.archive.org/web/20200319214008/https://www.normandie.ars.sante.fr/system/files/2020-03/20200319_CP-point-situation-normandie.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Orne",
+    "code": "DEP-61",
+    "casConfirmes": 9
   },
   {
     "date": "2020-03-19",
@@ -22991,6 +23405,28 @@
         "date": "2020-03-19"
       }
     ]
+  },
+  {
+    "date": "2020-03-19",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo11_20200319.png"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Hautes-Pyrénées",
+    "code": "DEP-65",
+    "casConfirmes": 11
+  },
+  {
+    "date": "2020-03-19",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo11_20200319.png"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Pyrénées-Orientales",
+    "code": "DEP-66",
+    "casConfirmes": 35
   },
   {
     "date": "2020-03-19",
@@ -23031,6 +23467,18 @@
   {
     "date": "2020-03-19",
     "source": {
+      "nom": "ARS Normandie",
+      "url": "https://www.normandie.ars.sante.fr/system/files/2020-03/20200319_CP-point-situation-normandie.pdf",
+      "archive": "https://web.archive.org/web/20200319214008/https://www.normandie.ars.sante.fr/system/files/2020-03/20200319_CP-point-situation-normandie.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Seine-Maritime",
+    "code": "DEP-76",
+    "casConfirmes": 77
+  },
+  {
+    "date": "2020-03-19",
+    "source": {
       "nom": "ARS Nouvelle-Aquitaine",
       "url": "https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_19_03_2020.pdf",
       "archive": "https://web.archive.org/web/20200319185718/https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_19_03_2020.pdf"
@@ -23039,6 +23487,52 @@
     "nom": "Deux-Sèvres",
     "code": "DEP-79",
     "casConfirmes": 7
+  },
+  {
+    "date": "2020-03-19",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo11_20200319.png"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Tarn",
+    "code": "DEP-81",
+    "casConfirmes": 14
+  },
+  {
+    "date": "2020-03-19",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo11_20200319.png"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Tarn-et-Garonne",
+    "code": "DEP-82",
+    "casConfirmes": 11
+  },
+  {
+    "date": "2020-03-19",
+    "source": {
+      "nom": "ARS Provence-Alpes-Côte d’Azur",
+      "url": "https://www.paca.ars.sante.fr/coronavirus-en-provence-alpes-cote-dazur-point-de-situation-au-19-mars",
+      "archive": "https://web.archive.org/web/20200319214700/https://www.paca.ars.sante.fr/coronavirus-en-provence-alpes-cote-dazur-point-de-situation-au-19-mars"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Var",
+    "code": "DEP-83",
+    "casConfirmes": 124
+  },
+  {
+    "date": "2020-03-19",
+    "source": {
+      "nom": "ARS Provence-Alpes-Côte d’Azur",
+      "url": "https://www.paca.ars.sante.fr/coronavirus-en-provence-alpes-cote-dazur-point-de-situation-au-19-mars",
+      "archive": "https://web.archive.org/web/20200319214700/https://www.paca.ars.sante.fr/coronavirus-en-provence-alpes-cote-dazur-point-de-situation-au-19-mars"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Vaucluse",
+    "code": "DEP-84",
+    "casConfirmes": 17
   },
   {
     "date": "2020-03-19",
@@ -23077,6 +23571,20 @@
     "casConfirmes": 45,
     "hospitalises": 8,
     "reanimation": 3
+  },
+  {
+    "date": "2020-03-19",
+    "source": {
+      "nom": "ARS Guyane",
+      "url": "https://pbs.twimg.com/media/ETgUg6fWsAIewXm?format=jpg&name=large",
+      "archive": "https://web.archive.org/web/20200320083857/https://pbs.twimg.com/media/ETgUg6fWsAIewXm?format=jpg&name=large"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Guyane",
+    "code": "DEP-973",
+    "casConfirmes": 15,
+    "gueris": 5,
+    "deces": 0
   },
   {
     "date": "2020-03-19",
@@ -23120,6 +23628,19 @@
   {
     "date": "2020-03-19",
     "source": {
+      "nom": "ARS Martinique",
+      "url": "http://www.martinique.ars.sante.fr/system/files/2020-03/Point%20de%20situation%20%2019%20mars%202020.pdf",
+      "archive": "https://web.archive.org/web/20200320071011/https://www.martinique.ars.sante.fr/system/files/2020-03/Point%20de%20situation%20%2019%20mars%202020.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Martinique",
+    "code": "REG-02",
+    "casConfirmes": 32,
+    "reanimation": 7
+  },
+  {
+    "date": "2020-03-19",
+    "source": {
       "nom": "Santé publique France",
       "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200319194637/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
@@ -23128,6 +23649,20 @@
     "nom": "Martinique",
     "code": "REG-02",
     "casConfirmes": 32
+  },
+  {
+    "date": "2020-03-19",
+    "source": {
+      "nom": "ARS Guyane",
+      "url": "https://pbs.twimg.com/media/ETgUg6fWsAIewXm?format=jpg&name=large",
+      "archive": "https://web.archive.org/web/20200320083857/https://pbs.twimg.com/media/ETgUg6fWsAIewXm?format=jpg&name=large"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Guyane",
+    "code": "REG-03",
+    "casConfirmes": 15,
+    "gueris": 5,
+    "deces": 0
   },
   {
     "date": "2020-03-19",
@@ -23217,6 +23752,20 @@
   {
     "date": "2020-03-19",
     "source": {
+      "nom": "ARS Bourgogne-Franche-Comté",
+      "url": "https://www.bourgogne-franche-comte.ars.sante.fr/system/files/2020-03/2020.03.19_COVID19_SITUATION%20BFC.pdf",
+      "archive": "https://web.archive.org/web/20200319221805/https://www.bourgogne-franche-comte.ars.sante.fr/system/files/2020-03/2020.03.19_COVID19_SITUATION%20BFC.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Bourgogne-Franche-Comté",
+    "code": "REG-27",
+    "reanimation": 60,
+    "hospitalises": 192,
+    "deces": 23
+  },
+  {
+    "date": "2020-03-19",
+    "source": {
       "nom": "Santé publique France",
       "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200319194637/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
@@ -23225,6 +23774,20 @@
     "nom": "Bourgogne-Franche-Comté",
     "code": "REG-27",
     "casConfirmes": 696
+  },
+  {
+    "date": "2020-03-19",
+    "source": {
+      "nom": "ARS Normandie",
+      "url": "https://www.normandie.ars.sante.fr/system/files/2020-03/20200319_CP-point-situation-normandie.pdf",
+      "archive": "https://web.archive.org/web/20200319214008/https://www.normandie.ars.sante.fr/system/files/2020-03/20200319_CP-point-situation-normandie.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Normandie",
+    "code": "REG-28",
+    "casConfirmes": 241,
+    "deces": 5,
+    "hospitalises": 46
   },
   {
     "date": "2020-03-19",
@@ -23277,6 +23840,21 @@
   {
     "date": "2020-03-19",
     "source": {
+      "nom": "ARS Bretagne",
+      "url": "https://www.bretagne.ars.sante.fr/system/files/2020-03/CP%20Coronavirus_Bretagne_point%20de%20situation%2017h30_200319.pdf",
+      "archive": "https://web.archive.org/web/20200319215630/https://www.bretagne.ars.sante.fr/system/files/2020-03/CP%20Coronavirus_Bretagne_point%20de%20situation%2017h30_200319.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Bretagne",
+    "code": "REG-53",
+    "casConfirmes": 268,
+    "deces": 10,
+    "reanimation": 26,
+    "hospitalises": 85
+  },
+  {
+    "date": "2020-03-19",
+    "source": {
       "nom": "Santé publique France",
       "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200319194637/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
@@ -23314,6 +23892,20 @@
   {
     "date": "2020-03-19",
     "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo11_20200319.png"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Occitanie",
+    "code": "REG-76",
+    "casConfirmes": 472,
+    "hospitalises": 155,
+    "reanimation": 62,
+    "deces": 17
+  },
+  {
+    "date": "2020-03-19",
+    "source": {
       "nom": "Santé publique France",
       "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200319194637/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
@@ -23334,6 +23926,21 @@
     "nom": "Auvergne-Rhône-Alpes",
     "code": "REG-84",
     "casConfirmes": 1014
+  },
+  {
+    "date": "2020-03-19",
+    "source": {
+      "nom": "ARS Provence-Alpes-Côte d’Azur",
+      "url": "https://www.paca.ars.sante.fr/coronavirus-en-provence-alpes-cote-dazur-point-de-situation-au-19-mars",
+      "archive": "https://web.archive.org/web/20200319214700/https://www.paca.ars.sante.fr/coronavirus-en-provence-alpes-cote-dazur-point-de-situation-au-19-mars"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Provence-Alpes-Côte d’Azur",
+    "code": "REG-93",
+    "casConfirmes": 690,
+    "hospitalises": 178,
+    "reanimation": 44,
+    "deces": 9
   },
   {
     "date": "2020-03-19",
