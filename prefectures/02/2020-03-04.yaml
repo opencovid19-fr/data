@@ -1,0 +1,9 @@
+date: "2020-03-04"
+source:
+  nom: Préfecture de l'Aisne
+  url: http://www.aisne.gouv.fr/content/download/26047/172005/file/20200304_CP-point-de-situation_04.03.2020.pdf
+donneesDepartementales:
+  - nom: Aisne
+    code: DEP-02
+    deces: 0
+    casConfirmes: 12 # Le communiqué est pas très clair. Mais 8+4=12

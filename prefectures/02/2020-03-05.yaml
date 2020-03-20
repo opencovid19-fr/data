@@ -1,0 +1,13 @@
+date: "2020-03-05"
+source:
+  nom: Préfecture de l'Aisne
+  url: http://www.aisne.gouv.fr/content/download/26060/172117/file/20200305_CP-point-de-situation.pdf
+donneesDepartementales:
+  - nom: Aisne
+    code: DEP-02
+    deces: 1
+    casConfirmes: 14
+    victimes:
+     - date: 2020-03-05 # http://www.aisne.gouv.fr/content/download/26051/172043/file/20200305_CP_1er_d%C3%A9c%C3%A8s_Aisne.pdf
+       sexe: homme
+       age: 63
