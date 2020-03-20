@@ -2309,6 +2309,19 @@
   {
     "date": "2020-03-03",
     "source": {
+      "nom": "Ministère des Solidarités et de la Santé",
+      "url": "https://www.dailymotion.com/video/x7sgicv"
+    },
+    "sourceType": "ministere-sante",
+    "casConfirmes": 212,
+    "deces": 4,
+    "gueris": 12,
+    "nom": "France",
+    "code": "FRA"
+  },
+  {
+    "date": "2020-03-03",
+    "source": {
       "nom": "ARS Bourgogne-Franche-Comté",
       "url": "https://www.bourgogne-franche-comte.ars.sante.fr/system/files/2020-03/2020.03.03_COVID19_SITUATION%20BFC.pdf"
     },
@@ -2353,6 +2366,20 @@
     "paysTouches": 74,
     "casConfirmes": 90663,
     "deces": 3125,
+    "nom": "Monde",
+    "code": "WORLD"
+  },
+  {
+    "date": "2020-03-03",
+    "source": {
+      "nom": "Ministère des Solidarités et de la Santé",
+      "url": "https://www.dailymotion.com/video/x7sgicv"
+    },
+    "sourceType": "ministere-sante",
+    "casConfirmes": 92000,
+    "gueris": 48000,
+    "paysTouches": 73,
+    "deces": 3130,
     "nom": "Monde",
     "code": "WORLD"
   },
@@ -2950,6 +2977,20 @@
   {
     "date": "2020-03-04",
     "source": {
+      "nom": "Ministère des Solidarités et de la Santé",
+      "url": "https://www.dailymotion.com/video/x7shh99",
+      "archive": "http://web.archive.org/web/20200320130306/https://www.dailymotion.com/video/x7siev3"
+    },
+    "sourceType": "ministere-sante",
+    "casConfirmes": 285,
+    "deces": 4,
+    "reanimation": 15,
+    "nom": "France",
+    "code": "FRA"
+  },
+  {
+    "date": "2020-03-04",
+    "source": {
       "nom": "Santé publique France",
       "url": "https://www.santepubliquefrance.fr/content/download/235529/2526819",
       "archive": "https://web.archive.org/web/20200305181330/https://www.santepubliquefrance.fr/content/download/234628/link_1_file_to_download/COVID19_PE_20200304.pdf"
@@ -3259,6 +3300,21 @@
     "paysTouches": 77,
     "casConfirmes": 93076,
     "deces": 3202,
+    "nom": "Monde",
+    "code": "WORLD"
+  },
+  {
+    "date": "2020-03-04",
+    "source": {
+      "nom": "Ministère des Solidarités et de la Santé",
+      "url": "https://www.dailymotion.com/video/x7shh99",
+      "archive": "http://web.archive.org/web/20200320130306/https://www.dailymotion.com/video/x7siev3"
+    },
+    "sourceType": "ministere-sante",
+    "casConfirmes": 94250,
+    "gueris": 51000,
+    "paysTouches": 80,
+    "deces": 3200,
     "nom": "Monde",
     "code": "WORLD"
   },
@@ -4037,6 +4093,20 @@
   {
     "date": "2020-03-05",
     "source": {
+      "nom": "Ministère des Solidarités et de la Santé",
+      "url": "https://www.dailymotion.com/video/x7siev3",
+      "archive": "http://web.archive.org/web/20200320130316/https://www.dailymotion.com/video/x7siev3"
+    },
+    "sourceType": "ministere-sante",
+    "casConfirmes": 423,
+    "deces": 7,
+    "reanimation": 23,
+    "nom": "France",
+    "code": "FRA"
+  },
+  {
+    "date": "2020-03-05",
+    "source": {
       "nom": "Santé publique France",
       "url": "https://www.santepubliquefrance.fr/content/download/235532/2526871"
     },
@@ -4354,6 +4424,21 @@
     "code": "WORLD"
   },
   {
+    "date": "2020-03-05",
+    "source": {
+      "nom": "Ministère des Solidarités et de la Santé",
+      "url": "https://www.dailymotion.com/video/x7siev3",
+      "archive": "http://web.archive.org/web/20200320130316/https://www.dailymotion.com/video/x7siev3"
+    },
+    "sourceType": "ministere-sante",
+    "casConfirmes": 98000,
+    "gueris": 53000,
+    "deces": 3346,
+    "paysTouches": 83,
+    "nom": "Monde",
+    "code": "WORLD"
+  },
+  {
     "date": "2020-03-06",
     "source": {
       "nom": "ARS Guadeloupe",
@@ -4412,6 +4497,18 @@
     "code": "DEP-01",
     "casConfirmes": 4,
     "deces": 0
+  },
+  {
+    "date": "2020-03-06",
+    "source": {
+      "nom": "ARS Hauts-de-France",
+      "url": "https://www.hauts-de-france.ars.sante.fr/covid-19-une-ecole-fermee-dans-le-douaisis",
+      "archive": "https://web.archive.org/web/20200320155122/https://www.hauts-de-france.ars.sante.fr/covid-19-une-ecole-fermee-dans-le-douaisis"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Aisne",
+    "code": "DEP-02",
+    "deces": 1
   },
   {
     "date": "2020-03-06",
@@ -4977,6 +5074,18 @@
   {
     "date": "2020-03-06",
     "source": {
+      "nom": "ARS Hauts-de-France",
+      "url": "https://www.hauts-de-france.ars.sante.fr/covid-19-une-ecole-fermee-dans-le-douaisis",
+      "archive": "https://web.archive.org/web/20200320155122/https://www.hauts-de-france.ars.sante.fr/covid-19-une-ecole-fermee-dans-le-douaisis"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Nord",
+    "code": "DEP-59",
+    "casConfirmes": 4
+  },
+  {
+    "date": "2020-03-06",
+    "source": {
       "nom": "Coronavirus-France-Dataset",
       "url": "https://github.com/lperez31/coronavirus-france-dataset"
     },
@@ -4984,6 +5093,31 @@
     "casConfirmes": 4,
     "code": "DEP-59",
     "nom": "Nord"
+  },
+  {
+    "date": "2020-03-06",
+    "source": {
+      "nom": "ARS Hauts-de-France",
+      "url": "https://www.hauts-de-france.ars.sante.fr/covid-19-une-ecole-fermee-dans-le-douaisis",
+      "archive": "https://web.archive.org/web/20200320155122/https://www.hauts-de-france.ars.sante.fr/covid-19-une-ecole-fermee-dans-le-douaisis"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Oise",
+    "code": "DEP-60",
+    "deces": 5
+  },
+  {
+    "date": "2020-03-06",
+    "source": {
+      "nom": "ARS Hauts-de-France",
+      "url": "https://www.hauts-de-france.ars.sante.fr/covid-19-une-ecole-fermee-dans-le-douaisis",
+      "archive": "https://web.archive.org/web/20200320155122/https://www.hauts-de-france.ars.sante.fr/covid-19-une-ecole-fermee-dans-le-douaisis"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Pas-de-Calais",
+    "code": "DEP-62",
+    "casConfirmes": 0,
+    "deces": 0
   },
   {
     "date": "2020-03-06",
@@ -5158,6 +5292,18 @@
     "nom": "Deux-Sèvres",
     "code": "DEP-79",
     "casConfirmes": 1
+  },
+  {
+    "date": "2020-03-06",
+    "source": {
+      "nom": "ARS Hauts-de-France",
+      "url": "https://www.hauts-de-france.ars.sante.fr/covid-19-une-ecole-fermee-dans-le-douaisis",
+      "archive": "https://web.archive.org/web/20200320155122/https://www.hauts-de-france.ars.sante.fr/covid-19-une-ecole-fermee-dans-le-douaisis"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Somme",
+    "code": "DEP-80",
+    "casConfirmes": 3
   },
   {
     "date": "2020-03-06",
@@ -5375,6 +5521,20 @@
   {
     "date": "2020-03-06",
     "source": {
+      "nom": "Ministère des Solidarités et de la Santé",
+      "url": "https://www.dailymotion.com/video/x7sj9hs",
+      "archive": "http://web.archive.org/web/20200320131319/https://www.dailymotion.com/video/x7sj9hs"
+    },
+    "sourceType": "ministere-sante",
+    "casConfirmes": 613,
+    "deces": 9,
+    "reanimation": 39,
+    "nom": "France",
+    "code": "FRA"
+  },
+  {
+    "date": "2020-03-06",
+    "source": {
       "nom": "Santé publique France",
       "url": "https://www.santhttps://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-mondeepubliquefrance.fr/content/download/235535/2526923",
       "archive": "https://web.archive.org/web/20200308004050/https://www.santepubliquefrance.fr/content/download/234974/link_1_file_to_download/COVID19_PE_20200306.pdf"
@@ -5514,6 +5674,18 @@
     "nom": "Normandie",
     "code": "REG-28",
     "casConfirmes": 11
+  },
+  {
+    "date": "2020-03-06",
+    "source": {
+      "nom": "ARS Hauts-de-France",
+      "url": "https://www.hauts-de-france.ars.sante.fr/covid-19-une-ecole-fermee-dans-le-douaisis",
+      "archive": "https://web.archive.org/web/20200320155122/https://www.hauts-de-france.ars.sante.fr/covid-19-une-ecole-fermee-dans-le-douaisis"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Hauts-de-France",
+    "code": "REG-32",
+    "casConfirmes": 12
   },
   {
     "date": "2020-03-06",
@@ -5732,6 +5904,21 @@
     "paysTouches": 85,
     "casConfirmes": 98171,
     "deces": 3385,
+    "nom": "Monde",
+    "code": "WORLD"
+  },
+  {
+    "date": "2020-03-06",
+    "source": {
+      "nom": "Ministère des Solidarités et de la Santé",
+      "url": "https://www.dailymotion.com/video/x7sj9hs",
+      "archive": "http://web.archive.org/web/20200320131319/https://www.dailymotion.com/video/x7sj9hs"
+    },
+    "sourceType": "ministere-sante",
+    "casConfirmes": 101000,
+    "gueris": 55000,
+    "paysTouches": 89,
+    "deces": 3456,
     "nom": "Monde",
     "code": "WORLD"
   },
@@ -9294,6 +9481,19 @@
   {
     "date": "2020-03-09",
     "source": {
+      "nom": "Ministère des Solidarités et de la Santé",
+      "url": "https://www.dailymotion.com/video/x7slmu1"
+    },
+    "sourceType": "ministere-sante",
+    "casConfirmes": 1412,
+    "deces": 25,
+    "reanimation": 66,
+    "nom": "France",
+    "code": "FRA"
+  },
+  {
+    "date": "2020-03-09",
+    "source": {
       "nom": "ARS Ile-de-France",
       "url": "https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid19_20200309.pdf"
     },
@@ -9436,6 +9636,20 @@
     "sourceType": "sante-publique-france",
     "casConfirmes": 109695,
     "deces": 3811,
+    "nom": "Monde",
+    "code": "WORLD"
+  },
+  {
+    "date": "2020-03-09",
+    "source": {
+      "nom": "Ministère des Solidarités et de la Santé",
+      "url": "https://www.dailymotion.com/video/x7slmu1"
+    },
+    "sourceType": "ministere-sante",
+    "casConfirmes": 111000,
+    "gueris": 62000,
+    "paysTouches": 102,
+    "deces": 3892,
     "nom": "Monde",
     "code": "WORLD"
   },
@@ -10705,6 +10919,19 @@
   {
     "date": "2020-03-10",
     "source": {
+      "nom": "Ministère des Solidarités et de la Santé",
+      "url": "https://www.dailymotion.com/video/x7smg45"
+    },
+    "sourceType": "ministere-sante",
+    "casConfirmes": 1784,
+    "deces": 33,
+    "reanimation": 86,
+    "nom": "France",
+    "code": "FRA"
+  },
+  {
+    "date": "2020-03-10",
+    "source": {
       "nom": "Santé publique France",
       "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200311105030/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
@@ -11077,6 +11304,20 @@
     "nom": "Corse",
     "code": "REG-94",
     "casConfirmes": 42
+  },
+  {
+    "date": "2020-03-10",
+    "source": {
+      "nom": "Ministère des Solidarités et de la Santé",
+      "url": "https://www.dailymotion.com/video/x7smg45"
+    },
+    "sourceType": "ministere-sante",
+    "casConfirmes": 116000,
+    "gueris": 64000,
+    "paysTouches": 106,
+    "deces": 4088,
+    "nom": "Monde",
+    "code": "WORLD"
   },
   {
     "date": "2020-03-11",
@@ -12439,6 +12680,20 @@
   {
     "date": "2020-03-11",
     "source": {
+      "nom": "Ministère des Solidarités et de la Santé",
+      "url": "https://www.dailymotion.com/video/x7snao5",
+      "archive": "http://web.archive.org/web/20200320133932/https://www.dailymotion.com/video/x7snao5"
+    },
+    "sourceType": "ministere-sante",
+    "casConfirmes": 2281,
+    "deces": 48,
+    "reanimation": 105,
+    "nom": "France",
+    "code": "FRA"
+  },
+  {
+    "date": "2020-03-11",
+    "source": {
       "nom": "ARS Guadeloupe",
       "url": "https://www.guadeloupe.ars.sante.fr/system/files/2020-03/Bulletin%20n°7%20coronavirus%20Guad.pdf",
       "archive": "https://web.archive.org/web/20200317165308/https://www.guadeloupe.ars.sante.fr/system/files/2020-03/Bulletin%20n°7%20coronavirus%20Guad.pdf"
@@ -12838,6 +13093,21 @@
     "sourceType": "sante-publique-france",
     "casConfirmes": 118628,
     "deces": 4292,
+    "nom": "Monde",
+    "code": "WORLD"
+  },
+  {
+    "date": "2020-03-11",
+    "source": {
+      "nom": "Ministère des Solidarités et de la Santé",
+      "url": "https://www.dailymotion.com/video/x7snao5",
+      "archive": "http://web.archive.org/web/20200320133932/https://www.dailymotion.com/video/x7snao5"
+    },
+    "sourceType": "ministere-sante",
+    "casConfirmes": 121500,
+    "gueris": 66000,
+    "paysTouches": 110,
+    "deces": 4373,
     "nom": "Monde",
     "code": "WORLD"
   },
@@ -17084,6 +17354,20 @@
   {
     "date": "2020-03-14",
     "source": {
+      "nom": "Ministère des Solidarités et de la Santé",
+      "url": "https://www.dailymotion.com/video/x7spi7d",
+      "archive": "http://web.archive.org/web/20200320134214/https://www.dailymotion.com/video/x7spi7d"
+    },
+    "sourceType": "ministere-sante",
+    "casConfirmes": 4500,
+    "deces": 91,
+    "reanimation": 300,
+    "nom": "France",
+    "code": "FRA"
+  },
+  {
+    "date": "2020-03-14",
+    "source": {
       "nom": "ARS Guadeloupe",
       "url": "https://www.guadeloupe.ars.sante.fr/system/files/2020-03/Bulletin%20n°9%20coronavirus%20Guad.pdf"
     },
@@ -17481,6 +17765,21 @@
     "sourceType": "sante-publique-france",
     "casConfirmes": 143247,
     "deces": 5407,
+    "nom": "Monde",
+    "code": "WORLD"
+  },
+  {
+    "date": "2020-03-14",
+    "source": {
+      "nom": "Ministère des Solidarités et de la Santé",
+      "url": "https://www.dailymotion.com/video/x7spi7d",
+      "archive": "http://web.archive.org/web/20200320134214/https://www.dailymotion.com/video/x7spi7d"
+    },
+    "sourceType": "ministere-sante",
+    "casConfirmes": 153000,
+    "gueris": 72000,
+    "paysTouches": 140,
+    "deces": 5800,
     "nom": "Monde",
     "code": "WORLD"
   },
@@ -20293,8 +20592,7 @@
     "sourceType": "agences-regionales-sante",
     "nom": "Alpes-Maritimes",
     "code": "DEP-06",
-    "casConfirmes": 104,
-    "deces": 1
+    "casConfirmes": 104
   },
   {
     "date": "2020-03-17",
@@ -20376,8 +20674,7 @@
     "sourceType": "agences-regionales-sante",
     "nom": "Bouches-du-Rhône",
     "code": "DEP-13",
-    "casConfirmes": 237,
-    "deces": 2
+    "casConfirmes": 237
   },
   {
     "date": "2020-03-17",
@@ -21075,8 +21372,7 @@
     "sourceType": "agences-regionales-sante",
     "nom": "Var",
     "code": "DEP-83",
-    "casConfirmes": 95,
-    "deces": 1
+    "casConfirmes": 95
   },
   {
     "date": "2020-03-17",
@@ -21157,6 +21453,21 @@
   {
     "date": "2020-03-17",
     "source": {
+      "nom": "Ministère des Solidarités et de la Santé",
+      "url": "https://www.dailymotion.com/video/x7srn0c"
+    },
+    "sourceType": "ministere-sante",
+    "casConfirmes": 7730,
+    "deces": 175,
+    "hospitalises": 2579,
+    "reanimation": 699,
+    "gueris": 602,
+    "nom": "France",
+    "code": "FRA"
+  },
+  {
+    "date": "2020-03-17",
+    "source": {
       "nom": "ARS Guadeloupe",
       "url": "https://www.guadeloupe.ars.sante.fr/system/files/2020-03/Bulletin%20n°12%20coronavirus%20Guad.pdf",
       "archive": "https://web.archive.org/web/20200318102027/https://www.guadeloupe.ars.sante.fr/system/files/2020-03/Bulletin%20n%C2%B012%20coronavirus%20Guad.pdf"
@@ -21227,18 +21538,6 @@
     "nom": "Mayotte",
     "code": "REG-06",
     "casConfirmes": 3
-  },
-  {
-    "date": "2020-03-17",
-    "source": {
-      "nom": "ARS Ile-de-France",
-      "url": "https://www.iledefrance.ars.sante.fr/system/files/2020-03/PointSituationCovid10_20200314.pdf"
-    },
-    "sourceType": "agences-regionales-sante",
-    "nom": "Ile-de-France",
-    "code": "REG-11",
-    "casConfirmes": 1240,
-    "reanimation": 155
   },
   {
     "date": "2020-03-17",
@@ -21562,6 +21861,20 @@
     "code": "WORLD"
   },
   {
+    "date": "2020-03-17",
+    "source": {
+      "nom": "Ministère des Solidarités et de la Santé",
+      "url": "https://www.dailymotion.com/video/x7srn0c"
+    },
+    "sourceType": "ministere-sante",
+    "casConfirmes": 190000,
+    "gueris": 80000,
+    "paysTouches": 155,
+    "deces": 7500,
+    "nom": "Monde",
+    "code": "WORLD"
+  },
+  {
     "date": "2020-03-18",
     "source": {
       "nom": "ARS Réunion",
@@ -21596,6 +21909,20 @@
     "nom": "Saint-Martin",
     "code": "COM-978",
     "casConfirmes": 4
+  },
+  {
+    "date": "2020-03-18",
+    "source": {
+      "nom": "DSP Polynésie française",
+      "url": "https://www.service-public.pf/dsp/2020/03/18/situation-coronavirus-180320/",
+      "archive": "https://web.archive.org/save/https://www.service-public.pf/dsp/2020/03/18/situation-coronavirus-180320/"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Polynésie française",
+    "code": "COM-987",
+    "casConfirmes": 6,
+    "hospitalises": 2,
+    "deces": 0
   },
   {
     "date": "2020-03-18",
@@ -22400,6 +22727,21 @@
   {
     "date": "2020-03-18",
     "source": {
+      "nom": "Ministère des Solidarités et de la Santé",
+      "url": "https://www.dailymotion.com/video/x7ssjki"
+    },
+    "sourceType": "ministere-sante",
+    "casConfirmes": 9134,
+    "deces": 264,
+    "hospitalises": 3626,
+    "reanimation": 931,
+    "gueris": 1000,
+    "nom": "France",
+    "code": "FRA"
+  },
+  {
+    "date": "2020-03-18",
+    "source": {
       "nom": "Santé publique France",
       "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200318184308/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
@@ -22507,18 +22849,6 @@
     "nom": "Centre-Val de Loire",
     "code": "REG-24",
     "casConfirmes": 128
-  },
-  {
-    "date": "2020-03-18",
-    "source": {
-      "nom": "ARS Auvergne Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200318_ARSARA_PrefARA_CP_COVID-19_Point_Situation.pdf"
-    },
-    "sourceType": "agences-regionales-sante",
-    "nom": "Auvergne Rhône-Alpes",
-    "code": "REG-27",
-    "casConfirmes": 858,
-    "deces": 27
   },
   {
     "date": "2020-03-18",
@@ -22729,6 +23059,18 @@
   {
     "date": "2020-03-18",
     "source": {
+      "nom": "ARS Auvergne Rhône-Alpes",
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200318_ARSARA_PrefARA_CP_COVID-19_Point_Situation.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Auvergne Rhône-Alpes",
+    "code": "REG-84",
+    "casConfirmes": 858,
+    "deces": 27
+  },
+  {
+    "date": "2020-03-18",
+    "source": {
       "nom": "Santé publique France",
       "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200318184308/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
@@ -22803,6 +23145,19 @@
     "code": "WORLD"
   },
   {
+    "date": "2020-03-18",
+    "source": {
+      "nom": "Ministère des Solidarités et de la Santé",
+      "url": "https://www.dailymotion.com/video/x7ssjki"
+    },
+    "sourceType": "ministere-sante",
+    "casConfirmes": 212000,
+    "paysTouches": 157,
+    "deces": 8724,
+    "nom": "Monde",
+    "code": "WORLD"
+  },
+  {
     "date": "2020-03-19",
     "source": {
       "nom": "ARS Réunion",
@@ -22837,6 +23192,20 @@
     "nom": "Saint-Martin",
     "code": "COM-978",
     "casConfirmes": 4
+  },
+  {
+    "date": "2020-03-19",
+    "source": {
+      "nom": "DSP Polynésie française",
+      "url": "https://www.service-public.pf/dsp/2020/03/19/situation-coronavirus-190320/",
+      "archive": "https://web.archive.org/save/https://www.service-public.pf/dsp/2020/03/19/situation-coronavirus-190320/"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Polynésie française",
+    "code": "COM-987",
+    "casConfirmes": 11,
+    "hospitalises": 2,
+    "deces": 0
   },
   {
     "date": "2020-03-19",
@@ -23602,6 +23971,25 @@
   {
     "date": "2020-03-19",
     "source": {
+      "nom": "Ministère des Solidarités et de la Santé",
+      "url": "https://www.dailymotion.com/video/x7stprh"
+    },
+    "sourceType": "ministere-sante",
+    "casConfirmes": 10995,
+    "deces": 372,
+    "hospitalises": 4461,
+    "reanimation": 1122,
+    "gueris": 1300,
+    "capaciteTotaleLitsDisponibles": 3700,
+    "capaciteLitsReanimation": 1300,
+    "capaciteLitsSoinsContinus": 1600,
+    "capaciteLitsSoinsIntensifs": 754,
+    "nom": "France",
+    "code": "FRA"
+  },
+  {
+    "date": "2020-03-19",
+    "source": {
       "nom": "ARS Guadeloupe",
       "url": "https://www.guadeloupe.ars.sante.fr/system/files/2020-03/19032020%20point%20de%20situation%20Coronavirus.pdf",
       "archive": "http://web.archive.org/web/20200319203031/https://www.guadeloupe.ars.sante.fr/system/files/2020-03/19032020%20point%20de%20situation%20Coronavirus.pdf"
@@ -23740,18 +24128,6 @@
   {
     "date": "2020-03-19",
     "source": {
-      "nom": "ARS Auvergne Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200319_ARSARA_PrefARA_CP_COVID-19_Point_Situation_0.pdf"
-    },
-    "sourceType": "agences-regionales-sante",
-    "nom": "Auvergne Rhône-Alpes",
-    "code": "REG-27",
-    "casConfirmes": 1014,
-    "deces": 39
-  },
-  {
-    "date": "2020-03-19",
-    "source": {
       "nom": "ARS Bourgogne-Franche-Comté",
       "url": "https://www.bourgogne-franche-comte.ars.sante.fr/system/files/2020-03/2020.03.19_COVID19_SITUATION%20BFC.pdf",
       "archive": "https://web.archive.org/web/20200319221805/https://www.bourgogne-franche-comte.ars.sante.fr/system/files/2020-03/2020.03.19_COVID19_SITUATION%20BFC.pdf"
@@ -23816,6 +24192,21 @@
   {
     "date": "2020-03-19",
     "source": {
+      "nom": "ARS Grand-Est",
+      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/CPCoronavirus_GrandEst_190320.pdf",
+      "achive": "https://web.archive.org/web/20200320094642/https://www.grand-est.ars.sante.fr/system/files/2020-03/CPCoronavirus_GrandEst_190320.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Grand-Est",
+    "code": "REG-44",
+    "casConfirmes": 1169,
+    "reanimation": 300,
+    "gueris": 213,
+    "deces": 93
+  },
+  {
+    "date": "2020-03-19",
+    "source": {
       "nom": "Santé publique France",
       "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200319194637/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
@@ -23824,6 +24215,19 @@
     "nom": "Grand Est",
     "code": "REG-44",
     "casConfirmes": 2643
+  },
+  {
+    "date": "2020-03-19",
+    "source": {
+      "nom": "ARS Pays de la Loire",
+      "url": "https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-03/2020-03-19-bulletin%20information%20COVID-19_1.pdf",
+      "archive": "https://web.archive.org/web/20200320083534/https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-03/2020-03-19-bulletin%20information%20COVID-19_1.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Pays de la Loire",
+    "code": "REG-52",
+    "reanimation": 23,
+    "deces": 3
   },
   {
     "date": "2020-03-19",
@@ -23918,6 +24322,18 @@
   {
     "date": "2020-03-19",
     "source": {
+      "nom": "ARS Auvergne Rhône-Alpes",
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200319_ARSARA_PrefARA_CP_COVID-19_Point_Situation_0.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Auvergne Rhône-Alpes",
+    "code": "REG-84",
+    "casConfirmes": 1014,
+    "deces": 39
+  },
+  {
+    "date": "2020-03-19",
+    "source": {
       "nom": "Santé publique France",
       "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200319194637/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
@@ -23988,6 +24404,288 @@
     "sourceType": "sante-publique-france",
     "casConfirmes": 213254,
     "deces": 8843,
+    "nom": "Monde",
+    "code": "WORLD"
+  },
+  {
+    "date": "2020-03-19",
+    "source": {
+      "nom": "Ministère des Solidarités et de la Santé",
+      "url": "https://www.dailymotion.com/video/x7stprh"
+    },
+    "sourceType": "ministere-sante",
+    "casConfirmes": 235000,
+    "gueris": 84000,
+    "paysTouches": 159,
+    "deces": 9785,
+    "nom": "Monde",
+    "code": "WORLD"
+  },
+  {
+    "date": "2020-03-20",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200320185449/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Saint-Barthélemy",
+    "code": "COM-977",
+    "casConfirmes": 3
+  },
+  {
+    "date": "2020-03-20",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200320185449/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Saint-Martin",
+    "code": "COM-978",
+    "casConfirmes": 4
+  },
+  {
+    "date": "2020-03-20",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200320185449/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+    },
+    "sourceType": "sante-publique-france",
+    "casConfirmes": 12612,
+    "deces": 450,
+    "hospitalises": 5226,
+    "reanimation": 1297,
+    "nom": "France",
+    "code": "FRA"
+  },
+  {
+    "date": "2020-03-20",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200320185449/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Guadeloupe",
+    "code": "REG-01",
+    "casConfirmes": 51
+  },
+  {
+    "date": "2020-03-20",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200320185449/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Martinique",
+    "code": "REG-02",
+    "casConfirmes": 32
+  },
+  {
+    "date": "2020-03-20",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200320185449/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Guyane",
+    "code": "REG-03",
+    "casConfirmes": 15
+  },
+  {
+    "date": "2020-03-20",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200320185449/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "La Réunion",
+    "code": "REG-04",
+    "casConfirmes": 38
+  },
+  {
+    "date": "2020-03-20",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200320185449/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Mayotte",
+    "code": "REG-06",
+    "casConfirmes": 7
+  },
+  {
+    "date": "2020-03-20",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200320185449/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Ile-de-France",
+    "code": "REG-11",
+    "casConfirmes": 3818
+  },
+  {
+    "date": "2020-03-20",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200320185449/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Centre-Val de Loire",
+    "code": "REG-24",
+    "casConfirmes": 219
+  },
+  {
+    "date": "2020-03-20",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200320185449/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Bourgogne-Franche-Comté",
+    "code": "REG-27",
+    "casConfirmes": 770
+  },
+  {
+    "date": "2020-03-20",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200320185449/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Normandie",
+    "code": "REG-28",
+    "casConfirmes": 287
+  },
+  {
+    "date": "2020-03-20",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200320185449/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Hauts-de-France",
+    "code": "REG-32",
+    "casConfirmes": 759
+  },
+  {
+    "date": "2020-03-20",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200320185449/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Grand Est",
+    "code": "REG-44",
+    "casConfirmes": 3006
+  },
+  {
+    "date": "2020-03-20",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200320185449/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Pays de la Loire",
+    "code": "REG-52",
+    "casConfirmes": 190
+  },
+  {
+    "date": "2020-03-20",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200320185449/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Bretagne",
+    "code": "REG-53",
+    "casConfirmes": 346
+  },
+  {
+    "date": "2020-03-20",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200320185449/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Nouvelle-Aquitaine",
+    "code": "REG-75",
+    "casConfirmes": 432
+  },
+  {
+    "date": "2020-03-20",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200320185449/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Occitanie",
+    "code": "REG-76",
+    "casConfirmes": 537
+  },
+  {
+    "date": "2020-03-20",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200320185449/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Auvergne-Rhône-Alpes",
+    "code": "REG-84",
+    "casConfirmes": 1101
+  },
+  {
+    "date": "2020-03-20",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200320185449/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Provence-Alpes-Côte d’Azur",
+    "code": "REG-93",
+    "casConfirmes": 826
+  },
+  {
+    "date": "2020-03-20",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200320185449/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Corse",
+    "code": "REG-94",
+    "casConfirmes": 168
+  },
+  {
+    "date": "2020-03-20",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200320185449/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+    },
+    "sourceType": "sante-publique-france",
+    "casConfirmes": 242488,
+    "deces": 9885,
     "nom": "Monde",
     "code": "WORLD"
   }
