@@ -9,11 +9,11 @@ donneesNationales:
   reanimation: 1297
   gueris: 1587
 donneesMondiales:
-  casConfirmes: 255 000 # "plus de 255 000 cas, estimation globale" 
+  casConfirmes: 255000 # "plus de 255 000 cas, estimation globale" 
   paysTouches: 163
-  deces: 11 000  # "11 000 deces sont signalés"
-  gueris: 87 000
+  deces: 11000  # "11 000 deces sont signalés"
+  gueris: 87000
 
 # France : plus de 50 000 tests réalisés par PCR 
 # données mondiales à 1'04
-# données nationales à 2'33
+# données nationales à 2'33, chiffres à 4'10
