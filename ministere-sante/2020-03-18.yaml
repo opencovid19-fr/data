@@ -4,7 +4,15 @@ source:
   url: https://www.dailymotion.com/video/x7ssjki
 donneesNationales:
   casConfirmes: 9134
-  deces: 264
+  deces: 264 # 7% touches des personnes de moins de 65 ans
   hospitalises: 3626
-  reanimation: 931
+  reanimation: 931 # 50% ont moins de 60 ans
   gueris: 1000
+donneesMondiales:
+  casConfirmes: 212000
+  paysTouches: 157
+  deces: 8724
+
+# France : 5500 personnes confinées à domicile
+# données mondiales à 1'00
+# données nationales à 3'24
