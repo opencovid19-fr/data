@@ -5,14 +5,17 @@ source:
   archive: https://web.archive.org/web/20200124202351/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/cas-de-pneumonies-associees-a-un-nouveau-coronavirus-2019-ncov-a-wuhan-en-chine
 donneesNationales:
   casConfirmes: 3
+  hospitalises: 3
   deces: 0
 donneesRegionales:
   - nom: Ile-de-France
     code: REG-11
     casConfirmes: 2
+    hospitalises: 2
   - nom: Nouvelle-Aquitaine
     code: REG-75
     casConfirmes: 1
+    hospitalises: 1
 donneesMondiales:
   paysTouches: 8 # Chine, Thaïlande, Singapour, Japon, République de Corée, Vietnam, Taïwan et Etats-Unis
   casConfirmes: 897
