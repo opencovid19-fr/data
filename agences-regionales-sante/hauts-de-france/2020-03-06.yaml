@@ -2,8 +2,6 @@ date: "2020-03-06"
 source:
   nom: ARS Hauts-de-France
   url: https://www.hauts-de-france.ars.sante.fr/covid-19-une-ecole-fermee-dans-le-douaisis
-  url: https://www.hauts-de-france.ars.sante.fr/coronavirus-covid-19-deces-de-deux-hommes-dans-loise
-  url: https://www.hauts-de-france.ars.sante.fr/point-de-situation-dans-la-somme-au-6-mars-2020-un-troisieme-cas-confirme
 donneesRegionales:
   nom: Hauts-de-France
   code: REG-32
@@ -28,3 +26,6 @@ donneesDepartementales:
     code: DEP-80
     casConfirmes: 3 #url-3
     deces: 
+    
+    # url: https://www.hauts-de-france.ars.sante.fr/coronavirus-covid-19-deces-de-deux-hommes-dans-loise
+    # url: https://www.hauts-de-france.ars.sante.fr/point-de-situation-dans-la-somme-au-6-mars-2020-un-troisieme-cas-confirme
