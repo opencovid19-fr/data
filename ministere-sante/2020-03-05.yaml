@@ -1,0 +1,14 @@
+date: 2020-03-05
+source:
+  nom: Ministère des Solidarités et de la Santé
+  url: https://www.dailymotion.com/video/x7siev3
+  archive: http://web.archive.org/web/20200320130316/https://www.dailymotion.com/video/x7siev3 # todo delete if not working
+donneesNationales:
+  casConfirmes: 423 # à 16h. +138 depuis hier, 15 régions touchées
+  deces: 7 # 6 hommes et 1 femme
+  reanimation: 23 # +8 depuis hier
+donneesMondiales:
+  casConfirmes: 98000
+  gueris: 53000
+  deces: 3346
+  paysTouches: 83
