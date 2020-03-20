@@ -1,0 +1,17 @@
+date: "2020-03-01"
+source:
+  nom: Ministère des Solidarités et de la Santé
+  url: https://www.dailymotion.com/video/x7sedoy
+donneesNationales:
+  casConfirmes: 130 # à 16h. source : santé publique france. +61 depuis hier
+  deces: 2
+  gueris: 12
+  hospitalises: 116 # pour isolation
+  reanimation: 9 # en situation grave
+donneesMondiales:
+  casConfirmes: 87500
+  gueris: 42700
+  paysTouches: 63
+  deces: 3000
+  
+  # données nationales 2'20
