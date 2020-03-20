@@ -1,0 +1,15 @@
+date: "2020-03-07"
+source:
+  nom: Ministère des Solidarités et de la Santé
+  url: https://www.dailymotion.com/video/x7ska17
+donneesNationales:
+  casConfirmes: 949 # à 15h. source: santé publique france. +336 qu'hier
+  deces: 16 # 11 hommes et 5 femmes. 12 personnes de plus de 70 ans 
+  reanimation: 45 # +6 qu'hier 
+donneesMondiales:
+  casConfirmes: 102000
+  gueris: 57500
+  paysTouches: 96
+  deces: 3500
+
+# les données commencent à 3'20
