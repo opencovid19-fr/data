@@ -1,12 +1,11 @@
 date: "2020-03-19"
 source:
-    nom: DSP Polynésie française
-    url: https://www.service-public.pf/dsp/2020/03/19/situation-coronavirus-190320/
-    archive: https://web.archive.org/save/https://www.service-public.pf/dsp/2020/03/19/situation-coronavirus-190320/
+  nom: DSP Polynésie française
+  url: https://www.service-public.pf/dsp/2020/03/19/situation-coronavirus-190320/
+  archive: https://web.archive.org/save/https://www.service-public.pf/dsp/2020/03/19/situation-coronavirus-190320/
 donneesRegionales:
   nom: Polynésie française
   code: COM-987
   casConfirmes: 11
   hospitalises: 2
   deces: 0
-
