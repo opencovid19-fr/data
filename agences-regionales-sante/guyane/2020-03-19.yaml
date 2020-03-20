@@ -1,0 +1,17 @@
+date: "2020-03-19"
+source:
+    nom: ARS Guyane
+    url: https://pbs.twimg.com/media/ETgUg6fWsAIewXm?format=jpg&name=large
+    archive: https://web.archive.org/web/20200320083857/https://pbs.twimg.com/media/ETgUg6fWsAIewXm?format=jpg&name=large
+donneesRegionales:
+  nom: Guyane
+  code: REG-03
+  casConfirmes: 15
+  gueris: 5
+  deces: 0
+donneesDepartementales:
+  - nom: Guyane
+    code: DEP-973
+    casConfirmes: 15
+    gueris: 5
+    deces: 0
