@@ -1,0 +1,19 @@
+date: "2020-03-20"
+source:
+  nom: Ministère des Solidarités et de la Santé
+  url: https://www.dailymotion.com/video/x7sugjb
+donneesNationales:
+  casConfirmes: 12612
+  deces: 450 # 87% des décès sont des personnes de plus de 70 ans
+  hospitalises: 5226 # 35% plus de 65 ans
+  reanimation: 1297
+  gueris: 1587
+donneesMondiales:
+  casConfirmes: 255 000 # "plus de 255 000 cas, estimation globale" 
+  paysTouches: 163
+  deces: 11 000  # "11 000 deces sont signalés"
+  gueris: 87 000
+
+# France : plus de 50 000 tests réalisés par PCR 
+# données mondiales à 1'04
+# données nationales à 2'33
