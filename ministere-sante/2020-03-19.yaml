@@ -1,0 +1,18 @@
+date: 2020-03-19
+source:
+  nom: Ministère des Solidarités et de la Santé
+  url: https://www.dailymotion.com/video/x7stprh
+  archive: https://web.archive.org/web/20200320115928/https://www.dailymotion.com/video/x7stprh
+donneesNationales:
+  casConfirmes: 10995
+  deces: 372
+  casHospitalises: 4461
+  casReanimation: 1122
+  casGueris: 1300
+  CapaciteLitsDisponibles: 3700
+  CapaciteLitsReanimation: 1300
+  CapaciteLitsSoinsContinus: 1600
+  CapaciteLitsSoinsIntensifs: 754
+donneesMondiales:
+  casConfirmes: 235000
+  deces: 9785
