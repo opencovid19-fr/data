@@ -5,9 +5,9 @@ source:
 donneesNationales:
   casConfirmes: 7730
   deces: 175
-  casHospitalises: 2579
-  casReanimation: 699
-  casGueris: 602
+  hospitalises: 2579
+  reanimation: 699
+  gueris: 602
 donneesMondiales:
   casConfirmes: 190000
   deces: 7500
