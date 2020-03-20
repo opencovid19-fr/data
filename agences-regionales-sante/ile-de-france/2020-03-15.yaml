@@ -1,0 +1,10 @@
+date: "2020-03-15"
+source:
+  nom: Santé Publique France
+  url: https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/documents/bulletin-national/covid-19-point-epidemiologique-du-15-mars-2020 # Voir PDF "Situation au 15 mars 2020 à minuit"
+donneesRegionales:
+  nom: Ile-de-France
+  code: REG-11
+  casConfirmes: 1846
+  reanimation: 206 # +51
+  deces: 16
