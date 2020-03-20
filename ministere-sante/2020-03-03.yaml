@@ -1,14 +1,15 @@
-date: 2020-03-03
+date: "2020-03-03"
 source:
   nom: Ministère des Solidarités et de la Santé
   url: https://www.dailymotion.com/video/x7sgicv
-  archive: https://web.archive.org/save/https://www.dailymotion.com/video/x7sgicv
 donneesNationales:
-  casConfirmes: 212
+  casConfirmes: 212 # à 16h. source : santé publique france. +21 qu'hier
   deces: 4
-  casHospitalises: #
-  casReanimation: #
-  casGueris: 12
+  gueris: 12
 donneesMondiales:
-  casConfirmes: #
-  deces: #
+  casConfirmes: 92000
+  gueris: 48000
+  paysTouches: 73
+  deces: 3130
+  
+  # données nationales 1'30
