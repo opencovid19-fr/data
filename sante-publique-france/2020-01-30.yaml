@@ -4,9 +4,21 @@ source:
   url: https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/cas-de-pneumonies-associees-a-un-nouveau-coronavirus-2019-ncov-a-wuhan-en-chine
   archive: https://web.archive.org/web/20200131123433/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/cas-de-pneumonies-associees-a-un-nouveau-coronavirus-2019-ncov-a-wuhan-en-chine
 donneesNationales:
-  casConfirmes: 5
+  casConfirmes: 6
+  hospitalises: 6
   deces: 0
+donneesRegionales:
+  - nom: Ile-de-France
+    code: REG-11
+    casConfirmes: 5
+    hospitalises: 5
+  - nom: Nouvelle-Aquitaine
+    code: REG-75
+    casConfirmes: 1
+    hospitalises: 1
 donneesMondiales:
   paysTouches: 17 # Chine,France,Thaïlande,Taïwan,Corée du Sud,Singapour,Malaisie,Japon,Australie,Etats-Unis,Allemagne,Canada,Vietnam,Népal,Cambodge,Sri Lanka,Emirats Arabes Unis,
   casConfirmes: 7790 # 7711+5+14+8+8+7+7+7+5+5+4+3+2+1+1+1+1
   deces: 170
+  
+# 2e archive: https://web.archive.org/web/20200212192607/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/epidemie-de-coronavirus-covid-19-au-depart-de-wuhan-chine
