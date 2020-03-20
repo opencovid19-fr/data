@@ -9,6 +9,7 @@ donneesRegionales:
   casConfirmes: 268
   deces: 10
   reanimation: 26
+  hospitalises: 85 # 26 patients sont hospitalisés en services de réanimation, 49 en hospitalisation conventionnelle et 6 sont en soins de suite et réadaptation. Quatre patients sont pris en charge aux services d’urgences
 donneesDepartementales:
   - nom: Morbihan
     code: DEP-56
