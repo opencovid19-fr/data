@@ -6,7 +6,7 @@ donneesNationales:
   casConfirmes: 191 # à 16h. source : santé publique france. +61 depuis hier
   deces: 3
 donneesRegionales:
-  - nom: Grand Est
+  - nom: Grand-Est
     code: REG-44
     casConfirmes: 5
 donneesMondiales:
