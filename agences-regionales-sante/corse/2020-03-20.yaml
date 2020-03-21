@@ -1,0 +1,16 @@
+date: 2020-03-20
+source:
+  nom: ARS Corse
+  url: https://www.corse.ars.sante.fr/informations-utiles-et-point-de-situation
+  archive: https://web.archive.org/web/20200320222416/https://www.corse.ars.sante.fr/informations-utiles-et-point-de-situation
+donneesRegionales:
+  nom: Corse
+  code: REG-94
+  casConfirmes: 168
+donneesDepartementales:
+  - nom: Corse du Sud
+    code: DEP-2A
+    casConfirmes: 142 # +4 depuis hier
+  - nom: Haute-Corse
+    code: DEP-2B
+    casConfirmes: 26 # +0 depuis hier
