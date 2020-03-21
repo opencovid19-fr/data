@@ -8,3 +8,5 @@ donneesRegionales:
   code: COM-977
   casConfirmes: 3
   gueris: 1
+#Le nombre de cas confirme peut sembler different du communique. Ce dernier ne donne pas le total des cas mais que le nombre de cas confirmes
+#le jour. Il faut donc revoir ce qui etait dans le precedent communique et rajouter les nouveaux
