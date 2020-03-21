@@ -55,15 +55,17 @@ repository, qui sera modifiable pour vous, et depuis laquel vous
 pourrez soumetre vos `pull requests`:
 
   - (A la premiere utilisation) Faites une copie (`fork`; en haut a droite)
-  - Dans le nouveau repository ajoutez vos fichiers dans les sous dossier 
-  correspondant aux regions/departement de vos données.
+  - Dans le nouveau repository ajoutez votre fichier dans le sous dossier 
+  correspondant aux regions/departement de vos données;
+  - créer une branche pour chaque fichier YAML (e.g. Pour le fichier ARS Corse 
+  du 15 mars, je créé une branche ars-corse-15-03);
   - Creer une pull request pour ajouter vos données au parent;
   - Votre pull request sera examiné par d'autres membres avant d'etre ajoutée
   a l'archive d'origine (`merge`). Il est possible que vous aillez des 
   modifications a faire si il y a des erreurs.
 
-Pour une explication approfondie, par étapes, visuelle referez vous au fichier
-readme [docs/utilise-github.md](https://github.com/payoto/data/blob/master/docs/utilise-github.md).
+Pour une explication approfondie, par étapes, visuelle de l'utilisation preconisé referez vous au fichier
+[docs/utilise-github.md](https://github.com/payoto/data/blob/master/docs/utilise-github.md).
 
 #### Entête de fichier YAML
 
