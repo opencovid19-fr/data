@@ -7,7 +7,7 @@ donneesRegionales:
   nom: Normandie
   code: REG-28
   casConfirmes: 345 # +58
-  deces: 7 # +1 mais voir l'asterisque
+  deces: 7 # +1 depuis hier. 8 personnes décédées moins 1 personne ressortissant d'une autre région, donc 7 au total
   hospitalises: 98
 donneesDepartementales:
   - nom: Manche
