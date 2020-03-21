@@ -8,7 +8,7 @@ donneesRegionales:
   code: REG-53
   casConfirmes: 359
   deces: 15
-  reanimation: 27
+  reanimation: 26
   hospitalises: 116 # 26 en reanimation, 80 en hospitalisation conventionnelle, 9 sont en soins de suite et réadaptation, 1 en service d'urgence.
 donneesDepartementales:
   - nom: Côtes-d'Armor
