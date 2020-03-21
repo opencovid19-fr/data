@@ -1,31 +1,31 @@
 # Guide d'utilisation de github pour opencovid19-fr/data
 
-Ce guide d'utilisation est a destination de ceux qui ont peut ou pas
-d'experience utilisant `git` ou `github` notamment dans un contexte
+Ce guide d'utilisation est à destination de ceux qui ont peut ou pas
+d'expérience utilisant `git` ou `github` notamment dans un contexte
 de projet distribué avec un grand nombre de contributeurs.
 
 ## Guide rapide
 
-Les etapes a suivre sont:
+Les étapes à suivre sont:
 
- + (A la premiere utilisation) Faire une copie a l'archive d'origine
- (aussi appelee `fork`);
- + Ajouter un fichier de donnees `YAML` dans votre copie personelle en
+ + (A la première utilisation) Faire une copie à l'archive d'origine
+ (aussi appelée `fork`);
+ + Ajouter un fichier de données `YAML` dans votre copie personnelle en
   créant une branche pour chaque fichier YAML (Pour le fichier ARS Corse 
   du 15 mars, je créé une branche ars-corse-15-03);
  + Soumettre vos modifications a l'archive d'origine en faisant une `pull-request`.
 
 Ce guide permet de contribuer la donnée sans avoir à installer de programme sur
-votre ordinateur directement à traver l'interface de github.com. Si c'est votre cas
+votre ordinateur directement à travers l'interface de github.com. Si c'est votre cas
 passer directement au [guide en images](#guide-en-images).
 
 Pour les contributeurs plus réguliers les actions avant la soumission peuvent 
-être faites hors ligne pour assurer la sauvegarde d'étapes intermediaires. Les
+être faites hors ligne pour assurer la sauvegarde d'étapes intermédiaires. Les
 sources suivantes devraient-être utiles.
 
 ### Autres sources d'information
 
-[Un tutoriel de l'equipe Beta Gouv](https://github.com/betagouv/beta.gouv.fr/wiki/Tutoriel-Github)
+[Un tutoriel de l’équipe Beta Gouv](https://github.com/betagouv/beta.gouv.fr/wiki/Tutoriel-Github)
 vous explique très clairement les premières étapes a suivre (pour leur site).
 
 Vous parlez anglais mais ne connaissez pas git? Les ressources sur git sont infinies!
@@ -46,16 +46,16 @@ Vous parlez anglais mais ne connaissez pas git? Les ressources sur git sont infi
 Cette section detaille étape par étape la marche à suivre pour ajouter
 une donnée, entièrement de puis votre navigateur web.
 
-### Creation d'une copie personelle (`fork`) 
+### Création d'une copie personelle (`fork`) 
 
-:warning: Cette etape n'est a faire que la premiere fois
+:warning: Cette étape n'est a faire que la première fois
 
-La premiere etape est de creer votre copie personelle en cliquant le bouton
-`fork` en haut a gauche de l'ecran: 
+La première étape est de créer votre copie personnelle en cliquant le bouton
+`fork` en haut a gauche de l’écran: 
 
 ![](https://raw.githubusercontent.com/payoto/data/master/docs/img/explain_github_0.png)
 
-Cette operation vous donne accees a une copie de l'archive sur laquel vous pourrez modifier.
+Cette opération vous donne accès a une copie de l'archive sur laquelle vous pourrez modifier.
 Cette copie se distingue de l'original car elle aura le nom: `<nom d'utilisateur>/data`
 (dans mon cas `payoto/data`).
 
@@ -66,13 +66,13 @@ le bouton `create new file`:
 
 ![](https://raw.githubusercontent.com/payoto/data/master/docs/img/explain_github_1_fork.png)
 
-Ensuite nommez le nouveau fichier de telle maniere a ce qu'il soit dans
+Ensuite nommez le nouveau fichier de telle manière a ce qu'il soit dans
 le bon sous dossier:
 
 ![](https://raw.githubusercontent.com/payoto/data/master/docs/img/explain_github_2_newfile.png)
 
 Ajoutez ensuite le contenu du fichier comme si dessous
-:warning: il est preferable de preparer le contenu du fichier
+:warning: il est préférable de préparer le contenu du fichier
 dans un fichier sauvegarde sur votre ordinateur.
 
 Ajoutez ensuite le contenu du fichier comme si dessous:
@@ -84,13 +84,13 @@ en créant une nouvelle branche et en faisant un `commit`. Pas de
 panique github fait tout pour nous! Le commit contient deux parties:
 
  + Un titre court: `Ajout du <DD/MM/YY> <Departement ou region>`
- + Et une description pas necessaire pour un ajout simple mais utile
+ + Et une description pas nécessaire pour un ajout simple mais utile
  pour une correction.
 
  On donne un nom clair a la nouvelle branche: 
 
   + Standard: Ajout <source>-<geographie>-AAAA-MM-JJ
-  + example: Ajout ars-guadeloupe-2020-03-20
+  + exemple: Ajout ars-guadeloupe-2020-03-20
  
 ![](https://raw.githubusercontent.com/payoto/data/master/docs/img/explain_github_4_branch.png)
 
@@ -104,39 +104,39 @@ Vous avez maintenant ajoute vos donnees dans une nouvelle branche de
 votre copie personnelle de l'archive. Il s'agit maintenant d'ajouter
 cette branche au depôt parent. 
 
-### Creation d'une pull request
+### Création d'une pull request
 
-Il s'agit maintenant de transferer ces modifications a l'archive d'origine
-en creant une "pull request".
+Il s'agit maintenant de transférer ces modifications a l'archive d'origine
+en créant une "pull request".
 
 Depuis votre copie cliquez sur le bouton `Compare & pull request` pour la branche
 que vous voulez ajouter:
 
 ![](https://raw.githubusercontent.com/payoto/data/master/docs/img/explain_github_5_updatedforkbranch.png)
 
-Ici cette ecran vous montre la difference entre la branche `payoto:ars-guadeloupe-2020-03-20` 
+Ici cette écran vous montre la différence entre la branche `payoto:ars-guadeloupe-2020-03-20` 
 (de votre archive) et de la branche `master` de l'archive d'origine.
 
 Cliquez sur `Create pull request`
 
 ![](https://raw.githubusercontent.com/payoto/data/master/docs/img/explain_github_6_startPR.png)
 
-Remarquez que cette operation vous a transfere dans l'archive mere 
+Remarquez que cette opération vous a transféré dans l'archive mère 
 (indique par le nom en haut a gauche).
 
 Comme pour le commit ajoutez un titre logique et une explication
-si necessaire. Ensuite cliquez sur `Create pull request` (A nouveau!)
+si nécessaire. Ensuite cliquez sur `Create pull request` (A nouveau!)
 
 ![](https://raw.githubusercontent.com/payoto/data/master/docs/img/explain_github_7_createPR.png)
 
 C'est bon vos modifications sont soumises a la revue par les pairs 
 ([code review](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-request-reviews))!
-Pour un explicatif video du procede voir la [video suivante](https://www.youtube.com/watch?v=HW0RPaJqm4g).
+Pour un explicatif vidéo du procédé voir la [vidéo suivante](https://www.youtube.com/watch?v=HW0RPaJqm4g).
 
 ![](https://raw.githubusercontent.com/payoto/data/master/docs/img/explain_github_8_PRs.png)
 
 Gardez un oeuil sur vos mail ou sur github car des modifications peuvent
-vous etre demandees.
+vous être demandées.
 
 Merci pour vos contributions!
 
