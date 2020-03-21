@@ -9,13 +9,9 @@ donneesRegionales:
   casConfirmes: 9
   hospitalises: 3
   reanimation: 1
-  gueris: 0
-  deces: 0
 donneesDepartementales:
   - nom: Mayotte
     code: DEP-976
     casConfirmes: 9
     hospitalises: 3
     reanimation: 1
-    gueris: 0
-    deces: 0

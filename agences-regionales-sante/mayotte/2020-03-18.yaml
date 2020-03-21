@@ -8,13 +8,9 @@ donneesRegionales:
   code: REG-06
   casConfirmes: 3
   hospitalises: 3
-  gueris: 0
-  deces: 0
 donneesDepartementales:
   - nom: Mayotte
     code: DEP-976
     casConfirmes: 3
     hospitalises: 3 #pris en charge au Centre Hospitalier de Mayotte (CHM)
-    gueris: 0
-    deces: 0
 #Pas de nouveaux cas ce jour. Le communiqué fait le point sur les 3 cas totaux de la veille.

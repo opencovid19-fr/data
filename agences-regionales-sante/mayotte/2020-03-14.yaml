@@ -8,12 +8,8 @@ donneesRegionales:
   code: REG-06
   casConfirmes: 1
   hospitalises: 1
-  gueris: 0
-  deces: 0
 donneesDepartementales:
   - nom: Mayotte
     code: DEP-976
     casConfirmes: 1
     hospitalises: 1 #pris en charge au Centre Hospitalier de Mayotte (CHM)
-    gueris: 0
-    deces: 0
