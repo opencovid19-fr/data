@@ -6,8 +6,8 @@ source:
 donneesRegionales:
   nom: Pays de la Loire
   code: REG-52
-  casConfirmes: 161
-  reanimation: 25 
-  deces: 3
-# Pas de données sur le nombre de guéris et sur les départements dans ce bulletin d'information
+  casConfirmes: 161 # +52 par rapport à lundi
+  reanimation: 25 # dont 17 confirmés et 8 en attente de résultats
+  deces: 3 # 1 au CHU d'Angers et 1 au CHU de Nantes
 
+# Pas de données sur le nombre de guéris et sur les départements dans ce bulletin d'information
