@@ -1,9 +1,9 @@
 date: 2020-03-19
 source:
-  nom: ARS Auvergne Rhône-Alpes
+  nom: ARS Auvergne-Rhône-Alpes
   url: https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200319_ARSARA_PrefARA_CP_COVID-19_Point_Situation_0.pdf
 donneesRegionales:
-  nom: Auvergne Rhône-Alpes
+  nom: Auvergne-Rhône-Alpes
   code: REG-84
   casConfirmes: 1014 # +156 Décalage par rapport aux sommes départementales
   deces: 39 # +12
