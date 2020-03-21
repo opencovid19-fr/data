@@ -3,11 +3,11 @@ source:
   nom: Santé publique France
   url: https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/cas-de-pneumonies-associees-a-un-nouveau-coronavirus-2019-ncov-a-wuhan-en-chine
   archive: https://web.archive.org/web/20200131123433/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/cas-de-pneumonies-associees-a-un-nouveau-coronavirus-2019-ncov-a-wuhan-en-chine
-donneesNationales:
+donneesNationales: # Cf l'archive 2, en bas de page, après le bulletin du 12/02
   casConfirmes: 6
   hospitalises: 6
   deces: 0
-donneesRegionales:
+donneesRegionales: # Cf l'archive 2, en bas de page, après le bulletin du 12/02
   - nom: Ile-de-France
     code: REG-11
     casConfirmes: 5
