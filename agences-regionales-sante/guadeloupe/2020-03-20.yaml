@@ -6,7 +6,7 @@ source:
 donneesRegionales:
   nom: Guadeloupe
   code: REG-01
-  casConfirmes: 51
+  casConfirmes: 51 # +6 depuis hier
   hospitalises: 11
   reanimation: 4
   deces: 1
