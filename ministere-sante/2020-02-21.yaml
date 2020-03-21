@@ -1,0 +1,16 @@
+date: "2020-02-21"
+source:
+  nom: Ministère des Solidarités et de la Santé
+  url: https://www.dailymotion.com/video/x7s2l4u
+donneesNationales:
+  casConfirmes: 12 # +0 cas depuis hier
+  deces: 1
+  gueris: 10
+  hospitalises: 1
+donneesMondiales:
+  casConfirmes: 76787
+  deces: 2248 # cité à 2'30
+
+# 4 français sur le Diamond Princess
+# données nationales à 6'20
+# données mondiales à 0'00
