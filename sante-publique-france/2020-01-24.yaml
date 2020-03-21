@@ -16,6 +16,12 @@ donneesRegionales:
     code: REG-75
     casConfirmes: 1
     hospitalises: 1
+    donneesRegionales:
+donneesDepartementales:
+  - nom: Gironde
+    code: DEP-33
+    casConfirmes: 1
+    hospitalises: 1
 donneesMondiales:
   paysTouches: 8 # Chine, Thaïlande, Singapour, Japon, République de Corée, Vietnam, Taïwan et Etats-Unis
   casConfirmes: 897
