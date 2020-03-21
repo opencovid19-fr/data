@@ -31,16 +31,16 @@ donneesDepartementales:
     hospitalises: 8
     reanimation: 1
     deces: 1
-  - nom: Gers
-    code: DEP-32
-    hospitalises: 3
-    reanimation: 3
-    deces: 0
   - nom: Haute-Garonne
     code: DEP-31
     hospitalises: 37
     reanimation: 11
     deces: 2
+  - nom: Gers
+    code: DEP-32
+    hospitalises: 3
+    reanimation: 3
+    deces: 0
   - nom: Hérault
     code: DEP-34
     hospitalises: 61
