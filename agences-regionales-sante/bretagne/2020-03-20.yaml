@@ -11,15 +11,15 @@ donneesRegionales:
   reanimation: 27
   hospitalises: 96 # 27 en reanimation, 60 en hospitalisation conventionnelle, 7 sont en soins de suite et réadaptation, 2 en service d'urgence.
 donneesDepartementales:
-  - nom: Morbihan
-    code: DEP-56
-    casConfirmes: 134
-  - nom: Ille-et-Vilaine
-    code: DEP-35
-    casConfirmes: 72
-  - nom: Finistère
-    code: DEP-29
-    casConfirmes: 79
   - nom: Côtes-d'Armor
     code: DEP-22
     casConfirmes: 21
+  - nom: Finistère
+    code: DEP-29
+    casConfirmes: 79
+  - nom: Ille-et-Vilaine
+    code: DEP-35
+    casConfirmes: 72
+  - nom: Morbihan
+    code: DEP-56
+    casConfirmes: 134
