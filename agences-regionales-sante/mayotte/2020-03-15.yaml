@@ -1,6 +1,7 @@
 date: "2020-03-15"
 source:
     nom: ARS Mayotte
+#Journée pour combler le trou entre le 14 et le 16 ou aucun changement n'a eu lieu (pas de communiqué).
 donneesRegionales:
   nom: Mayotte
   code: REG-06
@@ -11,4 +12,3 @@ donneesDepartementales:
     code: DEP-976
     casConfirmes: 1
     hospitalises: 1 #pris en charge au Centre Hospitalier de Mayotte (CHM)
-#journée pour combler le trou entre le 14 et le 16 ou aucun changement n'a eu lieu (pas de communiqué).
