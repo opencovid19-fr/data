@@ -590,6 +590,46 @@
     "code": "WORLD"
   },
   {
+    "date": "2020-02-21",
+    "source": {
+      "nom": "Ministère des Solidarités et de la Santé",
+      "url": "https://www.dailymotion.com/video/x7s2l4u"
+    },
+    "sourceType": "ministere-sante",
+    "casConfirmes": 12,
+    "deces": 1,
+    "gueris": 10,
+    "hospitalises": 1,
+    "nom": "France",
+    "code": "FRA"
+  },
+  {
+    "date": "2020-02-21",
+    "source": {
+      "nom": "Ministère des Solidarités et de la Santé",
+      "url": "https://www.dailymotion.com/video/x7s2l4u"
+    },
+    "sourceType": "ministere-sante",
+    "casConfirmes": 76787,
+    "deces": 2248,
+    "nom": "Monde",
+    "code": "WORLD"
+  },
+  {
+    "date": "2020-02-23",
+    "source": {
+      "nom": "Ministère des Solidarités et de la Santé",
+      "url": "https://www.dailymotion.com/video/x7s4yks"
+    },
+    "sourceType": "ministere-sante",
+    "casConfirmes": 12,
+    "deces": 1,
+    "gueris": 10,
+    "hospitalises": 1,
+    "nom": "France",
+    "code": "FRA"
+  },
+  {
     "date": "2020-02-24",
     "source": {
       "nom": "Coronavirus-France-Dataset",
@@ -601,6 +641,31 @@
     "nom": "Gironde"
   },
   {
+    "date": "2020-02-24",
+    "source": {
+      "nom": "Ministère des Solidarités et de la Santé",
+      "url": "https://www.dailymotion.com/video/x7s6c04"
+    },
+    "sourceType": "ministere-sante",
+    "casConfirmes": 12,
+    "deces": 1,
+    "gueris": 11,
+    "nom": "France",
+    "code": "FRA"
+  },
+  {
+    "date": "2020-02-24",
+    "source": {
+      "nom": "Ministère des Solidarités et de la Santé",
+      "url": "https://www.dailymotion.com/video/x7s6c04"
+    },
+    "sourceType": "ministere-sante",
+    "casConfirmes": 80000,
+    "deces": 2620,
+    "nom": "Monde",
+    "code": "WORLD"
+  },
+  {
     "date": "2020-02-25",
     "source": {
       "nom": "Coronavirus-France-Dataset",
@@ -610,6 +675,34 @@
     "casConfirmes": 7,
     "code": "DEP-74",
     "nom": "Haute-Savoie"
+  },
+  {
+    "date": "2020-02-25",
+    "source": {
+      "nom": "Ministère des Solidarités et de la Santé",
+      "url": "https://www.dailymotion.com/video/x7s7wtl"
+    },
+    "sourceType": "ministere-sante",
+    "casConfirmes": 14,
+    "deces": 1,
+    "gueris": 11,
+    "hospitalises": 2,
+    "nom": "France",
+    "code": "FRA"
+  },
+  {
+    "date": "2020-02-25",
+    "source": {
+      "nom": "Ministère des Solidarités et de la Santé",
+      "url": "https://www.dailymotion.com/video/x7s7wtl"
+    },
+    "sourceType": "ministere-sante",
+    "casConfirmes": 80000,
+    "gueris": 28000,
+    "paysTouches": 36,
+    "deces": 2705,
+    "nom": "Monde",
+    "code": "WORLD"
   },
   {
     "date": "2020-02-26",
@@ -732,6 +825,20 @@
   {
     "date": "2020-02-26",
     "source": {
+      "nom": "Ministère des Solidarités et de la Santé",
+      "url": "https://www.dailymotion.com/video/x7s9fw9"
+    },
+    "sourceType": "ministere-sante",
+    "casConfirmes": 18,
+    "deces": 2,
+    "gueris": 12,
+    "hospitalises": 4,
+    "nom": "France",
+    "code": "FRA"
+  },
+  {
+    "date": "2020-02-26",
+    "source": {
       "nom": "ARS Hauts-de-France",
       "url": "https://www.hauts-de-france.ars.sante.fr/coronavirus-point-de-situation-en-hauts-de-france",
       "archive": "https://web.archive.org/web/20200315094209/https://www.hauts-de-france.ars.sante.fr/coronavirus-point-de-situation-en-hauts-de-france"
@@ -765,6 +872,20 @@
     "paysTouches": 40,
     "casConfirmes": 81027,
     "deces": 2764,
+    "nom": "Monde",
+    "code": "WORLD"
+  },
+  {
+    "date": "2020-02-26",
+    "source": {
+      "nom": "Ministère des Solidarités et de la Santé",
+      "url": "https://www.dailymotion.com/video/x7s9fw9"
+    },
+    "sourceType": "ministere-sante",
+    "casConfirmes": 81000,
+    "gueris": 30000,
+    "paysTouches": 42,
+    "deces": 2770,
     "nom": "Monde",
     "code": "WORLD"
   },
@@ -816,7 +937,8 @@
     "date": "2020-02-27",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-02/200227_ARSARA_CP_2_cas_Covid-19_74_0.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-02/200227_ARSARA_CP_2_cas_Covid-19_74_0.pdf",
+      "archive": "https://web.archive.org/web/20200321172039/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-02/200227_ARSARA_CP_2_cas_Covid-19_74_0.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Haute-Savoie",
@@ -843,7 +965,8 @@
     "date": "2020-02-27",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-02/200227_ARSARA_CP_2_cas_Covid-19_74_0.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-02/200227_ARSARA_CP_2_cas_Covid-19_74_0.pdf",
+      "archive": "https://web.archive.org/web/20200321172039/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-02/200227_ARSARA_CP_2_cas_Covid-19_74_0.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Auvergne-Rhône-Alpes",
@@ -1610,7 +1733,8 @@
     "date": "2020-03-02",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200302_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200302_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171945/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200302_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Ain",
@@ -1809,7 +1933,8 @@
     "date": "2020-03-02",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200302_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200302_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171945/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200302_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Rhône",
@@ -1821,7 +1946,8 @@
     "date": "2020-03-02",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200302_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200302_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171945/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200302_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Haute-Savoie",
@@ -2099,7 +2225,8 @@
     "date": "2020-03-02",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200302_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200302_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171945/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200302_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Auvergne-Rhône-Alpes",
@@ -2162,7 +2289,8 @@
     "date": "2020-03-03",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200303_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200303_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171859/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200303_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Ain",
@@ -2329,7 +2457,8 @@
     "date": "2020-03-03",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200303_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200303_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171859/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200303_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Rhône",
@@ -2352,7 +2481,8 @@
     "date": "2020-03-03",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200303_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200303_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171859/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200303_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Savoie",
@@ -2364,7 +2494,8 @@
     "date": "2020-03-03",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200303_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200303_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171859/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200303_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Drôme",
@@ -2376,7 +2507,8 @@
     "date": "2020-03-03",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200303_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200303_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171859/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200303_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Haute-Savoie",
@@ -2481,7 +2613,8 @@
     "date": "2020-03-03",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200303_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200303_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171859/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200303_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Auvergne-Rhône-Alpes",
@@ -2546,7 +2679,8 @@
     "date": "2020-03-04",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200304_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200304_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171826/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200304_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Ain",
@@ -2939,7 +3073,8 @@
     "date": "2020-03-04",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200304_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200304_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171826/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200304_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Rhône",
@@ -2973,7 +3108,8 @@
     "date": "2020-03-04",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200304_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200304_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171826/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200304_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Savoie",
@@ -2985,7 +3121,8 @@
     "date": "2020-03-04",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200304_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200304_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171826/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200304_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Drôme",
@@ -2997,7 +3134,8 @@
     "date": "2020-03-04",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200304_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200304_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171826/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200304_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Haute-Savoie",
@@ -3365,7 +3503,8 @@
     "date": "2020-03-04",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200304_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200304_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171826/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200304_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Auvergne-Rhône-Alpes",
@@ -3477,7 +3616,8 @@
     "date": "2020-03-05",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200305_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200305_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171638/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200305_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Ain",
@@ -3675,7 +3815,8 @@
     "date": "2020-03-05",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200305_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200305_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171638/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200305_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Drôme",
@@ -3966,7 +4107,8 @@
     "date": "2020-03-05",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200305_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200305_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171638/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200305_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Rhône",
@@ -3989,7 +4131,8 @@
     "date": "2020-03-05",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200305_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200305_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171638/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200305_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Savoie",
@@ -4001,7 +4144,8 @@
     "date": "2020-03-05",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200305_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200305_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171638/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200305_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Haute-Savoie",
@@ -4474,7 +4618,8 @@
     "date": "2020-03-05",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200305_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200305_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171638/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200305_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Auvergne-Rhône-Alpes",
@@ -4621,7 +4766,8 @@
     "date": "2020-03-06",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200305_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200306_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171716/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200306_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Ain",
@@ -4680,7 +4826,8 @@
     "date": "2020-03-06",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200305_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200306_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171716/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200306_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Ardèche",
@@ -4840,7 +4987,8 @@
     "date": "2020-03-06",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200305_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200306_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171716/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200306_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Drôme",
@@ -5042,7 +5190,8 @@
     "date": "2020-03-06",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200305_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200306_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171716/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200306_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Loire",
@@ -5254,7 +5403,8 @@
     "date": "2020-03-06",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200305_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200306_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171716/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200306_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Puy-de-Dôme",
@@ -5290,7 +5440,8 @@
     "date": "2020-03-06",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200305_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200306_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171716/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200306_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Rhône",
@@ -5347,7 +5498,8 @@
     "date": "2020-03-06",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200305_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200306_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171716/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200306_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Savoie",
@@ -5359,7 +5511,8 @@
     "date": "2020-03-06",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200305_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200306_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171716/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200306_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Haute-Savoie",
@@ -5952,7 +6105,8 @@
     "date": "2020-03-06",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200305_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200306_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171716/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200306_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Auvergne-Rhône-Alpes",
@@ -6079,7 +6233,8 @@
     "date": "2020-03-07",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200307_ARSARA_COVID-19_Point_Situation_0.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200307_ARSARA_COVID-19_Point_Situation_0.pdf",
+      "archive": "https://web.archive.org/web/20200321171559/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200307_ARSARA_COVID-19_Point_Situation_0.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Ain",
@@ -6126,7 +6281,8 @@
     "date": "2020-03-07",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200307_ARSARA_COVID-19_Point_Situation_0.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200307_ARSARA_COVID-19_Point_Situation_0.pdf",
+      "archive": "https://web.archive.org/web/20200321171559/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200307_ARSARA_COVID-19_Point_Situation_0.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Ardèche",
@@ -6272,7 +6428,8 @@
     "date": "2020-03-07",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200307_ARSARA_COVID-19_Point_Situation_0.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200307_ARSARA_COVID-19_Point_Situation_0.pdf",
+      "archive": "https://web.archive.org/web/20200321171559/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200307_ARSARA_COVID-19_Point_Situation_0.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Drôme",
@@ -6450,7 +6607,8 @@
     "date": "2020-03-07",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200307_ARSARA_COVID-19_Point_Situation_0.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200307_ARSARA_COVID-19_Point_Situation_0.pdf",
+      "archive": "https://web.archive.org/web/20200321171559/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200307_ARSARA_COVID-19_Point_Situation_0.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Loire",
@@ -6602,7 +6760,8 @@
     "date": "2020-03-07",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200307_ARSARA_COVID-19_Point_Situation_0.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200307_ARSARA_COVID-19_Point_Situation_0.pdf",
+      "archive": "https://web.archive.org/web/20200321171559/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200307_ARSARA_COVID-19_Point_Situation_0.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Puy-de-Dôme",
@@ -6648,7 +6807,8 @@
     "date": "2020-03-07",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200307_ARSARA_COVID-19_Point_Situation_0.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200307_ARSARA_COVID-19_Point_Situation_0.pdf",
+      "archive": "https://web.archive.org/web/20200321171559/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200307_ARSARA_COVID-19_Point_Situation_0.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Rhône",
@@ -6683,7 +6843,8 @@
     "date": "2020-03-07",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200307_ARSARA_COVID-19_Point_Situation_0.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200307_ARSARA_COVID-19_Point_Situation_0.pdf",
+      "archive": "https://web.archive.org/web/20200321171559/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200307_ARSARA_COVID-19_Point_Situation_0.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Savoie",
@@ -6696,7 +6857,8 @@
     "date": "2020-03-07",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200307_ARSARA_COVID-19_Point_Situation_0.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200307_ARSARA_COVID-19_Point_Situation_0.pdf",
+      "archive": "https://web.archive.org/web/20200321171559/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200307_ARSARA_COVID-19_Point_Situation_0.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Haute-Savoie",
@@ -7207,7 +7369,8 @@
     "date": "2020-03-07",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200307_ARSARA_COVID-19_Point_Situation_0.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200307_ARSARA_COVID-19_Point_Situation_0.pdf",
+      "archive": "https://web.archive.org/web/20200321171559/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200307_ARSARA_COVID-19_Point_Situation_0.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Auvergne-Rhône-Alpes",
@@ -7310,7 +7473,8 @@
     "date": "2020-03-08",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200308_ARSARA_COVID-19_Point_Situation_1.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200308_ARSARA_COVID-19_Point_Situation_1.pdf",
+      "archive": "https://web.archive.org/web/20200321171459/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200308_ARSARA_COVID-19_Point_Situation_1.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Ain",
@@ -7369,7 +7533,8 @@
     "date": "2020-03-08",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200308_ARSARA_COVID-19_Point_Situation_1.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200308_ARSARA_COVID-19_Point_Situation_1.pdf",
+      "archive": "https://web.archive.org/web/20200321171459/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200308_ARSARA_COVID-19_Point_Situation_1.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Ardèche",
@@ -7560,7 +7725,8 @@
     "date": "2020-03-08",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200308_ARSARA_COVID-19_Point_Situation_1.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200308_ARSARA_COVID-19_Point_Situation_1.pdf",
+      "archive": "https://web.archive.org/web/20200321171459/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200308_ARSARA_COVID-19_Point_Situation_1.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Drôme",
@@ -7732,7 +7898,8 @@
     "date": "2020-03-08",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200308_ARSARA_COVID-19_Point_Situation_1.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200308_ARSARA_COVID-19_Point_Situation_1.pdf",
+      "archive": "https://web.archive.org/web/20200321171459/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200308_ARSARA_COVID-19_Point_Situation_1.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Loire",
@@ -7977,7 +8144,8 @@
     "date": "2020-03-08",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200308_ARSARA_COVID-19_Point_Situation_1.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200308_ARSARA_COVID-19_Point_Situation_1.pdf",
+      "archive": "https://web.archive.org/web/20200321171459/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200308_ARSARA_COVID-19_Point_Situation_1.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Puy-de-Dôme",
@@ -8037,7 +8205,8 @@
     "date": "2020-03-08",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200308_ARSARA_COVID-19_Point_Situation_1.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200308_ARSARA_COVID-19_Point_Situation_1.pdf",
+      "archive": "https://web.archive.org/web/20200321171459/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200308_ARSARA_COVID-19_Point_Situation_1.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Rhône",
@@ -8072,7 +8241,8 @@
     "date": "2020-03-08",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200308_ARSARA_COVID-19_Point_Situation_1.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200308_ARSARA_COVID-19_Point_Situation_1.pdf",
+      "archive": "https://web.archive.org/web/20200321171459/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200308_ARSARA_COVID-19_Point_Situation_1.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Savoie",
@@ -8084,7 +8254,8 @@
     "date": "2020-03-08",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200308_ARSARA_COVID-19_Point_Situation_1.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200308_ARSARA_COVID-19_Point_Situation_1.pdf",
+      "archive": "https://web.archive.org/web/20200321171459/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200308_ARSARA_COVID-19_Point_Situation_1.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Haute-Savoie",
@@ -8457,7 +8628,8 @@
     "date": "2020-03-08",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200308_ARSARA_COVID-19_Point_Situation_1.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200308_ARSARA_COVID-19_Point_Situation_1.pdf",
+      "archive": "https://web.archive.org/web/20200321171459/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200308_ARSARA_COVID-19_Point_Situation_1.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Auvergne-Rhône-Alpes",
@@ -8519,7 +8691,8 @@
     "date": "2020-03-09",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200309_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200309_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171424/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200309_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Ain",
@@ -8614,7 +8787,8 @@
     "date": "2020-03-09",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200309_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200309_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171424/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200309_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Ardèche",
@@ -8795,7 +8969,8 @@
     "date": "2020-03-09",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200309_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200309_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171424/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200309_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Drôme",
@@ -8953,7 +9128,8 @@
     "date": "2020-03-09",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200309_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200309_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171424/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200309_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Isère",
@@ -8976,7 +9152,8 @@
     "date": "2020-03-09",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200309_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200309_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171424/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200309_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Loire",
@@ -9221,7 +9398,8 @@
     "date": "2020-03-09",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200309_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200309_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171424/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200309_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Puy-de-Dôme",
@@ -9281,7 +9459,8 @@
     "date": "2020-03-09",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200309_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200309_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171424/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200309_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Rhône",
@@ -9311,7 +9490,8 @@
     "date": "2020-03-09",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200309_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200309_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171424/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200309_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Savoie",
@@ -9330,7 +9510,8 @@
     "date": "2020-03-09",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200309_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200309_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171424/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200309_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Haute-Savoie",
@@ -9747,7 +9928,8 @@
     "date": "2020-03-09",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200309_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200309_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171424/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200309_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Auvergne-Rhône-Alpes",
@@ -9837,7 +10019,8 @@
     "date": "2020-03-10",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200310_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200310_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171347/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200310_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Ain",
@@ -9909,7 +10092,8 @@
     "date": "2020-03-10",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200310_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200310_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171347/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200310_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Ardèche",
@@ -10113,7 +10297,8 @@
     "date": "2020-03-10",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200310_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200310_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171347/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200310_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Drôme",
@@ -10318,7 +10503,8 @@
     "date": "2020-03-10",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200310_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200310_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171347/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200310_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Isère",
@@ -10365,7 +10551,8 @@
     "date": "2020-03-10",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200310_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200310_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171347/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200310_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Loire",
@@ -10617,7 +10804,8 @@
     "date": "2020-03-10",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200310_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200310_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171347/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200310_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Puy-de-Dôme",
@@ -10682,7 +10870,8 @@
     "date": "2020-03-10",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200310_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200310_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171347/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200310_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Rhône",
@@ -10734,7 +10923,8 @@
     "date": "2020-03-10",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200310_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200310_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171347/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200310_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Savoie",
@@ -10753,7 +10943,8 @@
     "date": "2020-03-10",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200310_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200310_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171347/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200310_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Haute-Savoie",
@@ -11390,7 +11581,8 @@
     "date": "2020-03-10",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200310_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200310_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171347/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200310_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Auvergne-Rhône-Alpes",
@@ -11515,7 +11707,8 @@
     "date": "2020-03-11",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200311_ARSARA_COVID-19_Point_Situation_0.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200311_ARSARA_COVID-19_Point_Situation_0.pdf",
+      "archive": "https://web.archive.org/web/20200321171300/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200311_ARSARA_COVID-19_Point_Situation_0.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Ain",
@@ -11563,7 +11756,8 @@
     "date": "2020-03-11",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200311_ARSARA_COVID-19_Point_Situation_0.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200311_ARSARA_COVID-19_Point_Situation_0.pdf",
+      "archive": "https://web.archive.org/web/20200321171300/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200311_ARSARA_COVID-19_Point_Situation_0.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Ardèche",
@@ -11791,7 +11985,8 @@
     "date": "2020-03-11",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200311_ARSARA_COVID-19_Point_Situation_0.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200311_ARSARA_COVID-19_Point_Situation_0.pdf",
+      "archive": "https://web.archive.org/web/20200321171300/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200311_ARSARA_COVID-19_Point_Situation_0.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Drôme",
@@ -12035,7 +12230,8 @@
     "date": "2020-03-11",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200311_ARSARA_COVID-19_Point_Situation_0.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200311_ARSARA_COVID-19_Point_Situation_0.pdf",
+      "archive": "https://web.archive.org/web/20200321171300/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200311_ARSARA_COVID-19_Point_Situation_0.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Isère",
@@ -12092,7 +12288,8 @@
     "date": "2020-03-11",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200311_ARSARA_COVID-19_Point_Situation_0.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200311_ARSARA_COVID-19_Point_Situation_0.pdf",
+      "archive": "https://web.archive.org/web/20200321171300/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200311_ARSARA_COVID-19_Point_Situation_0.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Loire",
@@ -12105,7 +12302,8 @@
     "date": "2020-03-11",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200311_ARSARA_COVID-19_Point_Situation_0.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200311_ARSARA_COVID-19_Point_Situation_0.pdf",
+      "archive": "https://web.archive.org/web/20200321171300/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200311_ARSARA_COVID-19_Point_Situation_0.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Haute-Loire",
@@ -12325,7 +12523,8 @@
     "date": "2020-03-11",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200311_ARSARA_COVID-19_Point_Situation_0.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200311_ARSARA_COVID-19_Point_Situation_0.pdf",
+      "archive": "https://web.archive.org/web/20200321171300/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200311_ARSARA_COVID-19_Point_Situation_0.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Puy-de-Dôme",
@@ -12430,7 +12629,8 @@
     "date": "2020-03-11",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200311_ARSARA_COVID-19_Point_Situation_0.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200311_ARSARA_COVID-19_Point_Situation_0.pdf",
+      "archive": "https://web.archive.org/web/20200321171300/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200311_ARSARA_COVID-19_Point_Situation_0.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Rhône",
@@ -12460,7 +12660,8 @@
     "date": "2020-03-11",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200311_ARSARA_COVID-19_Point_Situation_0.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200311_ARSARA_COVID-19_Point_Situation_0.pdf",
+      "archive": "https://web.archive.org/web/20200321171300/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200311_ARSARA_COVID-19_Point_Situation_0.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Savoie",
@@ -12479,7 +12680,8 @@
     "date": "2020-03-11",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200311_ARSARA_COVID-19_Point_Situation_0.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200311_ARSARA_COVID-19_Point_Situation_0.pdf",
+      "archive": "https://web.archive.org/web/20200321171300/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200311_ARSARA_COVID-19_Point_Situation_0.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Haute-Savoie",
@@ -13165,7 +13367,8 @@
     "date": "2020-03-11",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200311_ARSARA_COVID-19_Point_Situation_0.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200311_ARSARA_COVID-19_Point_Situation_0.pdf",
+      "archive": "https://web.archive.org/web/20200321171300/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200311_ARSARA_COVID-19_Point_Situation_0.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Auvergne-Rhône-Alpes",
@@ -13305,7 +13508,8 @@
     "date": "2020-03-12",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "http://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200312_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "http://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200312_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171221/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200312_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Ain",
@@ -13330,7 +13534,8 @@
     "date": "2020-03-12",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "http://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200312_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "http://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200312_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171221/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200312_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Allier",
@@ -13390,7 +13595,8 @@
     "date": "2020-03-12",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "http://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200312_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "http://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200312_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171221/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200312_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Ardèche",
@@ -13588,7 +13794,8 @@
     "date": "2020-03-12",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "http://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200312_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "http://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200312_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171221/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200312_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Drôme",
@@ -13822,7 +14029,8 @@
     "date": "2020-03-12",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "http://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200312_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "http://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200312_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171221/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200312_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Isère",
@@ -13879,7 +14087,8 @@
     "date": "2020-03-12",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "http://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200312_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "http://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200312_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171221/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200312_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Loire",
@@ -13892,7 +14101,8 @@
     "date": "2020-03-12",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "http://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200312_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "http://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200312_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171221/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200312_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Haute-Loire",
@@ -14109,7 +14319,8 @@
     "date": "2020-03-12",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "http://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200312_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "http://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200312_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171221/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200312_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Puy-de-Dôme",
@@ -14168,7 +14379,8 @@
     "date": "2020-03-12",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "http://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200312_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "http://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200312_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171221/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200312_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Rhône",
@@ -14244,7 +14456,8 @@
     "date": "2020-03-12",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "http://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200312_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "http://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200312_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171221/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200312_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Savoie",
@@ -14263,7 +14476,8 @@
     "date": "2020-03-12",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "http://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200312_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "http://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200312_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171221/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200312_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Haute-Savoie",
@@ -14846,7 +15060,8 @@
     "date": "2020-03-12",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "http://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200312_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "http://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200312_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171221/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200312_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Auvergne-Rhône-Alpes",
@@ -16430,7 +16645,8 @@
     "date": "2020-03-14",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200314_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200314_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171037/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200314_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Ain",
@@ -16455,7 +16671,8 @@
     "date": "2020-03-14",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200314_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200314_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171037/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200314_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Allier",
@@ -16467,7 +16684,8 @@
     "date": "2020-03-14",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200314_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200314_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171037/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200314_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Ardèche",
@@ -16536,7 +16754,8 @@
     "date": "2020-03-14",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200314_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200314_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171037/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200314_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Cantal",
@@ -16651,7 +16870,8 @@
     "date": "2020-03-14",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200314_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200314_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171037/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200314_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Drôme",
@@ -16848,7 +17068,8 @@
     "date": "2020-03-14",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200314_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200314_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171037/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200314_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Isère",
@@ -16894,7 +17115,8 @@
     "date": "2020-03-14",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200314_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200314_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171037/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200314_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Loire",
@@ -16907,7 +17129,8 @@
     "date": "2020-03-14",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200314_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200314_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171037/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200314_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Haute-Loire",
@@ -17152,7 +17375,8 @@
     "date": "2020-03-14",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200314_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200314_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171037/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200314_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Puy-de-Dôme",
@@ -17220,7 +17444,8 @@
     "date": "2020-03-14",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200314_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200314_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171037/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200314_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Rhône",
@@ -17302,7 +17527,8 @@
     "date": "2020-03-14",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200314_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200314_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171037/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200314_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Savoie",
@@ -17321,7 +17547,8 @@
     "date": "2020-03-14",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200314_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200314_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171037/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200314_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Haute-Savoie",
@@ -17849,7 +18076,8 @@
     "date": "2020-03-14",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200314_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200314_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171037/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200314_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Auvergne-Rhône-Alpes",
@@ -18001,7 +18229,8 @@
     "date": "2020-03-15",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200315_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200315_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171001/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200315_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Ain",
@@ -18013,7 +18242,8 @@
     "date": "2020-03-15",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200315_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200315_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171001/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200315_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Allier",
@@ -18025,7 +18255,8 @@
     "date": "2020-03-15",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200315_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200315_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171001/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200315_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Ardèche",
@@ -18105,7 +18336,8 @@
     "date": "2020-03-15",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200315_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200315_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171001/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200315_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Cantal",
@@ -18208,7 +18440,8 @@
     "date": "2020-03-15",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200315_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200315_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171001/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200315_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Drôme",
@@ -18368,7 +18601,8 @@
     "date": "2020-03-15",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200315_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200315_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171001/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200315_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Isère",
@@ -18402,7 +18636,8 @@
     "date": "2020-03-15",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200315_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200315_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171001/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200315_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Loire",
@@ -18414,7 +18649,8 @@
     "date": "2020-03-15",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200315_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200315_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171001/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200315_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Haute-Loire",
@@ -18608,7 +18844,8 @@
     "date": "2020-03-15",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200315_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200315_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171001/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200315_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Puy-de-Dôme",
@@ -18676,7 +18913,8 @@
     "date": "2020-03-15",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200315_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200315_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171001/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200315_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Rhône",
@@ -18731,7 +18969,8 @@
     "date": "2020-03-15",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200315_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200315_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171001/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200315_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Savoie",
@@ -18743,7 +18982,8 @@
     "date": "2020-03-15",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200315_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200315_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171001/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200315_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Haute-Savoie",
@@ -19220,7 +19460,8 @@
     "date": "2020-03-15",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200315_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200315_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321171001/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200315_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Auvergne-Rhône-Alpes",
@@ -19319,7 +19560,8 @@
     "date": "2020-03-16",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200316_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200316_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321170915/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200316_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Ain",
@@ -19344,7 +19586,8 @@
     "date": "2020-03-16",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200316_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200316_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321170915/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200316_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Allier",
@@ -19356,7 +19599,8 @@
     "date": "2020-03-16",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200316_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200316_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321170915/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200316_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Ardèche",
@@ -19423,7 +19667,8 @@
     "date": "2020-03-16",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200316_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200316_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321170915/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200316_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Cantal",
@@ -19537,7 +19782,8 @@
     "date": "2020-03-16",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200316_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200316_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321170915/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200316_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Drôme",
@@ -19723,7 +19969,8 @@
     "date": "2020-03-16",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200316_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200316_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321170915/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200316_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Isère",
@@ -19769,7 +20016,8 @@
     "date": "2020-03-16",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200316_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200316_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321170915/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200316_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Loire",
@@ -19781,7 +20029,8 @@
     "date": "2020-03-16",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200316_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200316_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321170915/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200316_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Haute-Loire",
@@ -19967,7 +20216,8 @@
     "date": "2020-03-16",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200316_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200316_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321170915/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200316_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Puy-de-Dôme",
@@ -20034,7 +20284,8 @@
     "date": "2020-03-16",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200316_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200316_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321170915/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200316_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Rhône",
@@ -20078,7 +20329,8 @@
     "date": "2020-03-16",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200316_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200316_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321170915/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200316_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Savoie",
@@ -20090,7 +20342,8 @@
     "date": "2020-03-16",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200316_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200316_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321170915/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200316_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Haute-Savoie",
@@ -20561,7 +20814,8 @@
     "date": "2020-03-16",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200316_ARSARA_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200316_ARSARA_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321170915/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200316_ARSARA_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Auvergne-Rhône-Alpes",
@@ -22080,7 +22334,8 @@
     "date": "2020-03-18",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200318_ARSARA_PrefARA_CP_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200318_ARSARA_PrefARA_CP_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321170820/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200318_ARSARA_PrefARA_CP_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Ain",
@@ -22104,7 +22359,8 @@
     "date": "2020-03-18",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200318_ARSARA_PrefARA_CP_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200318_ARSARA_PrefARA_CP_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321170820/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200318_ARSARA_PrefARA_CP_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Allier",
@@ -22152,7 +22408,8 @@
     "date": "2020-03-18",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200318_ARSARA_PrefARA_CP_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200318_ARSARA_PrefARA_CP_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321170820/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200318_ARSARA_PrefARA_CP_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Ardèche",
@@ -22220,7 +22477,8 @@
     "date": "2020-03-18",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200318_ARSARA_PrefARA_CP_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200318_ARSARA_PrefARA_CP_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321170820/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200318_ARSARA_PrefARA_CP_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Cantal",
@@ -22317,7 +22575,8 @@
     "date": "2020-03-18",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200318_ARSARA_PrefARA_CP_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200318_ARSARA_PrefARA_CP_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321170820/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200318_ARSARA_PrefARA_CP_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Drôme",
@@ -22483,7 +22742,8 @@
     "date": "2020-03-18",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200318_ARSARA_PrefARA_CP_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200318_ARSARA_PrefARA_CP_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321170820/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200318_ARSARA_PrefARA_CP_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Isère",
@@ -22520,7 +22780,8 @@
     "date": "2020-03-18",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200318_ARSARA_PrefARA_CP_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200318_ARSARA_PrefARA_CP_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321170820/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200318_ARSARA_PrefARA_CP_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Loire",
@@ -22532,7 +22793,8 @@
     "date": "2020-03-18",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200318_ARSARA_PrefARA_CP_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200318_ARSARA_PrefARA_CP_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321170820/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200318_ARSARA_PrefARA_CP_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Haute-Loire",
@@ -22661,7 +22923,8 @@
     "date": "2020-03-18",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200318_ARSARA_PrefARA_CP_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200318_ARSARA_PrefARA_CP_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321170820/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200318_ARSARA_PrefARA_CP_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Puy-de-Dôme",
@@ -22707,7 +22970,8 @@
     "date": "2020-03-18",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200318_ARSARA_PrefARA_CP_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200318_ARSARA_PrefARA_CP_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321170820/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200318_ARSARA_PrefARA_CP_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Rhône",
@@ -22719,7 +22983,8 @@
     "date": "2020-03-18",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200318_ARSARA_PrefARA_CP_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200318_ARSARA_PrefARA_CP_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321170820/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200318_ARSARA_PrefARA_CP_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Savoie",
@@ -22731,7 +22996,8 @@
     "date": "2020-03-18",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200318_ARSARA_PrefARA_CP_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200318_ARSARA_PrefARA_CP_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321170820/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200318_ARSARA_PrefARA_CP_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Haute-Savoie",
@@ -23212,7 +23478,8 @@
     "date": "2020-03-18",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200318_ARSARA_PrefARA_CP_COVID-19_Point_Situation.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200318_ARSARA_PrefARA_CP_COVID-19_Point_Situation.pdf",
+      "archive": "https://web.archive.org/web/20200321170820/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200318_ARSARA_PrefARA_CP_COVID-19_Point_Situation.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Auvergne-Rhône-Alpes",
@@ -23363,7 +23630,8 @@
     "date": "2020-03-19",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200319_ARSARA_PrefARA_CP_COVID-19_Point_Situation_0.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200319_ARSARA_PrefARA_CP_COVID-19_Point_Situation_0.pdf",
+      "archive": "https://web.archive.org/web/20200321170531/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200319_ARSARA_PrefARA_CP_COVID-19_Point_Situation_0.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Ain",
@@ -23387,7 +23655,8 @@
     "date": "2020-03-19",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200319_ARSARA_PrefARA_CP_COVID-19_Point_Situation_0.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200319_ARSARA_PrefARA_CP_COVID-19_Point_Situation_0.pdf",
+      "archive": "https://web.archive.org/web/20200321170531/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200319_ARSARA_PrefARA_CP_COVID-19_Point_Situation_0.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Allier",
@@ -23435,7 +23704,8 @@
     "date": "2020-03-19",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200319_ARSARA_PrefARA_CP_COVID-19_Point_Situation_0.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200319_ARSARA_PrefARA_CP_COVID-19_Point_Situation_0.pdf",
+      "archive": "https://web.archive.org/web/20200321170531/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200319_ARSARA_PrefARA_CP_COVID-19_Point_Situation_0.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Ardèche",
@@ -23504,7 +23774,8 @@
     "date": "2020-03-19",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200319_ARSARA_PrefARA_CP_COVID-19_Point_Situation_0.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200319_ARSARA_PrefARA_CP_COVID-19_Point_Situation_0.pdf",
+      "archive": "https://web.archive.org/web/20200321170531/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200319_ARSARA_PrefARA_CP_COVID-19_Point_Situation_0.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Cantal",
@@ -23601,7 +23872,8 @@
     "date": "2020-03-19",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200319_ARSARA_PrefARA_CP_COVID-19_Point_Situation_0.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200319_ARSARA_PrefARA_CP_COVID-19_Point_Situation_0.pdf",
+      "archive": "https://web.archive.org/web/20200321170531/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200319_ARSARA_PrefARA_CP_COVID-19_Point_Situation_0.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Drôme",
@@ -23768,7 +24040,8 @@
     "date": "2020-03-19",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200319_ARSARA_PrefARA_CP_COVID-19_Point_Situation_0.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200319_ARSARA_PrefARA_CP_COVID-19_Point_Situation_0.pdf",
+      "archive": "https://web.archive.org/web/20200321170531/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200319_ARSARA_PrefARA_CP_COVID-19_Point_Situation_0.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Isère",
@@ -23805,7 +24078,8 @@
     "date": "2020-03-19",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200319_ARSARA_PrefARA_CP_COVID-19_Point_Situation_0.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200319_ARSARA_PrefARA_CP_COVID-19_Point_Situation_0.pdf",
+      "archive": "https://web.archive.org/web/20200321170531/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200319_ARSARA_PrefARA_CP_COVID-19_Point_Situation_0.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Loire",
@@ -23817,7 +24091,8 @@
     "date": "2020-03-19",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200319_ARSARA_PrefARA_CP_COVID-19_Point_Situation_0.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200319_ARSARA_PrefARA_CP_COVID-19_Point_Situation_0.pdf",
+      "archive": "https://web.archive.org/web/20200321170531/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200319_ARSARA_PrefARA_CP_COVID-19_Point_Situation_0.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Haute-Loire",
@@ -23948,7 +24223,8 @@
     "date": "2020-03-19",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200319_ARSARA_PrefARA_CP_COVID-19_Point_Situation_0.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200319_ARSARA_PrefARA_CP_COVID-19_Point_Situation_0.pdf",
+      "archive": "https://web.archive.org/web/20200321170531/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200319_ARSARA_PrefARA_CP_COVID-19_Point_Situation_0.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Puy-de-Dôme",
@@ -24001,7 +24277,8 @@
     "date": "2020-03-19",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200319_ARSARA_PrefARA_CP_COVID-19_Point_Situation_0.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200319_ARSARA_PrefARA_CP_COVID-19_Point_Situation_0.pdf",
+      "archive": "https://web.archive.org/web/20200321170531/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200319_ARSARA_PrefARA_CP_COVID-19_Point_Situation_0.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Rhône",
@@ -24013,7 +24290,8 @@
     "date": "2020-03-19",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200319_ARSARA_PrefARA_CP_COVID-19_Point_Situation_0.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200319_ARSARA_PrefARA_CP_COVID-19_Point_Situation_0.pdf",
+      "archive": "https://web.archive.org/web/20200321170531/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200319_ARSARA_PrefARA_CP_COVID-19_Point_Situation_0.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Savoie",
@@ -24025,7 +24303,8 @@
     "date": "2020-03-19",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200319_ARSARA_PrefARA_CP_COVID-19_Point_Situation_0.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200319_ARSARA_PrefARA_CP_COVID-19_Point_Situation_0.pdf",
+      "archive": "https://web.archive.org/web/20200321170531/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200319_ARSARA_PrefARA_CP_COVID-19_Point_Situation_0.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Haute-Savoie",
@@ -24236,6 +24515,18 @@
     "nom": "Martinique",
     "code": "REG-02",
     "casConfirmes": 32,
+    "reanimation": 7
+  },
+  {
+    "date": "2020-03-19",
+    "source": {
+      "nom": "ARS Martinique",
+      "url": "http://www.martinique.ars.sante.fr/system/files/2020-03/Point%20de%20situation%20%237%20-%2020%20mars%20-%20Mars%202020.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Martinique",
+    "code": "REG-02",
+    "casConfirmes": 35,
     "reanimation": 7
   },
   {
@@ -24548,7 +24839,8 @@
     "date": "2020-03-19",
     "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
-      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200319_ARSARA_PrefARA_CP_COVID-19_Point_Situation_0.pdf"
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200319_ARSARA_PrefARA_CP_COVID-19_Point_Situation_0.pdf",
+      "archive": "https://web.archive.org/web/20200321170531/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200319_ARSARA_PrefARA_CP_COVID-19_Point_Situation_0.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Auvergne-Rhône-Alpes",
@@ -24669,6 +24961,20 @@
     "nom": "Saint-Martin",
     "code": "COM-978",
     "casConfirmes": 4
+  },
+  {
+    "date": "2020-03-20",
+    "source": {
+      "nom": "DSP Polynésie française",
+      "url": "https://www.service-public.pf/dsp/wp-content/uploads/sites/12/2020/03/Communiqu%C3%A9-Point-coronavirus-pour-le-20-mars-2020.pdf",
+      "archive": "https://web.archive.org/web/20200321124511/https://www.service-public.pf/dsp/wp-content/uploads/sites/12/2020/03/Communiqu%C3%A9-Point-coronavirus-pour-le-20-mars-2020.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Polynésie française",
+    "code": "COM-987",
+    "casConfirmes": 15,
+    "hospitalises": 1,
+    "deces": 0
   },
   {
     "date": "2020-03-20",
@@ -25830,6 +26136,274 @@
     "paysTouches": 163,
     "deces": 11000,
     "gueris": 87000,
+    "nom": "Monde",
+    "code": "WORLD"
+  },
+  {
+    "date": "2020-03-21",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200321183240/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Saint-Barthélemy",
+    "code": "COM-977",
+    "casConfirmes": 3
+  },
+  {
+    "date": "2020-03-21",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200321183240/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Saint-Martin",
+    "code": "COM-978",
+    "casConfirmes": 5
+  },
+  {
+    "date": "2020-03-21",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200321183240/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+    },
+    "sourceType": "sante-publique-france",
+    "casConfirmes": 14459,
+    "deces": 562,
+    "hospitalises": 6172,
+    "reanimation": 1525,
+    "nom": "France",
+    "code": "FRA"
+  },
+  {
+    "date": "2020-03-21",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200321183240/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Guadeloupe",
+    "code": "REG-01",
+    "casConfirmes": 56
+  },
+  {
+    "date": "2020-03-21",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200321183240/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Martinique",
+    "code": "REG-02",
+    "casConfirmes": 37
+  },
+  {
+    "date": "2020-03-21",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200321183240/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Guyane",
+    "code": "REG-03",
+    "casConfirmes": 18
+  },
+  {
+    "date": "2020-03-21",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200321183240/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "La Réunion",
+    "code": "REG-04",
+    "casConfirmes": 47
+  },
+  {
+    "date": "2020-03-21",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200321183240/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Mayotte",
+    "code": "REG-06",
+    "casConfirmes": 11
+  },
+  {
+    "date": "2020-03-21",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200321183240/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Ile-de-France",
+    "code": "REG-11",
+    "casConfirmes": 4695
+  },
+  {
+    "date": "2020-03-21",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200321183240/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Centre-Val de Loire",
+    "code": "REG-24",
+    "casConfirmes": 254
+  },
+  {
+    "date": "2020-03-21",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200321183240/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Bourgogne-Franche-Comté",
+    "code": "REG-27",
+    "casConfirmes": 903
+  },
+  {
+    "date": "2020-03-21",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200321183240/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Normandie",
+    "code": "REG-28",
+    "casConfirmes": 345
+  },
+  {
+    "date": "2020-03-21",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200321183240/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Hauts-de-France",
+    "code": "REG-32",
+    "casConfirmes": 791
+  },
+  {
+    "date": "2020-03-21",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200321183240/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Grand-Est",
+    "code": "REG-44",
+    "casConfirmes": 3089
+  },
+  {
+    "date": "2020-03-21",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200321183240/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Pays de la Loire",
+    "code": "REG-52",
+    "casConfirmes": 234
+  },
+  {
+    "date": "2020-03-21",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200321183240/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Bretagne",
+    "code": "REG-53",
+    "casConfirmes": 359
+  },
+  {
+    "date": "2020-03-21",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200321183240/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Nouvelle-Aquitaine",
+    "code": "REG-75",
+    "casConfirmes": 521
+  },
+  {
+    "date": "2020-03-21",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200321183240/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Occitanie",
+    "code": "REG-76",
+    "casConfirmes": 611
+  },
+  {
+    "date": "2020-03-21",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200321183240/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Auvergne-Rhône-Alpes",
+    "code": "REG-84",
+    "casConfirmes": 1266
+  },
+  {
+    "date": "2020-03-21",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200321183240/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Provence-Alpes-Côte d’Azur",
+    "code": "REG-93",
+    "casConfirmes": 1041
+  },
+  {
+    "date": "2020-03-21",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200321183240/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Corse",
+    "code": "REG-94",
+    "casConfirmes": 173
+  },
+  {
+    "date": "2020-03-21",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200321183240/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+    },
+    "sourceType": "sante-publique-france",
+    "casConfirmes": 271364,
+    "deces": 11252,
     "nom": "Monde",
     "code": "WORLD"
   }
