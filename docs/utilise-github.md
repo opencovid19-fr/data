@@ -100,9 +100,9 @@ cliquant en haut à gauche sur l'onglet `code`:
 
 ![](img/explain_github_4_branch2.png)
 
-Vous avez maintenant ajoute vos donnees dans une nouvelle branche de
+Vous avez maintenant ajouté vos données dans une nouvelle branche de
 votre copie personnelle de l'archive. Il s'agit maintenant d'ajouter
-cette branche au depôt parent. 
+cette branche au dépôt parent. 
 
 ### Création d'une pull request
 

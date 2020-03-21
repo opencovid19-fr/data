@@ -48,24 +48,24 @@ Les sources de données (PDF ou site web) sont notées dans chaque fichier YAML.
 
 Consigne générale : le nombre d'espaces en début de ligne est très important, ainsi que la position des tirets `-`, soyez vigilant en complétant les fichiers.
 
-#### Creer un fichier YAML
+#### Créer un fichier YAML
 
-Pour creer un fichier YAML vous devrez faire votre propre copie du 
-repository, qui sera modifiable pour vous, et depuis laquel vous
-pourrez soumetre vos `pull requests`:
+Pour créer un fichier YAML vous devrez faire votre propre copie du 
+dépôt, qui sera modifiable pour vous, et depuis laquelle vous
+pourrez soumettre vos `pull requests`:
 
-  - (A la premiere utilisation) Faites une copie (`fork`; en haut a droite)
-  - Dans le nouveau repository ajoutez votre fichier dans le sous dossier 
-  correspondant aux regions/departement de vos données;
+  - (A la première utilisation) Faites une copie (`fork`; en haut a droite)
+  - Dans le nouveau dépôt ajoutez votre fichier dans le sous dossier 
+  correspondant aux régions/département de vos données;
   - créer une branche pour chaque fichier YAML (e.g. Pour le fichier ARS Corse 
   du 15 mars, je créé une branche ars-corse-15-03);
-  - Creer une pull request pour ajouter vos données au parent;
-  - Votre pull request sera examiné par d'autres membres avant d'etre ajoutée
+  - Créer une pull request pour ajouter vos données au parent;
+  - Votre pull request sera examiné par d'autres membres avant d’être ajoutée
   a l'archive d'origine (`merge`). Il est possible que vous aillez des 
   modifications a faire si il y a des erreurs.
 
-Pour une explication approfondie, par étapes, visuelle de l'utilisation preconisé referez vous au fichier
-[docs/utilise-github.md](docs/utilise-github.md).
+Pour une explication approfondie, par étapes, visuelle de l'utilisation préconisée 
+référez vous au fichier [docs/utilise-github.md](docs/utilise-github.md).
 
 #### Entête de fichier YAML
 
