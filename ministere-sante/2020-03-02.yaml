@@ -5,10 +5,24 @@ source:
 donneesNationales:
   casConfirmes: 191 # à 16h. source : santé publique france. +61 depuis hier
   deces: 3
+donneesRegionales:
+  - nom: Grand Est
+    code: REG-44
+    casConfirmes: 5
 donneesMondiales:
   casConfirmes: 89000
   gueris: 45000
   paysTouches: 65
   deces: 3048
-  
-  # données nationales 1'20
+
+# Les 3 décés : le touriste chinois âgé et l'enseignant de l'Oise décédés à Paris; une femme de 89 ans testée en post-mortem à Compiègne
+# 107 cas font partis d'une chaine groupée ou d'un cas groupés
+# 38 proviennrnt de zones à l'étranger
+# 42 en cours d'investigation
+# 12 régions confirmée. 5 régions ont plus de 10 cas
+# Nouveau regroupement de communes dans le Morbihan
+# 64 cas dans l'Oise
+# La Balme : 19 cas confirmés
+# 11 cas pour le "voyage organisé"
+# 5 cas confirmés en Grand-Est
+# données nationales 1'20
