@@ -5,6 +5,13 @@ source:
   archive: https://web.archive.org/web/20200207132717/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/epidemie-de-coronavirus-2019-ncov-au-depart-de-wuhan-chine
 donneesNationales:
   casConfirmes: 6
+donneesRegionales:
+  - nom: Ile-de-France
+    code: REG-11
+    casConfirmes: 5
+  - nom: Nouvelle-Aquitaine
+    code: REG-75
+    casConfirmes: 1    
 donneesMondiales:
   paysTouches: 26
   casConfirmes: 28284 

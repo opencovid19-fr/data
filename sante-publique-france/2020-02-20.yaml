@@ -6,6 +6,16 @@ source:
 donneesNationales:
   casConfirmes: 12
   deces: 1
+donneesRegionales:
+  - nom: Auvergne-Rhône-Alpes
+    code: REG-84
+    casConfirmes: 6
+  - nom: Ile-de-France
+    code: REG-11
+    casConfirmes: 5
+  - nom: Nouvelle-Aquitaine
+    code: REG-75
+    casConfirmes: 1  
 donneesMondiales:
   paysTouches: 28 # 27 + Chine
   casConfirmes: 75744
