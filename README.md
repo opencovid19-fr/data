@@ -65,7 +65,7 @@ pourrez soumetre vos `pull requests`:
   modifications a faire si il y a des erreurs.
 
 Pour une explication approfondie, par étapes, visuelle de l'utilisation preconisé referez vous au fichier
-[docs/utilise-github.md](https://github.com/payoto/data/blob/master/docs/utilise-github.md).
+[docs/utilise-github.md](docs/utilise-github.md).
 
 #### Entête de fichier YAML
 
