@@ -1,0 +1,77 @@
+date: 2020-03-20
+source:
+  nom: ARS Occitanie
+  url: https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo12_20200320.pdf
+donneesRegionales:
+  nom: Occitanie
+  code: REG-76
+  casConfirmes: 520 # 537 dans rapport SPF 20.03.2020
+  hospitalises: 185
+  reanimation: 67
+  deces: 23
+donneesDepartementales:
+  - nom: Ariège
+    code: DEP-09
+    hospitalises: 2
+    reanimation: 1
+    deces: 0
+  - nom: Aude
+    code: DEP-11
+    hospitalises: 26
+    reanimation: 11
+    deces: 8
+  - nom: Aveyron
+    code: DEP-12
+    hospitalises: 12
+    reanimation: 2
+    deces: 1
+  - nom: Gard
+    code: DEP-30
+    hospitalises: 8
+    reanimation: 1
+    deces: 1
+  - nom: Gers
+    code: DEP-32
+    hospitalises: 3
+    reanimation: 3
+    deces: 0
+  - nom: Haute-Garonne
+    code: DEP-31
+    hospitalises: 37
+    reanimation: 11
+    deces: 2
+  - nom: Hérault
+    code: DEP-34
+    hospitalises: 61
+    reanimation: 21
+    deces: 5
+  - nom: Lot
+    code: DEP-46
+    hospitalises: 0
+    reanimation: 0
+    deces: 0
+  - nom: Lozère
+    code: DEP-48
+    hospitalises: 1
+    reanimation: 0
+    deces: 0
+  - nom: Hautes-Pyrénées
+    code: DEP-65
+    hospitalises: 2
+    reanimation: 1
+    deces: 0
+  - nom: Pyrénées-Orientales
+    code: DEP-66
+    hospitalises: 26
+    reanimation: 15
+    deces: 5
+  - nom: Tarn
+    code: DEP-81
+    hospitalises: 6
+    reanimation: 1
+    deces: 0
+  - nom: Tarn-et-Garonne
+    code: DEP-82
+    hospitalises: 1
+    reanimation: 0
+    deces: 1
