@@ -73,3 +73,8 @@ typings/
 .env.test
 
 .DS_Store
+
+# Python
+.mypy_cache/
+__pycache__/
+venv/
