@@ -1,0 +1,19 @@
+date: "2020-03-17"
+source:
+    nom: ARS Mayotte
+    url: https://www.mayotte.ars.sante.fr/system/files/2020-03/CP%20-%203ème%20cas%20COVID19%20MAYOTTE.pdf
+    archive: https://web.archive.org/web/20200321163204/https://www.mayotte.ars.sante.fr/system/files/2020-03/CP%20-%203ème%20cas%20COVID19%20MAYOTTE.pdf
+donneesRegionales:
+  nom: Mayotte
+  code: REG-06
+  casConfirmes: 3
+  hospitalises: 3
+  gueris: 0
+  deces: 0
+donneesDepartementales:
+  - nom: Mayotte
+    code: DEP-976
+    casConfirmes: 3
+    hospitalises: 3 #pris en charge au Centre Hospitalier de Mayotte (CHM)
+    gueris: 0
+    deces: 0

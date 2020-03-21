@@ -1,0 +1,19 @@
+date: "2020-03-14"
+source:
+    nom: ARS Mayotte
+    url: https://www.mayotte.ars.sante.fr/system/files/2020-03/CP%20-%20COVID-19%201er%20cas%20confirmé%20.pdf
+    archive: https://web.archive.org/web/20200321162251/https://www.mayotte.ars.sante.fr/system/files/2020-03/CP%20-%20COVID-19%201er%20cas%20confirmé%20.pdf
+donneesRegionales:
+  nom: Mayotte
+  code: REG-06
+  casConfirmes: 1
+  hospitalises: 1
+  gueris: 0
+  deces: 0
+donneesDepartementales:
+  - nom: Mayotte
+    code: DEP-976
+    casConfirmes: 1
+    hospitalises: 1 #pris en charge au Centre Hospitalier de Mayotte (CHM)
+    gueris: 0
+    deces: 0
