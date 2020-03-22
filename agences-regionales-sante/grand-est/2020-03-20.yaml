@@ -6,7 +6,7 @@ source:
 donneesRegionales:
   nom: Grand-Est
   code: REG-44
-  casConfirmes: 1551
+  hospitalises: 1551
   reanimation: 352 # près de 9% ont moins de 60 ans
   gueris: 284
   deces: 105
