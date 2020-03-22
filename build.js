@@ -96,6 +96,7 @@ function showMetrics(rows) {
   const wDeces = rows.filter(r => 'deces' in r)
   const wReanimation = rows.filter(r => 'reanimation' in r)
   const wHospitalises = rows.filter(r => 'hospitalises' in r)
+  const wGueris = rows.filter(r => 'gueris' in r)
   const woSource = rows.filter(row => !row.source || !row.source.nom)
 
   console.log(`Nombre d’entrées : ${rows.length}`)
@@ -103,6 +104,7 @@ function showMetrics(rows) {
   console.log(`Nombre d’entrées avec le nombre de décès : ${wDeces.length}`)
   console.log(`Nombre d’entrées avec le nombre de réanimations : ${wReanimation.length}`)
   console.log(`Nombre d’entrées avec le nombre d’hospitalisations : ${wHospitalises.length}`)
+  console.log(`Nombre d’entrées avec le nombre de personnes guéries : ${wGueris.length}`)
   console.log(`Nombre d’entrées sans source : ${woSource.length}`)
 }
 
@@ -118,7 +120,7 @@ async function main() {
   const flattenedData = chain(sourcesData)
     .map(flattenSourcesData)
     .flatten()
-    .filter(r => 'casConfirmes' in r || 'deces' in r || 'reanimation' in r)
+    .filter(r => 'casConfirmes' in r || 'deces' in r || 'reanimation' in r || 'hospitalises' in r || 'gueris' in r)
     .sortBy(r => `${r.date}-${r.code}`)
     .value()
 
