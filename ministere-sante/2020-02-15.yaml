@@ -1,0 +1,15 @@
+date: "2020-02-15"
+source:
+  nom: Ministère des Solidarités et de la Santé
+  url: https://www.dailymotion.com/video/x7rtvys
+donneesNationales:
+  casConfirmes: 11
+  deces: 1 # premier deces en France
+  gueris: 4
+  hospitalises: 6 # avec aucune inquietude
+donneesMondiales:
+  casConfirmes: 67000
+  deces: 1500 # plus de 1500 deces a 2'25
+
+# données nationales à 1'30
+# données mondiales à 2'00
