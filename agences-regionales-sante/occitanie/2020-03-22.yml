@@ -1,0 +1,92 @@
+date: 2020-03-22
+source:
+  nom: ARS Occitanie
+  url: https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo14_20200322.pdf
+  archive: https://web.archive.org/web/20200323082015/https://www.occitanie.ars.sante.fr/system/files/2020-03/@ARSOC_%23COVID-19_BulletinInfo14_20200322.pdf # TODO: ARCHIVE A REGENERER
+donneesRegionales:
+  nom: Occitanie
+  code: REG-76
+  casConfirmes: 671 # +60
+  hospitalises: 293 # +85
+  reanimation: 86 # +14
+  gueris: 123
+  deces: 30 # +3
+donneesDepartementales:
+  - nom: Ariège
+    code: DEP-09
+    hospitalises: 3
+    reanimation: 2
+    gueris: 3
+    deces: 0
+  - nom: Aude
+    code: DEP-11
+    hospitalises: 32
+    reanimation: 11
+    gueris: 13
+    deces: 11
+  - nom: Aveyron
+    code: DEP-12
+    hospitalises: 14
+    reanimation: 2
+    gueris: 4
+    deces: 1
+  - nom: Gard
+    code: DEP-30
+    hospitalises: 14
+    reanimation: 1
+    gueris: 10
+    deces: 2
+  - nom: Haute-Garonne
+    code: DEP-31
+    hospitalises: 65
+    reanimation: 18
+    gueris: 23
+    deces: 2
+  - nom: Gers
+    code: DEP-32
+    hospitalises: 4
+    reanimation: 3
+    gueris: 0
+    deces: 0
+  - nom: Hérault
+    code: DEP-34
+    hospitalises: 74
+    reanimation: 23
+    gueris: 53
+    deces: 7
+  - nom: Lot
+    code: DEP-46
+    hospitalises: 1
+    reanimation: 0
+    gueris: 5
+    deces: 0
+  - nom: Lozère
+    code: DEP-48
+    hospitalises: 2
+    reanimation: 0
+    gueris: 1
+    deces: 0
+  - nom: Hautes-Pyrénées
+    code: DEP-65
+    hospitalises: 6
+    reanimation: 1
+    gueris: 1
+    deces: 0
+  - nom: Pyrénées-Orientales
+    code: DEP-66
+    hospitalises: 68
+    reanimation: 21
+    gueris: 5
+    deces: 5
+  - nom: Tarn
+    code: DEP-81
+    hospitalises: 7
+    reanimation: 3
+    gueris: 4
+    deces: 1
+  - nom: Tarn-et-Garonne
+    code: DEP-82
+    hospitalises: 3
+    reanimation: 1
+    gueris: 1
+    deces: 1
