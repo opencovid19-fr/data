@@ -1,0 +1,16 @@
+date: "2020-02-25"
+source:
+  nom: Ministère des Solidarités et de la Santé
+  url: https://www.dailymotion.com/video/x7s7wtl
+donneesNationales:
+  casConfirmes: 14 # +2
+  deces: 1
+  gueris: 11
+  hospitalises: 2
+donneesMondiales:
+  casConfirmes: 80000
+  gueris: 28000
+  paysTouches: 36 #+Autriche, Suisse et Croatie
+  deces: 2705
+
+# données nationales à 3'10, chiffres à 4'08
