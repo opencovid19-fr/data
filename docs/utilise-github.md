@@ -1,6 +1,6 @@
 # Guide d'utilisation de github pour opencovid19-fr/data
 
-Ce guide d'utilisation est à destination de ceux qui ont peut ou pas
+Ce guide d'utilisation est à destination de ceux qui ont peu ou pas
 d'expérience utilisant `git` ou `github` notamment dans un contexte
 de projet distribué avec un grand nombre de contributeurs.
 
@@ -17,16 +17,16 @@ Les étapes à suivre sont:
 
 Ce guide permet de contribuer la donnée sans avoir à installer de programme sur
 votre ordinateur directement à travers l'interface de github.com. Si c'est votre cas
-passer directement au [guide en images](#guide-en-images).
+passez directement au [guide en images](#guide-en-images).
 
 Pour les contributeurs plus réguliers les actions avant la soumission peuvent 
 être faites hors ligne pour assurer la sauvegarde d'étapes intermédiaires. Les
-sources suivantes devraient-être utiles.
+sources suivantes devraient être utiles.
 
 ### Autres sources d'information
 
 [Un tutoriel de l’équipe Beta Gouv](https://github.com/betagouv/beta.gouv.fr/wiki/Tutoriel-Github)
-vous explique très clairement les premières étapes a suivre (pour leur site).
+vous explique très clairement les premières étapes à suivre (pour leur site).
 
 Vous parlez anglais mais ne connaissez pas git? Les ressources sur git sont infinies!
 
@@ -43,43 +43,43 @@ Vous parlez anglais mais ne connaissez pas git? Les ressources sur git sont infi
 
 ## Guide en images
 
-Cette section detaille étape par étape la marche à suivre pour ajouter
-une donnée, entièrement de puis votre navigateur web.
+Cette section détaille étape par étape la marche à suivre pour ajouter
+une donnée, entièrement depuis votre navigateur web.
 
 ### Création d'une copie personelle (`fork`) 
 
-:warning: Cette étape n'est a faire que la première fois
+:warning: Cette étape n'est à faire que la première fois
 
-La première étape est de créer votre copie personnelle en cliquant le bouton
-`fork` en haut a gauche de l’écran: 
+La première étape est de créer votre copie personnelle en cliquant sur le bouton
+`fork` en haut à gauche de l’écran: 
 
 ![](img/explain_github_0.png)
 
-Cette opération vous donne accès a une copie de l'archive sur laquelle vous pourrez modifier.
+Cette opération vous donne accès à une copie de l'archive sur laquelle vous pourrez modifier.
 Cette copie se distingue de l'original car elle aura le nom: `<nom d'utilisateur>/data`
 (dans mon cas `payoto/data`).
 
-### Creation d'un nouveau fichier de donnees `YAML`
+### Création d'un nouveau fichier de donnees `YAML`
 
-Dans cette copie personnelle creer un nouveau fichier `YAML` en cliquant sur
+Dans cette copie personnelle, créez un nouveau fichier `YAML` en cliquant sur
 le bouton `create new file`:
 
 ![](img/explain_github_1_fork.png)
 
-Ensuite nommez le nouveau fichier de telle manière a ce qu'il soit dans
-le bon sous dossier:
+Ensuite nommez le nouveau fichier de manière à ce qu'il soit dans
+le bon sous-dossier:
 
 ![](img/explain_github_2_newfile.png)
 
-Ajoutez ensuite le contenu du fichier comme si dessous
+Ajoutez ensuite le contenu du fichier comme ci-dessous
 :warning: il est préférable de préparer le contenu du fichier
 dans un fichier sauvegarde sur votre ordinateur.
 
-Ajoutez ensuite le contenu du fichier comme si dessous:
+Ajoutez ensuite le contenu du fichier comme ci-dessous:
 
 ![](img/explain_github_3_newfiletext.png)
 
-Une fois le contenu ajoute il faut le sauvegarder dans l'archive
+Une fois le contenu ajouté, il faut le sauvegarder dans l'archive
 en créant une nouvelle branche et en faisant un `commit`. Pas de 
 panique github fait tout pour nous! Le commit contient deux parties:
 
@@ -87,7 +87,7 @@ panique github fait tout pour nous! Le commit contient deux parties:
  + Et une description pas nécessaire pour un ajout simple mais utile
  pour une correction.
 
- On donne un nom clair a la nouvelle branche: 
+ On donne un nom clair à la nouvelle branche: 
 
   + Standard: Ajout <source>-<geographie>-AAAA-MM-JJ
   + exemple: Ajout ars-guadeloupe-2020-03-20
@@ -106,7 +106,7 @@ cette branche au dépôt parent.
 
 ### Création d'une pull request
 
-Il s'agit maintenant de transférer ces modifications a l'archive d'origine
+Il s'agit maintenant de transférer ces modifications à l'archive d'origine
 en créant une "pull request".
 
 Depuis votre copie cliquez sur le bouton `Compare & pull request` pour la branche
@@ -114,7 +114,7 @@ que vous voulez ajouter:
 
 ![](img/explain_github_5_updatedforkbranch.png)
 
-Ici cette écran vous montre la différence entre la branche `payoto:ars-guadeloupe-2020-03-20` 
+Ici cet écran vous montre la différence entre la branche `payoto:ars-guadeloupe-2020-03-20` 
 (de votre archive) et de la branche `master` de l'archive d'origine.
 
 Cliquez sur `Create pull request`
@@ -122,20 +122,20 @@ Cliquez sur `Create pull request`
 ![](img/explain_github_6_startPR.png)
 
 Remarquez que cette opération vous a transféré dans l'archive mère 
-(indique par le nom en haut a gauche).
+(indique par le nom en haut à gauche).
 
 Comme pour le commit ajoutez un titre logique et une explication
 si nécessaire. Ensuite cliquez sur `Create pull request` (A nouveau!)
 
 ![](img/explain_github_7_createPR.png)
 
-C'est bon vos modifications sont soumises a la revue par les pairs 
+C'est bon vos modifications sont soumises à la revue par les pairs 
 ([code review](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-request-reviews))!
 Pour un explicatif vidéo du procédé voir la [vidéo suivante](https://www.youtube.com/watch?v=HW0RPaJqm4g).
 
 ![](img/explain_github_8_PRs.png)
 
-Gardez un oeuil sur vos mail ou sur github car des modifications peuvent
+Gardez un oeil sur vos mails ou sur github car des modifications peuvent
 vous être demandées.
 
 Merci pour vos contributions!

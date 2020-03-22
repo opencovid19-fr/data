@@ -60,12 +60,12 @@ pourrez soumettre vos `pull requests`:
   - créer une branche pour chaque fichier YAML (e.g. Pour le fichier ARS Corse 
   du 15 mars, je créé une branche ars-corse-15-03);
   - Créer une pull request pour ajouter vos données au parent;
-  - Votre pull request sera examiné par d'autres membres avant d’être ajoutée
-  a l'archive d'origine (`merge`). Il est possible que vous aillez des 
-  modifications a faire si il y a des erreurs.
+  - Votre pull request sera examinée par d'autres membres avant d’être ajoutée
+  à l'archive d'origine (`merge`). Il est possible que vous ayez des 
+  modifications à faire s'il y a des erreurs.
 
 Pour une explication approfondie, par étapes, visuelle de l'utilisation préconisée 
-référez vous au fichier [docs/utilise-github.md](docs/utilise-github.md).
+référez-vous au fichier [docs/utilise-github.md](docs/utilise-github.md).
 
 #### Entête de fichier YAML
 
