@@ -27,6 +27,7 @@ donneesDepartementales:
   - nom: Gironde
     code: DEP-33
     casConfirmes: 54
+    deces: 1 # repris du fichier précédent
   - nom: Landes
     code: DEP-40
     casConfirmes: 14
@@ -36,6 +37,7 @@ donneesDepartementales:
   - nom: Pyrénées-Atlantiques
     code: DEP-64
     casConfirmes: 27
+    deces: 1
     victimes:
       - age: 66
         sexe: homme
@@ -46,6 +48,7 @@ donneesDepartementales:
   - nom: Vienne
     code: DEP-86
     casConfirmes: 33
+    deces: 1 # repris du fichier précédent
   - nom: Haute-Vienne
     code: DEP-87
     casConfirmes: 8

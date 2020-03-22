@@ -6,6 +6,10 @@ source:
 donneesRegionales:
   nom: Polynésie française
   code: COM-987
-  casConfirmes: 15
+  casConfirmes: 15 # +4
   depistes: 215
-  hospitalises: 1
+  hospitalises: 1 # -1
+  deces: 0
+
+# url2: https://www.service-public.pf/dsp/wp-content/uploads/sites/12/2020/03/Communiqu%C3%A9-Point-coronavirus-pour-le-20-mars-2020.pdf
+# archive2: https://web.archive.org/web/20200321124511/https://www.service-public.pf/dsp/wp-content/uploads/sites/12/2020/03/Communiqu%C3%A9-Point-coronavirus-pour-le-20-mars-2020.pdf

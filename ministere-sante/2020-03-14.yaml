@@ -1,0 +1,16 @@
+date: "2020-03-14"
+source:
+  nom: Ministère des Solidarités et de la Santé
+  url: https://www.dailymotion.com/video/x7spi7d
+donneesNationales:
+  casConfirmes: 4500 # cas confirmés par 'PCR'. Le chiffre a doublé en 72h
+  deces: 91 # 71 ont plus de 75 ans
+  reanimation: 300 # +50% ont moins de 60 ans
+donneesMondiales:
+  casConfirmes: 153000
+  gueris: 72000
+  paysTouches: 140
+  deces: 5800 # environ
+
+# données mondiales à 11'20
+# données nationales à 14'20

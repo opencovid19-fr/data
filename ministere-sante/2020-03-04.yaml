@@ -1,14 +1,15 @@
-date: 2020-03-04
+date: "2020-03-04"
 source:
   nom: Ministère des Solidarités et de la Santé
-  url: https://www.dailymotion.com/video/x7siev3
-  archive: http://web.archive.org/web/20200320130306/https://www.dailymotion.com/video/x7siev3
+  url: https://www.dailymotion.com/video/x7shh99
 donneesNationales:
-  casConfirmes: 285
+  casConfirmes: 285 # à 16h. Source: santé publique france. +73 depuis hier
   deces: 4
-  casHospitalises: #
-  casReanimation: 15
-  casGueris: #
+  reanimation: 15
 donneesMondiales:
-  casConfirmes: 94514
+  casConfirmes: 94250
+  gueris: 51000
+  paysTouches: 80
   deces: 3200
+
+# données nationales à 1'08

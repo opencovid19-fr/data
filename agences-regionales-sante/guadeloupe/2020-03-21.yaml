@@ -1,0 +1,19 @@
+date: 2020-03-21
+source:
+  nom: ARS Guadeloupe
+  url: http://www.guadeloupe.gouv.fr/content/download/19218/121683/file/21032020%20point%20de%20situation%20Coronavirus.pdf
+  archive: https://web.archive.org/web/20200322133333/http://www.guadeloupe.gouv.fr/content/download/19218/121683/file/21032020%20point%20de%20situation%20Coronavirus.pdf
+donneesRegionales:
+  nom: Guadeloupe
+  code: REG-01
+  casConfirmes: 56 # +5 depuis hier
+  hospitalises: 14
+  reanimation: 5
+  deces: 0
+donneesDepartementales:
+  - nom: Guadeloupe
+    code: DEP-971
+    casConfirmes: 56
+    hospitalises: 14
+    reanimation: 5
+    deces: 0

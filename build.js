@@ -8,6 +8,7 @@ const {ensureArray, readYamlFile, outputCsv} = require('./lib/util')
 const sources = [
   'agences-regionales-sante',
   'sante-publique-france',
+  'ministere-sante',
   'prefectures',
   'lperez31-historical-data'
 ]
@@ -82,6 +83,8 @@ function jsonToCsvRow(json) {
     cas_confirmes: 'casConfirmes' in json ? json.casConfirmes : '',
     deces: 'deces' in json ? json.deces : '',
     reanimation: 'reanimation' in json ? json.reanimation : '',
+    hospitalises: 'hospitalises' in json ? json.hospitalises : '',
+    gueris: 'gueris' in json ? json.gueris : '',
     source_nom: (json.source && json.source.nom) || '',
     source_url: (json.source && json.source.url) || '',
     source_type: json.sourceType

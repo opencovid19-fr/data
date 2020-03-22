@@ -1,0 +1,13 @@
+date: "2020-03-17"
+source:
+  nom: ARS Guadeloupe
+  url: https://www.guadeloupe.ars.sante.fr/system/files/2020-03/point%20corona%20IDN%2017%20mars.pdf
+  archive: http://web.archive.org/web/20200321182557/https://www.guadeloupe.ars.sante.fr/system/files/2020-03/point%20corona%20IDN%2017%20mars.pdf
+donneesRegionales:
+  nom: Saint-Martin
+  code: COM-978
+  casConfirmes: 3 # 1 nouveau cas depuis le 15/03. 2+1=3
+  gueris: 2
+  
+#Le nombre de cas confirmes peut sembler different du communique. Ce dernier ne donne pas le total des cas mais que le nombre de cas confirmes
+#le jour. Il faut donc revoir ce qui etait dans le precedent fichier et rajouter les nouveaux pour avoir le total

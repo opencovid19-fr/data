@@ -1,9 +1,10 @@
 date: 2020-03-09
 source:
-  nom: ARS Auvergne Rhône-Alpes
+  nom: ARS Auvergne-Rhône-Alpes
   url: https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200309_ARSARA_COVID-19_Point_Situation.pdf
+  archive: https://web.archive.org/web/20200321171424/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200309_ARSARA_COVID-19_Point_Situation.pdf
 donneesRegionales:
-  nom: Auvergne Rhône-Alpes
+  nom: Auvergne-Rhône-Alpes
   code: REG-84
   casConfirmes: 182
   gueris: 8
@@ -55,5 +56,5 @@ donneesDepartementales:
   - nom: Haute-Savoie
     code: DEP-74
     casConfirmes: 66
-    gueris: 2
+    gueris: 8
     deces: 0
