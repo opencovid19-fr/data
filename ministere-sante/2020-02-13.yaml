@@ -1,0 +1,16 @@
+date: "2020-02-13"
+source:
+  nom: Ministère des Solidarités et de la Santé
+  url: https://www.dailymotion.com/video/x7rrptk
+donneesNationales:
+  casConfirmes: 11 # pas de nouveau cas
+  deces: 0
+  gueris: 3
+  hospitalises: 8
+  reanimation: 1
+donneesMondiales:
+  casConfirmes: 60363
+  deces: 1371
+
+# données nationales à 8'15
+# données mondiales à 4'55
