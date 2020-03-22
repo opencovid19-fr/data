@@ -7,9 +7,10 @@ donneesNationales:
   deces: 0
   gueris: 3
   hospitalises: 8
-  reanimation: 1
+  reanimation: 1 # 1 cas sévère
 donneesMondiales:
   casConfirmes: 60363
+  paysTouches: 28
   deces: 1371
 
 # données nationales à 8'15
