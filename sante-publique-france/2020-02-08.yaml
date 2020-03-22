@@ -5,16 +5,31 @@ source:
   archive: https://web.archive.org/web/20200208170452/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/epidemie-de-coronavirus-2019-ncov-au-depart-de-wuhan-chine
 donneesNationales:
   casConfirmes: 11
-donneesRegionales:
-  - nom: Auvergne-Rhône-Alpes
-    code: REG-84
-    casConfirmes: 5
+  hospitalises: 11
+  deces: 0
+donneesRegionales: # repris du fichier précédent
   - nom: Ile-de-France
     code: REG-11
-    casConfirmes: 5
+    casConfirmes: 5 # repris du fichier précédent
+    hospitalises: 5
   - nom: Nouvelle-Aquitaine
     code: REG-75
-    casConfirmes: 1  
+    casConfirmes: 1 # repris du fichier précédent
+    hospitalises: 1
+  - nom: Auvergne Rhône-Alpes
+    code: REG-84
+    casConfirmes: 5 # repris du fichier précédent
+    hospitalises: 5
+    deces: 0
+donneesDepartementales: # repris du fichier précédent
+  - nom: Gironde
+    code: DEP-33
+    casConfirmes: 1 # repris du fichier précédent
+    hospitalises: 1
+  - nom: Haute-Savoie # cf archive2
+    code: DEP-74
+    casConfirmes: 5 # repris du fichier précédent
+    deces: 0
 donneesMondiales:
   paysTouches: 26
   casConfirmes: 34945
