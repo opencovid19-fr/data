@@ -42,7 +42,7 @@ donneesDepartementales:
     code: DEP-42
     casConfirmes: 54
     reanimation: 5 # Repris du fichier précédent
-    deces : 1
+    deces: 1
   - nom: Haute-Loire
     code: DEP-43
     casConfirmes: 7
