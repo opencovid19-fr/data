@@ -9,7 +9,7 @@ donneesNationales:
 donneesRegionales:
   - nom: Auvergne-Rhône-Alpes
     code: REG-84
-    casConfirmes: 6
+    casConfirmes: 6 # SPF indique "6 cas groupés dans les Alpes"
   - nom: Ile-de-France
     code: REG-11
     casConfirmes: 5
