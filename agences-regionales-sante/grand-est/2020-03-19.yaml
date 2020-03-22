@@ -6,7 +6,7 @@ source:
 donneesRegionales:
   nom: Grand-Est
   code: REG-44
-  casConfirmes: 1169
+  hospitalises: 1169
   reanimation: 300
   gueris: 213
   deces: 93 # +32 depuis mardi (dernier bulletin)
