@@ -1,9 +1,16 @@
 date: 2020-03-19
 source:
   nom: ARS La Réunion
-  url: https://www.lareunion.ars.sante.fr/coronavirus-covid-19-la-reunion-1-nouveau-cas-confirme
-  archive: http://web.archive.org/web/20200320082031/https://www.lareunion.ars.sante.fr/coronavirus-covid-19-la-reunion-1-nouveau-cas-confirme
+  url: https://www.lareunion.ars.sante.fr/coronavirus-covid-19-la-reunion-9-nouveaux-cas-confirmes
+  archive: https://web.archive.org/web/20200322144225/https://www.lareunion.ars.sante.fr/coronavirus-covid-19-la-reunion-9-nouveaux-cas-confirmes
 donneesRegionales:
   nom: La Réunion
   code: COM-974
-  casConfirmes: 15
+  casConfirmes: 28 # +14 cas depuis 18/03/2020
+
+# url2: https://www.lareunion.ars.sante.fr/coronavirus-covid-19-la-reunion-1-nouveau-cas-confirme
+# archive2: http://web.archive.org/web/20200320082031/https://www.lareunion.ars.sante.fr/coronavirus-covid-19-la-reunion-1-nouveau-cas-confirme
+# url3: https://www.lareunion.ars.sante.fr/coronavirus-covid-19-la-reunion-4-nouveaux-cas-confirmes
+# archive3: https://web.archive.org/web/20200322144102/https://www.lareunion.ars.sante.fr/coronavirus-covid-19-la-reunion-4-nouveaux-cas-confirmes
+# PDF url: https://www.lareunion.ars.sante.fr/system/files/2020-03/2020_03_19_CP_Covid19_Point%20de%20situation_21h30.pdf
+# PDF archive: https://web.archive.org/web/20200322164228/https://www.lareunion.ars.sante.fr/system/files/2020-03/2020_03_19_CP_Covid19_Point%20de%20situation_21h30.pdf
