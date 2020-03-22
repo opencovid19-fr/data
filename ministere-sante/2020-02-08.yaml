@@ -1,0 +1,20 @@
+date: "2020-02-08"
+source:
+  nom: Ministère des Solidarités et de la Santé
+  url: https://solidarites-sante.gouv.fr/IMG/pdf/cp_cas_groupes_coronavirus_0802.pdf
+  archive: https://web.archive.org/web/20200322183513/https://solidarites-sante.gouv.fr/IMG/pdf/cp_cas_groupes_coronavirus_0802.pdf
+donneesRegionales:
+  - nom: Auvergne Rhône-Alpes
+    code: REG-84
+    casConfirmes: 5 # Cinq nouveaux cas groupés à Contamines-Montjoie(Haute-Savoie)
+    hospitalises: 5 # ont été hospitalisées cette nuit
+    deces: 0
+donneesDepartementales:
+  - nom: Haute-Savoie
+    code: DEP-74
+    casConfirmes: 5 # Cinq nouveaux cas groupés à Contamines-Montjoie(Haute-Savoie)
+    hospitalises: 5 # ont été hospitalisées cette nuit
+    deces: 0
+donneesNationales:
+  casConfirmes: 11
+  deces: 0
