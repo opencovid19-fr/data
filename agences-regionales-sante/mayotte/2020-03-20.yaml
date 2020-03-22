@@ -7,11 +7,11 @@ donneesRegionales:
   nom: Mayotte
   code: REG-06
   casConfirmes: 6
-  hospitalises: 3
+  hospitalises: 4
   reanimation: 1
 donneesDepartementales:
   - nom: Mayotte
     code: DEP-976
     casConfirmes: 6
-    hospitalises: 3 #pris en charge au Centre Hospitalier de Mayotte (CHM)
+    hospitalises: 4 #pris en charge au Centre Hospitalier de Mayotte (CHM)
     reanimation: 1
