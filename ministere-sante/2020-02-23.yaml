@@ -1,0 +1,12 @@
+date: "2020-02-23"
+source:
+  nom: Ministère des Solidarités et de la Santé
+  url: https://www.dailymotion.com/video/x7s4yks
+donneesNationales:
+  casConfirmes: 12 # je reprends du point précédent
+  deces: 1 # repris du fichier précédent
+  gueris: 10 # repris du fichier précédent
+  hospitalises: 1 # cité à 0'50
+
+# données nationales à , chiffres à 
+# pas de données mondiales

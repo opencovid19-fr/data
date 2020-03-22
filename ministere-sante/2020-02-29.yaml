@@ -1,0 +1,17 @@
+date: "2020-02-29"
+source:
+  nom: Ministère des Solidarités et de la Santé
+  url: https://www.dailymotion.com/video/x7sd9sf
+donneesNationales:
+  casConfirmes: 100 # à 18h
+  deces: 2
+  gueris: 12
+  hospitalises: 86
+  reanimation: 9 # en état grave
+donneesMondiales:
+  casConfirmes: 85700
+  gueris: 40000
+  paysTouches: 58
+  deces: 2930
+  
+  # données nationales 2'50

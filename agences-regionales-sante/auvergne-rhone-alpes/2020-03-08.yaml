@@ -1,9 +1,10 @@
 date: 2020-03-08
 source:
-  nom: ARS Auvergne Rhône-Alpes
+  nom: ARS Auvergne-Rhône-Alpes
   url: https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200308_ARSARA_COVID-19_Point_Situation_1.pdf
+  archive: https://web.archive.org/web/20200321171459/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200308_ARSARA_COVID-19_Point_Situation_1.pdf
 donneesRegionales:
-  nom: Auvergne Rhône-Alpes
+  nom: Auvergne-Rhône-Alpes
   code: REG-84
   casConfirmes: 146
   gueris: 8
