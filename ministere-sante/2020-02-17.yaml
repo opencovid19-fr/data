@@ -3,7 +3,7 @@ source:
   nom: Ministère des Solidarités et de la Santé
   url: https://www.dailymotion.com/video/x7rxi3p
 donneesNationales:
-  casConfirmes: 11
+  casConfirmes: 12 # repris du fichier précédent
   deces: 1
   
 # pas d'info, hormis "pas de nouveaux cas"
