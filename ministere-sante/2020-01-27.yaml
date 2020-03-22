@@ -1,0 +1,17 @@
+date: "2020-01-27"
+source:
+  nom: Ministère des Solidarités et de la Santé
+  url: https://www.dailymotion.com/video/x7r5qpd
+donneesNationales:
+  casConfirmes: 3 #pas de nouveau cas
+  deces: 0
+  gueris: 0
+  hospitalises: 3
+  reanimation: 0
+donneesMondiales:
+  casConfirmes: 2886
+  paysTouches: 16 # 31 cas dans 15 pays
+  deces: 81
+
+# données nationales à 1'10
+# données mondiales à 0'36

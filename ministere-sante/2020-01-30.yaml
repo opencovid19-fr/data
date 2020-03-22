@@ -1,0 +1,17 @@
+date: "2020-01-30"
+source:
+  nom: Ministère des Solidarités et de la Santé
+  url: https://www.dailymotion.com/video/x7rapbe
+donneesNationales:
+  casConfirmes: 6 #1 nouveau cas
+  deces: 0
+  gueris: 0
+  hospitalises: 6
+  reanimation: 2
+donneesMondiales:
+  casConfirmes: 8200 #plus de 8 200 dont 4 400 dans la province du Hubei
+  paysTouches: 21 # plus de 110 cas dans 20 pays hors de Chine
+  deces: 171
+
+# données nationales à 2'10
+# données mondiales à 0'10
