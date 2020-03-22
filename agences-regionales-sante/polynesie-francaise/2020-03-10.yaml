@@ -1,0 +1,11 @@
+date: 2020-03-10
+source:
+  nom: DSP Polynésie française
+  url: https://www.service-public.pf/dsp/2020/03/16/situation-coronavirus-160320/ #Pas de rapport le 10
+  archive:http://web.archive.org/web/20200322215447/https://www.service-public.pf/dsp/2020/03/16/situation-coronavirus-160320/
+donneesRegionales:
+  nom: Polynésie française
+  code: COM-987
+  casConfirmes: 1 #+1 Nouveau
+  hospitalises: 0 #+0 Nouveau
+  deces: 0
