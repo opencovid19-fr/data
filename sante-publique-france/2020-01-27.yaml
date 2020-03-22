@@ -6,6 +6,20 @@ source:
 donneesNationales:
   casConfirmes: 3
   deces: 0
+donneesRegionales: # repris du fichier précédent
+  - nom: Ile-de-France
+    code: REG-11
+    casConfirmes: 2 # repris du fichier précédent
+    hospitalises: 2
+  - nom: Nouvelle-Aquitaine
+    code: REG-75
+    casConfirmes: 1 # repris du fichier précédent
+    hospitalises: 1
+donneesDepartementales: # repris du fichier précédent
+  - nom: Gironde
+    code: DEP-33
+    casConfirmes: 1 # repris du fichier précédent
+    hospitalises: 1
 donneesMondiales:
   paysTouches: 13 # Il suffit de compter les pays énumérés sur la page, sans oublier la France
   casConfirmes: 2820 # 2775+3+8+5+5+5+4+4+4+3+2+1+1

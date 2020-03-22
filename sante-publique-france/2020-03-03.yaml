@@ -6,7 +6,64 @@ source:
 donneesNationales:
   casConfirmes: 212
   deces: 4
+donneesRegionales: # cf archive2 pour les données régionales
+  - nom: Auvergne-Rhône-Alpes
+    code: REG-84
+    casConfirmes: 40
+  - nom: Bourgogne-Franche-Comté
+    code: REG-27
+    casConfirmes: 13
+  - nom: Bretagne
+    code: REG-53
+    casConfirmes: 19
+  - nom: Centre-Val de Loire
+    code: REG-24
+    casConfirmes: 0
+  - nom: Corse
+    code: REG-94
+    casConfirmes: 0
+  - nom: Grand-Est
+    code: REG-44
+    casConfirmes: 13
+  - nom: Hauts-de-France
+    code: REG-32
+    casConfirmes: 59
+  - nom: Ile-de-France
+    code: REG-11
+    casConfirmes: 37
+  - nom: Normandie
+    code: REG-28
+    casConfirmes: 2
+  - nom: Nouvelle-Aquitaine
+    code: REG-75
+    casConfirmes: 4
+  - nom: Occitanie
+    code: REG-76
+    casConfirmes: 7
+  - nom: Pays de la Loire
+    code: REG-52
+    casConfirmes: 5
+  - nom: Provence-Alpes-Côte d’Azur
+    code: REG-93
+    casConfirmes: 10
+  - nom: Guadeloupe
+    code: REG-01
+    casConfirmes: 3
+  - nom: Guyane
+    code: REG-03
+    casConfirmes: 0
+  - nom: Martinique
+    code: REG-02
+    casConfirmes: 0
+  - nom: Mayotte
+    code: REG-06
+    casConfirmes: 0
+  - nom: La Réunion
+    code: REG-04
+    casConfirmes: 0
 donneesMondiales:
   paysTouches: 74 # 73 + Chine
   casConfirmes: 90663
   deces: 3125
+
+# archive2: https://web.archive.org/web/20200303185459/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france
