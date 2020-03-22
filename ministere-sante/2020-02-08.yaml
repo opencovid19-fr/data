@@ -4,10 +4,25 @@ source:
   url: https://www.dailymotion.com/video/x7rmoy6
 donneesNationales:
   casConfirmes: 11 # 5 nouveaux cas
-  deces: 0
-  gueris: 0
   hospitalises: 11
   reanimation: 1
+  gueris: 0
+  deces: 0
+donneesRegionales: # cf communiqué en url2
+  - nom: Auvergne Rhône-Alpes
+    code: REG-84
+    casConfirmes: 5 # Cinq nouveaux cas groupés à Contamines-Montjoie(Haute-Savoie)
+    hospitalises: 5 # ont été hospitalisées cette nuit
+    deces: 0
+donneesDepartementales:
+  - nom: Haute-Savoie
+    code: DEP-74
+    casConfirmes: 5 # Cinq nouveaux cas groupés à Contamines-Montjoie(Haute-Savoie)
+    hospitalises: 5 # ont été hospitalisées cette nuit
+    deces: 0
+    
 # Pas de données mondiales
-
 # données nationales à 0'05
+
+# url2: https://solidarites-sante.gouv.fr/IMG/pdf/cp_cas_groupes_coronavirus_0802.pdf
+# archive2: https://web.archive.org/web/20200322183513/https://solidarites-sante.gouv.fr/IMG/pdf/cp_cas_groupes_coronavirus_0802.pdf

@@ -1,0 +1,17 @@
+date: "2020-03-20"
+source:
+    nom: ARS Mayotte
+    url: https://www.mayotte.ars.sante.fr/system/files/2020-03/CP%2020%20mars%20COVID-19.pdf
+    archive: https://web.archive.org/web/20200321163949/https://www.mayotte.ars.sante.fr/system/files/2020-03/CP%2020%20mars%20COVID-19.pdf
+donneesRegionales:
+  nom: Mayotte
+  code: REG-06
+  casConfirmes: 6
+  hospitalises: 4
+  reanimation: 1
+donneesDepartementales:
+  - nom: Mayotte
+    code: DEP-976
+    casConfirmes: 6
+    hospitalises: 4 #pris en charge au Centre Hospitalier de Mayotte (CHM)
+    reanimation: 1

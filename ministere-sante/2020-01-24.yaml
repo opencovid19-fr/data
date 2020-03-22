@@ -1,0 +1,18 @@
+date: "2020-01-24"
+source:
+  nom: Ministère des Solidarités et de la Santé
+  url: https://solidarites-sante.gouv.fr/IMG/pdf/200124-cp_coronavirus.pdf
+  archive: https://web.archive.org/web/20200322183046/https://solidarites-sante.gouv.fr/IMG/pdf/200124-cp_coronavirus.pdf
+donneesNationales:
+  casConfirmes: 3
+  hospitalises: 3
+  deces: 0
+donneesRegionales:
+  - nom: Ile-de-France
+    code: REG-11
+    casConfirmes: 2
+    hospitalises: 2
+  - nom: Nouvelle-Aquitaine
+    code: REG-75
+    casConfirmes: 1
+    hospitalises: 1

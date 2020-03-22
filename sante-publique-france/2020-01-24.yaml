@@ -3,10 +3,28 @@ source:
   nom: Santé publique France
   url: https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/cas-de-pneumonies-associees-a-un-nouveau-coronavirus-2019-ncov-a-wuhan-en-chine
   archive: https://web.archive.org/web/20200124202351/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/cas-de-pneumonies-associees-a-un-nouveau-coronavirus-2019-ncov-a-wuhan-en-chine
-donneesNationales:
-  casConfirmes: 0
+donneesNationales: # Voir archive 2 en bas de page (après le bulletin du 12/02)
+  casConfirmes: 3 # cas mise à jour suite à la publication du 27/01 de la SPF qui mentionnent ces 3 cas comme existant depuis le 24/01
+  hospitalises: 3
   deces: 0
+donneesRegionales: # Voir archive 2 en bas de page (après le bulletin du 12/02)
+  - nom: Ile-de-France
+    code: REG-11
+    casConfirmes: 2
+    hospitalises: 2
+  - nom: Nouvelle-Aquitaine
+    code: REG-75
+    casConfirmes: 1
+    hospitalises: 1
+    donneesRegionales:
+donneesDepartementales: # Voir archive 2 en bas de page (après le bulletin du 12/02)
+  - nom: Gironde
+    code: DEP-33
+    casConfirmes: 1
+    hospitalises: 1
 donneesMondiales:
   paysTouches: 8 # Chine, Thaïlande, Singapour, Japon, République de Corée, Vietnam, Taïwan et Etats-Unis
   casConfirmes: 897
   deces: 26
+
+# 2e archive: https://web.archive.org/web/20200212192607/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/epidemie-de-coronavirus-covid-19-au-depart-de-wuhan-chine
