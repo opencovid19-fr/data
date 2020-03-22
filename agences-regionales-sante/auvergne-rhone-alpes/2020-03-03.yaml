@@ -22,11 +22,39 @@ donneesDepartementales:
     code: DEP-01
     casConfirmes: 3
     deces: 0
-  - nom: Savoie
-    code: DEP-73
+  - nom: Allier
+    code: DEP-03
+    casConfirmes: 0
+    deces: 0
+  - nom: Ardèche
+    code: DEP-07
+    casConfirmes: 0
+    deces: 0
+  - nom: Cantal
+    code: DEP-15
     casConfirmes: 0
     deces: 0
   - nom: Drôme
+    code: DEP-26
+    casConfirmes: 0
+    deces: 0
+  - nom: Isère
+    code: DEP-38
+    casConfirmes: 0
+    deces: 0
+  - nom: Loire
+    code: DEP-42
+    casConfirmes: 0
+    deces: 0
+  - nom: Haute-Loire
+    code: DEP-43
+    casConfirmes: 0
+    deces: 0
+  - nom: Puy-de-Dôme
+    code: DEP-63
+    casConfirmes: 0
+    deces: 0
+  - nom: Savoie
     code: DEP-73
     casConfirmes: 0
     deces: 0
