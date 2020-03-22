@@ -22,6 +22,11 @@ donneesDepartementales:
     code: DEP-76
     casConfirmes: 170 # +42 par rapport à hier
     hospitalises: 71
+    victimes:
+      - age: 71
+        sexe: homme
+      - age: 82
+        sexe: homme
   - nom: Eure
     code: DEP-27
     casConfirmes: 53 # +13
