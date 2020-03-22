@@ -1,6 +1,7 @@
 date: "2020-03-22"
 source:
   nom: ARS Nouvelle-Aquitaine
+  # L'entête du PDF indique "Bordeaux, le 21mars 2020", alors que le PDF est bien nommé 22_03, un oubli de l'ARS sûrement.
   url: https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_22_03_2020.pdf
   archive: https://web.archive.org/web/20200322202447/https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_22_03_2020.pdf
 donneesRegionales:
