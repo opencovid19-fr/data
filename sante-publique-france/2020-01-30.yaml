@@ -16,6 +16,11 @@ donneesRegionales: # Cf l'archive 2, en bas de page, après le bulletin du 12/02
     code: REG-75
     casConfirmes: 1
     hospitalises: 1
+donneesDepartementales: # repris du fichier précédent
+  - nom: Gironde
+    code: DEP-33
+    casConfirmes: 1 # repris du fichier précédent
+    hospitalises: 1
 donneesMondiales:
   paysTouches: 17 # Chine,France,Thaïlande,Taïwan,Corée du Sud,Singapour,Malaisie,Japon,Australie,Etats-Unis,Allemagne,Canada,Vietnam,Népal,Cambodge,Sri Lanka,Emirats Arabes Unis,
   casConfirmes: 7790 # 7711+5+14+8+8+7+7+7+5+5+4+3+2+1+1+1+1
