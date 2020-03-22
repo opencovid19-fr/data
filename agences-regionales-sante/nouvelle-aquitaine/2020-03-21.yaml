@@ -37,7 +37,7 @@ donneesDepartementales:
   - nom: Gironde
     code: DEP-33
     casConfirmes: 73
-    deces: 2
+    deces: 3 # 1 du fichier précédent + 2 du bulletin 21/03
     victimes:
       - age: 51
         sexe: homme
@@ -54,12 +54,14 @@ donneesDepartementales:
   - nom: Pyrénées-Atlantiques
     code: DEP-64
     casConfirmes: 40
+    deces: 1 # repris du fichier précédent
   - nom: Deux-Sèvres
     code: DEP-79
     casConfirmes: 10
   - nom: Vienne
     code: DEP-86
     casConfirmes: 48
+    deces: 1 # repris du fichier précédent
   - nom: Haute-Vienne
     code: DEP-87
     casConfirmes: 15
