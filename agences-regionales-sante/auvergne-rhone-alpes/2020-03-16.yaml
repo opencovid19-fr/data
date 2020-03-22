@@ -6,8 +6,8 @@ source:
 donneesRegionales:
   nom: Auvergne-Rhône-Alpes
   code: REG-84
-  casConfirmes: 617
-  deces: 20
+  casConfirmes: 617 # +94 depuis hier
+  deces: 20 # contre 18 hier. +2 depuis hier, départements non précisés
 donneesDepartementales:
   - nom: Ain
     code: DEP-01

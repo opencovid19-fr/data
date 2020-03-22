@@ -6,8 +6,8 @@ source:
 donneesRegionales:
   nom: Auvergne-Rhône-Alpes
   code: REG-84
-  casConfirmes: 1014 # +156 Décalage par rapport aux sommes départementales
-  deces: 39 # +12
+  casConfirmes: 1014 # contre 858 hier. +156 depuis hier. Décalage par rapport aux sommes départementales
+  deces: 39 # contre 27 hier. +12 depuis hier
 donneesDepartementales:
   - nom: Ain
     code: DEP-01
@@ -36,7 +36,7 @@ donneesDepartementales:
   - nom: Loire
     code: DEP-42
     casConfirmes: 145 # +25
-    deces : 2 # +1
+    deces: 2 # +1
   - nom: Haute-Loire
     code: DEP-43
     casConfirmes: 8 # +1

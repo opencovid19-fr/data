@@ -6,9 +6,9 @@ source:
 donneesRegionales:
   nom: Auvergne-Rhône-Alpes
   code: REG-84
-  casConfirmes: 523
+  casConfirmes: 523 # +74 depuis hier
   gueris: 8
-  deces: 18
+  deces: 18 # contre 12 hier. +6 depuis hier départements non précisés
 donneesDepartementales:
   - nom: Ain
     code: DEP-01
@@ -29,7 +29,7 @@ donneesDepartementales:
   - nom: Drôme
     code: DEP-26
     casConfirmes: 46
-    deces: 1
+    deces: 1 # repris du fichier précédent
   - nom: Isère
     code: DEP-38
     casConfirmes: 34
@@ -37,7 +37,7 @@ donneesDepartementales:
   - nom: Loire
     code: DEP-42
     casConfirmes: 64
-    deces : 1
+    deces : 1 # repris du fichier précédent
   - nom: Haute-Loire
     code: DEP-43
     casConfirmes: 7
@@ -49,13 +49,13 @@ donneesDepartementales:
   - nom: Rhône
     code: DEP-69
     casConfirmes: 136
-    deces: 7
+    deces: 7 # repris du fichier précédent
   - nom: Savoie
     code: DEP-73
     casConfirmes: 22
-    deces: 1
+    deces: 1 # repris du fichier précédent
   - nom: Haute-Savoie
     code: DEP-74
     casConfirmes: 115
     gueris: 8
-    deces: 2
+    deces: 2 # repris du fichier précédent
