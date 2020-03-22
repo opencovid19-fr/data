@@ -1,0 +1,17 @@
+date: "2020-02-10"
+source:
+  nom: Ministère des Solidarités et de la Santé
+  url: https://www.dailymotion.com/video/x7roqav
+donneesNationales:
+  casConfirmes: 11 # pas de nouveau cas
+  deces: 0
+  gueris: 0
+  hospitalises: 11
+  reanimation: 1
+donneesMondiales:
+  casConfirmes: 40645 #dont 40 196 en Chine (plus de 6 000 sévères), dont 29 631 dans la province du Hubei
+  paysTouches: 29 # Des cas dans 28 pays hors de Chine
+  deces: 910 #dont 908 en Chine dont 871 dans la province du Hubei
+
+# données nationales à 13'15
+# données mondiales à 10'20
