@@ -4,7 +4,7 @@ source:
   url: https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/cas-de-pneumonies-associees-a-un-nouveau-coronavirus-2019-ncov-a-wuhan-en-chine
   archive: https://web.archive.org/web/20200130082013/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/cas-de-pneumonies-associees-a-un-nouveau-coronavirus-2019-ncov-a-wuhan-en-chine
 donneesNationales: # Cf l'archive 2, en bas de page, après le bulletin du 12/02
-  casConfirmes: 5
+  casConfirmes: 5 # +1 depuis hier
   hospitalises: 5
   deces: 0
 donneesRegionales: # Cf l'archive 2, en bas de page, après le bulletin du 12/02
@@ -15,6 +15,11 @@ donneesRegionales: # Cf l'archive 2, en bas de page, après le bulletin du 12/02
   - nom: Nouvelle-Aquitaine
     code: REG-75
     casConfirmes: 1
+    hospitalises: 1
+donneesDepartementales: # repris du fichier précédent
+  - nom: Gironde
+    code: DEP-33
+    casConfirmes: 1 # repris du fichier précédent
     hospitalises: 1
 donneesMondiales:
   paysTouches: 17 # Chine, France, Thaïlande, Taïwan, Corée du Sud, Singapour, Malaisie, Japon, Australie, Etats-Unis, Allemagne, Canada, Vietnam, Népal, Cambodge, Sri Lanka, Emirats Arabes Unis
