@@ -6,7 +6,7 @@ source:
 donneesRegionales:
   nom: Saint-Martin
   code: COM-978
-  casConfirmes: 4
+  casConfirmes: 4 # 2 cas affichés dans le communiqué + 2 cas guéris
   gueris: 2
   
 #Le nombre de cas confirmes peut sembler different du communique. Ce dernier ne donne pas le total des cas mais que le nombre de cas confirmes
