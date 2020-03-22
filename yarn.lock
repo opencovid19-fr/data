@@ -25,6 +25,13 @@
   dependencies:
     regenerator-runtime "^0.13.4"
 
+"@etalab/decoupage-administratif@^0.7.0":
+  version "0.7.0"
+  resolved "https://registry.yarnpkg.com/@etalab/decoupage-administratif/-/decoupage-administratif-0.7.0.tgz#c39c463259f4e23f5466e574a629b085ef6663dd"
+  integrity sha512-ezO+LHyIrJjDBlE7DxXSbvHxSliTGT4o4+w1pMaA6FjCVDFiW74zp5Lhmi1GpY2JcelKq4m8zHjDol08O6unqQ==
+  dependencies:
+    lodash "^4.17.15"
+
 "@mrmlnc/readdir-enhanced@^2.2.1":
   version "2.2.1"
   resolved "https://registry.yarnpkg.com/@mrmlnc/readdir-enhanced/-/readdir-enhanced-2.2.1.tgz#524af240d1a360527b730475ecfa1344aa540dde"

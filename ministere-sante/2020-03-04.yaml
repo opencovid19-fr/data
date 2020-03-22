@@ -3,7 +3,7 @@ source:
   nom: Ministère des Solidarités et de la Santé
   url: https://www.dailymotion.com/video/x7shh99
 donneesNationales:
-  casConfirmes: 285 # à 16h. Source : santé publique france. +73 depuis hier
+  casConfirmes: 285 # à 16h. Source: santé publique france. +73 depuis hier
   deces: 4
   reanimation: 15
 donneesMondiales:
@@ -13,3 +13,7 @@ donneesMondiales:
   deces: 3200
 
 # données nationales à 1'08
+
+# 257 cas d'après le communiqué
+# url2: https://solidarites-sante.gouv.fr/actualites/presse/communiques-de-presse/article/covid-19-une-mobilisation-des-equipes-sur-l-ensemble-du-territoire-45-nouveaux
+# archive2: https://web.archive.org/web/20200322191715/https://solidarites-sante.gouv.fr/actualites/presse/communiques-de-presse/article/covid-19-une-mobilisation-des-equipes-sur-l-ensemble-du-territoire-45-nouveaux

@@ -6,9 +6,10 @@ source:
 donneesRegionales:
   nom: Auvergne-Rhône-Alpes
   code: REG-84
-  casConfirmes: 449
+  casConfirmes: 449 # contre 416 hier. +33 depuis hier
   gueris: 8
-  deces: 12
+  deces: 12 # contre 10 hier. +2 depuis hier dans le Rhône
+  capaciteLitsReanimation: 550
 donneesDepartementales:
   - nom: Ain
     code: DEP-01
@@ -41,7 +42,7 @@ donneesDepartementales:
     code: DEP-42
     casConfirmes: 54
     reanimation: 5 # Repris du fichier précédent
-    deces : 1
+    deces: 1
   - nom: Haute-Loire
     code: DEP-43
     casConfirmes: 7
@@ -53,7 +54,7 @@ donneesDepartementales:
   - nom: Rhône
     code: DEP-69
     casConfirmes: 123
-    deces: 7
+    deces: 7 # +2 depuis hier
     victimes:
       - age: 76
         sexe: femme

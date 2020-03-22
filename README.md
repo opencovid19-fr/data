@@ -1,3 +1,5 @@
+[🇬🇧 English](README.en.md)
+
 # Données nationales concernant l'épidémie de COVID19
 
 L'information officielle sur la progression de l'épidémie en France est assez fragmentée, et n'est presque jamais structurée sous forme de données.
@@ -74,6 +76,7 @@ Voici un exemple de bloc YAML pour une région ou un département:
 ```yaml
   nom: region-ou-departement-exemple
   code: Exemple
+  depistes: 1000
   casConfirmes: 500
   gueris: 40 # valeur copiée du fichier YAML précédent
   deces: 10
@@ -88,7 +91,7 @@ Voici un exemple de bloc YAML pour une région ou un département:
     - date: 2020-03-10
 ```
 
-Les champs `casConfirmes`, `gueris` et `deces` comptabilisent le total par catégorie depuis le début de la crise Covid-19. Par contre, les champs `hospitalises` et `reanimation` donnent le nombre de patient par catégorie à l'instant de l'édition du bulletin d'information, ces 2 chiffres peuvent bien sûr évoluer à la hausse ou à la baisse.
+Les champs `casConfirmes`, `gueris`, `depistes` et `deces` comptabilisent le total par catégorie depuis le début de la crise Covid-19. Par contre, les champs `hospitalises` et `reanimation` donnent le nombre de patient par catégorie à l'instant de l'édition du bulletin d'information, ces 2 chiffres peuvent bien sûr évoluer à la hausse ou à la baisse.
 
 Notez qu'il est possible si besoin d'ajouter des commentaires en fin de ligne en utilisant le caractère `#`
 

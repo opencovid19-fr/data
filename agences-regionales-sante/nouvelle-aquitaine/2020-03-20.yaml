@@ -7,6 +7,7 @@ donneesRegionales:
   nom: Nouvelle-Aquitaine
   code: REG-75
   casConfirmes: 406 # +104 cas. 16 cas rattaches à des departements. 3 doublons supprimés. 103 en cours de rattachement
+  deces: 3 # repris du fichier précédent
 donneesDepartementales:
   - nom: Charente
     code: DEP-16
@@ -26,6 +27,7 @@ donneesDepartementales:
   - nom: Gironde
     code: DEP-33
     casConfirmes: 63
+    deces: 1 # repris du fichier précédent
   - nom: Landes
     code: DEP-40
     casConfirmes: 15
@@ -35,12 +37,14 @@ donneesDepartementales:
   - nom: Pyrénées-Atlantiques
     code: DEP-64
     casConfirmes: 32
+    deces: 1 # repris du fichier précédent
   - nom: Deux-Sèvres
     code: DEP-79
     casConfirmes: 8
   - nom: Vienne
     code: DEP-86
     casConfirmes: 34
+    deces: 1 # repris du fichier précédent
   - nom: Haute-Vienne
     code: DEP-87
     casConfirmes: 12

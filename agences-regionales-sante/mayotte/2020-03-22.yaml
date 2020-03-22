@@ -1,0 +1,17 @@
+date: "2020-03-22"
+source:
+    nom: ARS Mayotte
+    url: https://www.mayotte.ars.sante.fr/coronavirus-covid-19-point-de-situation-et-conduite-tenir
+    archive: https://web.archive.org/web/20200322211041/https://www.mayotte.ars.sante.fr/coronavirus-covid-19-point-de-situation-et-conduite-tenir
+donneesRegionales:
+  nom: Mayotte
+  code: REG-06
+  casConfirmes: 11
+  hospitalises: 4
+  reanimation: 1
+donneesDepartementales:
+  - nom: Mayotte
+    code: DEP-976
+    casConfirmes: 11
+    hospitalises: 4
+    reanimation: 1

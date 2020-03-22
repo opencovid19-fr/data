@@ -8,7 +8,7 @@ donneesRegionales:
   code: REG-84
   casConfirmes: 333
   gueris: 8
-  deces: 7
+  deces: 7 # +4 depuis hier dans le Rhône
 donneesDepartementales:
   - nom: Ain
     code: DEP-01
@@ -49,7 +49,7 @@ donneesDepartementales:
   - nom: Rhône
     code: DEP-69
     casConfirmes: 87
-    deces: 5
+    deces: 5 # +4 depuis hier
     victimes:
       - age: 76
         sexe: femme

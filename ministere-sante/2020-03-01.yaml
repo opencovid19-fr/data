@@ -3,7 +3,7 @@ source:
   nom: Ministère des Solidarités et de la Santé
   url: https://www.dailymotion.com/video/x7sedoy
 donneesNationales:
-  casConfirmes: 130 # à 16h. source : santé publique france. +61 depuis hier
+  casConfirmes: 130 # à 16h. Source: santé publique france. +61 depuis hier
   deces: 2 # "Le touriste chinois à Paris" et l'enseignant de l'Oise (décédé à la Pitié Salpêtrière)
   gueris: 12
   hospitalises: 116 # pour isolation
@@ -17,7 +17,7 @@ donneesMondiales:
 # 23 en cours d'investigation
 # 12 régions confirmées
 # Ile-de-France, Auvergne-Rhône-Alpes et Hauts-de-France ont plus de 10 cas confirmés
-# Grand-Est : 6 cas confirmés dans 2 familles
+# Grand-Est: 6 cas confirmés dans 2 familles
 # Cluster de 47 cas dans l'Oise
 # La Balme (Annecy), cluster de 10 personnes
 # données nationales 2'20

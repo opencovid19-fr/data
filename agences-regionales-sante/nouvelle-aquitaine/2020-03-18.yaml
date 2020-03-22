@@ -27,6 +27,7 @@ donneesDepartementales:
   - nom: Gironde
     code: DEP-33
     casConfirmes: 42
+    deces: 1 # repris du fichier précédent
   - nom: Landes
     code: DEP-40
     casConfirmes: 10
@@ -42,6 +43,7 @@ donneesDepartementales:
   - nom: Vienne
     code: DEP-86
     casConfirmes: 25
+    deces: 1 # repris du fichier précédent
   - nom: Haute-Vienne
     code: DEP-87
     casConfirmes: 4

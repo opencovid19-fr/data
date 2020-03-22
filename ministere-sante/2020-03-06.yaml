@@ -3,7 +3,7 @@ source:
   nom: Ministère des Solidarités et de la Santé
   url: https://www.dailymotion.com/video/x7sj9hs
 donneesNationales:
-  casConfirmes: 613 # à 15h. source: santé publique france. +190 qu'hier
+  casConfirmes: 613 # à 15h. Source: santé publique france. +190 qu'hier
   deces: 9 # 8 homme et 1 femme
   reanimation: 39 # +16 qu'hier
 donneesMondiales:
@@ -13,3 +13,7 @@ donneesMondiales:
   deces: 3456
 
 # les données commencent à 11'46
+
+# d'après le communiqué: 577 cas, +2 décédés, total 9 décès
+# url2: https://solidarites-sante.gouv.fr/actualites/presse/communiques-de-presse/article/covid-19-ralentir-la-progression-de-l-epidemie-grace-aux-gestes-barrieres
+# archive2: https://web.archive.org/web/20200322192500/https://solidarites-sante.gouv.fr/actualites/presse/communiques-de-presse/article/covid-19-ralentir-la-progression-de-l-epidemie-grace-aux-gestes-barrieres
