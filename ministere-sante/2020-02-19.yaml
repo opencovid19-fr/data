@@ -1,0 +1,15 @@
+date: "2020-02-19"
+source:
+  nom: Ministère des Solidarités et de la Santé
+  url: https://www.dailymotion.com/video/x7rzpgd
+donneesNationales:
+  casConfirmes: 12 # +0 cas depuis hier
+  deces: 1
+  gueris: 7
+  hospitalises: 4 # avec aucun signes de gravite
+donneesMondiales:
+  casConfirmes: 75284
+  deces: 2014
+
+# données nationales à 4'40
+# données mondiales à 0'00
