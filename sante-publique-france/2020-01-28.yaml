@@ -16,3 +16,8 @@ donneesRegionales:
     code: REG-75
     casConfirmes: 1
     hospitalises: 1
+donneesDepartementales: # repris du fichier précédent
+  - nom: Gironde
+    code: DEP-33
+    casConfirmes: 1 # repris du fichier précédent
+    hospitalises: 1
