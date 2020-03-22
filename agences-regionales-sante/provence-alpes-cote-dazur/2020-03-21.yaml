@@ -1,0 +1,30 @@
+date: "2020-03-21"
+source:
+  nom: ARS Provence-Alpes-Côte d’Azur
+  url: https://www.paca.ars.sante.fr/coronavirus-point-de-situation-du-21-mars-2020
+  archive: https://web.archive.org/web/20200322195801/https://www.paca.ars.sante.fr/coronavirus-point-de-situation-du-21-mars-2020
+donneesRegionales:
+  nom: Provence-Alpes-Côte d’Azur
+  code: REG-93
+  casConfirmes: 1041
+  reanimation: 75
+  deces: 13 # dont 2 résidents hors PACA
+donneesDepartementales:
+  - nom: Alpes-de-Haute-Provence
+    code: DEP-04
+    casConfirmes: 17
+  - nom: Hautes-Alpes
+    code: DEP-05
+    casConfirmes: 35
+  - nom: Alpes-Maritimes
+    code: DEP-06
+    casConfirmes: 174
+  - nom: Bouches-du-Rhône
+    code: DEP-13
+    casConfirmes: 572
+  - nom: Var
+    code: DEP-83
+    casConfirmes: 159
+  - nom: Vaucluse
+    code: DEP-84
+    casConfirmes: 32
