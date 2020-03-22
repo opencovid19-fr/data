@@ -28,6 +28,7 @@ donneesDepartementales:
   - nom: Gironde
     code: DEP-33
     casConfirmes: 34 # Parmi les cas confirmés le 15/03 qui étaient en attente de géolocalisation, 5 se situent en Gironde.
+    deces: 1 # repris du fichier précédent
   - nom: Landes
     code: DEP-40
     casConfirmes: 10
@@ -43,6 +44,7 @@ donneesDepartementales:
   - nom: Vienne
     code: DEP-86
     casConfirmes: 21 # Parmi les cas confirmés le 15/03, 6 se situent dans la Vienne.
+    deces: 1 # repris du fichier précédent
   - nom: Haute-Vienne
     code: DEP-87
     casConfirmes: 3

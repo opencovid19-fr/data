@@ -28,6 +28,7 @@ donneesDepartementales:
   - nom: Gironde
     code: DEP-33
     casConfirmes: 19
+    deces: 1
     victimes:
       - age: 85
         sexe: homme
@@ -48,6 +49,7 @@ donneesDepartementales:
   - nom: Vienne
     code: DEP-86
     casConfirmes: 10
+    deces: 1
     victimes:
       - age: 85
         sexe: femme
