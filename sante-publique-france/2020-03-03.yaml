@@ -6,7 +6,7 @@ source:
 donneesNationales:
   casConfirmes: 212
   deces: 4
-donneesRegionales:
+donneesRegionales: # cf archive2 pour les données régionales
   - nom: Auvergne-Rhône-Alpes
     code: REG-84
     casConfirmes: 40
@@ -65,3 +65,5 @@ donneesMondiales:
   paysTouches: 74 # 73 + Chine
   casConfirmes: 90663
   deces: 3125
+
+# archive2: https://web.archive.org/web/20200303185459/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france
