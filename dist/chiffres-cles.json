@@ -68,6 +68,19 @@
   {
     "date": "2020-01-24",
     "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/cas-de-pneumonies-associees-a-un-nouveau-coronavirus-2019-ncov-a-wuhan-en-chine",
+      "archive": "https://web.archive.org/web/20200124202351/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/cas-de-pneumonies-associees-a-un-nouveau-coronavirus-2019-ncov-a-wuhan-en-chine"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Gironde",
+    "code": "DEP-33",
+    "casConfirmes": 1,
+    "hospitalises": 1
+  },
+  {
+    "date": "2020-01-24",
+    "source": {
       "nom": "ARS Nouvelle-Aquitaine",
       "url": "https://www.nouvelle-aquitaine.ars.sante.fr/communique-de-presse-coronavirus-point-de-situation-en-nouvelle-aquitaine-du-08032020"
     },
@@ -139,10 +152,24 @@
       "archive": "https://web.archive.org/web/20200124202351/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/cas-de-pneumonies-associees-a-un-nouveau-coronavirus-2019-ncov-a-wuhan-en-chine"
     },
     "sourceType": "sante-publique-france",
-    "casConfirmes": 0,
+    "casConfirmes": 3,
+    "hospitalises": 3,
     "deces": 0,
     "nom": "France",
     "code": "FRA"
+  },
+  {
+    "date": "2020-01-24",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/cas-de-pneumonies-associees-a-un-nouveau-coronavirus-2019-ncov-a-wuhan-en-chine",
+      "archive": "https://web.archive.org/web/20200124202351/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/cas-de-pneumonies-associees-a-un-nouveau-coronavirus-2019-ncov-a-wuhan-en-chine"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Ile-de-France",
+    "code": "REG-11",
+    "casConfirmes": 2,
+    "hospitalises": 2
   },
   {
     "date": "2020-01-24",
@@ -154,6 +181,20 @@
     "nom": "Nouvelle-Aquitaine",
     "code": "REG-75",
     "casConfirmes": 1
+  },
+  {
+    "date": "2020-01-24",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/cas-de-pneumonies-associees-a-un-nouveau-coronavirus-2019-ncov-a-wuhan-en-chine",
+      "archive": "https://web.archive.org/web/20200124202351/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/cas-de-pneumonies-associees-a-un-nouveau-coronavirus-2019-ncov-a-wuhan-en-chine"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Nouvelle-Aquitaine",
+    "code": "REG-75",
+    "casConfirmes": 1,
+    "hospitalises": 1,
+    "donneesRegionales": null
   },
   {
     "date": "2020-01-24",
@@ -262,6 +303,59 @@
     "code": "WORLD"
   },
   {
+    "date": "2020-01-28",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/epidemie-de-coronavirus-covid-19-au-depart-de-wuhan-chine",
+      "archive": "https://web.archive.org/web/20200212192607/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/epidemie-de-coronavirus-covid-19-au-depart-de-wuhan-chine"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Gironde",
+    "code": "DEP-33",
+    "casConfirmes": 1,
+    "hospitalises": 1
+  },
+  {
+    "date": "2020-01-28",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/epidemie-de-coronavirus-covid-19-au-depart-de-wuhan-chine",
+      "archive": "https://web.archive.org/web/20200212192607/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/epidemie-de-coronavirus-covid-19-au-depart-de-wuhan-chine"
+    },
+    "sourceType": "sante-publique-france",
+    "casConfirmes": 4,
+    "hospitalises": 4,
+    "deces": 0,
+    "nom": "France",
+    "code": "FRA"
+  },
+  {
+    "date": "2020-01-28",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/epidemie-de-coronavirus-covid-19-au-depart-de-wuhan-chine",
+      "archive": "https://web.archive.org/web/20200212192607/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/epidemie-de-coronavirus-covid-19-au-depart-de-wuhan-chine"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Ile-de-France",
+    "code": "REG-11",
+    "casConfirmes": 3,
+    "hospitalises": 3
+  },
+  {
+    "date": "2020-01-28",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/epidemie-de-coronavirus-covid-19-au-depart-de-wuhan-chine",
+      "archive": "https://web.archive.org/web/20200212192607/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/epidemie-de-coronavirus-covid-19-au-depart-de-wuhan-chine"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Nouvelle-Aquitaine",
+    "code": "REG-75",
+    "casConfirmes": 1,
+    "hospitalises": 1
+  },
+  {
     "date": "2020-01-29",
     "source": {
       "nom": "Santé publique France",
@@ -269,10 +363,50 @@
       "archive": "https://web.archive.org/web/20200130082013/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/cas-de-pneumonies-associees-a-un-nouveau-coronavirus-2019-ncov-a-wuhan-en-chine"
     },
     "sourceType": "sante-publique-france",
-    "casConfirmes": 4,
+    "nom": "Gironde",
+    "code": "DEP-33",
+    "casConfirmes": 1,
+    "hospitalises": 1
+  },
+  {
+    "date": "2020-01-29",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/cas-de-pneumonies-associees-a-un-nouveau-coronavirus-2019-ncov-a-wuhan-en-chine",
+      "archive": "https://web.archive.org/web/20200130082013/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/cas-de-pneumonies-associees-a-un-nouveau-coronavirus-2019-ncov-a-wuhan-en-chine"
+    },
+    "sourceType": "sante-publique-france",
+    "casConfirmes": 5,
+    "hospitalises": 5,
     "deces": 0,
     "nom": "France",
     "code": "FRA"
+  },
+  {
+    "date": "2020-01-29",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/cas-de-pneumonies-associees-a-un-nouveau-coronavirus-2019-ncov-a-wuhan-en-chine",
+      "archive": "https://web.archive.org/web/20200130082013/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/cas-de-pneumonies-associees-a-un-nouveau-coronavirus-2019-ncov-a-wuhan-en-chine"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Ile-de-France",
+    "code": "REG-11",
+    "casConfirmes": 4,
+    "hospitalises": 4
+  },
+  {
+    "date": "2020-01-29",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/cas-de-pneumonies-associees-a-un-nouveau-coronavirus-2019-ncov-a-wuhan-en-chine",
+      "archive": "https://web.archive.org/web/20200130082013/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/cas-de-pneumonies-associees-a-un-nouveau-coronavirus-2019-ncov-a-wuhan-en-chine"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Nouvelle-Aquitaine",
+    "code": "REG-75",
+    "casConfirmes": 1,
+    "hospitalises": 1
   },
   {
     "date": "2020-01-29",
@@ -296,10 +430,50 @@
       "archive": "https://web.archive.org/web/20200131123433/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/cas-de-pneumonies-associees-a-un-nouveau-coronavirus-2019-ncov-a-wuhan-en-chine"
     },
     "sourceType": "sante-publique-france",
-    "casConfirmes": 5,
+    "nom": "Gironde",
+    "code": "DEP-33",
+    "casConfirmes": 1,
+    "hospitalises": 1
+  },
+  {
+    "date": "2020-01-30",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/cas-de-pneumonies-associees-a-un-nouveau-coronavirus-2019-ncov-a-wuhan-en-chine",
+      "archive": "https://web.archive.org/web/20200131123433/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/cas-de-pneumonies-associees-a-un-nouveau-coronavirus-2019-ncov-a-wuhan-en-chine"
+    },
+    "sourceType": "sante-publique-france",
+    "casConfirmes": 6,
+    "hospitalises": 6,
     "deces": 0,
     "nom": "France",
     "code": "FRA"
+  },
+  {
+    "date": "2020-01-30",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/cas-de-pneumonies-associees-a-un-nouveau-coronavirus-2019-ncov-a-wuhan-en-chine",
+      "archive": "https://web.archive.org/web/20200131123433/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/cas-de-pneumonies-associees-a-un-nouveau-coronavirus-2019-ncov-a-wuhan-en-chine"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Ile-de-France",
+    "code": "REG-11",
+    "casConfirmes": 5,
+    "hospitalises": 5
+  },
+  {
+    "date": "2020-01-30",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/cas-de-pneumonies-associees-a-un-nouveau-coronavirus-2019-ncov-a-wuhan-en-chine",
+      "archive": "https://web.archive.org/web/20200131123433/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/cas-de-pneumonies-associees-a-un-nouveau-coronavirus-2019-ncov-a-wuhan-en-chine"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Nouvelle-Aquitaine",
+    "code": "REG-75",
+    "casConfirmes": 1,
+    "hospitalises": 1
   },
   {
     "date": "2020-01-30",
@@ -429,9 +603,77 @@
       "archive": "https://web.archive.org/web/20200207164830/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/epidemie-de-coronavirus-2019-ncov-au-depart-de-wuhan-chine"
     },
     "sourceType": "sante-publique-france",
-    "casConfirmes": 6,
+    "nom": "Gironde",
+    "code": "DEP-33",
+    "casConfirmes": 1,
+    "hospitalises": 1
+  },
+  {
+    "date": "2020-02-07",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/epidemie-de-coronavirus-2019-ncov-au-depart-de-wuhan-chine",
+      "archive": "https://web.archive.org/web/20200207164830/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/epidemie-de-coronavirus-2019-ncov-au-depart-de-wuhan-chine"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Haute-Savoie",
+    "code": "DEP-74",
+    "casConfirmes": 5,
+    "deces": 0
+  },
+  {
+    "date": "2020-02-07",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/epidemie-de-coronavirus-2019-ncov-au-depart-de-wuhan-chine",
+      "archive": "https://web.archive.org/web/20200207164830/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/epidemie-de-coronavirus-2019-ncov-au-depart-de-wuhan-chine"
+    },
+    "sourceType": "sante-publique-france",
+    "casConfirmes": 11,
+    "hospitalises": 11,
+    "deces": 0,
     "nom": "France",
     "code": "FRA"
+  },
+  {
+    "date": "2020-02-07",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/epidemie-de-coronavirus-2019-ncov-au-depart-de-wuhan-chine",
+      "archive": "https://web.archive.org/web/20200207164830/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/epidemie-de-coronavirus-2019-ncov-au-depart-de-wuhan-chine"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Ile-de-France",
+    "code": "REG-11",
+    "casConfirmes": 5,
+    "hospitalises": 5
+  },
+  {
+    "date": "2020-02-07",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/epidemie-de-coronavirus-2019-ncov-au-depart-de-wuhan-chine",
+      "archive": "https://web.archive.org/web/20200207164830/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/epidemie-de-coronavirus-2019-ncov-au-depart-de-wuhan-chine"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Nouvelle-Aquitaine",
+    "code": "REG-75",
+    "casConfirmes": 1,
+    "hospitalises": 1
+  },
+  {
+    "date": "2020-02-07",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/epidemie-de-coronavirus-2019-ncov-au-depart-de-wuhan-chine",
+      "archive": "https://web.archive.org/web/20200207164830/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/epidemie-de-coronavirus-2019-ncov-au-depart-de-wuhan-chine"
+    },
+    "sourceType": "sante-publique-france",
+    "nom": "Auvergne Rhône-Alpes",
+    "code": "REG-84",
+    "casConfirmes": 5,
+    "hospitalises": 5,
+    "deces": 0
   },
   {
     "date": "2020-02-07",
@@ -18038,6 +18280,19 @@
   {
     "date": "2020-03-14",
     "source": {
+      "nom": "ARS Mayotte",
+      "url": "https://www.mayotte.ars.sante.fr/system/files/2020-03/CP%20-%20COVID-19%201er%20cas%20confirmé%20.pdf",
+      "archive": "https://web.archive.org/web/20200321162251/https://www.mayotte.ars.sante.fr/system/files/2020-03/CP%20-%20COVID-19%201er%20cas%20confirmé%20.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Mayotte",
+    "code": "DEP-976",
+    "casConfirmes": 1,
+    "hospitalises": 1
+  },
+  {
+    "date": "2020-03-14",
+    "source": {
       "nom": "Santé publique France",
       "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200314195752/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
@@ -18132,6 +18387,19 @@
     "nom": "La Réunion",
     "code": "REG-04",
     "casConfirmes": 6
+  },
+  {
+    "date": "2020-03-14",
+    "source": {
+      "nom": "ARS Mayotte",
+      "url": "https://www.mayotte.ars.sante.fr/system/files/2020-03/CP%20-%20COVID-19%201er%20cas%20confirmé%20.pdf",
+      "archive": "https://web.archive.org/web/20200321162251/https://www.mayotte.ars.sante.fr/system/files/2020-03/CP%20-%20COVID-19%201er%20cas%20confirmé%20.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Mayotte",
+    "code": "REG-06",
+    "casConfirmes": 1,
+    "hospitalises": 1
   },
   {
     "date": "2020-03-14",
@@ -19878,6 +20146,20 @@
   {
     "date": "2020-03-16",
     "source": {
+      "nom": "DSP Polynésie française",
+      "url": "https://www.service-public.pf/dsp/2020/03/16/situation-coronavirus-160320/",
+      "archive": "https://web.archive.org/web/20200320175834/https://www.service-public.pf/dsp/2020/03/16/situation-coronavirus-160320/"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Polynésie française",
+    "code": "COM-987",
+    "casConfirmes": 3,
+    "hospitalises": 1,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-16",
+    "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
       "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200316_ARSARA_COVID-19_Point_Situation.pdf",
       "archive": "https://web.archive.org/web/20200321170915/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200316_ARSARA_COVID-19_Point_Situation.pdf"
@@ -21273,6 +21555,20 @@
   {
     "date": "2020-03-17",
     "source": {
+      "nom": "DSP Polynésie française",
+      "url": "https://www.service-public.pf/dsp/2020/03/18/situation-coronavirus-170320/",
+      "archive": "https://web.archive.org/web/20200321074032/https://www.service-public.pf/dsp/2020/03/18/situation-coronavirus-170320/"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Polynésie française",
+    "code": "COM-987",
+    "casConfirmes": 3,
+    "hospitalises": 1,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-17",
+    "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
       "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200317_ARSARA_COVID-19_Point_Situation.pdf",
       "archive": "https://web.archive.org/web/20200317222720/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200317_ARSARA_COVID-19_Point_Situation.pdf"
@@ -22195,6 +22491,19 @@
   {
     "date": "2020-03-17",
     "source": {
+      "nom": "ARS Mayotte",
+      "url": "https://www.mayotte.ars.sante.fr/system/files/2020-03/CP%20-%203ème%20cas%20COVID19%20MAYOTTE.pdf",
+      "archive": "https://web.archive.org/web/20200321163204/https://www.mayotte.ars.sante.fr/system/files/2020-03/CP%20-%203ème%20cas%20COVID19%20MAYOTTE.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Mayotte",
+    "code": "DEP-976",
+    "casConfirmes": 3,
+    "hospitalises": 3
+  },
+  {
+    "date": "2020-03-17",
+    "source": {
       "nom": "Santé publique France",
       "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200317191451/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
@@ -22281,6 +22590,19 @@
     "nom": "La Réunion",
     "code": "REG-04",
     "casConfirmes": 12
+  },
+  {
+    "date": "2020-03-17",
+    "source": {
+      "nom": "ARS Mayotte",
+      "url": "https://www.mayotte.ars.sante.fr/system/files/2020-03/CP%20-%203ème%20cas%20COVID19%20MAYOTTE.pdf",
+      "archive": "https://web.archive.org/web/20200321163204/https://www.mayotte.ars.sante.fr/system/files/2020-03/CP%20-%203ème%20cas%20COVID19%20MAYOTTE.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Mayotte",
+    "code": "REG-06",
+    "casConfirmes": 3,
+    "hospitalises": 3
   },
   {
     "date": "2020-03-17",
@@ -22696,7 +23018,7 @@
     "source": {
       "nom": "DSP Polynésie française",
       "url": "https://www.service-public.pf/dsp/2020/03/18/situation-coronavirus-180320/",
-      "archive": "https://web.archive.org/save/https://www.service-public.pf/dsp/2020/03/18/situation-coronavirus-180320/"
+      "archive": "https://web.archive.org/web/20200320175711/https://www.service-public.pf/dsp/2020/03/18/situation-coronavirus-180320/"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Polynésie française",
@@ -23509,6 +23831,19 @@
   {
     "date": "2020-03-18",
     "source": {
+      "nom": "ARS Mayotte",
+      "url": "https://www.mayotte.ars.sante.fr/system/files/2020-03/CP%2018%20mars%20COVID-19_0.pdf",
+      "archive": "https://web.archive.org/web/20200321163709/https://www.mayotte.ars.sante.fr/system/files/2020-03/CP%2018%20mars%20COVID-19_0.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Mayotte",
+    "code": "DEP-976",
+    "casConfirmes": 3,
+    "hospitalises": 3
+  },
+  {
+    "date": "2020-03-18",
+    "source": {
       "nom": "Santé publique France",
       "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200318184308/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
@@ -23595,6 +23930,19 @@
     "nom": "La Réunion",
     "code": "REG-04",
     "casConfirmes": 14
+  },
+  {
+    "date": "2020-03-18",
+    "source": {
+      "nom": "ARS Mayotte",
+      "url": "https://www.mayotte.ars.sante.fr/system/files/2020-03/CP%2018%20mars%20COVID-19_0.pdf",
+      "archive": "https://web.archive.org/web/20200321163709/https://www.mayotte.ars.sante.fr/system/files/2020-03/CP%2018%20mars%20COVID-19_0.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Mayotte",
+    "code": "REG-06",
+    "casConfirmes": 3,
+    "hospitalises": 3
   },
   {
     "date": "2020-03-18",
@@ -24020,14 +24368,15 @@
     "source": {
       "nom": "DSP Polynésie française",
       "url": "https://www.service-public.pf/dsp/2020/03/19/situation-coronavirus-190320/",
-      "archive": "https://web.archive.org/save/https://www.service-public.pf/dsp/2020/03/19/situation-coronavirus-190320/"
+      "archive": "https://web.archive.org/web/20200320175111/https://www.service-public.pf/dsp/2020/03/19/situation-coronavirus-190320/"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Polynésie française",
     "code": "COM-987",
     "casConfirmes": 11,
     "hospitalises": 2,
-    "deces": 0
+    "deces": 0,
+    "depistes": 173
   },
   {
     "date": "2020-03-19",
@@ -24855,6 +25204,19 @@
   {
     "date": "2020-03-19",
     "source": {
+      "nom": "ARS Mayotte",
+      "url": "https://www.mayotte.ars.sante.fr/system/files/2020-03/CP%2019%20mars%20COVID-19.pdf",
+      "archive": "https://web.archive.org/web/20200321163851/https://www.mayotte.ars.sante.fr/system/files/2020-03/CP%2019%20mars%20COVID-19.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Mayotte",
+    "code": "DEP-976",
+    "casConfirmes": 4,
+    "hospitalises": 3
+  },
+  {
+    "date": "2020-03-19",
+    "source": {
       "nom": "Santé publique France",
       "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200319194637/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
@@ -24984,6 +25346,19 @@
     "nom": "La Réunion",
     "code": "REG-04",
     "casConfirmes": 19
+  },
+  {
+    "date": "2020-03-19",
+    "source": {
+      "nom": "ARS Mayotte",
+      "url": "https://www.mayotte.ars.sante.fr/system/files/2020-03/CP%2019%20mars%20COVID-19.pdf",
+      "archive": "https://web.archive.org/web/20200321163851/https://www.mayotte.ars.sante.fr/system/files/2020-03/CP%2019%20mars%20COVID-19.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Mayotte",
+    "code": "REG-06",
+    "casConfirmes": 4,
+    "hospitalises": 3
   },
   {
     "date": "2020-03-19",
@@ -25372,13 +25747,14 @@
     "date": "2020-03-20",
     "source": {
       "nom": "DSP Polynésie française",
-      "url": "https://www.service-public.pf/dsp/wp-content/uploads/sites/12/2020/03/Communiqu%C3%A9-Point-coronavirus-pour-le-20-mars-2020.pdf",
-      "archive": "https://web.archive.org/web/20200321124511/https://www.service-public.pf/dsp/wp-content/uploads/sites/12/2020/03/Communiqu%C3%A9-Point-coronavirus-pour-le-20-mars-2020.pdf"
+      "url": "https://www.service-public.pf/dsp/2020/03/20/situation-coronavirus-200320/",
+      "archive": "https://web.archive.org/web/20200321082017/https://www.service-public.pf/dsp/2020/03/20/situation-coronavirus-200320/"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Polynésie française",
     "code": "COM-987",
     "casConfirmes": 15,
+    "depistes": 215,
     "hospitalises": 1,
     "deces": 0
   },
@@ -26097,6 +26473,20 @@
   {
     "date": "2020-03-20",
     "source": {
+      "nom": "ARS Mayotte",
+      "url": "https://www.mayotte.ars.sante.fr/system/files/2020-03/CP%2020%20mars%20COVID-19.pdf",
+      "archive": "https://web.archive.org/web/20200321163949/https://www.mayotte.ars.sante.fr/system/files/2020-03/CP%2020%20mars%20COVID-19.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Mayotte",
+    "code": "DEP-976",
+    "casConfirmes": 6,
+    "hospitalises": 4,
+    "reanimation": 1
+  },
+  {
+    "date": "2020-03-20",
+    "source": {
       "nom": "Santé publique France",
       "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200320185449/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
@@ -26200,6 +26590,20 @@
     "nom": "La Réunion",
     "code": "REG-04",
     "casConfirmes": 38
+  },
+  {
+    "date": "2020-03-20",
+    "source": {
+      "nom": "ARS Mayotte",
+      "url": "https://www.mayotte.ars.sante.fr/system/files/2020-03/CP%2020%20mars%20COVID-19.pdf",
+      "archive": "https://web.archive.org/web/20200321163949/https://www.mayotte.ars.sante.fr/system/files/2020-03/CP%2020%20mars%20COVID-19.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Mayotte",
+    "code": "REG-06",
+    "casConfirmes": 6,
+    "hospitalises": 4,
+    "reanimation": 1
   },
   {
     "date": "2020-03-20",
@@ -27470,6 +27874,20 @@
   {
     "date": "2020-03-21",
     "source": {
+      "nom": "ARS Mayotte",
+      "url": "https://www.mayotte.ars.sante.fr/system/files/2020-03/CP%2021%20mars%20COVID-19.pdf",
+      "archive": "https://web.archive.org/web/20200321164210/https://www.mayotte.ars.sante.fr/system/files/2020-03/CP%2021%20mars%20COVID-19.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Mayotte",
+    "code": "DEP-976",
+    "casConfirmes": 9,
+    "hospitalises": 4,
+    "reanimation": 1
+  },
+  {
+    "date": "2020-03-21",
+    "source": {
       "nom": "Santé publique France",
       "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200321183240/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
@@ -27573,6 +27991,20 @@
     "nom": "La Réunion",
     "code": "REG-04",
     "casConfirmes": 47
+  },
+  {
+    "date": "2020-03-21",
+    "source": {
+      "nom": "ARS Mayotte",
+      "url": "https://www.mayotte.ars.sante.fr/system/files/2020-03/CP%2021%20mars%20COVID-19.pdf",
+      "archive": "https://web.archive.org/web/20200321164210/https://www.mayotte.ars.sante.fr/system/files/2020-03/CP%2021%20mars%20COVID-19.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Mayotte",
+    "code": "REG-06",
+    "casConfirmes": 9,
+    "hospitalises": 4,
+    "reanimation": 1
   },
   {
     "date": "2020-03-21",
@@ -27905,6 +28337,20 @@
     "nom": "Saint-Martin",
     "code": "COM-978",
     "casConfirmes": 6
+  },
+  {
+    "date": "2020-03-22",
+    "source": {
+      "nom": "Gouvernement de la Nouvelle-Calédonie",
+      "url": "https://www.service-public.pf/dsp/wp-content/uploads/sites/12/2020/03/Communiqu%C3%A9-Point-coronavirus-pour-le-20-mars-2020.pdf",
+      "archive": "https://web.archive.org/web/20200322182414/https://gouv.nc/coronavirus"
+    },
+    "sourceType": "prefectures",
+    "nom": "Nouvelle-Calédonie",
+    "code": "COM-988",
+    "casConfirmes": 5,
+    "depistes": 62,
+    "hospitalises": 1
   },
   {
     "date": "2020-03-22",
@@ -28383,6 +28829,34 @@
   {
     "date": "2020-03-22",
     "source": {
+      "nom": "ARS Guyane",
+      "url": "https://www.guyane.ars.sante.fr/system/files/2020-03/2020_03_22_CP%20COVID-19.pdf",
+      "archive": "https://web.archive.org/web/20200322205810/https://www.guyane.ars.sante.fr/system/files/2020-03/2020_03_22_CP%20COVID-19.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Guyane",
+    "code": "DEP-973",
+    "casConfirmes": 20,
+    "gueris": 6,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-22",
+    "source": {
+      "nom": "ARS Mayotte",
+      "url": "https://www.mayotte.ars.sante.fr/coronavirus-covid-19-point-de-situation-et-conduite-tenir",
+      "archive": "https://web.archive.org/web/20200322211041/https://www.mayotte.ars.sante.fr/coronavirus-covid-19-point-de-situation-et-conduite-tenir"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Mayotte",
+    "code": "DEP-976",
+    "casConfirmes": 11,
+    "hospitalises": 4,
+    "reanimation": 1
+  },
+  {
+    "date": "2020-03-22",
+    "source": {
       "nom": "Santé publique France",
       "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200322185906/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
@@ -28392,6 +28866,21 @@
     "deces": 674,
     "hospitalises": 7240,
     "reanimation": 1746,
+    "nom": "France",
+    "code": "FRA"
+  },
+  {
+    "date": "2020-03-22",
+    "source": {
+      "nom": "Ministère des Solidarités et de la Santé",
+      "url": "https://www.dailymotion.com/video/x7svka4"
+    },
+    "sourceType": "ministere-sante",
+    "casConfirmes": 16018,
+    "deces": 674,
+    "hospitalises": 7240,
+    "reanimation": 1746,
+    "gueris": 2200,
     "nom": "France",
     "code": "FRA"
   },
@@ -28422,6 +28911,20 @@
   {
     "date": "2020-03-22",
     "source": {
+      "nom": "ARS Guyane",
+      "url": "https://www.guyane.ars.sante.fr/system/files/2020-03/2020_03_22_CP%20COVID-19.pdf",
+      "archive": "https://web.archive.org/web/20200322205810/https://www.guyane.ars.sante.fr/system/files/2020-03/2020_03_22_CP%20COVID-19.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Guyane",
+    "code": "REG-03",
+    "casConfirmes": 20,
+    "gueris": 6,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-22",
+    "source": {
       "nom": "Santé publique France",
       "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200322185906/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
@@ -28442,6 +28945,20 @@
     "nom": "La Réunion",
     "code": "REG-04",
     "casConfirmes": 64
+  },
+  {
+    "date": "2020-03-22",
+    "source": {
+      "nom": "ARS Mayotte",
+      "url": "https://www.mayotte.ars.sante.fr/coronavirus-covid-19-point-de-situation-et-conduite-tenir",
+      "archive": "https://web.archive.org/web/20200322211041/https://www.mayotte.ars.sante.fr/coronavirus-covid-19-point-de-situation-et-conduite-tenir"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Mayotte",
+    "code": "REG-06",
+    "casConfirmes": 11,
+    "hospitalises": 4,
+    "reanimation": 1
   },
   {
     "date": "2020-03-22",
@@ -28674,6 +29191,20 @@
     "sourceType": "sante-publique-france",
     "casConfirmes": 305275,
     "deces": 12942,
+    "nom": "Monde",
+    "code": "WORLD"
+  },
+  {
+    "date": "2020-03-22",
+    "source": {
+      "nom": "Ministère des Solidarités et de la Santé",
+      "url": "https://www.dailymotion.com/video/x7svka4"
+    },
+    "sourceType": "ministere-sante",
+    "casConfirmes": 318000,
+    "paysTouches": 169,
+    "deces": 13664,
+    "gueris": 94000,
     "nom": "Monde",
     "code": "WORLD"
   }
