@@ -1,0 +1,19 @@
+date: "2020-03-21"
+source:
+  nom: Ministère des Solidarités et de la Santé
+  url: https://solidarites-sante.gouv.fr/actualites/presse/communiques-de-presse/article/communique-de-presse-covid-19-extension-nationale-et-aggravation-rapide-de-l
+  archive: https://web.archive.org/web/20200322150209/https://solidarites-sante.gouv.fr/actualites/presse/communiques-de-presse/article/communique-de-presse-covid-19-extension-nationale-et-aggravation-rapide-de-l
+donneesNationales:
+  casConfirmes: 14459
+  deces: 562
+  hospitalises: 6172
+  reanimation: 1525 # 50% des personnes hospitalisées en réanimation ont moins de 60 ans.
+
+# url: https://www.dailymotion.com/video/x7suz2t
+# 117 millions de masques chirurgigaux en stock au début de la crise
+# aucun stock de masque FFP2 au début de la crise
+# 250 millions de masques commandés
+# réquisition de l'ensemble des masques dispo sur le territoire
+# 4000 tests effectués par jour
+# 120 laboratoires dans la capacité de faire les tests.
+# aucune donnée ni mondiale, ni nationale dans la vidéo
