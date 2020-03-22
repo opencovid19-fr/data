@@ -1,9 +1,11 @@
 #!/usr/bin/env node
 const {join} = require('path')
-const {flatten, chain} = require('lodash')
+const {flatten, chain, omit} = require('lodash')
 const {outputJson} = require('fs-extra')
 const glob = require('glob')
-const {ensureArray, readYamlFile, outputCsv} = require('./lib/util')
+const {ensureArray, readYamlFile, outputCsv, stringCompare} = require('./lib/util')
+const departements = require('@etalab/decoupage-administratif/data/departements.json')
+const regions = require('@etalab/decoupage-administratif/data/regions.json')
 
 const sources = [
   'agences-regionales-sante',
@@ -40,11 +42,12 @@ function flattenData(initialData) {
   return rows
 }
 
-function flattenSourcesData({sourceType, date, source, rows}) {
+function flattenSourcesData({sourceType, sourceFile, date, source, rows}) {
   return rows.map(row => ({
     date,
     source,
     sourceType,
+    sourceFile,
     ...row
   }))
 }
@@ -108,13 +111,60 @@ function showMetrics(rows) {
   console.log(`Nombre d’entrées sans source : ${woSource.length}`)
 }
 
+function validate(flattenedData) {
+  let hasErrors = false
+
+  function notValid(row, errorMessage) {
+    console.error(`${row.sourceFile} | ${errorMessage}`)
+    hasErrors = true
+  }
+
+  flattenedData.forEach(row => {
+    if (!row.code) {
+      return notValid(row, 'Code non défini')
+    }
+
+    const [codeType, codeValue] = row.code.split('-')
+
+    if (!['REG', 'DEP', 'COM', 'FRA', 'WORLD'].includes(codeType)) {
+      return notValid(row, `Type de code non valide : ${codeType}`)
+    }
+
+    if (codeType === 'REG') {
+      const region = regions.find(r => r.code === codeValue)
+      if (!region) {
+        return notValid(row, `Code région inconnu : ${codeValue}`)
+      }
+
+      if (!stringCompare(region.nom, row.nom)) {
+        return notValid(row, `Incohérence entre le code région et le nom associé : ${region.nom} => ${row.nom}`)
+      }
+    }
+
+    if (codeType === 'DEP') {
+      const departement = departements.find(d => d.code === codeValue)
+      if (!departement) {
+        return notValid(row, `Code département inconnu : ${codeValue}`)
+      }
+
+      if (!stringCompare(departement.nom, row.nom)) {
+        return notValid(row, `Incohérence entre le code département et le nom associé : ${departement.nom} => ${row.nom}`)
+      }
+    }
+  })
+
+  if (hasErrors) {
+    throw new Error('Échec de validation')
+  }
+}
+
 async function main() {
   const sourcesFiles = flatten(sources.map(source => glob.sync(`${source}/**/*.yaml`)))
 
   const sourcesData = await Promise.all(sourcesFiles.map(async sourceFile => {
     const sourceType = sourceFile.split('/')[0]
     const data = await readYamlFile(join(__dirname, sourceFile))
-    return {date: data.date, source: data.source, rows: flattenData(data), sourceType}
+    return {date: data.date, source: data.source, rows: flattenData(data), sourceType, sourceFile}
   }))
 
   const flattenedData = chain(sourcesData)
@@ -124,9 +174,10 @@ async function main() {
     .sortBy(r => `${r.date}-${r.code}`)
     .value()
 
+  validate(flattenedData)
   showMetrics(flattenedData)
 
-  await outputJson(join(distPath, 'chiffres-cles.json'), flattenedData, {spaces: 2})
+  await outputJson(join(distPath, 'chiffres-cles.json'), flattenedData.map(r => omit(r, 'sourceFile')), {spaces: 2})
   await outputCsv(join(distPath, 'chiffres-cles.csv'), flattenedData.map(jsonToCsvRow))
 }
 
