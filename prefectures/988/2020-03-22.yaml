@@ -1,0 +1,11 @@
+date: "2020-03-22"
+source:
+  nom: Gouvernement de la Nouvelle-Calédonie
+  url: https://www.service-public.pf/dsp/wp-content/uploads/sites/12/2020/03/Communiqu%C3%A9-Point-coronavirus-pour-le-20-mars-2020.pdf
+  archive: https://web.archive.org/web/20200322182414/https://gouv.nc/coronavirus
+donneesRegionales:
+  nom: Nouvelle-Calédonie
+  code: COM-988
+  casConfirmes: 5 
+  depistes: 62 # tous négatifs 
+  hospitalises: 1
