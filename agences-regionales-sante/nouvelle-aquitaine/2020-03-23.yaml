@@ -8,5 +8,6 @@ donneesRegionales:
   code: REG-75
   casConfirmes: 656 # +65 cas.
   hospitalisation: 149
-  reanimation: 49
+  reanimation: 41 # 149 personnes sont hospitalisées dont 41 en réanimation
   deces: 13
+  
