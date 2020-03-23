@@ -15,10 +15,13 @@ Inutile de perdre du temps à écrire des scrappers, à ce stade il est plus eff
 
 ## Sources utilisées
 
-- [Santé publique France](https://www.santepubliquefrance.fr). Voir [data/sante-publique-france](https://github.com/opencovid19-fr/data/tree/master/sante-publique-france)
-- Agences Régionales de Santé - Merci de prendre les issues ouvertes pour traiter les ARS x date, et que ce travail ne soit pas fait en double. Voir [data/agences-regionales-sante](https://github.com/opencovid19-fr/data/tree/master/agences-regionales-sante)
-- Préfectures
-- [Vidéos du Ministère des Solidarités et de la Santé](https://www.dailymotion.com/MinSoliSante). Voir [data/ministere-sante](https://github.com/opencovid19-fr/data/tree/master/ministere-sante)
+- [Santé publique France](https://www.santepubliquefrance.fr) - :open_file_folder: [data/sante-publique-france](/sante-publique-france)
+- Agences Régionales de Santé - :open_file_folder: [data/agences-regionales-sante](/agences-regionales-sante)
+  - Merci de prendre les issues ouvertes pour traiter les `ARS x DATE`, et que ce travail ne soit pas fait en double.
+- Préfectures - :open_file_folder:
+- Ministère des Solidarités et de la Santé - :open_file_folder: [data/ministere-sante](/ministere-sante)
+  - [Vidéos](https://www.dailymotion.com/MinSoliSante)
+  - [Communiqués de presse](https://solidarites-sante.gouv.fr/actualites/presse/)
 
 ## Fichiers sources
 
