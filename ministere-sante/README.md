@@ -23,7 +23,11 @@ Les données extraites de ces vidéos et retranscrites dans les fichiers sont :
 ###  Autres données 
 
 Parfois, la capacité de lits est indiquée.   
-La capacite totale de lits disponibles (```capaciteTotaleLitsDisponibles```) est dans ce cas définie par la somme de :    
+La capacite totale de lits disponibles est dans ce cas définie par la somme de :    
 - la capacite de lits de réanimation (tous équipés de respirateurs)
 - la capacité de lits de soins continus
 - la capacité de lits de soins intensifs
+
+----
+
+:bulb: Voir le readme principal pour savoir comment bien remplir les fichiers
