@@ -2,9 +2,9 @@ date: 2020-03-22
 source:
   nom: Santé publique France
   url: https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde
-  archive: https://web.archive.org/web/20200322185906/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde
+  archive: https://web.archive.org/web/20200323121952/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde
 donneesNationales:
-  casConfirmes: 16018
+  casConfirmes: 16689 # Le chiffre de 16018 précédent annoncé à été corrigé par SPF. cf archive: "Une erreur s'était glissée dans le bilan des cas confirmés du 22/03/20"
   deces: 674
   hospitalises: 7240
   reanimation: 1746
