@@ -1,0 +1,36 @@
+date: "2020-02-12"
+source:
+  nom: Santé publique France
+  url: https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/epidemie-de-coronavirus-covid-19-au-depart-de-wuhan-chine
+  archive: https://web.archive.org/web/20200212192607/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/epidemie-de-coronavirus-covid-19-au-depart-de-wuhan-chine
+donneesNationales:
+  casConfirmes: 11
+  hospitalises: 11
+  deces: 0
+donneesRegionales: # repris du fichier précédent
+  - nom: Ile-de-France
+    code: REG-11
+    casConfirmes: 5 # repris du fichier précédent
+    hospitalises: 5
+  - nom: Nouvelle-Aquitaine
+    code: REG-75
+    casConfirmes: 1 # repris du fichier précédent
+    hospitalises: 1
+  - nom: Auvergne Rhône-Alpes
+    code: REG-84
+    casConfirmes: 5 # repris du fichier précédent
+    hospitalises: 5
+    deces: 0
+donneesDepartementales: # repris du fichier précédent
+  - nom: Gironde
+    code: DEP-33
+    casConfirmes: 1 # repris du fichier précédent
+    hospitalises: 1
+  - nom: Haute-Savoie # cf archive2
+    code: DEP-74
+    casConfirmes: 5 # repris du fichier précédent
+    deces: 0
+donneesMondiales:
+  paysTouches: 26
+  casConfirmes: 45179
+  deces: 1116 # 1 114 en Chine, 1 aux Philippines et 1 à Hong-Kong

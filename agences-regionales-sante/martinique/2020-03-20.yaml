@@ -1,0 +1,10 @@
+date: "2020-03-19"
+source:
+  nom: ARS Martinique
+  url: http://www.martinique.ars.sante.fr/system/files/2020-03/Point%20de%20situation%20%237%20-%2020%20mars%20-%20Mars%202020.pdf
+  #Pas d'archive car archive.org n'arrive pas à sauvegarder ce PDF. À cause du # dans le nom de fichier ?
+donneesRegionales:
+  nom: Martinique
+  code: REG-02
+  casConfirmes: 35 # +3
+  reanimation: 7

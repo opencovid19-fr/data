@@ -1,0 +1,20 @@
+date: "2020-03-05"
+source:
+  nom: Ministère des Solidarités et de la Santé
+  url: https://www.dailymotion.com/video/x7siev3
+donneesNationales:
+  casConfirmes: 423 # à 16h. +138 depuis hier, 15 régions touchées
+  deces: 7 # 6 hommes et 1 femme
+  reanimation: 23 # +8 depuis hier
+  victimes:
+   - age: 73 # Oise
+   - age: 64 # Aisne
+donneesMondiales:
+  casConfirmes: 98000
+  gueris: 53000
+  deces: 3346
+  paysTouches: 83
+
+# d'après le communiqué: 377 cas, +2 décés, total 6 décès
+# url2: https://solidarites-sante.gouv.fr/actualites/presse/communiques-de-presse/article/covid-19-une-mobilisation-des-equipes-sur-l-ensemble-du-territoire-92-nouveaux
+# archive2: https://web.archive.org/web/20200322192113/https://solidarites-sante.gouv.fr/actualites/presse/communiques-de-presse/article/covid-19-une-mobilisation-des-equipes-sur-l-ensemble-du-territoire-92-nouveaux

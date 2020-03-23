@@ -1,0 +1,24 @@
+date: "2020-03-19"
+source:
+  nom: Ministère des Solidarités et de la Santé
+  url: https://www.dailymotion.com/video/x7stprh
+donneesNationales:
+  casConfirmes: 10995
+  deces: 372 # 6% ont moins de 60 ans
+  hospitalises: 4461
+  reanimation: 1122
+  gueris: 1300
+  capaciteTotaleLitsDisponibles: 3700 #somme des 3 lignes suivantes (lits réa+ lits soins continus+ soins intensifs)
+  capaciteLitsReanimation: 1300
+  capaciteLitsSoinsContinus: 1600
+  capaciteLitsSoinsIntensifs: 754
+donneesMondiales:
+  casConfirmes: 235000
+  gueris: 84000
+  paysTouches: 159
+  deces: 9785 # 3200 en Chine, 4500 en Europe
+
+# France 50000 tests au total
+# France 4000 tests par jour
+# France 5000 personnes confinées à domiciles
+# données nationales à 2'

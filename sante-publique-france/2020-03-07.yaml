@@ -2,6 +2,7 @@ date: "2020-03-07"
 source:
   nom: Santé publique France
   url: https://www.santepubliquefrance.fr/content/download/235538/2526975
+  archive: https://web.archive.org/web/20200319120255/https://www.santepubliquefrance.fr/content/download/234974/link_1_file_to_download/COVID19_PE_20200307.pdf
 donneesNationales:
   casConfirmes: 949
   reanimation: 45
@@ -22,7 +23,7 @@ donneesRegionales:
   - nom: Corse
     code: REG-94
     casConfirmes: 5
-  - nom: Grand Est
+  - nom: Grand-Est
     code: REG-44
     casConfirmes: 250
   - nom: Hauts-de-France

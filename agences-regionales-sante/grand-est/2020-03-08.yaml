@@ -3,7 +3,7 @@ source:
   nom: ARS Grand-Est
   url: https://www.grand-est.ars.sante.fr/system/files/2020-03/Covid19_point_GrandEst080320.pdf
 donneesRegionales:
-  - nom: Grand Est
+  - nom: Grand-Est
     code: REG-44
     casConfirmes: 262
     reanimation: 45

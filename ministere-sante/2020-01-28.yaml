@@ -1,0 +1,17 @@
+date: "2020-01-28"
+source:
+  nom: Ministère des Solidarités et de la Santé
+  url: https://www.dailymotion.com/video/x7r7hna
+donneesNationales:
+  casConfirmes: 4 #1 nouveau cas
+  deces: 0
+  gueris: 0
+  hospitalises: 4
+  reanimation: 1 # le nouveau cas est en réanimation mais pas de nouvelles des 3 autres
+donneesMondiales:
+  casConfirmes: 4500 #plus de 4 500 dont plus de 4 500 en Chine
+  paysTouches: 19 # 70 cas dans 18 pays
+  deces: 106
+
+# données nationales à 1'20
+# données mondiales à 0'10

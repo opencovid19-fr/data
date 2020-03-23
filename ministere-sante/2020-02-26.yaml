@@ -1,0 +1,23 @@
+date: "2020-02-26"
+source:
+  nom: Ministère des Solidarités et de la Santé
+  url: https://www.dailymotion.com/video/x7s9fw9
+donneesNationales:
+  casConfirmes: 18
+  deces: 2
+  gueris: 12
+  hospitalises: 4
+  #reanimation: au moins 1 
+donneesMondiales:
+  casConfirmes: 81000
+  gueris: 30000
+  paysTouches: 42 # +Algérie, Grèce et Pakistan
+  deces: 2770
+
+# données nationales à 10'50, chiffres à 11'35
+# données mondiales à 4'50
+
+# Le communiqué indique 17 cas.
+# Mais la vidéo a été enregistrée après le communiqué. "Un point presse se tiendra ce 26 février en fin de journée, en présence du Ministre des Solidarités et de la Santé."
+# url2: https://solidarites-sante.gouv.fr/IMG/pdf/communique_de_presse_-_point_de_situation_covid-19_2602-2.pdf
+# archive2: https://web.archive.org/web/20200322185729/https://solidarites-sante.gouv.fr/IMG/pdf/communique_de_presse_-_point_de_situation_covid-19_2602-2.pdfhttps://web.archive.org/web/20200322191715/https://solidarites-sante.gouv.fr/actualites/presse/communiques-de-presse/article/covid-19-une-mobilisation-des-equipes-sur-l-ensemble-du-territoire-45-nouveaux

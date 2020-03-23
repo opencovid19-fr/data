@@ -1,0 +1,16 @@
+date: "2020-03-11"
+source:
+  nom: Ministère des Solidarités et de la Santé
+  url: https://www.dailymotion.com/video/x7snao5
+donneesNationales:
+  casConfirmes: 2281 # Source: santé publique france
+  deces: 48 # 25 hommes et 23 femmes
+  reanimation: 105
+donneesMondiales:
+  casConfirmes: 121500
+  gueris: 66000
+  paysTouches: 110
+  deces: 4373
+
+# données mondiales à 9'40
+# données nationales à 10'45

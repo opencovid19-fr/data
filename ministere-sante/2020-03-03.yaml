@@ -1,0 +1,22 @@
+date: "2020-03-03"
+source:
+  nom: Ministère des Solidarités et de la Santé
+  url: https://www.dailymotion.com/video/x7sgicv
+donneesNationales:
+  casConfirmes: 212 # à 16h. Source: santé publique france. +21 depuis hier
+  deces: 4
+  gueris: 12
+  victimes:
+   - age: 92
+     sexe: homme # dans le Morbihan
+donneesMondiales:
+  casConfirmes: 92000
+  gueris: 48000
+  paysTouches: 73
+  deces: 3130
+  
+# données nationales 1'30
+
+# 204 cas à la mi-journée d'après le communiqué de presse
+# url2: https://solidarites-sante.gouv.fr/actualites/presse/communiques-de-presse/article/covid-19-une-mobilisation-des-equipes-sur-l-ensemble-du-territoire
+# archive2: https://web.archive.org/web/20200322191320/https://solidarites-sante.gouv.fr/actualites/presse/communiques-de-presse/article/covid-19-une-mobilisation-des-equipes-sur-l-ensemble-du-territoire

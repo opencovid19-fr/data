@@ -11,6 +11,7 @@
     "lint": "xo"
   },
   "devDependencies": {
+    "@etalab/decoupage-administratif": "^0.7.0",
     "fs-extra": "^8.1.0",
     "glob": "^7.1.6",
     "js-yaml": "^3.13.1",

@@ -1,0 +1,16 @@
+date: "2020-03-18"
+source:
+    nom: ARS Mayotte
+    url: https://www.mayotte.ars.sante.fr/system/files/2020-03/CP%2018%20mars%20COVID-19_0.pdf
+    archive: https://web.archive.org/web/20200321163709/https://www.mayotte.ars.sante.fr/system/files/2020-03/CP%2018%20mars%20COVID-19_0.pdf
+donneesRegionales:
+  nom: Mayotte
+  code: REG-06
+  casConfirmes: 3
+  hospitalises: 3
+donneesDepartementales:
+  - nom: Mayotte
+    code: DEP-976
+    casConfirmes: 3
+    hospitalises: 3 #pris en charge au Centre Hospitalier de Mayotte (CHM)
+#Pas de nouveaux cas ce jour. Le communiqué fait le point sur les 3 cas totaux de la veille.

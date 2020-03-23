@@ -1,6 +1,7 @@
 date: "2020-03-13"
 source:
   nom: Santé publique France
+  url: https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde
   archive: https://web.archive.org/web/20200314005123/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde
 donneesNationales:
   casConfirmes: 3661
@@ -21,7 +22,7 @@ donneesRegionales:
   - nom: Corse
     code: REG-94
     casConfirmes: 85
-  - nom: Grand Est
+  - nom: Grand-Est
     code: REG-44
     casConfirmes: 911
   - nom: Hauts-de-France

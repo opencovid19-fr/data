@@ -1,0 +1,76 @@
+date: "2020-03-02"
+source:
+  nom: Santé publique France
+  url: https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france
+  archive: https://web.archive.org/web/20200303124836/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france
+donneesNationales:
+  casConfirmes: 178
+  deces: 3
+  victimes:
+   - sexe: homme
+     age: 81
+   - sexe: homme
+     age: 60
+   - sexe: femme
+     age: 89
+donneesRegionales:
+  - nom: Auvergne-Rhône-Alpes
+    code: REG-84
+    casConfirmes: 37
+  - nom: Bourgogne-Franche-Comté
+    code: REG-27
+    casConfirmes: 8
+  - nom: Bretagne
+    code: REG-53
+    casConfirmes: 13
+  - nom: Centre-Val de Loire
+    code: REG-24
+    casConfirmes: 0
+  - nom: Corse
+    code: REG-94
+    casConfirmes: 0
+  - nom: Grand-Est
+    code: REG-44
+    casConfirmes: 12
+  - nom: Hauts-de-France
+    code: REG-32
+    casConfirmes: 45
+  - nom: Ile-de-France
+    code: REG-11
+    casConfirmes: 34
+  - nom: Normandie
+    code: REG-28
+    casConfirmes: 2
+  - nom: Nouvelle-Aquitaine
+    code: REG-75
+    casConfirmes: 4
+  - nom: Occitanie
+    code: REG-76
+    casConfirmes: 6
+  - nom: Pays de la Loire
+    code: REG-52
+    casConfirmes: 5
+  - nom: Provence-Alpes-Côte d’Azur
+    code: REG-93
+    casConfirmes: 9
+  - nom: Guadeloupe
+    code: REG-01
+    casConfirmes: 0 # les 3 cas indiqués sont à Saint-Martin et Saint-Barthélemy et non en Guadeloupe
+  - nom: Guyane
+    code: REG-03
+    casConfirmes: 0
+  - nom: Martinique
+    code: REG-02
+    casConfirmes: 0
+  - nom: Mayotte
+    code: REG-06
+    casConfirmes: 0
+  - nom: La Réunion
+    code: REG-04
+    casConfirmes: 0
+  - nom: Saint-Barthélemy
+    code: COM-977
+    casConfirmes: 1
+  - nom: Saint-Martin
+    code: COM-978
+    casConfirmes: 2

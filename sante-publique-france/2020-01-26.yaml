@@ -1,0 +1,25 @@
+date: "2020-01-26"
+source:
+  nom: Santé publique France
+  url: https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/cas-de-pneumonies-associees-a-un-nouveau-coronavirus-2019-ncov-a-wuhan-en-chine
+  archive: https://web.archive.org/web/20200127144431/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/cas-de-pneumonies-associees-a-un-nouveau-coronavirus-2019-ncov-a-wuhan-en-chine
+donneesNationales:
+  casConfirmes: 3
+donneesRegionales: # repris du fichier précédent
+  - nom: Ile-de-France
+    code: REG-11
+    casConfirmes: 2 # repris du fichier précédent
+    hospitalises: 2
+  - nom: Nouvelle-Aquitaine
+    code: REG-75
+    casConfirmes: 1 # repris du fichier précédent
+    hospitalises: 1
+donneesDepartementales: # repris du fichier précédent
+  - nom: Gironde
+    code: DEP-33
+    casConfirmes: 1 # repris du fichier précédent
+    hospitalises: 1
+donneesMondiales:
+  paysTouches: 13 # (Macao a été oublié) Chine, France, Thaïlande, Singapour, Malaisie, Japon, Corée du Sud, Hong-Kong, Etats-Unis, Australie, Vietnam, Taïwan et Népal
+  casConfirmes: 2026 # 1988+3+6+5+4+4+4+3+3+2+2+1+1
+  deces: 56

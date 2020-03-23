@@ -1,0 +1,10 @@
+date: "2020-03-01"
+source:
+  nom: ARS Bourgogne-Franche-Comté
+  url: https://www.bourgogne-franche-comte.ars.sante.fr/system/files/2020-03/2020.03.01_COVID19_SITUATION%20BFC.pdf
+  archive: https://web.archive.org/web/20200321174548/https://www.bourgogne-franche-comte.ars.sante.fr/system/files/2020-03/2020.03.01_COVID19_SITUATION%20BFC.pdf
+donneesRegionales:
+  nom: Bourgogne-Franche-Comté
+  code: REG-27
+  casConfirmes: 10 # +5
+  deces: 0

@@ -1,0 +1,27 @@
+date: "2020-02-05"
+source:
+  nom: Santé publique France
+  url: https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/coronavirus-2019-ncov-france-et-monde
+  archive: https://web.archive.org/web/20200206105035/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/coronavirus-2019-ncov-france-et-monde
+donneesNationales:
+  casConfirmes: 6
+  hospitalises: 6 # repris du fichier précédent
+  deces: 0
+donneesRegionales: # repris du fichier précédent
+  - nom: Ile-de-France
+    code: REG-11
+    casConfirmes: 5 # repris du fichier précédent
+    hospitalises: 5
+  - nom: Nouvelle-Aquitaine
+    code: REG-75
+    casConfirmes: 1 # repris du fichier précédent
+    hospitalises: 1
+donneesDepartementales: # repris du fichier précédent
+  - nom: Gironde
+    code: DEP-33
+    casConfirmes: 1 # repris du fichier précédent
+    hospitalises: 1 
+donneesMondiales:
+  paysTouches: 26 # 25 pays hors Chine ont signalé des cas.
+  casConfirmes: 24530
+  deces: 493 # 492 Chine + 1 Philippines

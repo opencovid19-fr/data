@@ -1,0 +1,19 @@
+date: "2020-02-15"
+source:
+  nom: Ministère des Solidarités et de la Santé
+  url: https://www.dailymotion.com/video/x7rtvys
+donneesNationales:
+  casConfirmes: 12 # 11 d'après la vidéo, mais 12 d'après le communiqué de presse
+  deces: 1 # premier deces en France et premier décès en Europe. Le 'touriste chinois'.
+  gueris: 4
+  hospitalises: 7 # video: 6 aucune inquietude; communiqué: le 12ième patient [...] est demeuré en isolement strict dans un hôpital
+donneesMondiales:
+  casConfirmes: 67000
+  deces: 1500 # plus de 1500 deces a 2'25
+
+# données nationales à 1'30
+# données mondiales à 2'00
+
+# Le communiqué de presse indique 12 cas et non 11
+# url2: https://solidarites-sante.gouv.fr/actualites/presse/communiques-de-presse/article/coronavirus-covid-19-un-douzieme-cas-confirme-en-france
+# archive2: https://web.archive.org/web/20200322184218/https://solidarites-sante.gouv.fr/actualites/presse/communiques-de-presse/article/coronavirus-covid-19-un-douzieme-cas-confirme-en-france

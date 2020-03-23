@@ -1,0 +1,24 @@
+date: 2020-03-22
+source:
+  nom: Ministère des Solidarités et de la Santé
+  url: https://www.dailymotion.com/video/x7svka4
+donneesNationales:
+  casConfirmes: 16018 # 35% ont moins de 65 ans
+  deces: 674 # 87% des décès sont des personnes de plus de 70 ans
+  hospitalises: 7240
+  reanimation: 1746
+  gueris: 2200
+donneesMondiales:
+  casConfirmes: 318000 # estimation
+  paysTouches: 169
+  deces: 13664
+  gueris: 94000 # estimation
+
+# France: plus de 60 000 tests PCR réalisés
+# 4000 tests PCR quotidiens à ce stade
+
+# 70 nouveaux laboratoires équipés
+# 120 laboratoires à ce jour (montée en puissance)
+
+# données mondiales à 0'33
+# données nationales à 1'50

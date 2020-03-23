@@ -1,0 +1,17 @@
+date: "2020-03-09"
+source:
+  nom: Ministère des Solidarités et de la Santé
+  url: https://www.dailymotion.com/video/x7slmu1
+donneesNationales:
+  casConfirmes: 1412 # à 15h. Source: santé publique france. +286 qu'hier
+  deces: 25 # 15 hommes et 10 femmes
+  reanimation: 66 # 66 personnes considérées comme cas grâves. le mot réanimation n'est pas utilisé
+donneesMondiales:
+  casConfirmes: 111000 # + de 111000 cas
+  gueris: 62000
+  paysTouches: 102
+  deces: 3892
+
+# d'après le communiqué: 1191 cas, +2 décédés (Corse et Auvergne-Rhône-Alpes), total 21 décès
+# url2: https://solidarites-sante.gouv.fr/actualites/presse/communiques-de-presse/article/covid-19-la-priorite-est-de-ralentir-la-circulation-du-virus-sur-le-territoire
+# archive2:https://web.archive.org/web/20200322195209/https://solidarites-sante.gouv.fr/actualites/presse/communiques-de-presse/article/covid-19-la-priorite-est-de-ralentir-la-circulation-du-virus-sur-le-territoire

@@ -1,0 +1,27 @@
+date: "2020-01-31"
+source:
+  nom: Santé publique France
+  url: https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/cas-de-pneumonies-associees-a-un-nouveau-coronavirus-2019-ncov-a-wuhan-en-chine
+  archive: https://web.archive.org/web/20200201131050/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/cas-de-pneumonies-associees-a-un-nouveau-coronavirus-2019-ncov-a-wuhan-en-chine
+donneesNationales:
+  casConfirmes: 6
+  hospitalises: 6 # repris du fichier précédent
+  deces: 0
+donneesRegionales: # repris du fichier précédent
+  - nom: Ile-de-France
+    code: REG-11
+    casConfirmes: 5 # repris du fichier précédent
+    hospitalises: 5
+  - nom: Nouvelle-Aquitaine
+    code: REG-75
+    casConfirmes: 1 # repris du fichier précédent
+    hospitalises: 1
+donneesDepartementales: # repris du fichier précédent
+  - nom: Gironde
+    code: DEP-33
+    casConfirmes: 1 # repris du fichier précédent
+    hospitalises: 1
+donneesMondiales:
+  paysTouches: 21
+  casConfirmes: 9831 # 9723+6+14+9+13+8+14+9+6+5+7+4+3+2+1+1+1+1+1+1+2
+  deces: 213
