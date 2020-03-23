@@ -50,7 +50,7 @@ Les sources de données (PDF, videos ou site web) sont notées dans chaque fichi
 
 Consignes générales :   
 :arrow_right: le nombre d'espaces en début de ligne est très important, ainsi que la position des tirets `-`, soyez vigilant en complétant les fichiers   
-:arrow_right: Ne pas mettre d'espaces entre les nombres. 255 000 --> 255000
+:arrow_right: Ne pas mettre d'espaces entre les nombres. `255 000` :arrow_forward: `255000`
 
 ##### Entête de fichier YAML
 
