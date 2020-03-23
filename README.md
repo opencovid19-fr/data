@@ -26,7 +26,7 @@ Les informations à la source sont au format PDF ou dans des communiqués au for
 
 Ces informations sont collectées et regroupées dans des fichiers YAML.
 
-1 fichier YAML par source et par publication (donc par date). Le nom de chaque fichier a pour modèle ```YYYY-MM-DD.yaml```.
+1 fichier YAML par source et par publication (donc par date). Le nom de chaque fichier a pour modèle `YYYY-MM-DD.yaml`.
 
 ## Comment contribuer ?
 
@@ -38,8 +38,9 @@ Vous pouvez aussi consulter [le guide de contribution pour l'ensemble des projet
 
 Tâches :
 
-- créer les fichiers YAML manquants (:warning: vérifier dans les [PR](https://github.com/opencovid19-fr/data/pulls) que le fichier n'est pas déjà proposé)
-- vérifier les [pull requests](https://github.com/opencovid19-fr/data/pulls) en faisant une [code review](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-request-reviews) ([tuto vidéo](https://www.youtube.com/watch?v=HW0RPaJqm4g))
+:one: créer les fichiers YAML manquants (:warning: vérifier dans les [PR](https://github.com/opencovid19-fr/data/pulls) que le fichier n'est pas déjà proposé)
+  
+:two: vérifier les [pull requests](https://github.com/opencovid19-fr/data/pulls) en faisant une [code review](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-request-reviews) ([tuto vidéo](https://www.youtube.com/watch?v=HW0RPaJqm4g))
 
 Le plus simple pour contribuer est de copier un fichier YAML existant et de l'adapter avec les nouvelles données. Les données doivent être recopiées à la main depuis les différentes sources de données. Le fichier YAML doit être placé dans le bon répertoire et son nom doit être sous la forme YYYY-MM-DD.yaml (date du bulletin).
 
@@ -76,25 +77,26 @@ Notez que le lien peut prendre du temps avant d'être fonctionnel. Il est égale
 
 ##### Les données nationales
 
-* Nombre de cas confirmés : la clé à indiquer dans le fichier est ```casConfirmes```
-* Nombre de décès : la clé à indiquer dans le fichier est ```deces```
-* Nombre de personnes hospitalisées : la clé à indiquer dans le fichier est ```hospitalises```
-* Nombre de personnes en réanimation : la clé à indiquer dans le fichier est ```reanimation```
-* Nombre de personnes guéries (qui sont sorties de l'hôpital) : la clé à indiquer dans le fichier est ```gueris```
+* `casConfirmes` : nombre de cas confirmés
+* `deces` : nombre de décès
+* `hospitalises` : nombre de personnes hospitalisées
+* `reanimation` : nombre de personnes en réanimation
+* `gueris` : nombre de personnes guéries (sorties de l'hôpital)
+* `depistes` : nombre de personnes dépistées (testées par PCR)
 
 ##### Les données internationales
 
-* Nombre de cas confirmés au niveau mondial : la clé à indiquer dans le fichier est ```casConfirmes```
-* Nombre de cas guéris : la clé à indiquer dans le fichier est ```gueris```
-* Nombre de pays touchés : la clé à indiquer dans le fichier est ```paysTouches```
-* Nombre de décès : la clé à indiquer dans le fichier est ```deces```
+* `casConfirmes` : nombre de cas confirmés au niveau mondial
+* `gueris` : nombre de cas guéris au niveau mondial
+* `deces` : nombre de décès au niveau mondial
+* `paysTouches` : nombre de pays touchés
 
 ####  Autres données collectées (si elles sont mentionnées dans les sources)
 
-Sur la capacité de lits, la capacite totale de lits disponibles (```capaciteTotaleLitsDisponibles```) est définie par la somme de :    
-- la capacite de lits de réanimation (tous équipés de respirateurs)
-- la capacité de lits de soins continus*
-- la capacité de lits de soins intensifs
+Sur la capacité de lits, la capacite totale de lits disponibles `capaciteTotaleLitsDisponibles` est définie par la somme de :    
+- `capaciteLitsReanimation` : capacite de lits de réanimation (équipés de respirateurs)
+- `capaciteLitsSoinsContinus` : capacité de lits de soins continus*
+- `capaciteLitsSoinsIntensifs` : capacité de lits de soins intensifs
 
 * _Les USC (Unités de Soins Continus) ont pour vocation de prendre en charge « des malades qui nécessitent, en raison de la gravité de leur état ou du traitement qui leur est appliqué, une observation clinique (incluant une surveillance rapprochée des paramètres vitaux) et biologique répétée et méthodique »._ 
 
@@ -109,6 +111,7 @@ Voici un exemple de bloc YAML pour une région ou un département:
   casConfirmes: 500
   gueris: 40 # valeur copiée du fichier YAML précédent
   deces: 10
+  depistes: 5000
   hospitalises: 10
   reanimation: 5
   victimes:
@@ -120,11 +123,15 @@ Voici un exemple de bloc YAML pour une région ou un département:
     - date: 2020-03-10
 ```
 
-> Les champs `casConfirmes`, `gueris` et `deces` comptabilisent le total par catégorie depuis le début de la crise Covid-19. Par contre, les champs `hospitalises` et `reanimation` donnent le nombre de patient par catégorie à l'instant de l'édition du bulletin d'information, ces 2 chiffres peuvent bien sûr évoluer à la hausse ou à la baisse.
+> Les champs `casConfirmes`, `gueris`, `deces` et `depistes` comptabilisent le total par catégorie depuis le début de la crise Covid-19.
+
+> Les champs `hospitalises` et `reanimation` donnent le nombre de patient par catégorie à l'instant de l'édition du bulletin d'information, ces 2 chiffres peuvent bien sûr évoluer à la hausse ou à la baisse.
 
 Notez qu'il est possible si besoin d'ajouter des commentaires en fin de ligne en utilisant le caractère `#`
 
-> Le bloc `victimes` détaille les informations du bulletin concernant les personnes décédées (et non les personnes contaminées). Attention ce champ ne comptabilise pas toutes les victimes depuis le début de la crise, mais uniquement les victimes annoncées dans le bulletin. Pour chaque victime, on ajoute un tiret `-`, puis les informations sur la personne. Si aucune information, ajoutez la date du décès `date: 2020-03-10`. Si vous disposez de plus d'information, ajoutez un tiret `-` par victime puis toutes les informations disponibles `age`, `sexe` et/ou `date` (cf. exemple ci-dessus)
+> Le bloc `victimes` détaille les informations du bulletin concernant les personnes décédées (et non les personnes contaminées). Attention ce champ ne comptabilise pas toutes les victimes depuis le début de la crise, mais uniquement les victimes annoncées dans le bulletin.
+
+> Pour chaque victime, on ajoute un tiret `-`, puis les informations sur la personne. Si aucune information, ajoutez la date du décès `date: 2020-03-10`. Si vous disposez de plus d'information, ajoutez un tiret `-` par victime puis toutes les informations disponibles `age`, `sexe` et/ou `date` (cf. exemple ci-dessus)
 
 Notez qu'il est possible que certains bulletins soient érronés. Dans ce cas, corrigez le fichier YAML sur lequel l'erratum s'applique. Il convient de noter via un commentaire `#` la raison de la différence entre le nombre indiqué dans le YAML et le nombre indiqué dans sa source. Exemple :
 ```yaml
