@@ -6,6 +6,7 @@ const glob = require('glob')
 const {ensureArray, readYamlFile, outputCsv} = require('./lib/util')
 const validate = require('./lib/validate')
 const {jsonToCsvRow} = require('./lib/csv')
+const {loadData} = require('./lib/data-sources/spf')
 
 const sources = [
   'agences-regionales-sante',
@@ -82,6 +83,7 @@ async function main() {
     .map(flattenSourcesData)
     .flatten()
     .filter(r => 'casConfirmes' in r || 'deces' in r || 'reanimation' in r || 'hospitalises' in r || 'gueris' in r)
+    .concat(await loadData())
     .sortBy(r => `${r.date}-${r.code}`)
     .value()
 
