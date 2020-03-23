@@ -6,7 +6,7 @@ source:
 donneesRegionales:
   nom: Pays de la Loire
   code: REG-52
-  casConfirmes: 293 
+  casConfirmes: 293 # +132 cas par rapport à vendredi
   reanimation: 51 # dont 33 confirmés et 18 en attente de résultats
   deces: 10 # tous 75 ans et plus; 1 à Laval, 1 à Saumur, 1 au Mans, 3 à Angers 3 au CHU de Nantes
   gueris: 74
