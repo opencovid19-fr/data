@@ -109,10 +109,10 @@ Voici un exemple de bloc YAML pour une région ou un département:
   nom: region-ou-departement-exemple
   code: Exemple
   casConfirmes: 500
-  gueris: 40 # valeur copiée du fichier YAML précédent
+  gueris: 40 # ceci est un commentaire pour détailler une valeur
   deces: 10
   depistes: 5000
-  hospitalises: 10
+  hospitalises: 10 # ceci est un autre commentaire
   reanimation: 5
   victimes:
     - age: 85
