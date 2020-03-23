@@ -49,6 +49,8 @@ Le plus simple pour contribuer est de copier un fichier YAML existant et de l'ad
 
 Les sources de données (PDF, videos ou site web) sont notées dans chaque fichier YAML. Si vous cherchez des sources de données, les sources actuelles sont regroupées dans le fichier de sortie (CSV/JSON).
 
+:bulb: Pour les novices, ce [guide complet](docs/utilise-github.md) détaille comment contribuer via GitHub.
+
 ### Comment compléter les fichiers YAML
 
 Consignes générales :   
