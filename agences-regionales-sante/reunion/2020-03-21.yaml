@@ -1,0 +1,16 @@
+date: 2020-03-21
+source:
+  nom: ARS La Réunion
+  url: https://www.lareunion.ars.sante.fr/coronavirus-covid-19-la-reunion-16-nouveaux-cas-confirmes
+  archive: https://web.archive.org/web/20200323073234/https://www.lareunion.ars.sante.fr/coronavirus-covid-19-la-reunion-16-nouveaux-cas-confirmes
+donneesRegionales:
+  nom: La Réunion
+  code: COM-974
+  casConfirmes: 47 
+  reanimation: 2
+  gueris: 1
+
+# voir paragraphe "Parmi les 47 cas confirmés le 21 mars 2020 :"
+# il n'y a pas de synthèse de presse pour le 21/03/2020. Cependant cette information à la fin du rapport
+# du 22/03/2020 permet de faire le lien entre les données du 20/03/2020 et du 22/03/2020 en casConfirmes.
+# On en déduit qu'il y a +2 casConfirmes le 21/03/2020
