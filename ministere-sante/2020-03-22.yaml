@@ -3,7 +3,7 @@ source:
   nom: Ministère des Solidarités et de la Santé
   url: https://www.dailymotion.com/video/x7svka4
 donneesNationales:
-  casConfirmes: 16018 # 35% ont moins de 65 ans
+  casConfirmes: 16689 # SPF avait annoncé 16018 mais a corrigé (cf Yaml SPF 22/03). 35% ont moins de 65 ans
   deces: 674 # 87% des décès sont des personnes de plus de 70 ans
   hospitalises: 7240
   reanimation: 1746
