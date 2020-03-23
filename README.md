@@ -15,18 +15,18 @@ Inutile de perdre du temps à écrire des scrappers, à ce stade il est plus eff
 
 ## Sources utilisées
 
-- [Santé publique France](https://www.santepubliquefrance.fr)
-- Agences Régionales de Santé - Merci de prendre les issues ouvertes pour traiter les ARS x date, et que ce travail ne soit pas fait en double.
+- [Santé publique France](https://www.santepubliquefrance.fr). Voir [data/sante-publique-france](https://github.com/opencovid19-fr/data/tree/master/sante-publique-france)
+- Agences Régionales de Santé - Merci de prendre les issues ouvertes pour traiter les ARS x date, et que ce travail ne soit pas fait en double. Voir [data/agences-regionales-sante](https://github.com/opencovid19-fr/data/tree/master/agences-regionales-sante)
 - Préfectures
-- [Vidéos du Ministère des Solidarités et de la Santé](https://www.dailymotion.com/MinSoliSante)
+- [Vidéos du Ministère des Solidarités et de la Santé](https://www.dailymotion.com/MinSoliSante). Voir [data/ministere-sante](https://github.com/opencovid19-fr/data/tree/master/ministere-sante)
 
 ## Fichiers sources
 
-Les informations à la source sont au format PDF ou dans des communiqués au format HTML.
+Les informations à la source sont au format PDF ou dans des communiqués au format HTML, ou pour les vidéos ce sont des informations partagées à l'oral.
 
 Ces informations sont collectées et regroupées dans des fichiers YAML.
 
-1 fichier YAML par source et par publication (donc par date).
+1 fichier YAML par source et par publication (donc par date). Le nom de chaque fichier a pour modèle `YYYY-MM-DD.yaml`.
 
 ## Comment contribuer ?
 
@@ -34,22 +34,25 @@ Vous pouvez [vous proposer comme volontaire sur un département ou une région d
 
 Vous pouvez aussi consulter [le guide de contribution pour l'ensemble des projets de collecte de données](https://github.com/opencovid19-fr/comment-contribuer).
 
-Les contributions se font via les fichiers YAML et non dans le fichier de sortie (CSV/JSON).
+> :rotating_light: **Les contributions se font via les fichiers YAML et non dans le fichier de sortie (CSV/JSON).**
 
 Tâches :
 
-- créer les fichiers YAML manquants (:warning: vérifier dans les [PR](https://github.com/opencovid19-fr/data/pulls) que le fichier n'est pas déjà proposé)
-- vérifier les [pull requests](https://github.com/opencovid19-fr/data/pulls) en faisant une [code review](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-request-reviews) ([tuto vidéo](https://www.youtube.com/watch?v=HW0RPaJqm4g))
+:one: créer les fichiers YAML manquants (:warning: vérifier dans les [PR](https://github.com/opencovid19-fr/data/pulls) que le fichier n'est pas déjà proposé)
+  
+:two: vérifier les [pull requests](https://github.com/opencovid19-fr/data/pulls) en faisant une [code review](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-request-reviews) ([tuto vidéo](https://www.youtube.com/watch?v=HW0RPaJqm4g))
 
 Le plus simple pour contribuer est de copier un fichier YAML existant et de l'adapter avec les nouvelles données. Les données doivent être recopiées à la main depuis les différentes sources de données. Le fichier YAML doit être placé dans le bon répertoire et son nom doit être sous la forme YYYY-MM-DD.yaml (date du bulletin).
 
-Les sources de données (PDF ou site web) sont notées dans chaque fichier YAML. Si vous cherchez des sources de données, les sources actuelles sont regroupées dans le fichier de sortie (CSV/JSON).
+Les sources de données (PDF, videos ou site web) sont notées dans chaque fichier YAML. Si vous cherchez des sources de données, les sources actuelles sont regroupées dans le fichier de sortie (CSV/JSON).
 
 ### Comment compléter les fichiers YAML
 
-Consigne générale : le nombre d'espaces en début de ligne est très important, ainsi que la position des tirets `-`, soyez vigilant en complétant les fichiers.
+Consignes générales :   
+:arrow_right: le nombre d'espaces en début de ligne est très important, ainsi que la position des tirets `-`, soyez vigilant en complétant les fichiers   
+:arrow_right: Ne pas mettre d'espaces entre les nombres. `255 000` :arrow_forward: `255000`
 
-#### Entête de fichier YAML
+##### Entête de fichier YAML
 
 Voici un exemple de bloc YAML pour une entête de fichier :
 ```yaml
@@ -70,17 +73,46 @@ Le fichier YAML doit commencer par la date du bulletin, suivi pour un bloc sourc
 
 Notez que le lien peut prendre du temps avant d'être fonctionnel. Il est également possible d'archiver un fichier PDF. Certains bulletins web ou PDF sont écrasés chaque jour donc pensez à faire des archives sur https://web.archive.org/save.
 
+### Les données collectées
+
+##### Les données nationales
+
+* `casConfirmes` : nombre de cas confirmés
+* `deces` : nombre de décès
+* `hospitalises` : nombre de personnes hospitalisées
+* `reanimation` : nombre de personnes en réanimation
+* `gueris` : nombre de personnes guéries (sorties de l'hôpital)
+* `depistes` : nombre de personnes dépistées (testées par PCR)
+
+##### Les données internationales
+
+* `casConfirmes` : nombre de cas confirmés au niveau mondial
+* `gueris` : nombre de cas guéris au niveau mondial
+* `deces` : nombre de décès au niveau mondial
+* `paysTouches` : nombre de pays touchés
+
+####  Autres données collectées (si elles sont mentionnées dans les sources)
+
+Sur la capacité de lits, la capacite totale de lits disponibles `capaciteTotaleLitsDisponibles` est définie par la somme de :    
+- `capaciteLitsReanimation` : capacite de lits de réanimation (équipés de respirateurs)
+- `capaciteLitsSoinsContinus` : capacité de lits de soins continus*
+- `capaciteLitsSoinsIntensifs` : capacité de lits de soins intensifs
+
+> :ledger: *  _Les USC (Unités de Soins Continus) ont pour vocation de prendre en charge « des malades qui nécessitent, en raison de la gravité de leur état ou du traitement qui leur est appliqué, une observation clinique (incluant une surveillance rapprochée des paramètres vitaux) et biologique répétée et méthodique »._ 
+
+> Source : [Décret n° 2002-466 du 5 avril 2002 relatif aux conditions techniques de fonctionnement auxquelles doivent satisfaire les établissements de santé pour pratiquer les activités de réanimation, de soins intensifs et de surveillance continue](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000585557&categorieLien=id) 
+
 #### Bloc YAML par région ou département 
 
 Voici un exemple de bloc YAML pour une région ou un département:
 ```yaml
   nom: region-ou-departement-exemple
   code: Exemple
-  depistes: 1000
   casConfirmes: 500
-  gueris: 40 # valeur copiée du fichier YAML précédent
+  gueris: 40 # ceci est un commentaire pour détailler une valeur
   deces: 10
-  hospitalises: 10
+  depistes: 5000
+  hospitalises: 10 # ceci est un autre commentaire
   reanimation: 5
   victimes:
     - age: 85
@@ -91,13 +123,17 @@ Voici un exemple de bloc YAML pour une région ou un département:
     - date: 2020-03-10
 ```
 
-Les champs `casConfirmes`, `gueris`, `depistes` et `deces` comptabilisent le total par catégorie depuis le début de la crise Covid-19. Par contre, les champs `hospitalises` et `reanimation` donnent le nombre de patient par catégorie à l'instant de l'édition du bulletin d'information, ces 2 chiffres peuvent bien sûr évoluer à la hausse ou à la baisse.
+ - Les champs `casConfirmes`, `gueris`, `deces` et `depistes` comptabilisent le total par catégorie depuis le début de la crise Covid-19.
 
-Notez qu'il est possible si besoin d'ajouter des commentaires en fin de ligne en utilisant le caractère `#`
+ - Les champs `hospitalises` et `reanimation` donnent le nombre de patient par catégorie à l'instant de l'édition du bulletin d'information, ces 2 chiffres peuvent bien sûr évoluer à la hausse ou à la baisse.
 
-Le bloc `victimes` détaille les informations du bulletin concernant les personnes décédées (et non les personnes contaminées). Attention ce champ ne comptabilise pas toutes les victimes depuis le début de la crise, mais uniquement les victimes annoncées dans le bulletin. Pour chaque victime, on ajoute un tiret `-`, puis les informations sur la personne. Si aucune information, ajoutez la date du décès `- date: 2020-03-10`. Si vous disposez de plus d'information, ajoutez un tiret `-` par victime puis toutes les informations disponibles `age`, `sexe` et/ou `date` (cf. exemple ci-dessus)
+ - Le bloc `victimes` détaille les informations du bulletin concernant les personnes décédées (et non les personnes contaminées). Attention ce champ ne comptabilise pas toutes les victimes depuis le début de la crise, mais uniquement les victimes annoncées dans le bulletin.
 
-Notez qu'il est possible que certains bulletins soient érronés. Dans ce cas, corrigez le fichier YAML sur lequel l'erratum s'applique. Il convient de noter via un commentaire `#` la raison de la différence entre le nombre indiqué dans le YAML et le nombre indiqué dans sa source. Exemple :
+   - Pour chaque victime, on ajoute un tiret `-`, puis les informations sur la personne. Si aucune information, ajoutez la date du décès `date: 2020-03-10`. Si vous disposez de plus d'information, ajoutez un tiret `-` par victime puis toutes les informations disponibles `age`, `sexe` et/ou `date` (cf. exemple ci-dessus)
+
+:bulb: Notez qu'il est possible si besoin d'ajouter des commentaires en fin de ligne en utilisant le caractère `#`
+
+:bulb: Notez qu'il est possible que certains bulletins soient érronés. Dans ce cas, corrigez le fichier YAML sur lequel l'erratum s'applique. Il convient de noter via un commentaire `#` la raison de la différence entre le nombre indiqué dans le YAML et le nombre indiqué dans sa source. Exemple :
 ```yaml
   casConfirmes: 29 # Erratum du bulletin 13/03 : 1 cas compté en double. La valeur 30 du bulletin du 12/03 est donc erronée
 ```
