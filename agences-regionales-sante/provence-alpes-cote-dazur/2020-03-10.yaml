@@ -1,7 +1,8 @@
 date: "2020-03-10"
 source:
   nom: ARS Provence-Alpes-Côte d’Azur
-  url: https://www.paca.ars.sante.fr/system/files/2020-03/CP%20point%20de%20situation%2010032020.pdf
+  url: https://www.paca.ars.sante.fr/coronavirus-en-provence-alpes-cote-dazur-point-de-situation-du-10-mars
+  archive: https://web.archive.org/web/20200319013855/https://www.paca.ars.sante.fr/coronavirus-en-provence-alpes-cote-dazur-point-de-situation-du-10-mars
 donneesRegionales:
   nom: Provence-Alpes-Côte d’Azur
   code: REG-93
@@ -32,3 +33,5 @@ donneesDepartementales:
     code: DEP-84
     casConfirmes: 3
     deces: 0
+
+#url2: https://www.paca.ars.sante.fr/system/files/2020-03/CP%20point%20de%20situation%2010032020.pdf
