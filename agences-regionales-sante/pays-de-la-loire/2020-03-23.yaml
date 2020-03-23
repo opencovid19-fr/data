@@ -1,0 +1,13 @@
+date: "2020-03-23"
+source:
+  nom: ARS Pays de la Loire
+  url: https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-03/2020-03-23-bulletin%20information%20COVID-19.pdf
+  archive: https://web.archive.org/web/20200323200000/https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-03/2020-03-23-bulletin%20information%20COVID-19.pdf
+donneesRegionales:
+  nom: Pays de la Loire
+  code: REG-52
+  casConfirmes: 293 
+  reanimation: 51 # dont 33 confirmés et 18 en attente de résultats
+  deces: 10 # tous 75 ans et plus; 1 à Laval, 1 à Saumur, 1 au Mans, 3 à Angers 3 au CHU de Nantes
+  gueris: 74
+# Pas de données sur les départements dans ce bulletin d'information
