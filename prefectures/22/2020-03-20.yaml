@@ -1,0 +1,10 @@
+date: "2020-03-20"
+source:
+  nom: Préfecture de Bretagne
+  url: http://www.prefectures-regions.gouv.fr/bretagne/Actualites/Coronavirus-informations-recommandations-et-mesures-sanitaires
+  archive: https://web.archive.org/web/20200324061905/http://www.prefectures-regions.gouv.fr/bretagne/Actualites/Coronavirus-informations-recommandations-et-mesures-sanitaires
+donneesDepartementales:
+  - nom: Côtes-d'Armor
+    code: DEP-22
+    deces: 0
+    casConfirmes: 21
