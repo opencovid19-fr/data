@@ -16,11 +16,14 @@ Inutile de perdre du temps à écrire des scrappers, à ce stade il est plus eff
 ## Sources utilisées
 
 - [Santé publique France](https://www.santepubliquefrance.fr) - :open_file_folder: [/sante-publique-france](/sante-publique-france)
+  - [Chiffres clés et cas par région](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde)
+  - [Données GÉODES](https://geodes.santepubliquefrance.fr/#c=news)
 - Agences Régionales de Santé - :open_file_folder: [/agences-regionales-sante](/agences-regionales-sante)
   - Merci de prendre les issues ouvertes pour traiter les `ARS x DATE`, et que ce travail ne soit pas fait en double.
 - Préfectures - :open_file_folder: [/prefectures](/prefectures)
 - Ministère des Solidarités et de la Santé - :open_file_folder: [/ministere-sante](/ministere-sante)
   - [Vidéos](https://www.dailymotion.com/MinSoliSante)
+  - [Vidéos en direct](https://www.pscp.tv/MinSoliSante)
   - [Communiqués de presse](https://solidarites-sante.gouv.fr/actualites/presse/)
 
 ## Fichiers sources
