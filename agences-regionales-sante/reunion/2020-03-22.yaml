@@ -1,0 +1,15 @@
+date: 2020-03-22
+source:
+  nom: ARS La Réunion
+  url: https://www.lareunion.ars.sante.fr/coronavirus-covid-19-la-reunion-2-nouveaux-cas-confirmes-0
+  archive: https://web.archive.org/web/20200323073503/https://www.lareunion.ars.sante.fr/coronavirus-covid-19-la-reunion-2-nouveaux-cas-confirmes-0
+donneesRegionales:
+  nom: La Réunion
+  code: COM-974
+  casConfirmes: 65 # + 16 (url2) + 2 (url) depuis 20/03/2020
+
+# url2: https://www.lareunion.ars.sante.fr/coronavirus-covid-19-la-reunion-16-nouveaux-cas-confirmes
+# archive2: https://web.archive.org/web/20200323073234/https://www.lareunion.ars.sante.fr/coronavirus-covid-19-la-reunion-16-nouveaux-cas-confirmes
+# ATTENTION: Dans le dernier rapport (url) le corp texte du rapport de semble pas à jour. Il semble s'agir d'un copier collé d'un du 20/03/2020 23h.
+# Je ne prends donc pas en comtpe ces fausses informations et utilise que la partie en gras qui semble juste.
+

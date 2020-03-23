@@ -1,0 +1,12 @@
+date: 2020-03-20
+source:
+  nom: ARS La Réunion
+  url: https://www.lareunion.ars.sante.fr/coronavirus-covid-19-la-reunion-7-nouveaux-cas-confirmes
+  archive: https://web.archive.org/web/20200323072533/https://www.lareunion.ars.sante.fr/coronavirus-covid-19-la-reunion-7-nouveaux-cas-confirmes
+donneesRegionales:
+  nom: La Réunion
+  code: COM-974
+  casConfirmes: 45 # +10 (url2) + 7 (url)
+
+# url2: https://www.lareunion.ars.sante.fr/coronavirus-covid-19-la-reunion-les-mesures-de-confinement
+# archive2: https://web.archive.org/web/20200323072449/https://www.lareunion.ars.sante.fr/coronavirus-covid-19-la-reunion-les-mesures-de-confinement
