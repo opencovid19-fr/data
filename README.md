@@ -98,7 +98,7 @@ Sur la capacité de lits, la capacite totale de lits disponibles `capaciteTotale
 - `capaciteLitsSoinsContinus` : capacité de lits de soins continus*
 - `capaciteLitsSoinsIntensifs` : capacité de lits de soins intensifs
 
-* _Les USC (Unités de Soins Continus) ont pour vocation de prendre en charge « des malades qui nécessitent, en raison de la gravité de leur état ou du traitement qui leur est appliqué, une observation clinique (incluant une surveillance rapprochée des paramètres vitaux) et biologique répétée et méthodique »._ 
+> :ledger: *  _Les USC (Unités de Soins Continus) ont pour vocation de prendre en charge « des malades qui nécessitent, en raison de la gravité de leur état ou du traitement qui leur est appliqué, une observation clinique (incluant une surveillance rapprochée des paramètres vitaux) et biologique répétée et méthodique »._ 
 
 Source : [Décret n° 2002-466 du 5 avril 2002 relatif aux conditions techniques de fonctionnement auxquelles doivent satisfaire les établissements de santé pour pratiquer les activités de réanimation, de soins intensifs et de surveillance continue](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000585557&categorieLien=id) 
 
