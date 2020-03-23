@@ -13,7 +13,7 @@ Les données extraites de ces vidéos et retranscrites dans les fichiers sont :
 * Nombre de personnes en réanimation
 * Nombre de personnes guéries (qui sont sorties de l'hôpital)
   
-### b - Les données internationales
+### Les données internationales
 
 * Nombre de cas confirmés au niveau mondial
 * Nombre de cas guéris
