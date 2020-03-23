@@ -20,7 +20,7 @@ donneesDepartementales:
   - nom: Ardèche
     code: DEP-07
     casConfirmes: 57 # +2
-    deces: 3 # +1
+    deces: 2 # 3 décès indiqués dans le point du 22/03 mais corrigé dans le point du 23/03
   - nom: Cantal
     code: DEP-15
     casConfirmes: 17 # +5
