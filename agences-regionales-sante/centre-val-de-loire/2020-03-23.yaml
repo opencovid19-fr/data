@@ -2,7 +2,7 @@ date: 2020-03-23
 source:
   nom: ARS Centre-Val de Loire
   url: https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-23-bulletin%20information%20COVID-19_0.pdf
-  archive: https://web.archive.org/web/20200324064859/https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-23-bulletin%20information%20COVID-19_0.pdf
+  archive: https://web.archive.org/web/20200324200402/https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-24-bulletin%20information%20COVID-19_0.pdf
 donneesRegionales:
   nom: Centre-Val de Loire
   code: REG-24
@@ -33,4 +33,4 @@ donneesDepartementales:
   - nom: Loiret
     code: DEP-45
     casConfirmes: 129
-    deces: 2
+    deces: 1 # erreur corrigee dans le bulletin du 2020-03-23
