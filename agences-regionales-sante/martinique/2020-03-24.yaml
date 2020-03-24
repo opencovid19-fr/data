@@ -1,0 +1,11 @@
+date: "2020-03-24"
+source:
+  nom: ARS Martinique
+  url: http://www.martinique.ars.sante.fr/system/files/2020-03/Point%20de%20situation%2024%20mars%202020.pdf
+  archive: https://web.archive.org/web/20200324212246/https://www.martinique.ars.sante.fr/system/files/2020-03/Point%20de%20situation%2024%20mars%202020.pdf
+donneesRegionales:
+  nom: Martinique
+  code: REG-02
+  casConfirmes: 57 # +4 cas. 27 femmes et 30 hommes. 12 personnes sont agees de 15 à 44 ans. 32 personnes ont entre 45 et 64 ans. 9 personnes sont agees de 65 à 74 ans. 4 personnes ont plus de 75 ans.
+  reanimation: 6 #-1
+  deces: 0
