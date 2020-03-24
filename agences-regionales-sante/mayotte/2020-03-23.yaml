@@ -7,11 +7,7 @@ donneesRegionales:
   nom: Mayotte
   code: REG-06
   casConfirmes: 21 # +10 // 10 cas dans la journeé puis 09 cas dans la meme journeés
-  hospitalises: 5 # +1  source https://www.mayotte.ars.sante.fr/coronavirus-covid-19-10-nouveaux-cas-confirmes-mayotte-21-au-total
-  reanimation: 1 # Aucune info aujourd'hui
 donneesDepartementales:
   - nom: Mayotte
     code: DEP-976
     casConfirmes: 21
-    hospitalises: 5
-    reanimation: 1
