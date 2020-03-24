@@ -1,0 +1,14 @@
+date: 2020-03-23
+source:
+  nom: ARS Provence-Alpes-Côte d’Azur
+  url: https://www.paca.ars.sante.fr/coronavirus-point-de-situation-du-23-mars-2020
+  archive: https://web.archive.org/web/20200324155357/https://www.paca.ars.sante.fr/coronavirus-point-de-situation-du-23-mars-2020
+donneesRegionales:
+  nom: Provence-Alpes-Côte d’Azur
+  code: REG-93
+  casConfirmes: 1510
+  hospitalise: 477
+  reanimation: 113
+  deces: 20
+  
+  # Pas de données départementale.
