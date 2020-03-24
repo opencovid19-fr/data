@@ -8,6 +8,8 @@ donneesRegionales: #Les résultats biologiques ne sont pas exhaustifs du fait de
   code: REG-84
   casConfirmes: 1857
   hospitalises: 1000
+  hospitalisesConventionnelle: 783
+  hospitalisesReadaptation: 24
   reanimation: 193
   deces: 86 #+16 par rapport à la veille selon le communiqué du jour (mais nous étions à 85 la veille donc +1 logiquement)
 donneesDepartementales:
