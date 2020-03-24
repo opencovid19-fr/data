@@ -21,6 +21,7 @@ donneesDepartementales:
     code: DEP-2B
     casConfirmes: 43 
     hospitalises: 7
+    reanimation: 0
     deces: 1
     victimes:
       - age: 72
