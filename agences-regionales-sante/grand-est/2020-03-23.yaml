@@ -1,0 +1,44 @@
+date: "2020-03-23"
+source:
+  nom: ARS Grand-Est
+  url: https://www.grand-est.ars.sante.fr/system/files/2020-03/CP_Coronavirus_GrandEst_230320%20.pdf
+  archive: https://web.archive.org/web/20200324102453/https://www.grand-est.ars.sante.fr/system/files/2020-03/CP_Coronavirus_GrandEst_230320%20.pdf
+donneesRegionales:
+  nom: Grand-Est
+  code: REG-44
+  hospitalises: 2348
+  reanimation: 526 # +46 depuis hier
+  gueris: 491
+  deces: 335
+  capaciteLitsReanimation: 900
+donneesDepartementales:
+  - nom: Ardennes
+    code: DEP-08
+    reanimation: 3
+  - nom: Aube
+    code: DEP-10
+    reanimation: 9
+  - nom: Haute-Marne
+    code: DEP-52
+    reanimation: 12
+  - nom: Marne
+    code: DEP-51
+    reanimation: 34
+  - nom: Meuse
+    code: DEP-55
+    reanimation: 9
+  - nom: Meurthe-et-Moselle
+    code: DEP-54
+    reanimation: 82
+  - nom: Moselle
+    code: DEP-57
+    reanimation: 99
+  - nom: Vosges
+    code: DEP-88
+    reanimation: 20
+  - nom: Bas-Rhin
+    code: DEP-67
+    reanimation: 167
+  - nom: Haut-Rhin
+    code: DEP-68
+    reanimation: 91
