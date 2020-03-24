@@ -1,0 +1,11 @@
+date: "2020-03-23"
+source:
+  nom: ARS Martinique
+  url: http://www.martinique.ars.sante.fr/system/files/2020-03/Point%20de%20situation%2023%20mars%202020.pdf
+  archive: https://web.archive.org/web/20200324102201/https://www.martinique.ars.sante.fr/system/files/2020-03/Point%20de%20situation%2023%20mars%202020.pdf
+donneesRegionales:
+  nom: Martinique
+  code: REG-02
+  casConfirmes: 53 # Pages ou pdf de 22/03 et 21/01 non trouvé sur le site ars martinique
+  reanimation: 7 # +1
+  deces: 0
