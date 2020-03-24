@@ -1,0 +1,10 @@
+date: "2020-03-23"
+source:
+  nom: Gouvernement de la Nouvelle-Calédonie
+  url: https://gouv.nc/coronavirus
+  archive: http://web.archive.org/web/20200324002926/https://gouv.nc/coronavirus
+donneesRegionales:
+  nom: Nouvelle-Calédonie
+  code: COM-988
+  casConfirmes: 8 # 3 personnes placées en isolement au Médipôle 
+  depistes: 71 

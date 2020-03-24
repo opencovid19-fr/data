@@ -1,9 +1,12 @@
 date: 2020-03-23
 source:
   nom: ARS La Réunion
-  url: https://www.lareunion.ars.sante.fr/coronavirus-covid-19-la-reunion-6-nouveaux-cas-confirmes
-  archive: https://web.archive.org/web/20200323172129/https://www.lareunion.ars.sante.fr/coronavirus-covid-19-la-reunion-6-nouveaux-cas-confirmes
+  url: https://www.lareunion.ars.sante.fr/coronavirus-covid-19-la-reunion-4-nouveaux-cas-confirmes-0
+  archive: https://web.archive.org/web/20200324101637/https://www.lareunion.ars.sante.fr/coronavirus-covid-19-la-reunion-4-nouveaux-cas-confirmes-0
 donneesRegionales:
   nom: La Réunion
   code: COM-974
-  casConfirmes: 71 # + 6
+  casConfirmes: 75 # + 10 = 6 (url2) + 4 (url1)
+  
+# url2: https://www.lareunion.ars.sante.fr/coronavirus-covid-19-la-reunion-6-nouveaux-cas-confirmes
+# archive2: https://web.archive.org/web/20200323172129/https://www.lareunion.ars.sante.fr/coronavirus-covid-19-la-reunion-6-nouveaux-cas-confirmes

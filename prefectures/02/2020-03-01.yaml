@@ -1,0 +1,13 @@
+date: "2020-03-01"
+source:
+  nom: Préfecture de l'Aisne
+  url: http://www.aisne.gouv.fr/index.php/content/download/26025/171840/file/CP%20cas%20confirm%C3%A9%20de%20Coronavirus%20Aisne%201%20er%20mars.pdf
+  archive: https://web.archive.org/web/20200324170940/http://www.aisne.gouv.fr/index.php/content/download/26025/171840/file/CP%20cas%20confirm%C3%A9%20de%20Coronavirus%20Aisne%201%20er%20mars.pdf
+donneesDepartementales:
+  - nom: Aisne
+    code: DEP-02
+    deces: 0
+    casConfirmes: 1
+
+#url2: http://www.aisne.gouv.fr/index.php/content/download/26025/171840/file/CP%20cas%20confirm%C3%A9%20de%20Coronavirus%20Aisne%201%20er%20mars.pdf
+#url3: http://www.aisne.gouv.fr/index.php/content/download/26029/171878/file/20200302_CP-point-de-situation_VF.pdf

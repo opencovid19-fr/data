@@ -45,16 +45,27 @@ Vous pouvez aussi consulter [le guide de contribution pour l'ensemble des projet
 > :warning: **Faites une pull request par fichier YAML (ça facilite les relectures et accélère l'intégration des data)**
 
 Tâches :
+ - Créer les fichiers YAML manquants. Voir section :one:
+ - Vérifier les pull requests. Voir section :two:
 
-:one: créer les fichiers YAML manquants (:warning: vérifier dans les [PR](https://github.com/opencovid19-fr/data/pulls) que le fichier n'est pas déjà proposé)
-  
-:two: vérifier les [pull requests](https://github.com/opencovid19-fr/data/pulls) en faisant une [code review](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-request-reviews) ([tuto vidéo](https://www.youtube.com/watch?v=HW0RPaJqm4g))
+### :one: Comment créer un fichier Yaml
+
+:warning: vérifier dans les PR que le fichier n'est pas déjà proposé
 
 Le plus simple pour contribuer est de copier un fichier YAML existant et de l'adapter avec les nouvelles données. Les données doivent être recopiées à la main depuis les différentes sources de données. Le fichier YAML doit être placé dans le bon répertoire et son nom doit être sous la forme YYYY-MM-DD.yaml (date du bulletin).
 
 Les sources de données (PDF, videos ou site web) sont notées dans chaque fichier YAML. Si vous cherchez des sources de données, les sources actuelles sont regroupées dans le fichier de sortie (CSV/JSON).
 
 :bulb: Pour les novices, ce [guide complet](docs/utilise-github.md) détaille comment contribuer via GitHub.
+
+### :two: Comment vérifier un pull request (PR)
+  1. Choisir une [pull requests](https://github.com/opencovid19-fr/data/pulls)
+  2. Relire les fichiers YAML de la PR en les comparant avec les données du bulletin pointé par `url` ou `archive`
+  3. Faire [code review](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-request-reviews) en notant les défaut si existant (exemple: le nombre de cas est incorrect)
+  4. Soumettre sa code review en "approvant" ou en "demandant des modifications"
+     - Si vous ne trouvez aucun défaut, il faut "approuver" la PR
+
+  > ([Tutoriel vidéo](https://www.youtube.com/watch?v=HW0RPaJqm4g))
 
 ### Comment compléter les fichiers YAML
 
@@ -87,18 +98,18 @@ Notez que le lien peut prendre du temps avant d'être fonctionnel. Il est égale
 
 ##### Les données nationales
 
-* `casConfirmes` : nombre de cas confirmés
-* `deces` : nombre de décès
-* `hospitalises` : nombre de personnes hospitalisées
-* `reanimation` : nombre de personnes en réanimation
-* `gueris` : nombre de personnes guéries (sorties de l'hôpital)
-* `depistes` : nombre de personnes dépistées (testées par PCR)
+* `casConfirmes` : total cumulé du nombre de cas confirmés
+* `deces` : total cumulé du nombre de décès
+* `hospitalises` : nombre de personnes hospitalisées **le jour du bulletin**
+* `reanimation` : nombre de personnes en réanimation **le jour du bulletin**
+* `gueris` : total cumulé du nombre de personnes guéries (sorties de l'hôpital)
+* `depistes` : total cumulé du nombre de personnes dépistées (testées par PCR)
 
 ##### Les données internationales
 
-* `casConfirmes` : nombre de cas confirmés au niveau mondial
-* `gueris` : nombre de cas guéris au niveau mondial
-* `deces` : nombre de décès au niveau mondial
+* `casConfirmes` : total cumulé du nombre de cas confirmés au niveau mondial
+* `gueris` : total cumulé du nombre de cas guéris au niveau mondial
+* `deces` : total cumulé du nombre de décès au niveau mondial
 * `paysTouches` : nombre de pays touchés
 
 ####  Autres données collectées (si elles sont mentionnées dans les sources)

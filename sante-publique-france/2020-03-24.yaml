@@ -1,0 +1,72 @@
+date: 2020-03-24
+source:
+  nom: Santé publique France
+  url: https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde
+  archive: https://web.archive.org/web/20200324193012/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde
+donneesNationales:
+  casConfirmes: 22302 # +2446
+  deces: 1100
+donneesRegionales:
+  - nom: Auvergne-Rhône-Alpes
+    code: REG-84
+    casConfirmes: 1857
+  - nom: Bourgogne-Franche-Comté
+    code: REG-27
+    casConfirmes: 1510
+  - nom: Bretagne
+    code: REG-53
+    casConfirmes: 526
+  - nom: Centre-Val de Loire
+    code: REG-24
+    casConfirmes: 450
+  - nom: Corse
+    code: REG-94
+    casConfirmes: 217
+  - nom: Grand-Est
+    code: REG-44
+    casConfirmes: 4922
+  - nom: Hauts-de-France
+    code: REG-32
+    casConfirmes: 1532
+  - nom: Ile-de-France
+    code: REG-11
+    casConfirmes: 6798
+  - nom: Normandie
+    code: REG-28
+    casConfirmes: 586
+  - nom: Nouvelle-Aquitaine
+    code: REG-75
+    casConfirmes: 789
+  - nom: Occitanie
+    code: REG-76
+    casConfirmes: 900
+  - nom: Pays de la Loire
+    code: REG-52
+    casConfirmes: 343
+  - nom: Provence-Alpes-Côte d’Azur
+    code: REG-93
+    casConfirmes: 1595
+  - nom: Guadeloupe
+    code: REG-01
+    casConfirmes: 73
+  - nom: Martinique
+    code: REG-02
+    casConfirmes: 57
+  - nom: Guyane
+    code: REG-03
+    casConfirmes: 23
+  - nom: La Réunion
+    code: REG-04
+    casConfirmes: 83
+  - nom: Mayotte
+    code: REG-06
+    casConfirmes: 30
+  - nom: Saint-Barthélemy
+    code: COM-977
+    casConfirmes: 3
+  - nom: Saint-Martin
+    code: COM-978
+    casConfirmes: 8
+donneesMondiales:
+  casConfirmes: 378041
+  deces: 16365
