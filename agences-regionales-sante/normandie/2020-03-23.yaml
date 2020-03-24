@@ -12,7 +12,7 @@ donneesRegionales:
 donneesDepartementales:
   - nom: Manche
     code: DEP-50
-    casConfirmes: 94 # +10 par rapport à hier
+    casConfirmes: 97 # +10 par rapport à hier
     hospitalises: 20
   - nom: Calvados
     code: DEP-14
