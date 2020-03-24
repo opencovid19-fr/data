@@ -1,0 +1,14 @@
+date: 2020-03-24
+source:
+  nom: ARS La Réunion
+  url: http://www.reunion.gouv.fr/IMG/pdf/2020-03-24_cp_11_nouveaux_cas_averes_22h30.pdf
+  archive: https://web.archive.org/web/20200324211424/http://www.reunion.gouv.fr/IMG/pdf/2020-03-24_cp_11_nouveaux_cas_averes_22h30.pdf
+donneesRegionales:
+  nom: La Réunion
+  code: COM-974
+  casConfirmes: 94 # 83 cas à 18h +11 à 22h30 donc 94 au total
+  reanimation: 3 # cf url2. "Un troisième patient entré en service de réanimation"
+
+# Bulletin à 18h  
+# url2: https://www.lareunion.ars.sante.fr/system/files/2020-03/2020-03-24_CP_8%20cas%20av%C3%A9r%C3%A9s.pdf
+# archive2: https://web.archive.org/web/20200324211132/https://www.lareunion.ars.sante.fr/system/files/2020-03/2020-03-24_CP_8%20cas%20av%C3%A9r%C3%A9s.pdf
