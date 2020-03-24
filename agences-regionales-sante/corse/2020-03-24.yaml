@@ -23,6 +23,7 @@ donneesDepartementales:
     hospitalises: 7
     reanimation: 0
     deces: 1
+    reanimation: 0
     victimes:
       - age: 72
         date: 2020-03-24
