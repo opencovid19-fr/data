@@ -7,7 +7,8 @@ donneesRegionales:
   nom: Nouvelle-Aquitaine
   code: REG-75
   casConfirmes: 753 # +98 cas.
-  hospitalisation: 229 # dont 63 sont retournees à domicile
+  hospitalisation: 229
+  gueris: 63 
   reanimation: 66
   deces: 14
   
