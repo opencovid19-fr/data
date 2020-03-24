@@ -19,7 +19,7 @@ donneesDepartementales:
   - nom: Seine-Maritime
     code: DEP-76
     casConfirmes: 15
-    deces: 1
+    deces: 1 # repris du fichier précédent
     victimes:
       - age: 86
         sexe: homme
