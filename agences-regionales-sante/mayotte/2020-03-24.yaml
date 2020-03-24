@@ -8,11 +8,7 @@ donneesRegionales:
   nom: Mayotte
   code: REG-06
   casConfirmes: 30 # +9
-  hospitalises: 5 # meme nbre
-  reanimation: 1
 donneesDepartementales:
   - nom: Mayotte
     code: DEP-976
     casConfirmes: 30
-    hospitalises: 5
-    reanimation: 1
