@@ -31,7 +31,7 @@ donneesDepartementales:
   - nom: Eure
     code: DEP-27
     casConfirmes: 29 # +0
-    deces: 2 # repris du fichier précédent +2 par rapport à hier
+    deces: 2 # +2 par rapport à hier
     victimes:
       - age: 75
         sexe: homme
