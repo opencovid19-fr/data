@@ -11,7 +11,8 @@ donneesRegionales: #Les résultats biologiques ne sont pas exhaustifs du fait de
   hospitalisesConventionnelle: 783
   hospitalisesReadaptation: 24
   reanimation: 193
-  deces: 86 #+16 par rapport à la veille selon le communiqué du jour (mais nous étions à 85 la veille donc +1 logiquement)
+  deces: 86 # +16 par rapport à la veille selon le communiqué du jour (mais nous étions à 85 la veille donc +1 logiquement)
+  gueris: 324 # +85. 324 patients atteints de COVID-19 rentrés à domicile.
 donneesDepartementales:
   - nom: Allier
     code: DEP-03
