@@ -23,14 +23,14 @@ donneesDepartementales:
     casConfirmes: 77 # + 20 par rapport à hier
     deces: 2 # repris du fichier précédent +1 par rapport à hier
     victimes:
-      - age: # age non indiqué
+      - date: 2020-03-19
         sexe: homme
   - nom: Eure
     code: DEP-27
     casConfirmes: 35 # +6
     deces: 3 # repris du fichier précédent +1 par rapport à hier
     victimes:
-      - age: # age non indiqué
+      - date: 2020-03-19
         sexe: homme
   - nom: Orne
     code: DEP-61
