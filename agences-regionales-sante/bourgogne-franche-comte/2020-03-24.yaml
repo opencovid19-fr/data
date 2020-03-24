@@ -1,0 +1,13 @@
+date: 2020-03-24
+source:
+  nom: ARS Bourgogne-Franche-Comté
+  url: https://www.bourgogne-franche-comte.ars.sante.fr/system/files/2020-03/2020%2003%2024_COVID19_SITUATION%20BFC.pdf
+  archive: https://web.archive.org/web/20200324202900/https://www.bourgogne-franche-comte.ars.sante.fr/system/files/2020-03/2020%2003%2024_COVID19_SITUATION%20BFC.pdf
+donneesRegionales:
+  nom: Bourgogne-Franche-Comté
+  code: REG-27
+  # casConfirmes: Donnée non communiquée. Dernier chiffre le 16/03: 507
+  # gueris: Donnée non communiquée.
+  reanimation: 120
+  hospitalises: 480
+  deces: 86
