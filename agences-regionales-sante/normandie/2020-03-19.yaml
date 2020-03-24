@@ -7,21 +7,32 @@ donneesRegionales:
   nom: Normandie
   code: REG-28
   casConfirmes: 241 # +33
-  deces: 5 
+  deces: 5 # +2 par rapport à hier. Il s’agit de deux hommes âgés présentant des facteurs de risque importants
   hospitalises: 46 # +1 par rapport à hier
 donneesDepartementales:
   - nom: Manche
     code: DEP-50
     casConfirmes: 44 # +2 par rapport à hier
+    deces: 0 # repris du fichier précédent
   - nom: Calvados
     code: DEP-14
     casConfirmes: 76 # +5 par rapport à hier
+    deces: 0 # repris du fichier précédent
   - nom: Seine-Maritime
     code: DEP-76
     casConfirmes: 77 # + 20 par rapport à hier
+    deces: 2 # repris du fichier précédent +1 par rapport à hier
+    victimes:
+      - age: # age non indiqué
+        sexe: homme
   - nom: Eure
     code: DEP-27
     casConfirmes: 35 # +6
+    deces: 3 # repris du fichier précédent +1 par rapport à hier
+    victimes:
+      - age: # age non indiqué
+        sexe: homme
   - nom: Orne
     code: DEP-61
     casConfirmes: 9 # +0
+    deces: 0 # repris du fichier précédent

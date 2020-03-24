@@ -6,7 +6,7 @@ donneesRegionales:
   nom: Normandie
   code: REG-28
   casConfirmes: 208 # +34
-  deces: 3 
+  deces: 3 # +2 par rapport à hier. Il s’agit de deux hommes âgés respectivement de 75 et 65 ans
   victimes:
     - date: 2020-03-18
       age: 75
@@ -17,17 +17,27 @@ donneesDepartementales:
   - nom: Manche
     code: DEP-50
     casConfirmes: 42 # +10 par rapport à hier
+    deces: 0 # repris du fichier précédent
   - nom: Calvados
     code: DEP-14
     casConfirmes: 71 # +5 par rapport à hier
+    deces: 0 # repris du fichier précédent
   - nom: Seine-Maritime
     code: DEP-76
     casConfirmes: 57 # + 18 par rapport à hier
+    deces: 1 # repris du fichier précédent
     victimes:
       - date: 2020-03-06
   - nom: Eure
     code: DEP-27
     casConfirmes: 29 # +0
+    deces: 2 # repris du fichier précédent +2 par rapport à hier
+    victimes:
+      - age: 75
+        sexe: homme
+      - age: 65
+        sexe: homme
   - nom: Orne
     code: DEP-61
     casConfirmes: 9 # +1
+    deces: 0 # repris du fichier précédent
