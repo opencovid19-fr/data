@@ -1,0 +1,36 @@
+date: 2020-03-22
+source:
+  nom: ARS Centre-Val de Loire
+  url: https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-22-bulletin%20information%20COVID-19.pdf
+  archive: https://web.archive.org/web/20200322224323/https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-22-bulletin%20information%20COVID-19.pdf
+donneesRegionales:
+  nom: Centre-Val de Loire
+  code: REG-24
+  casConfirmes: 291
+  deces: 2
+  reanimation: 21
+donneesDepartementales:
+  - nom: Cher
+    code: DEP-18
+    casConfirmes: 12
+    deces: 0
+  - nom: Eure-et-Loir
+    code: DEP-28
+    casConfirmes: 58
+    deces: 2
+  - nom: Indre
+    code: DEP-36
+    casConfirmes: 27
+    deces: 0
+  - nom: Indre-et-Loire
+    code: DEP-37
+    casConfirmes: 64
+    deces: 0
+  - nom: Loir-et-Cher
+    code: DEP-41
+    casConfirmes: 28
+    deces: 0
+  - nom: Loiret
+    code: DEP-45
+    casConfirmes: 102
+    deces: 0

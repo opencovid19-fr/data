@@ -1,0 +1,30 @@
+date: "2020-03-22"
+source:
+  nom: ARS Provence-Alpes-Côte d’Azur
+  url: https://www.facebook.com/story.php?story_fbid=3163580943675065&id=122014131165110
+  archive: https://web.archive.org/web/20200323105113/https://www.facebook.com/story.php?story_fbid=3163580943675065&id=122014131165110
+donneesRegionales:
+  nom: Provence-Alpes-Côte d’Azur
+  code: REG-93
+  casConfirmes: 1316
+  reanimation: 85
+  deces: 15
+donneesDepartementales:
+  - nom: Alpes-de-Haute-Provence
+    code: DEP-04
+    casConfirmes: 22
+  - nom: Hautes-Alpes
+    code: DEP-05
+    casConfirmes: 42
+  - nom: Alpes-Maritimes
+    code: DEP-06
+    casConfirmes: 194
+  - nom: Bouches-du-Rhône
+    code: DEP-13
+    casConfirmes: 827
+  - nom: Var
+    code: DEP-83
+    casConfirmes: 186
+  - nom: Vaucluse
+    code: DEP-84
+    casConfirmes: 45

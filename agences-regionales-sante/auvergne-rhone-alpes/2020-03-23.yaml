@@ -1,0 +1,61 @@
+date: 2020-03-23
+source:
+  nom: ARS Auvergne-Rhône-Alpes
+  url: https://www.auvergne-rhone-alpes.ars.sante.fr/covid-19-en-auvergne-rhone-alpes-point-de-situation-lundi-23-mars-2020
+  archive: https://web.archive.org/web/20200323202331/https://www.auvergne-rhone-alpes.ars.sante.fr/covid-19-en-auvergne-rhone-alpes-point-de-situation-lundi-23-mars-2020
+donneesRegionales:
+  nom: Auvergne-Rhône-Alpes
+  code: REG-84
+  casConfirmes: 1738 # +307
+  deces: 85 # +13
+donneesDepartementales:
+  - nom: Ain
+    code: DEP-01
+    casConfirmes: 116 # +19
+    deces: 5
+  - nom: Allier
+    code: DEP-03
+    casConfirmes: 32 # +5
+    deces: 1
+  - nom: Ardèche
+    code: DEP-07
+    casConfirmes: 67 # +10
+    deces: 2
+  - nom: Cantal
+    code: DEP-15
+    casConfirmes: 27 # +10
+    deces: 0    
+  - nom: Drôme
+    code: DEP-26
+    casConfirmes: 112 # +13
+    deces: 9 # +2
+  - nom: Isère
+    code: DEP-38
+    casConfirmes: 155 # +38
+    deces: 3 # +1
+  - nom: Loire
+    code: DEP-42
+    casConfirmes: 267 # +50
+    deces: 9 # +2
+  - nom: Haute-Loire
+    code: DEP-43
+    casConfirmes: 15 # +2
+    deces: 0
+  - nom: Puy-de-Dôme
+    code: DEP-63
+    casConfirmes: 66 # +9
+    deces: 0
+  - nom: Rhône
+    code: DEP-69
+    casConfirmes: 491 # +110
+    deces: 41 # +6
+  - nom: Savoie
+    code: DEP-73
+    casConfirmes: 102 # +30
+    deces: 2
+  - nom: Haute-Savoie
+    code: DEP-74
+    casConfirmes: 272 # +16
+    deces: 13 # +3
+    
+    # Non rattaché : 16 (-5)

@@ -1,0 +1,17 @@
+date: "2020-01-29"
+source:
+  nom: Ministère des Solidarités et de la Santé
+  url: https://www.dailymotion.com/video/x7r93j5
+donneesNationales:
+  casConfirmes: 5 #1 nouveau cas
+  deces: 0
+  gueris: 0
+  hospitalises: 5
+  reanimation: 2
+donneesMondiales:
+  casConfirmes: 6000 #plus de 6 000
+  paysTouches: 19 # près de 100 cas sur un total de 18 pays
+  deces: 132
+
+# données nationales à 1'18
+# données mondiales à 0'10

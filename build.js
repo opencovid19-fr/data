@@ -3,9 +3,10 @@ const {join} = require('path')
 const {flatten, chain, omit} = require('lodash')
 const {outputJson} = require('fs-extra')
 const glob = require('glob')
-const {ensureArray, readYamlFile, outputCsv, stringCompare} = require('./lib/util')
-const departements = require('@etalab/decoupage-administratif/data/departements.json')
-const regions = require('@etalab/decoupage-administratif/data/regions.json')
+const {ensureArray, readYamlFile, outputCsv} = require('./lib/util')
+const validate = require('./lib/validate')
+const {jsonToCsvRow} = require('./lib/csv')
+const {loadData} = require('./lib/data-sources/spf')
 
 const sources = [
   'agences-regionales-sante',
@@ -52,48 +53,6 @@ function flattenSourcesData({sourceType, sourceFile, date, source, rows}) {
   }))
 }
 
-function getGranularite(code) {
-  if (code === 'FRA') {
-    return 'pays'
-  }
-
-  if (code === 'WORLD') {
-    return 'monde'
-  }
-
-  if (code.startsWith('REG')) {
-    return 'region'
-  }
-
-  if (code.startsWith('DEP')) {
-    return 'departement'
-  }
-
-  if (code.startsWith('COM')) {
-    return 'collectivite-outremer'
-  }
-
-  throw new Error('Type de granularité inconnu')
-}
-
-/* eslint camelcase: off */
-function jsonToCsvRow(json) {
-  return {
-    date: json.date,
-    granularite: getGranularite(json.code),
-    maille_code: json.code,
-    maille_nom: json.nom,
-    cas_confirmes: 'casConfirmes' in json ? json.casConfirmes : '',
-    deces: 'deces' in json ? json.deces : '',
-    reanimation: 'reanimation' in json ? json.reanimation : '',
-    hospitalises: 'hospitalises' in json ? json.hospitalises : '',
-    gueris: 'gueris' in json ? json.gueris : '',
-    source_nom: (json.source && json.source.nom) || '',
-    source_url: (json.source && json.source.url) || '',
-    source_type: json.sourceType
-  }
-}
-
 function showMetrics(rows) {
   const wCasConfirmes = rows.filter(r => 'casConfirmes' in r)
   const wDeces = rows.filter(r => 'deces' in r)
@@ -111,53 +70,6 @@ function showMetrics(rows) {
   console.log(`Nombre d’entrées sans source : ${woSource.length}`)
 }
 
-function validate(flattenedData) {
-  let hasErrors = false
-
-  function notValid(row, errorMessage) {
-    console.error(`${row.sourceFile} | ${errorMessage}`)
-    hasErrors = true
-  }
-
-  flattenedData.forEach(row => {
-    if (!row.code) {
-      return notValid(row, 'Code non défini')
-    }
-
-    const [codeType, codeValue] = row.code.split('-')
-
-    if (!['REG', 'DEP', 'COM', 'FRA', 'WORLD'].includes(codeType)) {
-      return notValid(row, `Type de code non valide : ${codeType}`)
-    }
-
-    if (codeType === 'REG') {
-      const region = regions.find(r => r.code === codeValue)
-      if (!region) {
-        return notValid(row, `Code région inconnu : ${codeValue}`)
-      }
-
-      if (!stringCompare(region.nom, row.nom)) {
-        return notValid(row, `Incohérence entre le code région et le nom associé : ${region.nom} => ${row.nom}`)
-      }
-    }
-
-    if (codeType === 'DEP') {
-      const departement = departements.find(d => d.code === codeValue)
-      if (!departement) {
-        return notValid(row, `Code département inconnu : ${codeValue}`)
-      }
-
-      if (!stringCompare(departement.nom, row.nom)) {
-        return notValid(row, `Incohérence entre le code département et le nom associé : ${departement.nom} => ${row.nom}`)
-      }
-    }
-  })
-
-  if (hasErrors) {
-    throw new Error('Échec de validation')
-  }
-}
-
 async function main() {
   const sourcesFiles = flatten(sources.map(source => glob.sync(`${source}/**/*.yaml`)))
 
@@ -171,6 +83,7 @@ async function main() {
     .map(flattenSourcesData)
     .flatten()
     .filter(r => 'casConfirmes' in r || 'deces' in r || 'reanimation' in r || 'hospitalises' in r || 'gueris' in r)
+    .concat(await loadData())
     .sortBy(r => `${r.date}-${r.code}`)
     .value()
 
