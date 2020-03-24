@@ -14,17 +14,17 @@ donneesDepartementales:
     code: DEP-50
     casConfirmes: 87 # +24 par rapport à hier
     hospitalises: 19
-    deces: 0
+    deces: 0 # repris du fichier précédent
   - nom: Calvados
     code: DEP-14
     casConfirmes: 129 # +30 par rapport à hier
     hospitalises: 20
-    deces: 1
+    deces: 1 # repris du fichier précédent
   - nom: Seine-Maritime
     code: DEP-76
     casConfirmes: 170 # +42 par rapport à hier
     hospitalises: 71
-    deces: 4
+    deces: 4 # repris du fichier précédent +2 par rapport à hier
     victimes:
       - age: 71
         sexe: homme
@@ -34,9 +34,9 @@ donneesDepartementales:
     code: DEP-27
     casConfirmes: 53 # +13
     hospitalises: 12
-    deces: 4
+    deces: 4 # repris du fichier précédent
   - nom: Orne
     code: DEP-61
     casConfirmes: 23 # +8
     hospitalises: 4
-    deces: 0
+    deces: 0 # repris du fichier précédent
