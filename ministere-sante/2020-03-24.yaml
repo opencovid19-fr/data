@@ -7,7 +7,7 @@ donneesNationales:
   deces: 1100 # 85% des décès sont des personnes de plus de 70 ans. Deces hospitaliers. +240 en 24h
   hospitalises: 10176
   reanimation: 2516 # un tiers a moins de 60 ans et 58% entre 60 et 80 ans.
-  gueris: 3281
+  gueris: 3281 # sont sorites guéries de l'hôîtal
   capaciteLitsReanimation: 8000 # Recensement par les ARS. Augmentation de la capacite grace au transfert de patients inter regions + operations militaires. 
 donneesMondiales:
   casConfirmes: 400000 # estimation
@@ -18,4 +18,6 @@ donneesMondiales:
 # 3500 personnes admises aux urgences pour cas de coronavirus
 # Pas de données mondiales du nombre de gueris ce jour
 # données mondiales à 0'14
-# données nationales à 1'38
+# données nationales à 1'38, chiffres à 2'45
+
+#url: https://www.dailymotion.com/video/x7swzmm
