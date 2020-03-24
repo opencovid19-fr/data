@@ -1,0 +1,28 @@
+date: 2020-03-24
+source:
+    nom: ARS Bretagne
+    url: https://www.bretagne.ars.sante.fr/system/files/2020-03/CP%20Coronavirus_Bretagne_point%20de%20situation%2017h30_200324.pdf
+    archive: https://web.archive.org/web/20200324213737/https://www.bretagne.ars.sante.fr/system/files/2020-03/CP%20Coronavirus_Bretagne_point%20de%20situation%2017h30_200324.pdf
+donneesRegionales:
+  nom: Bretagne
+  code: REG-53
+  casConfirmes: 526 # + 19 ne residant pas en Bretagne. + 42 en cours de rattachement.
+  deces: 25
+  reanimation: 31
+  hospitalises: 96 # 10 hospitalisations en soins de suite et readaptation, 1 hospitalisation en service d’urgences.
+  gueris : 84 # "retours à domicile"
+donneesDepartementales:
+  - nom: Côtes-d'Armor
+    code: DEP-22
+    casConfirmes: 38
+  - nom: Finistère
+    code: DEP-29
+    casConfirmes: 127
+  - nom: Ille-et-Vilaine
+    code: DEP-35
+    casConfirmes: 115
+  - nom: Morbihan
+    code: DEP-56
+    casConfirmes: 185
+    
+#Note : erreur dans l'entête du communiqué : Rennes, le '23' mars 2020
