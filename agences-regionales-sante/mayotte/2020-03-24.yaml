@@ -1,0 +1,18 @@
+
+date: "2020-03-24"
+source:
+    nom: ARS Mayotte
+    url: http://www.mayotte.ars.sante.fr/system/files/2020-03/CP%2024%20mars%20COVID-19.pdf
+    archive: https://web.archive.org/web/20200324212349/https://www.mayotte.ars.sante.fr/system/files/2020-03/CP%2024%20mars%20COVID-19.pdf
+donneesRegionales:
+  nom: Mayotte
+  code: REG-06
+  casConfirmes: 30 # +9
+  hospitalises: 5 # meme nbre
+  reanimation: 1
+donneesDepartementales:
+  - nom: Mayotte
+    code: DEP-976
+    casConfirmes: 30
+    hospitalises: 5
+    reanimation: 1
