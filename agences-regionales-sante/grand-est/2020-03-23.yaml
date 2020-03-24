@@ -7,9 +7,10 @@ donneesRegionales:
   nom: Grand-Est
   code: REG-44
   hospitalises: 2348
-  reanimation: 526
+  reanimation: 526 # +46 depuis hier
   gueris: 491
   deces: 335
+  capaciteLitsReanimation: 900
 donneesDepartementales:
   - nom: Ardennes
     code: DEP-08
