@@ -6,4 +6,9 @@ source:
 donneesRegionales:
   nom: Saint-Barthélemy
   code: COM-977
-  casConfirmes: 2
+  casConfirmes: 3 # 2 cas affichés dans le communiqué car le 3ième est guéri
+  gueris: 1
+  reanimation: 0
+
+#Le nombre de cas confirmes peut sembler different du communique. Ce dernier ne donne pas le total des cas mais que le nombre de cas confirmes
+#le jour. Il faut donc revoir ce qui etait dans le precedent fichier et rajouter les nouveaux pour avoir le total
