@@ -27,11 +27,12 @@ donneesDepartementales:
     code: DEP-76
     casConfirmes: 109 # +31 par rapport à hier
     hospitalises: 46
+    deces: 4 # repris du fichier précédent
   - nom: Eure
     code: DEP-27
     casConfirmes: 36 # +2
     hospitalises: 4
-    deces: 3 # repris du fichier précédent +1 par rapport à hier
+    deces: 2 # repris du fichier précédent +1 par rapport à hier
     victimes:
       - age: 80 # plus de 80
         sexe: homme
