@@ -19,10 +19,12 @@ donneesDepartementales:
     code: DEP-27
     casConfirmes: 71 # +9
     hospitalises: 15
+    # +1 décès dans l’Eure
   - nom: Manche
     code: DEP-50
     casConfirmes: 107 # +10 par rapport à hier
     hospitalises: 15
+    # +2 décès dans la Manche
   - nom: Orne
     code: DEP-61
     casConfirmes: 28 # +1
@@ -31,3 +33,4 @@ donneesDepartementales:
     code: DEP-76
     casConfirmes: 233 # +38 par rapport à hier
     hospitalises: 97
+    # +3 décès dans la Seine-Maritime
