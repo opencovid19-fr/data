@@ -1,0 +1,14 @@
+date: 2020-03-25
+source:
+  nom: ARS La Réunion
+  url: http://www.reunion.gouv.fr/IMG/pdf/2020-03-25_cp_4_nouveaux_cas_averes_22h00.pdf # et source2
+  archive: https://web.archive.org/web/20200325212001/http://www.reunion.gouv.fr/IMG/pdf/2020-03-25_cp_4_nouveaux_cas_averes_22h00.pdf
+donneesRegionales:
+  nom: La Réunion
+  code: COM-974
+  casConfirmes: 115 # hier 94,   aujoud'hui +17 à 18h et +4 à 22h30 donc 115 au total
+  # pas de data en réa
+  
+  
+# source2 http://www.reunion.gouv.fr/IMG/pdf/2020-03-25_cp_17_cas_averes.pdf
+#archiveSource2 https://web.archive.org/web/20200325212050/http://www.reunion.gouv.fr/IMG/pdf/2020-03-25_cp_17_cas_averes.pdf
