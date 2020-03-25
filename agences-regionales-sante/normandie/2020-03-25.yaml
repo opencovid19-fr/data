@@ -15,12 +15,12 @@ donneesDepartementales:
     code: DEP-14
     # casConfirmes:     data non trouvée
     hospitalises: 47
-    deces: 1 # Reprise fichier précédent
+    deces: 1 # 1 décès repris du fichier précédent
   - nom: Eure
     code: DEP-27
     # casConfirmes:     data non trouvée
     hospitalises: 22
-    deces: 1 # 0 décès dans le fichier précédent
+    deces: 1 # 1 décès repris du fichier précédent
   - nom: Manche
     code: DEP-50
     # casConfirmes:     data non trouvée
