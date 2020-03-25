@@ -6,7 +6,7 @@ source:
 donneesNationales:
   casConfirmes: 6
   hospitalises: 6 # repris du fichier précédent
-  deces: 0
+  deces: 0 # aucun décès
 donneesRegionales: # repris du fichier précédent
   - nom: Île-de-France
     code: REG-11
@@ -25,3 +25,5 @@ donneesMondiales:
   paysTouches: 26 # 25 pays hors Chine ont signalé des cas.
   casConfirmes: 24530
   deces: 493 # 492 Chine + 1 Philippines
+
+# url2: https://web.archive.org/web/20200205153000/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/epidemie-de-coronavirus-2019-ncov-au-depart-de-wuhan-chine

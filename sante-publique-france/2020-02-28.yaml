@@ -4,8 +4,9 @@ source:
   url: https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france
   archive: https://web.archive.org/web/20200229212809/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france
 donneesNationales:
-  casConfirmes: 38
+  casConfirmes: 38 # 28 hommes, 10 femmes
   deces: 2
+  # 982 cas "investigués" ne veut pas dire testés par PCR
 donneesRegionales:
   - nom: Auvergne-Rhône-Alpes
     code: REG-84
