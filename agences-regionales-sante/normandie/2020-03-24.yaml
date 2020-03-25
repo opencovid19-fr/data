@@ -7,7 +7,7 @@ donneesRegionales:
   nom: Normandie
   code: REG-28
   casConfirmes: 586 # +75
-  deces: 16 # 11 hommes et 5 femme, avec un âge médian de 77 ans
+  deces: 16 # +6 depuis hier. 11 hommes et 5 femme, avec un âge médian de 77 ans
   hospitalises: 161 # 25+15+15+9+97
   gueris : 32 # "sont sorties de l’hôpital."
 donneesDepartementales:
