@@ -19,7 +19,7 @@ donneesDepartementales:
     code: DEP-27
     casConfirmes: 71 # +9
     hospitalises: 15
-- nom: Manche
+  - nom: Manche
     code: DEP-50
     casConfirmes: 107 # +10 par rapport à hier
     hospitalises: 15
