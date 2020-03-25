@@ -1,0 +1,15 @@
+date: 2020-03-24
+source:
+  nom: DSP Polynésie française
+  url: https://www.service-public.pf/dsp/wp-content/uploads/sites/12/2020/03/Communiqu%C3%A9-Point-sur-coronavirus-au-24-mars-2020.pdf
+  archive: http://web.archive.org/web/20200325081313/https://www.service-public.pf/dsp/wp-content/uploads/sites/12/2020/03/Communiqu%C3%A9-Point-sur-coronavirus-au-24-mars-2020.pdf
+donneesRegionales:
+  nom: Polynésie française
+  code: COM-987
+  depistes: 275
+  casConfirmes: 25 # +2 Nouveaux
+  hospitalises: 2 #meme chiffre que hier
+  deces: 0
+  
+  #url2: https://www.service-public.pf/dsp/2020/03/24/situation-coronavirus-240320/
+  #archive2: http://web.archive.org/web/20200325081226/https://www.service-public.pf/dsp/2020/03/24/situation-coronavirus-240320/
