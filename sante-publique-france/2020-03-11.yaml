@@ -9,64 +9,105 @@ donneesNationales:
 donneesRegionales:
   - nom: Auvergne-Rhône-Alpes
     code: REG-84
-    casConfirmes: 264
+    casConfirmes: 264 #249
+    casReanimation: 16
+    deces: 3
   - nom: Bourgogne-Franche-Comté
     code: REG-27
-    casConfirmes: 155
+    casConfirmes: 155 #123
+    casReanimation: 5
+    deces: 1
   - nom: Bretagne
     code: REG-53
-    casConfirmes: 94
+    casConfirmes: 94 #83
+    casReanimation: 3
+    deces: 2
   - nom: Centre-Val de Loire
     code: REG-24
-    casConfirmes: 20
+    casConfirmes: 20 #19
+    casReanimation: 0
+    deces: 0
   - nom: Corse
     code: REG-94
-    casConfirmes: 51
-  - nom: Grand Est
+    casConfirmes: 51 #42
+    casReanimation: 1
+    deces: 2
+  - nom: Grand-Est
     code: REG-44
-    casConfirmes: 578
+    casConfirmes: 578 #489
+    casReanimation: 18
+    deces: 7
   - nom: Hauts-de-France
     code: REG-32
-    casConfirmes: 263
-  - nom: Île-de-France
+    casConfirmes: 263 #249
+    casReanimation: 20
+    deces: 20
+  - nom: Ile-de-France
     code: REG-11
-    casConfirmes: 492
+    casConfirmes: 492 #468
+    casReanimation: 24
+    deces: 7
   - nom: Normandie
     code: REG-28
-    casConfirmes: 54
+    casConfirmes: 54 #40
+    casReanimation: 0
+    deces: 1
   - nom: Nouvelle-Aquitaine
     code: REG-75
-    casConfirmes: 66
+    casConfirmes: 66 #57
+    casReanimation: 1
+    deces: 0
   - nom: Occitanie
     code: REG-76
-    casConfirmes: 87
+    casConfirmes: 87 # 70
+    casReanimation: 4
+    deces: 0
   - nom: Pays de la Loire
     code: REG-52
-    casConfirmes: 34
-  - nom: Provence-Alpes-Côte d'Azur
+    casConfirmes: 34 #31
+    casReanimation: 3
+    deces: 1
+  - nom: Provence-Alpes-Côte d’Azur
     code: REG-93
-    casConfirmes: 111
+    casConfirmes: 111 #110
+    casReanimation: 7
+    deces: 0
   - nom: Guadeloupe
     code: REG-01
-    casConfirmes: 0
+    casConfirmes: 0 #0
+    casReanimation: 0
+    deces: 0
   - nom: Guyane
     code: REG-03
-    casConfirmes: 5
+    casConfirmes: 5 #5
+    casReanimation: 0
+    deces: 0
   - nom: Martinique
     code: REG-02
-    casConfirmes: 3
+    casConfirmes: 3 #3
+    casReanimation: 0
+    deces: 0
   - nom: Mayotte
     code: REG-06
-    casConfirmes: 0
+    casConfirmes: 0 #0
+    casReanimation: 0
+    deces: 0
   - nom: La Réunion
     code: REG-04
-    casConfirmes: 1
+    casConfirmes: 1 #0
+    casReanimation: 0
+    deces: 0
   - nom: Saint-Barthélemy
     code: COM-977
-    casConfirmes: 1
+    casConfirmes: 1 #1
+    casReanimation: 0
+    deces: 0
   - nom: Saint-Martin
     code: COM-978
     casConfirmes: 2
 donneesMondiales:
   casConfirmes: 118628
   deces: 4292
+  
+# url2: https://www.santepubliquefrance.fr/content/download/237536/document_file/COVID19_PE_20200315.pdf
+# archive2: https://web.archive.org/web/20200325141648/https://www.santepubliquefrance.fr/content/download/237536/document_file/COVID19_PE_20200315.pdf
