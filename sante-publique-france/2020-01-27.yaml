@@ -7,7 +7,7 @@ donneesNationales:
   casConfirmes: 3
   deces: 0
 donneesRegionales: # repris du fichier précédent
-  - nom: Ile-de-France
+  - nom: Île-de-France
     code: REG-11
     casConfirmes: 2 # repris du fichier précédent
     hospitalises: 2

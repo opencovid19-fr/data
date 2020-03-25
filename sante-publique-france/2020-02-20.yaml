@@ -8,7 +8,7 @@ donneesNationales:
   hospitalises: 11
   deces: 1
 donneesRegionales: # repris du fichier précédent
-  - nom: Ile-de-France
+  - nom: Île-de-France
     code: REG-11
     casConfirmes: 5 # repris du fichier précédent
     hospitalises: 4
