@@ -9,17 +9,17 @@ donneesRegionales:
   casConfirmes: 233
   deces: 15
   hospitalises: 39
-  reanimation: 8
+  reanimation: 9
 donneesDepartementales:
   - nom: Corse-du-Sud
     code: DEP-2A
     casConfirmes: 183 
-    hospitalises: 33
+    hospitalises: 52 #dont 12 patients hospitalisés en attente de résultat
     reanimation: 8
     deces: 13
   - nom: Haute-Corse
     code: DEP-2B
     casConfirmes: 50 
-    hospitalises: 6
+    hospitalises: 19 #dont 11 patients hospitalisés en attente de résultat
     deces: 2
     reanimation: 1
