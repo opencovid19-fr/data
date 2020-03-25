@@ -36116,6 +36116,20 @@
   {
     "date": "2020-03-22",
     "source": {
+      "nom": "ARS Guadeloupe",
+      "url": "https://www.guadeloupe.ars.sante.fr/system/files/2020-03/22032020%20st%20martin%20point%20de%20situation%20Coronavirus.pdf",
+      "archive": "https://web.archive.org/web/20200325095130/https://www.guadeloupe.ars.sante.fr/system/files/2020-03/22032020%20st%20martin%20point%20de%20situation%20Coronavirus.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Saint-Barthélemy",
+    "code": "COM-977",
+    "casConfirmes": 3,
+    "gueris": 1,
+    "reanimation": 0
+  },
+  {
+    "date": "2020-03-22",
+    "source": {
       "nom": "Santé publique France",
       "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200323121952/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
@@ -36124,6 +36138,21 @@
     "nom": "Saint-Barthélemy",
     "code": "COM-977",
     "casConfirmes": 3
+  },
+  {
+    "date": "2020-03-22",
+    "source": {
+      "nom": "ARS Guadeloupe",
+      "url": "https://www.guadeloupe.ars.sante.fr/system/files/2020-03/22032020%20st%20martin%20point%20de%20situation%20Coronavirus.pdf",
+      "archive": "https://web.archive.org/web/20200325095130/https://www.guadeloupe.ars.sante.fr/system/files/2020-03/22032020%20st%20martin%20point%20de%20situation%20Coronavirus.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Saint-Martin",
+    "code": "COM-978",
+    "casConfirmes": 5,
+    "hospitalises": 1,
+    "gueris": 2,
+    "reanimation": 0
   },
   {
     "date": "2020-03-22",
