@@ -9,7 +9,7 @@ donneesNationales:
   gueris: 0
   deces: 0
 donneesRegionales: # cf communiqué en url2
-  - nom: Auvergne Rhône-Alpes
+  - nom: Auvergne-Rhône-Alpes
     code: REG-84
     casConfirmes: 5 # Cinq nouveaux cas groupés à Contamines-Montjoie(Haute-Savoie)
     hospitalises: 5 # ont été hospitalisées cette nuit
