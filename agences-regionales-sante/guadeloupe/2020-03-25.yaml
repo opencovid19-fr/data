@@ -6,9 +6,9 @@ source:
 donneesRegionales:
   nom: Guadeloupe
   code: REG-01
-  casConfirmes: 76 # 11 de plus qu’hie
-  hospitalises: 19 # +2
-  reanimation: 7 # +1
+  casConfirmes: 76 # 3 de plus qu’hier. 35 sont des femmes et 41 sont des hommes
+  hospitalises: 19
+  reanimation: 7
   deces: 1 # source sur la page web https://www.guadeloupe.ars.sante.fr/coronavirus-informations-et-recommandations-0
 donneesDepartementales:
   - nom: Guadeloupe
