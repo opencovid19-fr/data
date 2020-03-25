@@ -24,7 +24,7 @@ donneesDepartementales:
     code: DEP-76
     casConfirmes: 195 # +25 par rapport à hier
     hospitalises: 82
-    deces: 9 # Reprise fichier précédent + 1 décès
+    deces: 9 # Reprise fichier précédent + 1  "décès d’un homme de 83 ans porteur du coronavirus Covid-19 en Seine-Maritime
     victimes:
       - age: 83
         sexe: homme
