@@ -20,12 +20,12 @@ donneesDepartementales:
   - nom: Seine-Maritime
     code: DEP-76
     casConfirmes: 57 # + 18 par rapport à hier
-    deces: 3 # Reprise fichier précédent + 2 décès au CHI d’Elbeuf Louviers
+    deces: 3 # Reprise fichier précédent + 2 décès au CHI d’Elbeuf Louviers (Seine-Martime)
     victimes:
-      - date: 2020-03-18
+      - date: 2020-03-18 # décédé au CHI d’Elbeuf Louviers (Seine-Martime mais couvrant aussi Eure)
         age: 75
         sexe: homme
-      - date: 2020-03-18
+      - date: 2020-03-18 # décédé au CHI d’Elbeuf Louviers (Seine-Martime mais couvrant aussi Eure)
         age: 65
         sexe: homme
   - nom: Eure

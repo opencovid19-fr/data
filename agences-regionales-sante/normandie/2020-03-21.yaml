@@ -24,9 +24,9 @@ donneesDepartementales:
     code: DEP-76
     casConfirmes: 128 # +19 par rapport à hier
     hospitalises: 61
-    deces: 6 # Reprise fichier précédent + 1 décès à Elbeuf
+    deces: 6 # Reprise fichier précédent + 1 décès CH d'Elbeuf
     victimes:
-      - date: 2020-03-21
+      - date: 2020-03-21 # décédé au CH d'Elbeuf (probablement au CHI d’Elbeuf Louviers en Seine-Maritime mais couvrant aussi Eure)
         sexe: femme
         age: 73
   - nom: Eure

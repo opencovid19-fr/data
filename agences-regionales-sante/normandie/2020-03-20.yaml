@@ -27,9 +27,9 @@ donneesDepartementales:
     code: DEP-76
     casConfirmes: 109 # +31 par rapport à hier
     hospitalises: 46
-    deces: 5 # Reprise fichier précédent + 1 décès à Elbeuf
+    deces: 5 # Reprise fichier précédent + 1 décès à Elbeuf (Seine-Martime)
     victimes:
-      - date: 2020-03-20
+      - date: 2020-03-20 # décédé à Elbeuf (probablement le CHI d’Elbeuf Louviers en Seine-Martime mais couvrant aussi Eure)
         sexe: homme # age > 80
   - nom: Eure
     code: DEP-27
