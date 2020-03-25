@@ -6,7 +6,7 @@ donneesNationales:
   casConfirmes: 191 # à 16h. Source: santé publique france. +61 depuis hier
   deces: 3
 donneesRegionales:
-  - nom: Grand-Est
+  - nom: Grand Est
     code: REG-44
     casConfirmes: 5
 donneesMondiales:
@@ -24,5 +24,5 @@ donneesMondiales:
 # 64 cas dans l'Oise
 # La Balme: 19 cas confirmés
 # 11 cas pour le "voyage organisé"
-# 5 cas confirmés en Grand-Est
+# 5 cas confirmés en Grand Est
 # données nationales 1'20
