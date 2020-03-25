@@ -7,26 +7,37 @@ donneesRegionales:
   nom: Normandie
   code: REG-28
   casConfirmes: 287 # +46
-  deces: 7 
+  deces: 7 # +2
   hospitalises: 70
 donneesDepartementales:
   - nom: Manche
     code: DEP-50
     casConfirmes: 47 # +3 par rapport à hier
+    deces: 0 # Reprise fichier précédent
     hospitalises: 12
   - nom: Calvados
     code: DEP-14
     casConfirmes: 85 # +9 par rapport à hier
     hospitalises: 4
+    deces: 1 # Reprise fichier précédent + 1 décès à Caen
+    victimes:
+      - date: 2020-03-20
+        sexe: homme # age > 80
   - nom: Seine-Maritime
     code: DEP-76
     casConfirmes: 109 # +31 par rapport à hier
     hospitalises: 46
+    deces: 5 # Reprise fichier précédent + 1 décès à Elbeuf
+    victimes:
+      - date: 2020-03-20
+        sexe: homme # age > 80
   - nom: Eure
     code: DEP-27
     casConfirmes: 36 # +2
     hospitalises: 4
+    deces: 1 # Reprise fichier précédent
   - nom: Orne
     code: DEP-61
     casConfirmes: 10 # +1
     hospitalises: 4
+    deces: 0 # Reprise fichier précédent

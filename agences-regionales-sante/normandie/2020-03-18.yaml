@@ -6,28 +6,33 @@ donneesRegionales:
   nom: Normandie
   code: REG-28
   casConfirmes: 208 # +34
-  deces: 3 
-  victimes:
-    - date: 2020-03-18
-      age: 75
-    - date: 2020-03-18
-      age: 65
+  deces: 3 # +2
   hospitalises: 45 # Pas de mise à jour
 donneesDepartementales:
   - nom: Manche
     code: DEP-50
     casConfirmes: 42 # +10 par rapport à hier
+    deces: 0 # Reprise fichier précédent
   - nom: Calvados
     code: DEP-14
     casConfirmes: 71 # +5 par rapport à hier
+    deces: 0 # Reprise fichier précédent
   - nom: Seine-Maritime
     code: DEP-76
     casConfirmes: 57 # + 18 par rapport à hier
+    deces: 3 # Reprise fichier précédent + 2 décès au CHI d’Elbeuf Louviers
     victimes:
-      - date: 2020-03-06
+      - date: 2020-03-18
+        age: 75
+        sexe: homme
+      - date: 2020-03-18
+        age: 65
+        sexe: homme
   - nom: Eure
     code: DEP-27
     casConfirmes: 29 # +0
+    deces: 0 # Reprise fichier précédent
   - nom: Orne
     code: DEP-61
     casConfirmes: 9 # +1
+    deces: 0 # Reprise fichier précédent

@@ -14,24 +14,31 @@ donneesDepartementales:
     code: DEP-50
     casConfirmes: 87 # +24 par rapport à hier
     hospitalises: 19
+    deces: 0 # Reprise fichier précédent
   - nom: Calvados
     code: DEP-14
     casConfirmes: 129 # +30 par rapport à hier
     hospitalises: 20
+    deces: 1 # Reprise fichier précédent
   - nom: Seine-Maritime
     code: DEP-76
     casConfirmes: 170 # +42 par rapport à hier
     hospitalises: 71
+    deces: 8 # Reprise fichier précédent + 2 décès
     victimes:
       - age: 71
         sexe: homme
+        date: 2020-03-22
       - age: 82
         sexe: homme
+        date: 2020-03-22
   - nom: Eure
     code: DEP-27
     casConfirmes: 53 # +13
     hospitalises: 12
+    deces: 0 # Reprise fichier précédent
   - nom: Orne
     code: DEP-61
     casConfirmes: 23 # +8
     hospitalises: 4
+    deces: 0 # Reprise fichier précédent
