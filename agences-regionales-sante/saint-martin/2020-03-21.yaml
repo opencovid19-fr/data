@@ -6,7 +6,7 @@ source:
 donneesRegionales:
   nom: Saint-Martin
   code: COM-978
-  casConfirmes: 5 # 1 confirmé, 1 hospitalisé, une femme évacuée, deux guéris
+  casConfirmes: 5 # 1 nouveau cas confirmé, 1 hospitalisé, une femme évacuée, deux guéris
   hospitalises: 1
   gueris: 2
 

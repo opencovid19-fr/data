@@ -59,6 +59,7 @@ function showMetrics(rows) {
   const wReanimation = rows.filter(r => 'reanimation' in r)
   const wHospitalises = rows.filter(r => 'hospitalises' in r)
   const wGueris = rows.filter(r => 'gueris' in r)
+  const wDepistes = rows.filter(r => 'depistes' in r)
   const woSource = rows.filter(row => !row.source || !row.source.nom)
 
   console.log(`Nombre d’entrées : ${rows.length}`)
@@ -67,6 +68,7 @@ function showMetrics(rows) {
   console.log(`Nombre d’entrées avec le nombre de réanimations : ${wReanimation.length}`)
   console.log(`Nombre d’entrées avec le nombre d’hospitalisations : ${wHospitalises.length}`)
   console.log(`Nombre d’entrées avec le nombre de personnes guéries : ${wGueris.length}`)
+  console.log(`Nombre d’entrées avec le nombre de personnes dépistées : ${wDepistes.length}`)
   console.log(`Nombre d’entrées sans source : ${woSource.length}`)
 }
 

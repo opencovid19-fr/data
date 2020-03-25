@@ -22,13 +22,13 @@ donneesRegionales:
   - nom: Corse
     code: REG-94
     casConfirmes: 51
-  - nom: Grand-Est
+  - nom: Grand Est
     code: REG-44
     casConfirmes: 578
   - nom: Hauts-de-France
     code: REG-32
     casConfirmes: 263
-  - nom: Ile-de-France
+  - nom: Île-de-France
     code: REG-11
     casConfirmes: 492
   - nom: Normandie
@@ -43,7 +43,7 @@ donneesRegionales:
   - nom: Pays de la Loire
     code: REG-52
     casConfirmes: 34
-  - nom: Provence-Alpes-Côte d’Azur
+  - nom: Provence-Alpes-Côte d'Azur
     code: REG-93
     casConfirmes: 111
   - nom: Guadeloupe

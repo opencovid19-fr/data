@@ -67,6 +67,18 @@ Les sources de données (PDF, videos ou site web) sont notées dans chaque fichi
 
   > ([Tutoriel vidéo](https://www.youtube.com/watch?v=HW0RPaJqm4g))
 
+### Convention de nommage des pull requests
+:warning: Rappel: un seul nouveau fichier YAML par PR.
+
+Lorsque vous faites une pull request, il convient de respecter les règles de nommage suivantes:
+
+- Pour l'ajout d'un nouveau fichier YAML : `ADD nom_de_de_source jj/mm`
+  > Exemple avec le fichier du 24 mars de l'ARS de La Réunion : `ADD ARS La Réunion 24/03`
+
+- Pour une correction sur un fichier YAML existant :  `FIX nom_de_la_source jj/mm`
+  > Exemple avec le fichier du 20 mars de Santé Publique France : `FIX SPF 20/03`
+
+
 ### Comment compléter les fichiers YAML
 
 Consignes générales :   

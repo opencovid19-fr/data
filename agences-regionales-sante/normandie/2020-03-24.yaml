@@ -1,0 +1,36 @@
+date: 2020-03-24
+source:
+  nom: ARS Normandie
+  url: https://www.normandie.ars.sante.fr/system/files/2020-03/20200324_CP-point-situation-normandie_0.pdf
+  archive: https://web.archive.org/web/20200324230659/https://www.normandie.ars.sante.fr/system/files/2020-03/20200324_CP-point-situation-normandie_0.pdf
+donneesRegionales:
+  nom: Normandie
+  code: REG-28
+  casConfirmes: 586 # +75
+  deces: 16 # +6 depuis hier. 11 hommes et 5 femme, avec un âge médian de 77 ans
+  hospitalises: 161 # 25+15+15+9+97
+  gueris : 32 # "sont sorties de l’hôpital."
+donneesDepartementales:
+  - nom: Calvados
+    code: DEP-14
+    casConfirmes: 147 # +17 par rapport à hier
+    hospitalises: 25
+  - nom: Eure
+    code: DEP-27
+    casConfirmes: 71 # +9
+    hospitalises: 15
+    # +1 décès dans l’Eure
+  - nom: Manche
+    code: DEP-50
+    casConfirmes: 107 # +10 par rapport à hier
+    hospitalises: 15
+    # +2 décès dans la Manche
+  - nom: Orne
+    code: DEP-61
+    casConfirmes: 28 # +1
+    hospitalises: 9
+  - nom: Seine-Maritime
+    code: DEP-76
+    casConfirmes: 233 # +38 par rapport à hier
+    hospitalises: 97
+    # +3 décès dans la Seine-Maritime

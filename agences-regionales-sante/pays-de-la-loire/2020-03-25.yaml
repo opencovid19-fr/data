@@ -1,0 +1,12 @@
+date: "2020-03-25"
+source:
+  nom: ARS Pays de la Loire
+  url: https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-03/2020-03-25-bulletin%20information%20COVID-19.pdf
+  archive: https://web.archive.org/web/20200325184835/https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-03/2020-03-25-bulletin%20information%20COVID-19.pdf
+donneesRegionales:
+  nom: Pays de la Loire
+  code: REG-52
+  casConfirmes: 379
+  reanimation: 66 # dont 49 patients #Covid19confirmés et 17 patients, en attente de résultats, 
+  deces: 17
+  gueris: 106

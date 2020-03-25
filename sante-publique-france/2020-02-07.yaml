@@ -8,7 +8,7 @@ donneesNationales: # Cf l'archive 2, en bas de page, après le bulletin du 12/02
   hospitalises: 11
   deces: 0
 donneesRegionales: # Cf l'archive 2, en bas de page, après le bulletin du 12/02
-  - nom: Ile-de-France
+  - nom: Île-de-France
     code: REG-11
     casConfirmes: 5
     hospitalises: 5
@@ -16,7 +16,7 @@ donneesRegionales: # Cf l'archive 2, en bas de page, après le bulletin du 12/02
     code: REG-75
     casConfirmes: 1
     hospitalises: 1
-  - nom: Auvergne Rhône-Alpes
+  - nom: Auvergne-Rhône-Alpes
     code: REG-84
     casConfirmes: 5
     hospitalises: 5

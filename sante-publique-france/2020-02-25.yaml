@@ -1,0 +1,12 @@
+date: "2020-02-25"
+source:
+  nom: Santé publique France
+  url: https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde
+  archive: https://web.archive.org/web/20200226110440/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde
+donneesNationales:
+  casConfirmes: 12 # 6 cas groupés dans les Alpes
+  deces: 1
+donneesMondiales:
+  paysTouches: 36 # 33+Chine+Hong-Kong+Macao
+  casConfirmes: 80134
+  deces: 2698

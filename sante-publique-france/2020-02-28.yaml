@@ -4,8 +4,9 @@ source:
   url: https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france
   archive: https://web.archive.org/web/20200229212809/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/covid-19-situation-epidemiologique-en-france
 donneesNationales:
-  casConfirmes: 38
+  casConfirmes: 38 # 28 hommes, 10 femmes
   deces: 2
+  # 982 cas "investigués" ne veut pas dire testés par PCR
 donneesRegionales:
   - nom: Auvergne-Rhône-Alpes
     code: REG-84
@@ -22,13 +23,13 @@ donneesRegionales:
   - nom: Corse
     code: REG-94
     casConfirmes: 0
-  - nom: Grand-Est
+  - nom: Grand Est
     code: REG-44
     casConfirmes: 1
   - nom: Hauts-de-France
     code: REG-32
     casConfirmes: 9
-  - nom: Ile-de-France
+  - nom: Île-de-France
     code: REG-11
     casConfirmes: 9
   - nom: Normandie
@@ -43,7 +44,7 @@ donneesRegionales:
   - nom: Pays de la Loire
     code: REG-52
     casConfirmes: 1
-  - nom: Provence-Alpes-Côte d’Azur
+  - nom: Provence-Alpes-Côte d'Azur
     code: REG-93
     casConfirmes: 0
   - nom: Guadeloupe

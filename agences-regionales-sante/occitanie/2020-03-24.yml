@@ -1,0 +1,94 @@
+date: 2020-03-24
+source:
+  nom: ARS Occitanie
+  url: https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo16_20200324.pdf
+  archive: https://web.archive.org/web/20200324195842/https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo16_20200324.pdf
+donneesRegionales:
+  nom: Occitanie
+  code: REG-76
+  casConfirmes: 900 # +119
+  hospitalises: 380 # +60
+  reanimation: 123 # +26
+  gueris: 161 # +30
+  deces: 40 # +8
+donneesDepartementales:
+  - nom: Ariège
+    code: DEP-09
+    hospitalises: 3
+    reanimation: 3
+    gueris: 3
+    deces: 0
+  - nom: Aude
+    code: DEP-11
+    hospitalises: 33
+    reanimation: 11
+    gueris: 13
+    deces: 12
+  - nom: Aveyron
+    code: DEP-12
+    hospitalises: 18
+    reanimation: 3
+    gueris: 5
+    deces: 1
+  - nom: Gard
+    code: DEP-30
+    hospitalises: 14
+    reanimation: 8
+    gueris: 14
+    deces: 5
+  - nom: Haute-Garonne
+    code: DEP-31
+    hospitalises: 89
+    reanimation: 29
+    gueris: 36
+    deces: 3
+  - nom: Gers
+    code: DEP-32
+    hospitalises: 8
+    reanimation: 3
+    gueris: 0
+    deces: 0
+  - nom: Hérault
+    code: DEP-34
+    hospitalises: 97
+    reanimation: 32
+    gueris: 62
+    deces: 10
+  - nom: Lot
+    code: DEP-46
+    hospitalises: 2
+    reanimation: 0
+    gueris: 4
+    deces: 0
+  - nom: Lozère
+    code: DEP-48
+    hospitalises: 7
+    reanimation: 2
+    gueris: 2
+    deces: 0
+  - nom: Hautes-Pyrénées
+    code: DEP-65
+    hospitalises: 6
+    reanimation: 1
+    gueris: 3
+    deces: 0
+  - nom: Pyrénées-Orientales
+    code: DEP-66
+    hospitalises: 92
+    reanimation: 27
+    gueris: 12
+    deces: 7
+  - nom: Tarn
+    code: DEP-81
+    hospitalises: 8
+    reanimation: 3
+    gueris: 4
+    deces: 1
+  - nom: Tarn-et-Garonne
+    code: DEP-82
+    hospitalises: 3
+    reanimation: 1
+    gueris: 3
+    deces: 1
+
+# url: https://archive.org/download/arsoccovid19bulletininfo1620200324/%40ARSOC_%23COVID-19_BulletinInfo16_20200324.pdf

@@ -1,0 +1,45 @@
+date: 2020-03-24
+source:
+  nom: ARS Auvergne-Rhône-Alpes
+  url: https://www.auvergne-rhone-alpes.ars.sante.fr/covid-19-en-auvergne-rhone-alpes-point-de-situation-mardi-24-mars
+  archive: https://web.archive.org/web/20200324221243/https://www.auvergne-rhone-alpes.ars.sante.fr/covid-19-en-auvergne-rhone-alpes-point-de-situation-mardi-24-mars
+donneesRegionales: #Les résultats biologiques ne sont pas exhaustifs du fait de la réception incomplète des données depuis certains laboratoires (d'où les dpt manquants)
+  nom: Auvergne-Rhône-Alpes
+  code: REG-84
+  casConfirmes: 1857
+  hospitalises: 1000
+  hospitalisesConventionnelle: 783
+  hospitalisesReadaptation: 24
+  reanimation: 193
+  deces: 86 # +16 par rapport à la veille selon le communiqué du jour (mais nous étions à 85 la veille donc +1 logiquement)
+  gueris: 324 # +85. 324 patients atteints de COVID-19 rentrés à domicile.
+donneesDepartementales:
+  - nom: Allier
+    code: DEP-03
+    casConfirmes: 34 # +2
+  - nom: Ardèche
+    code: DEP-07
+    casConfirmes: 125 # +58 (forte augmentation liée à un rattrapage de données transmises ce jour.)
+  - nom: Cantal
+    code: DEP-15
+    casConfirmes: 31 # +4
+  - nom: Drôme
+    code: DEP-26
+    casConfirmes: 113 # +1
+  - nom: Isère
+    code: DEP-38
+    casConfirmes: 173 # +18
+  - nom: Loire
+    code: DEP-42
+    casConfirmes: 312 # +45
+  - nom: Haute-Loire
+    code: DEP-43
+    casConfirmes: 17 # +2
+  - nom: Puy-de-Dôme
+    code: DEP-63
+    casConfirmes: 81 # +15
+  - nom: Haute-Savoie
+    code: DEP-74
+    casConfirmes: 289 # +17
+    
+#url2: https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200324_ARSARA_PrefARA_CP_COVID-19_Point_Situation.pdf

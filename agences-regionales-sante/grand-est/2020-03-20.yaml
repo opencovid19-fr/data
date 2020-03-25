@@ -1,10 +1,10 @@
 date: "2020-03-20"
 source:
-  nom: ARS Grand-Est
+  nom: ARS Grand Est
   url: https://www.grand-est.ars.sante.fr/system/files/2020-03/Communique%20Coronavirus%20covid%2019%20-%20point%20de%20situation%20en%20Grand%20Est%2020%2003%202020.pdf
   archive: https://web.archive.org/web/20200321101543/https://www.grand-est.ars.sante.fr/system/files/2020-03/Communique%20Coronavirus%20covid%2019%20-%20point%20de%20situation%20en%20Grand%20Est%2020%2003%202020.pdf
 donneesRegionales:
-  nom: Grand-Est
+  nom: Grand Est
   code: REG-44
   hospitalises: 1551
   reanimation: 352 # près de 9% ont moins de 60 ans
