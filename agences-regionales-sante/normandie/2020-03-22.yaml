@@ -24,7 +24,7 @@ donneesDepartementales:
     code: DEP-76
     casConfirmes: 170 # +42 par rapport à hier
     hospitalises: 71
-    deces: 4 # repris du fichier précédent +2 par rapport à hier
+    deces: 6 # +2 par rapport à hier
     victimes:
       - age: 71
         sexe: homme
@@ -34,7 +34,7 @@ donneesDepartementales:
     code: DEP-27
     casConfirmes: 53 # +13
     hospitalises: 12
-    deces: 4 # repris du fichier précédent
+    deces: 2 # repris du fichier précédent
   - nom: Orne
     code: DEP-61
     casConfirmes: 23 # +8
