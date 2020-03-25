@@ -39563,7 +39563,8 @@
     "nom": "Haute-Corse",
     "code": "DEP-2B",
     "casConfirmes": 40,
-    "hospitalises": 6
+    "hospitalises": 6,
+    "reanimation": 0
   },
   {
     "code": "DEP-2B",
@@ -41670,6 +41671,21 @@
   {
     "date": "2020-03-24",
     "source": {
+      "nom": "DSP Polynésie française",
+      "url": "https://www.service-public.pf/dsp/wp-content/uploads/sites/12/2020/03/Communiqu%C3%A9-Point-sur-coronavirus-au-24-mars-2020.pdf",
+      "archive": "http://web.archive.org/web/20200325081313/https://www.service-public.pf/dsp/wp-content/uploads/sites/12/2020/03/Communiqu%C3%A9-Point-sur-coronavirus-au-24-mars-2020.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Polynésie française",
+    "code": "COM-987",
+    "depistes": 275,
+    "casConfirmes": 25,
+    "hospitalises": 2,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-24",
+    "source": {
       "nom": "Gouvernement Nouvelle-Calédonie",
       "url": "https://gouv.nc/sites/default/files/atoms/files/2020.03.24_cp_tests.pdf",
       "archive": "http://web.archive.org/web/20200324210724/https://gouv.nc/sites/default/files/atoms/files/2020.03.24_cp_tests.pdf"
@@ -41707,6 +41723,19 @@
   {
     "date": "2020-03-24",
     "source": {
+      "nom": "ARS Normandie",
+      "url": "https://www.normandie.ars.sante.fr/system/files/2020-03/20200324_CP-point-situation-normandie_0.pdf",
+      "archive": "https://web.archive.org/web/20200324230659/https://www.normandie.ars.sante.fr/system/files/2020-03/20200324_CP-point-situation-normandie_0.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Calvados",
+    "code": "DEP-14",
+    "casConfirmes": 147,
+    "hospitalises": 25
+  },
+  {
+    "date": "2020-03-24",
+    "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
       "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/covid-19-en-auvergne-rhone-alpes-point-de-situation-mardi-24-mars",
       "archive": "https://web.archive.org/web/20200324221243/https://www.auvergne-rhone-alpes.ars.sante.fr/covid-19-en-auvergne-rhone-alpes-point-de-situation-mardi-24-mars"
@@ -41715,6 +41744,19 @@
     "nom": "Cantal",
     "code": "DEP-15",
     "casConfirmes": 31
+  },
+  {
+    "date": "2020-03-24",
+    "source": {
+      "nom": "ARS Centre-Val de Loire",
+      "url": "https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-24-bulletin%20information%20COVID-19_0.pdf",
+      "archive": "https://web.archive.org/web/20200324220044/https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-24-bulletin%20information%20COVID-19_0.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Cher",
+    "code": "DEP-18",
+    "casConfirmes": 20,
+    "deces": 0
   },
   {
     "date": "2020-03-24",
@@ -41739,6 +41781,32 @@
     "nom": "Drôme",
     "code": "DEP-26",
     "casConfirmes": 113
+  },
+  {
+    "date": "2020-03-24",
+    "source": {
+      "nom": "ARS Normandie",
+      "url": "https://www.normandie.ars.sante.fr/system/files/2020-03/20200324_CP-point-situation-normandie_0.pdf",
+      "archive": "https://web.archive.org/web/20200324230659/https://www.normandie.ars.sante.fr/system/files/2020-03/20200324_CP-point-situation-normandie_0.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Eure",
+    "code": "DEP-27",
+    "casConfirmes": 71,
+    "hospitalises": 15
+  },
+  {
+    "date": "2020-03-24",
+    "source": {
+      "nom": "ARS Centre-Val de Loire",
+      "url": "https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-24-bulletin%20information%20COVID-19_0.pdf",
+      "archive": "https://web.archive.org/web/20200324220044/https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-24-bulletin%20information%20COVID-19_0.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Eure-et-Loir",
+    "code": "DEP-28",
+    "casConfirmes": 87,
+    "deces": 3
   },
   {
     "date": "2020-03-24",
@@ -41804,6 +41872,32 @@
   {
     "date": "2020-03-24",
     "source": {
+      "nom": "ARS Centre-Val de Loire",
+      "url": "https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-24-bulletin%20information%20COVID-19_0.pdf",
+      "archive": "https://web.archive.org/web/20200324220044/https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-24-bulletin%20information%20COVID-19_0.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Indre",
+    "code": "DEP-36",
+    "casConfirmes": 50,
+    "deces": 2
+  },
+  {
+    "date": "2020-03-24",
+    "source": {
+      "nom": "ARS Centre-Val de Loire",
+      "url": "https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-24-bulletin%20information%20COVID-19_0.pdf",
+      "archive": "https://web.archive.org/web/20200324220044/https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-24-bulletin%20information%20COVID-19_0.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Indre-et-Loire",
+    "code": "DEP-37",
+    "casConfirmes": 86,
+    "deces": 2
+  },
+  {
+    "date": "2020-03-24",
+    "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
       "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/covid-19-en-auvergne-rhone-alpes-point-de-situation-mardi-24-mars",
       "archive": "https://web.archive.org/web/20200324221243/https://www.auvergne-rhone-alpes.ars.sante.fr/covid-19-en-auvergne-rhone-alpes-point-de-situation-mardi-24-mars"
@@ -41812,6 +41906,19 @@
     "nom": "Isère",
     "code": "DEP-38",
     "casConfirmes": 173
+  },
+  {
+    "date": "2020-03-24",
+    "source": {
+      "nom": "ARS Centre-Val de Loire",
+      "url": "https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-24-bulletin%20information%20COVID-19_0.pdf",
+      "archive": "https://web.archive.org/web/20200324220044/https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-24-bulletin%20information%20COVID-19_0.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Loir-et-Cher",
+    "code": "DEP-41",
+    "casConfirmes": 37,
+    "deces": 0
   },
   {
     "date": "2020-03-24",
@@ -41840,6 +41947,32 @@
   {
     "date": "2020-03-24",
     "source": {
+      "nom": "ARS Centre-Val de Loire",
+      "url": "https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-24-bulletin%20information%20COVID-19_0.pdf",
+      "archive": "https://web.archive.org/web/20200324220044/https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-24-bulletin%20information%20COVID-19_0.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Loiret",
+    "code": "DEP-45",
+    "casConfirmes": 170,
+    "deces": 1
+  },
+  {
+    "date": "2020-03-24",
+    "source": {
+      "nom": "ARS Normandie",
+      "url": "https://www.normandie.ars.sante.fr/system/files/2020-03/20200324_CP-point-situation-normandie_0.pdf",
+      "archive": "https://web.archive.org/web/20200324230659/https://www.normandie.ars.sante.fr/system/files/2020-03/20200324_CP-point-situation-normandie_0.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Manche",
+    "code": "DEP-50",
+    "casConfirmes": 107,
+    "hospitalises": 15
+  },
+  {
+    "date": "2020-03-24",
+    "source": {
       "nom": "ARS Bretagne",
       "url": "https://www.bretagne.ars.sante.fr/system/files/2020-03/CP%20Coronavirus_Bretagne_point%20de%20situation%2017h30_200324.pdf",
       "archive": "https://web.archive.org/web/20200324213737/https://www.bretagne.ars.sante.fr/system/files/2020-03/CP%20Coronavirus_Bretagne_point%20de%20situation%2017h30_200324.pdf"
@@ -41848,6 +41981,19 @@
     "nom": "Morbihan",
     "code": "DEP-56",
     "casConfirmes": 185
+  },
+  {
+    "date": "2020-03-24",
+    "source": {
+      "nom": "ARS Normandie",
+      "url": "https://www.normandie.ars.sante.fr/system/files/2020-03/20200324_CP-point-situation-normandie_0.pdf",
+      "archive": "https://web.archive.org/web/20200324230659/https://www.normandie.ars.sante.fr/system/files/2020-03/20200324_CP-point-situation-normandie_0.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Orne",
+    "code": "DEP-61",
+    "casConfirmes": 28,
+    "hospitalises": 9
   },
   {
     "date": "2020-03-24",
@@ -41872,6 +42018,19 @@
     "nom": "Haute-Savoie",
     "code": "DEP-74",
     "casConfirmes": 289
+  },
+  {
+    "date": "2020-03-24",
+    "source": {
+      "nom": "ARS Normandie",
+      "url": "https://www.normandie.ars.sante.fr/system/files/2020-03/20200324_CP-point-situation-normandie_0.pdf",
+      "archive": "https://web.archive.org/web/20200324230659/https://www.normandie.ars.sante.fr/system/files/2020-03/20200324_CP-point-situation-normandie_0.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Seine-Maritime",
+    "code": "DEP-76",
+    "casConfirmes": 233,
+    "hospitalises": 97
   },
   {
     "date": "2020-03-24",
@@ -42073,6 +42232,20 @@
   {
     "date": "2020-03-24",
     "source": {
+      "nom": "ARS Centre-Val de Loire",
+      "url": "https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-24-bulletin%20information%20COVID-19_0.pdf",
+      "archive": "https://web.archive.org/web/20200324220044/https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-24-bulletin%20information%20COVID-19_0.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Centre-Val de Loire",
+    "code": "REG-24",
+    "casConfirmes": 450,
+    "deces": 8,
+    "reanimation": 44
+  },
+  {
+    "date": "2020-03-24",
+    "source": {
       "nom": "Santé publique France",
       "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200324193012/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
@@ -42111,6 +42284,21 @@
   {
     "date": "2020-03-24",
     "source": {
+      "nom": "ARS Normandie",
+      "url": "https://www.normandie.ars.sante.fr/system/files/2020-03/20200324_CP-point-situation-normandie_0.pdf",
+      "archive": "https://web.archive.org/web/20200324230659/https://www.normandie.ars.sante.fr/system/files/2020-03/20200324_CP-point-situation-normandie_0.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Normandie",
+    "code": "REG-28",
+    "casConfirmes": 586,
+    "deces": 16,
+    "hospitalises": 161,
+    "gueris": 32
+  },
+  {
+    "date": "2020-03-24",
+    "source": {
       "nom": "Santé publique France",
       "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200324193012/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
@@ -42131,6 +42319,22 @@
     "nom": "Hauts-de-France",
     "code": "REG-32",
     "casConfirmes": 1532
+  },
+  {
+    "date": "2020-03-24",
+    "source": {
+      "nom": "ARS Grand-Est",
+      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/CP_Coronavirus_GrandEst_240320.pdf",
+      "archive": "https://web.archive.org/web/20200325073850/https://www.grand-est.ars.sante.fr/system/files/2020-03/CP_Coronavirus_GrandEst_240320.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Grand-Est",
+    "code": "REG-44",
+    "hospitalises": 2722,
+    "reanimation": 595,
+    "gueris": 625,
+    "deces": 407,
+    "capaciteLitsReanimation": 900
   },
   {
     "date": "2020-03-24",
