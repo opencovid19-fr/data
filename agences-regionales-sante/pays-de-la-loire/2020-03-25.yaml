@@ -6,7 +6,7 @@ source:
 donneesRegionales:
   nom: Pays de la Loire
   code: REG-52
-  casConfirmes: 379 # +36 
-  reanimation: 66 # +8     dont 49 patients #Covid19confirmés et 17 patients, en attente de résultats, 
-  deces: 17 # +3, 
+  casConfirmes: 379
+  reanimation: 66 # dont 49 patients #Covid19confirmés et 17 patients, en attente de résultats, 
+  deces: 17
   gueris: 106
