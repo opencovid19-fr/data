@@ -25,18 +25,16 @@ donneesDepartementales:
   - nom: Seine-Maritime
     code: DEP-76
     casConfirmes: 57 # + 18 par rapport à hier
-    deces: 1 # repris du fichier précédent
-    victimes:
-      - date: 2020-03-06
-  - nom: Eure
-    code: DEP-27
-    casConfirmes: 29 # +0
-    deces: 2 # +2 par rapport à hier
+    deces: 3 # +2 par rapport à hier 
     victimes:
       - age: 75
         sexe: homme
       - age: 65
         sexe: homme
+  - nom: Eure
+    code: DEP-27
+    casConfirmes: 29 # +0
+    deces: 0 # repris du fichier précédent
   - nom: Orne
     code: DEP-61
     casConfirmes: 9 # +1
