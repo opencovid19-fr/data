@@ -2075,6 +2075,19 @@
   {
     "date": "2020-02-25",
     "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200226110440/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+    },
+    "sourceType": "sante-publique-france",
+    "casConfirmes": 12,
+    "deces": 1,
+    "nom": "France",
+    "code": "FRA"
+  },
+  {
+    "date": "2020-02-25",
+    "source": {
       "nom": "Ministère des Solidarités et de la Santé",
       "url": "https://www.dailymotion.com/video/x7s7wtl"
     },
@@ -2098,6 +2111,20 @@
     "code": "REG-27",
     "casConfirmes": 0,
     "deces": 0
+  },
+  {
+    "date": "2020-02-25",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200226110440/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+    },
+    "sourceType": "sante-publique-france",
+    "paysTouches": 36,
+    "casConfirmes": 80134,
+    "deces": 2698,
+    "nom": "Monde",
+    "code": "WORLD"
   },
   {
     "date": "2020-02-25",
@@ -24806,7 +24833,8 @@
     "sourceType": "agences-regionales-sante",
     "nom": "Calvados",
     "code": "DEP-14",
-    "casConfirmes": 71
+    "casConfirmes": 71,
+    "deces": 0
   },
   {
     "code": "DEP-14",
@@ -25084,7 +25112,8 @@
     "sourceType": "agences-regionales-sante",
     "nom": "Eure",
     "code": "DEP-27",
-    "casConfirmes": 29
+    "casConfirmes": 29,
+    "deces": 0
   },
   {
     "code": "DEP-27",
@@ -25675,7 +25704,8 @@
     "sourceType": "agences-regionales-sante",
     "nom": "Manche",
     "code": "DEP-50",
-    "casConfirmes": 42
+    "casConfirmes": 42,
+    "deces": 0
   },
   {
     "code": "DEP-50",
@@ -25865,7 +25895,8 @@
     "sourceType": "agences-regionales-sante",
     "nom": "Orne",
     "code": "DEP-61",
-    "casConfirmes": 9
+    "casConfirmes": 9,
+    "deces": 0
   },
   {
     "code": "DEP-61",
@@ -26170,9 +26201,17 @@
     "nom": "Seine-Maritime",
     "code": "DEP-76",
     "casConfirmes": 57,
+    "deces": 3,
     "victimes": [
       {
-        "date": "2020-03-06"
+        "date": "2020-03-18",
+        "age": 75,
+        "sexe": "homme"
+      },
+      {
+        "date": "2020-03-18",
+        "age": 65,
+        "sexe": "homme"
       }
     ]
   },
@@ -26928,16 +26967,6 @@
     "code": "REG-28",
     "casConfirmes": 208,
     "deces": 3,
-    "victimes": [
-      {
-        "date": "2020-03-18",
-        "age": 75
-      },
-      {
-        "date": "2020-03-18",
-        "age": 65
-      }
-    ],
     "hospitalises": 45
   },
   {
@@ -27718,7 +27747,8 @@
     "sourceType": "agences-regionales-sante",
     "nom": "Calvados",
     "code": "DEP-14",
-    "casConfirmes": 76
+    "casConfirmes": 76,
+    "deces": 0
   },
   {
     "code": "DEP-14",
@@ -27997,7 +28027,14 @@
     "sourceType": "agences-regionales-sante",
     "nom": "Eure",
     "code": "DEP-27",
-    "casConfirmes": 35
+    "casConfirmes": 35,
+    "deces": 1,
+    "victimes": [
+      {
+        "date": "2020-03-19",
+        "sexe": "homme"
+      }
+    ]
   },
   {
     "code": "DEP-27",
@@ -28589,7 +28626,8 @@
     "sourceType": "agences-regionales-sante",
     "nom": "Manche",
     "code": "DEP-50",
-    "casConfirmes": 44
+    "casConfirmes": 44,
+    "deces": 0
   },
   {
     "code": "DEP-50",
@@ -28780,7 +28818,8 @@
     "sourceType": "agences-regionales-sante",
     "nom": "Orne",
     "code": "DEP-61",
-    "casConfirmes": 9
+    "casConfirmes": 9,
+    "deces": 0
   },
   {
     "code": "DEP-61",
@@ -29093,7 +29132,14 @@
     "sourceType": "agences-regionales-sante",
     "nom": "Seine-Maritime",
     "code": "DEP-76",
-    "casConfirmes": 77
+    "casConfirmes": 77,
+    "deces": 4,
+    "victimes": [
+      {
+        "date": "2020-03-19",
+        "sexe": "homme"
+      }
+    ]
   },
   {
     "code": "DEP-76",
@@ -30641,7 +30687,14 @@
     "nom": "Calvados",
     "code": "DEP-14",
     "casConfirmes": 85,
-    "hospitalises": 4
+    "hospitalises": 4,
+    "deces": 1,
+    "victimes": [
+      {
+        "date": "2020-03-20",
+        "sexe": "homme"
+      }
+    ]
   },
   {
     "code": "DEP-14",
@@ -30895,7 +30948,8 @@
     "nom": "Eure",
     "code": "DEP-27",
     "casConfirmes": 36,
-    "hospitalises": 4
+    "hospitalises": 4,
+    "deces": 1
   },
   {
     "code": "DEP-27",
@@ -31467,6 +31521,7 @@
     "nom": "Manche",
     "code": "DEP-50",
     "casConfirmes": 47,
+    "deces": 0,
     "hospitalises": 12
   },
   {
@@ -31659,7 +31714,8 @@
     "nom": "Orne",
     "code": "DEP-61",
     "casConfirmes": 10,
-    "hospitalises": 4
+    "hospitalises": 4,
+    "deces": 0
   },
   {
     "code": "DEP-61",
@@ -31920,7 +31976,14 @@
     "nom": "Seine-Maritime",
     "code": "DEP-76",
     "casConfirmes": 109,
-    "hospitalises": 46
+    "hospitalises": 46,
+    "deces": 5,
+    "victimes": [
+      {
+        "date": "2020-03-20",
+        "sexe": "homme"
+      }
+    ]
   },
   {
     "code": "DEP-76",
@@ -33528,7 +33591,8 @@
     "nom": "Calvados",
     "code": "DEP-14",
     "casConfirmes": 99,
-    "hospitalises": 9
+    "hospitalises": 9,
+    "deces": 1
   },
   {
     "code": "DEP-14",
@@ -33824,7 +33888,8 @@
     "nom": "Eure",
     "code": "DEP-27",
     "casConfirmes": 40,
-    "hospitalises": 7
+    "hospitalises": 7,
+    "deces": 0
   },
   {
     "code": "DEP-27",
@@ -34423,7 +34488,8 @@
     "nom": "Manche",
     "code": "DEP-50",
     "casConfirmes": 63,
-    "hospitalises": 17
+    "hospitalises": 17,
+    "deces": 0
   },
   {
     "code": "DEP-50",
@@ -34615,7 +34681,8 @@
     "nom": "Orne",
     "code": "DEP-61",
     "casConfirmes": 15,
-    "hospitalises": 4
+    "hospitalises": 4,
+    "deces": 0
   },
   {
     "code": "DEP-61",
@@ -34928,7 +34995,15 @@
     "nom": "Seine-Maritime",
     "code": "DEP-76",
     "casConfirmes": 128,
-    "hospitalises": 61
+    "hospitalises": 61,
+    "deces": 6,
+    "victimes": [
+      {
+        "date": "2020-03-21",
+        "sexe": "femme",
+        "age": 73
+      }
+    ]
   },
   {
     "code": "DEP-76",
@@ -36488,7 +36563,8 @@
     "nom": "Calvados",
     "code": "DEP-14",
     "casConfirmes": 129,
-    "hospitalises": 20
+    "hospitalises": 20,
+    "deces": 1
   },
   {
     "code": "DEP-14",
@@ -36784,7 +36860,8 @@
     "nom": "Eure",
     "code": "DEP-27",
     "casConfirmes": 53,
-    "hospitalises": 12
+    "hospitalises": 12,
+    "deces": 0
   },
   {
     "code": "DEP-27",
@@ -37299,7 +37376,8 @@
     "nom": "Manche",
     "code": "DEP-50",
     "casConfirmes": 87,
-    "hospitalises": 19
+    "hospitalises": 19,
+    "deces": 0
   },
   {
     "code": "DEP-50",
@@ -37491,7 +37569,8 @@
     "nom": "Orne",
     "code": "DEP-61",
     "casConfirmes": 23,
-    "hospitalises": 4
+    "hospitalises": 4,
+    "deces": 0
   },
   {
     "code": "DEP-61",
@@ -37777,14 +37856,17 @@
     "code": "DEP-76",
     "casConfirmes": 170,
     "hospitalises": 71,
+    "deces": 8,
     "victimes": [
       {
         "age": 71,
-        "sexe": "homme"
+        "sexe": "homme",
+        "date": "2020-03-22"
       },
       {
         "age": 82,
-        "sexe": "homme"
+        "sexe": "homme",
+        "date": "2020-03-22"
       }
     ]
   },
@@ -38938,6 +39020,20 @@
   {
     "date": "2020-03-23",
     "source": {
+      "nom": "ARS Guadeloupe",
+      "url": "https://www.guadeloupe.ars.sante.fr/system/files/2020-03/23032020%20st%20martin%20point%20de%20situation%20Coronavirus.pdf",
+      "archive": "https://web.archive.org/web/20200325103023/https://www.guadeloupe.ars.sante.fr/system/files/2020-03/23032020%20st%20martin%20point%20de%20situation%20Coronavirus.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Saint-Barthélemy",
+    "code": "COM-977",
+    "casConfirmes": 3,
+    "gueris": 1,
+    "reanimation": 0
+  },
+  {
+    "date": "2020-03-23",
+    "source": {
       "nom": "Santé publique France",
       "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200323185012/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
@@ -39282,7 +39378,8 @@
     "nom": "Calvados",
     "code": "DEP-14",
     "casConfirmes": 130,
-    "hospitalises": 23
+    "hospitalises": 23,
+    "deces": 1
   },
   {
     "code": "DEP-14",
@@ -39502,7 +39599,8 @@
     "nom": "Eure",
     "code": "DEP-27",
     "casConfirmes": 62,
-    "hospitalises": 15
+    "hospitalises": 15,
+    "deces": 0
   },
   {
     "code": "DEP-27",
@@ -39996,7 +40094,8 @@
     "nom": "Manche",
     "code": "DEP-50",
     "casConfirmes": 97,
-    "hospitalises": 20
+    "hospitalises": 20,
+    "deces": 0
   },
   {
     "code": "DEP-50",
@@ -40248,7 +40347,8 @@
     "nom": "Orne",
     "code": "DEP-61",
     "casConfirmes": 27,
-    "hospitalises": 6
+    "hospitalises": 6,
+    "deces": 0
   },
   {
     "code": "DEP-61",
@@ -40545,10 +40645,12 @@
     "code": "DEP-76",
     "casConfirmes": 195,
     "hospitalises": 82,
+    "deces": 9,
     "victimes": [
       {
         "age": 83,
-        "sexe": "homme"
+        "sexe": "homme",
+        "date": "2020-03-23"
       }
     ]
   },
@@ -41955,7 +42057,8 @@
     "nom": "Calvados",
     "code": "DEP-14",
     "casConfirmes": 147,
-    "hospitalises": 25
+    "hospitalises": 25,
+    "deces": 1
   },
   {
     "code": "DEP-14",
@@ -42173,7 +42276,8 @@
     "nom": "Eure",
     "code": "DEP-27",
     "casConfirmes": 71,
-    "hospitalises": 15
+    "hospitalises": 15,
+    "deces": 1
   },
   {
     "code": "DEP-27",
@@ -42673,7 +42777,8 @@
     "nom": "Manche",
     "code": "DEP-50",
     "casConfirmes": 107,
-    "hospitalises": 15
+    "hospitalises": 15,
+    "deces": 2
   },
   {
     "code": "DEP-50",
@@ -42865,7 +42970,8 @@
     "nom": "Orne",
     "code": "DEP-61",
     "casConfirmes": 28,
-    "hospitalises": 9
+    "hospitalises": 9,
+    "deces": 0
   },
   {
     "code": "DEP-61",
@@ -43109,7 +43215,8 @@
     "nom": "Seine-Maritime",
     "code": "DEP-76",
     "casConfirmes": 233,
-    "hospitalises": 97
+    "hospitalises": 97,
+    "deces": 12
   },
   {
     "code": "DEP-76",
@@ -44232,6 +44339,18 @@
   {
     "date": "2020-03-25",
     "source": {
+      "nom": "ARS La Réunion",
+      "url": "http://www.reunion.gouv.fr/IMG/pdf/2020-03-25_cp_4_nouveaux_cas_averes_22h00.pdf",
+      "archive": "https://web.archive.org/web/20200325212001/http://www.reunion.gouv.fr/IMG/pdf/2020-03-25_cp_4_nouveaux_cas_averes_22h00.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "La Réunion",
+    "code": "COM-974",
+    "casConfirmes": 115
+  },
+  {
+    "date": "2020-03-25",
+    "source": {
       "nom": "Santé publique France",
       "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200325185410/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
@@ -44256,6 +44375,206 @@
   {
     "date": "2020-03-25",
     "source": {
+      "nom": "ARS Normandie",
+      "url": "http://www.normandie.ars.sante.fr/system/files/2020-03/20200325_CP-point-situation-normandie.pdf",
+      "archive": "https://web.archive.org/web/20200325193922/https://www.normandie.ars.sante.fr/system/files/2020-03/20200325_CP-point-situation-normandie.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Calvados",
+    "code": "DEP-14",
+    "hospitalises": 47,
+    "deces": 1
+  },
+  {
+    "date": "2020-03-25",
+    "source": {
+      "nom": "ARS Centre-Val de Loire",
+      "url": "https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-25-bulletin%20information%20COVID-19_0.pdf",
+      "archive": "https://web.archive.org/web/20200325190608/https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-25-bulletin%20information%20COVID-19_0.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Cher",
+    "code": "DEP-18",
+    "casConfirmes": 25,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-25",
+    "source": {
+      "nom": "ARS Normandie",
+      "url": "http://www.normandie.ars.sante.fr/system/files/2020-03/20200325_CP-point-situation-normandie.pdf",
+      "archive": "https://web.archive.org/web/20200325193922/https://www.normandie.ars.sante.fr/system/files/2020-03/20200325_CP-point-situation-normandie.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Eure",
+    "code": "DEP-27",
+    "hospitalises": 22,
+    "deces": 1
+  },
+  {
+    "date": "2020-03-25",
+    "source": {
+      "nom": "ARS Centre-Val de Loire",
+      "url": "https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-25-bulletin%20information%20COVID-19_0.pdf",
+      "archive": "https://web.archive.org/web/20200325190608/https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-25-bulletin%20information%20COVID-19_0.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Eure-et-Loir",
+    "code": "DEP-28",
+    "casConfirmes": 96,
+    "deces": 4
+  },
+  {
+    "date": "2020-03-25",
+    "source": {
+      "nom": "ARS Corse",
+      "url": "https://www.corse.ars.sante.fr/informations-utiles-et-point-de-situation",
+      "archive": "https://web.archive.org/web/20200325190926/https://www.corse.ars.sante.fr/informations-utiles-et-point-de-situation"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Corse-du-Sud",
+    "code": "DEP-2A",
+    "casConfirmes": 183,
+    "hospitalises": 52,
+    "reanimation": 8,
+    "deces": 13
+  },
+  {
+    "date": "2020-03-25",
+    "source": {
+      "nom": "ARS Corse",
+      "url": "https://www.corse.ars.sante.fr/informations-utiles-et-point-de-situation",
+      "archive": "https://web.archive.org/web/20200325190926/https://www.corse.ars.sante.fr/informations-utiles-et-point-de-situation"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Haute-Corse",
+    "code": "DEP-2B",
+    "casConfirmes": 50,
+    "hospitalises": 19,
+    "deces": 2,
+    "reanimation": 1
+  },
+  {
+    "date": "2020-03-25",
+    "source": {
+      "nom": "ARS Centre-Val de Loire",
+      "url": "https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-25-bulletin%20information%20COVID-19_0.pdf",
+      "archive": "https://web.archive.org/web/20200325190608/https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-25-bulletin%20information%20COVID-19_0.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Indre",
+    "code": "DEP-36",
+    "casConfirmes": 65,
+    "deces": 5
+  },
+  {
+    "date": "2020-03-25",
+    "source": {
+      "nom": "ARS Centre-Val de Loire",
+      "url": "https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-25-bulletin%20information%20COVID-19_0.pdf",
+      "archive": "https://web.archive.org/web/20200325190608/https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-25-bulletin%20information%20COVID-19_0.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Indre-et-Loire",
+    "code": "DEP-37",
+    "casConfirmes": 103,
+    "deces": 3
+  },
+  {
+    "date": "2020-03-25",
+    "source": {
+      "nom": "ARS Centre-Val de Loire",
+      "url": "https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-25-bulletin%20information%20COVID-19_0.pdf",
+      "archive": "https://web.archive.org/web/20200325190608/https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-25-bulletin%20information%20COVID-19_0.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Loir-et-Cher",
+    "code": "DEP-41",
+    "casConfirmes": 45,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-25",
+    "source": {
+      "nom": "ARS Centre-Val de Loire",
+      "url": "https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-25-bulletin%20information%20COVID-19_0.pdf",
+      "archive": "https://web.archive.org/web/20200325190608/https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-25-bulletin%20information%20COVID-19_0.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Loiret",
+    "code": "DEP-45",
+    "casConfirmes": 227,
+    "deces": 1
+  },
+  {
+    "date": "2020-03-25",
+    "source": {
+      "nom": "ARS Normandie",
+      "url": "http://www.normandie.ars.sante.fr/system/files/2020-03/20200325_CP-point-situation-normandie.pdf",
+      "archive": "https://web.archive.org/web/20200325193922/https://www.normandie.ars.sante.fr/system/files/2020-03/20200325_CP-point-situation-normandie.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Manche",
+    "code": "DEP-50",
+    "hospitalises": 21,
+    "deces": 3
+  },
+  {
+    "date": "2020-03-25",
+    "source": {
+      "nom": "ARS Normandie",
+      "url": "http://www.normandie.ars.sante.fr/system/files/2020-03/20200325_CP-point-situation-normandie.pdf",
+      "archive": "https://web.archive.org/web/20200325193922/https://www.normandie.ars.sante.fr/system/files/2020-03/20200325_CP-point-situation-normandie.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Orne",
+    "code": "DEP-61",
+    "hospitalises": 11,
+    "deces": 1
+  },
+  {
+    "date": "2020-03-25",
+    "source": {
+      "nom": "ARS Normandie",
+      "url": "http://www.normandie.ars.sante.fr/system/files/2020-03/20200325_CP-point-situation-normandie.pdf",
+      "archive": "https://web.archive.org/web/20200325193922/https://www.normandie.ars.sante.fr/system/files/2020-03/20200325_CP-point-situation-normandie.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Seine-Maritime",
+    "code": "DEP-76",
+    "hospitalises": 125,
+    "deces": 13
+  },
+  {
+    "date": "2020-03-25",
+    "source": {
+      "nom": "ARS Guadeloupe",
+      "url": "https://www.guadeloupe.ars.sante.fr/system/files/2020-03/25032020%20CP%20point%20de%20situation.pdf.pdf",
+      "archive": "https://web.archive.org/web/20200325175956/https://www.guadeloupe.ars.sante.fr/system/files/2020-03/25032020%20CP%20point%20de%20situation.pdf.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Guadeloupe",
+    "code": "DEP-971",
+    "casConfirmes": 76,
+    "hospitalises": 19,
+    "reanimation": 7,
+    "deces": 1
+  },
+  {
+    "date": "2020-03-25",
+    "source": {
+      "nom": "ARS Mayotte",
+      "url": "http://www.mayotte.ars.sante.fr/system/files/2020-03/CP%2025%20mars%20COVID-19%20.pdf",
+      "archive": "https://web.archive.org/web/20200325192100/https://www.mayotte.ars.sante.fr/system/files/2020-03/CP%2025%20mars%20COVID-19%20.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Mayotte",
+    "code": "DEP-976",
+    "casConfirmes": 35
+  },
+  {
+    "date": "2020-03-25",
+    "source": {
       "nom": "Santé publique France",
       "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200325185410/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
@@ -44269,6 +44588,21 @@
   {
     "date": "2020-03-25",
     "source": {
+      "nom": "ARS Guadeloupe",
+      "url": "https://www.guadeloupe.ars.sante.fr/system/files/2020-03/25032020%20CP%20point%20de%20situation.pdf.pdf",
+      "archive": "https://web.archive.org/web/20200325175956/https://www.guadeloupe.ars.sante.fr/system/files/2020-03/25032020%20CP%20point%20de%20situation.pdf.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Guadeloupe",
+    "code": "REG-01",
+    "casConfirmes": 76,
+    "hospitalises": 19,
+    "reanimation": 7,
+    "deces": 1
+  },
+  {
+    "date": "2020-03-25",
+    "source": {
       "nom": "Santé publique France",
       "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200325185410/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
@@ -44277,6 +44611,21 @@
     "nom": "Guadeloupe",
     "code": "REG-01",
     "casConfirmes": 76
+  },
+  {
+    "date": "2020-03-25",
+    "source": {
+      "nom": "ARS Martinique",
+      "url": "http://www.martinique.ars.sante.fr/system/files/2020-03/Point%20de%20situation%2025%20mars%202020.pdf",
+      "archive": "https://web.archive.org/web/20200325191533/https://www.martinique.ars.sante.fr/system/files/2020-03/Point%20de%20situation%2025%20mars%202020.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Martinique",
+    "code": "REG-02",
+    "casConfirmes": 66,
+    "reanimation": 10,
+    "gueris": 2,
+    "deces": 0
   },
   {
     "date": "2020-03-25",
@@ -44317,6 +44666,18 @@
   {
     "date": "2020-03-25",
     "source": {
+      "nom": "ARS Mayotte",
+      "url": "http://www.mayotte.ars.sante.fr/system/files/2020-03/CP%2025%20mars%20COVID-19%20.pdf",
+      "archive": "https://web.archive.org/web/20200325192100/https://www.mayotte.ars.sante.fr/system/files/2020-03/CP%2025%20mars%20COVID-19%20.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Mayotte",
+    "code": "REG-06",
+    "casConfirmes": 35
+  },
+  {
+    "date": "2020-03-25",
+    "source": {
       "nom": "Santé publique France",
       "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200325185410/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
@@ -44341,6 +44702,20 @@
   {
     "date": "2020-03-25",
     "source": {
+      "nom": "ARS Centre-Val de Loire",
+      "url": "https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-25-bulletin%20information%20COVID-19_0.pdf",
+      "archive": "https://web.archive.org/web/20200325190608/https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-25-bulletin%20information%20COVID-19_0.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Centre-Val de Loire",
+    "code": "REG-24",
+    "casConfirmes": 561,
+    "deces": 13,
+    "reanimation": 58
+  },
+  {
+    "date": "2020-03-25",
+    "source": {
       "nom": "Santé publique France",
       "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200325185410/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
@@ -44353,6 +44728,21 @@
   {
     "date": "2020-03-25",
     "source": {
+      "nom": "ARS Bourgogne-Franche-Comté",
+      "url": "https://www.bourgogne-franche-comte.ars.sante.fr/system/files/2020-03/2020.03.25_COVID19_SITUATION%20BFC.pdf",
+      "archive": "https://web.archive.org/web/20200325200328/https://www.bourgogne-franche-comte.ars.sante.fr/system/files/2020-03/2020.03.25_COVID19_SITUATION%20BFC.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Bourgogne-Franche-Comté",
+    "code": "REG-27",
+    "gueris": 340,
+    "reanimation": 149,
+    "hospitalises": 591,
+    "deces": 102
+  },
+  {
+    "date": "2020-03-25",
+    "source": {
       "nom": "Santé publique France",
       "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200325185410/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
@@ -44361,6 +44751,21 @@
     "nom": "Bourgogne-Franche-Comté",
     "code": "REG-27",
     "casConfirmes": 1569
+  },
+  {
+    "date": "2020-03-25",
+    "source": {
+      "nom": "ARS Normandie",
+      "url": "http://www.normandie.ars.sante.fr/system/files/2020-03/20200325_CP-point-situation-normandie.pdf",
+      "archive": "https://web.archive.org/web/20200325193922/https://www.normandie.ars.sante.fr/system/files/2020-03/20200325_CP-point-situation-normandie.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Normandie",
+    "code": "REG-28",
+    "casConfirmes": 688,
+    "deces": 19,
+    "hospitalises": 226,
+    "gueris": 49
   },
   {
     "date": "2020-03-25",
@@ -44397,6 +44802,21 @@
     "nom": "Grand Est",
     "code": "REG-44",
     "casConfirmes": 5479
+  },
+  {
+    "date": "2020-03-25",
+    "source": {
+      "nom": "ARS Pays de la Loire",
+      "url": "https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-03/2020-03-25-bulletin%20information%20COVID-19.pdf",
+      "archive": "https://web.archive.org/web/20200325184835/https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-03/2020-03-25-bulletin%20information%20COVID-19.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Pays de la Loire",
+    "code": "REG-52",
+    "casConfirmes": 379,
+    "reanimation": 66,
+    "deces": 17,
+    "gueris": 106
   },
   {
     "date": "2020-03-25",
@@ -44469,6 +44889,21 @@
     "nom": "Provence-Alpes-Côte d'Azur",
     "code": "REG-93",
     "casConfirmes": 1927
+  },
+  {
+    "date": "2020-03-25",
+    "source": {
+      "nom": "ARS Corse",
+      "url": "https://www.corse.ars.sante.fr/informations-utiles-et-point-de-situation",
+      "archive": "https://web.archive.org/web/20200325190926/https://www.corse.ars.sante.fr/informations-utiles-et-point-de-situation"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Corse",
+    "code": "REG-94",
+    "casConfirmes": 233,
+    "deces": 15,
+    "hospitalises": 39,
+    "reanimation": 9
   },
   {
     "date": "2020-03-25",
