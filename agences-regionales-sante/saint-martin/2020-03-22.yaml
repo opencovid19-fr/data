@@ -1,0 +1,17 @@
+date: "2020-03-22"
+source:
+  nom: ARS Guadeloupe
+  url: https://www.guadeloupe.ars.sante.fr/system/files/2020-03/22032020%20st%20martin%20point%20de%20situation%20Coronavirus.pdf
+  archive: https://web.archive.org/web/20200325095130/https://www.guadeloupe.ars.sante.fr/system/files/2020-03/22032020%20st%20martin%20point%20de%20situation%20Coronavirus.pdf
+donneesRegionales:
+  nom: Saint-Martin
+  code: COM-978
+  casConfirmes: 5 # 1 confirmé, 1 hospitalisé, une femme évacuée, deux guéris
+  hospitalises: 1
+  gueris: 2
+  reanimation: 0
+
+# La dame a été évacuée au CHU de Guadeloupe pour un suivi de grossesse
+
+#Le nombre de cas confirmes peut sembler different du communique. Ce dernier ne donne pas le total des cas mais que le nombre de cas confirmes
+#le jour. Il faut donc revoir ce qui etait dans le precedent fichier et rajouter les nouveaux pour avoir le total
