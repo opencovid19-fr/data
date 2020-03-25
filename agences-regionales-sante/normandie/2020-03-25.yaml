@@ -15,21 +15,24 @@ donneesDepartementales:
     code: DEP-14
     # casConfirmes:     data non trouvée
     hospitalises: 47
+    deces: 1 # Reprise fichier précédent
   - nom: Eure
     code: DEP-27
     # casConfirmes:     data non trouvée
     hospitalises: 22
+    deces: 1 # 0 décès dans le fichier précédent
   - nom: Manche
     code: DEP-50
     # casConfirmes:     data non trouvée
     hospitalises: 21
+    deces: 3 # 2 décès repris du fichier précédent + 1 décès
   - nom: Orne
     code: DEP-61
     # casConfirmes:    data non trouvée
     hospitalises: 11
-    # +1 deces
+    deces: 1 # 0 décès dans le fichier précédent + 1 décès
   - nom: Seine-Maritime
     code: DEP-76
     # casConfirmes:    data non trouvée
     hospitalises: 125
-    # +1 décès dans la Seine-Maritime
+    deces: 12 # 12 décès repris du fichier précédent + 1 décès
