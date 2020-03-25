@@ -11,23 +11,23 @@ donneesRegionales:
   hospitalises: 161 # 25+15+15+9+97
   gueris : 32 # "sont sorties de l’hôpital."
 donneesDepartementales:
-  - nom: Manche
-    code: DEP-50
-    casConfirmes: 107 # +10 par rapport à hier
-    hospitalises: 15
   - nom: Calvados
     code: DEP-14
     casConfirmes: 147 # +17 par rapport à hier
     hospitalises: 25
-  - nom: Seine-Maritime
-    code: DEP-76
-    casConfirmes: 233 # +38 par rapport à hier
-    hospitalises: 97
   - nom: Eure
     code: DEP-27
     casConfirmes: 71 # +9
+    hospitalises: 15
+- nom: Manche
+    code: DEP-50
+    casConfirmes: 107 # +10 par rapport à hier
     hospitalises: 15
   - nom: Orne
     code: DEP-61
     casConfirmes: 28 # +1
     hospitalises: 9
+  - nom: Seine-Maritime
+    code: DEP-76
+    casConfirmes: 233 # +38 par rapport à hier
+    hospitalises: 97
