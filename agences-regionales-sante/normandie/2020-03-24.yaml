@@ -20,12 +20,12 @@ donneesDepartementales:
     code: DEP-27
     casConfirmes: 71 # +9
     hospitalises: 15
-    deces: 1 # Reprise fichier précédent + 1 décès
+    deces: 1 # 0 décès dans le fichier précédent + 1 décès
   - nom: Manche
     code: DEP-50
     casConfirmes: 107 # +10 par rapport à hier
     hospitalises: 15
-    deces: 2 # Reprise fichier précédent + 2 décès
+    deces: 2 # 0 décès dans le fichier précédent + 2 décès
   - nom: Orne
     code: DEP-61
     casConfirmes: 28 # +1
@@ -35,4 +35,4 @@ donneesDepartementales:
     code: DEP-76
     casConfirmes: 233 # +38 par rapport à hier
     hospitalises: 97
-    deces: 12 # Reprise fichier précédent + 3 décès
+    deces: 12 # 9 décès repris du fichier précédent + 3 décès
