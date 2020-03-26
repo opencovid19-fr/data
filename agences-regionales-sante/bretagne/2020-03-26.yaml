@@ -6,7 +6,7 @@ source:
 donneesRegionales:
   nom: Bretagne
   code: REG-53
-  casConfirmes: 707 # + 32 ne residant pas en Bretagne. + 61 en cours de rattachement.
+  casConfirmes: 707 # dont 32 ne residant pas en Bretagne et 61 en cours de rattachement.
   deces: 29
   hospitalises: 124
   hospitalisesReadaptation: 13
