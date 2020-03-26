@@ -11,7 +11,8 @@ donneesNationales:
   deces: 1331 # 86% ont + de 70 ans
   hospitalises: 11539 # 1/3 ont - de 60 ans, 59% ont entre 60 et 80 ans
   reanimation: 2827
-  gueris: 3900
+  gueris: 3900 # La synthèse papier indique 3000.
+  capaciteLitsReanimation : 8000 # augmentée de 5000 à 8000
 donneesRegionales:
   - nom: Guadeloupe
     code: REG-01
@@ -37,7 +38,7 @@ donneesRegionales:
     casConfirmes: 3
   - nom: Saint-Martin
     code: COM-978
-    casConfirmes: 11
+    casConfirmes: 13
     hospitalises : 3
   - nom: Île-de-France
     code: REG-11
@@ -49,3 +50,5 @@ donneesRegionales:
 
 # données mondiales à 0'05
 # données nationales à 2'45
+# url-2 : https://solidarites-sante.gouv.fr/IMG/pdf/point_de_situation_mercredi_25_mars_.pdf # erreur dans le titre du PDF, cette synthèse est bien celle du 25/03
+# archive-2 : https://web.archive.org/web/20200326201319/https://solidarites-sante.gouv.fr/IMG/pdf/point_de_situation_mercredi_25_mars_.pdf
