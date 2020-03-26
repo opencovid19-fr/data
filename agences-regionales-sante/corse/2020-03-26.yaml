@@ -1,0 +1,25 @@
+date: 2020-03-26
+source:
+  nom: ARS Corse #point le 26 à 16h
+  url: https://www.corse.ars.sante.fr/informations-utiles-et-point-de-situation
+  archive: https://web.archive.org/web/20200326172657/https://www.corse.ars.sante.fr/informations-utiles-et-point-de-situation
+donneesRegionales:
+  nom: Corse
+  code: REG-94
+  casConfirmes: 250
+  deces: 21
+  hospitalises: 48
+  reanimation: 9
+donneesDepartementales:
+  - nom: Corse-du-Sud
+    code: DEP-2A
+    casConfirmes: 197 #+14 
+    hospitalises: 50 #41 confirmés et 9 en réanimations
+    deces: 19
+    reanimation: 9
+  - nom: Haute-Corse
+    code: DEP-2B
+    casConfirmes: 53 # +3
+    hospitalises: 7
+    deces: 2
+    reanimation: 0
