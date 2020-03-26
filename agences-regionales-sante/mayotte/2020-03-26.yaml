@@ -6,12 +6,14 @@ source:
 donneesRegionales:
   nom: Mayotte
   code: REG-06
-  casConfirmes: 42 # +7
+  casConfirmes: 42
   hospitalises: 4
   reanimation: 2
+  gueris: 1
 donneesDepartementales:
   - nom: Mayotte
     code: DEP-976
-    casConfirmes: 42
+    casConfirmes: 42 # +7
     hospitalises: 4 #hospitalisés au Centre Hospitalier de Mayotte
     reanimation: 2
+    gueris: 1 # Une personne est officiellement guérie.
