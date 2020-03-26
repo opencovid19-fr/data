@@ -3,6 +3,7 @@ source:
   nom: ARS Normandie
   url: https://www.normandie.ars.sante.fr/coronavirus-point-de-situation-en-normandie-et-conduites-tenir
   archive: https://web.archive.org/web/20200326190314/https://www.normandie.ars.sante.fr/coronavirus-point-de-situation-en-normandie-et-conduites-tenir
+donneesRegionales:
   nom: Normandie
   code: REG-28
   casConfirmes: 789     # +101
