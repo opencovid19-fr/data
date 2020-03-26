@@ -1,0 +1,17 @@
+date: "2020-03-25"
+source:
+    nom: ARS Guyane
+    url: https://pbs.twimg.com/media/ET_QjZpX0AIyosr?format=jpg&name=large
+    archive: https://web.archive.org/web/20200326000526/https://pbs.twimg.com/media/ET_QjZpX0AIyosr?format=jpg&name=large
+donneesRegionales:
+  nom: Guyane
+  code: REG-03
+  casConfirmes: 30 # +3 cas. 2 sur l'île de Cayenne et 1 à Kourou
+  gueris: 10
+  deces: 0
+donneesDepartementales:
+  - nom: Guyane
+    code: DEP-973
+    casConfirmes: 30
+    gueris: 10
+    deces: 0
