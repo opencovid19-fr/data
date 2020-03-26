@@ -1,0 +1,13 @@
+date: 2020-03-25
+source:
+  nom: DSP Polynésie française
+  url: https://www.service-public.pf/dsp/wp-content/uploads/sites/12/2020/03/2020-03-25-Point-de-situation-COVID.pdf
+  archive: https://web.archive.org/web/20200326082341/https://www.service-public.pf/dsp/wp-content/uploads/sites/12/2020/03/2020-03-25-Point-de-situation-COVID.pdf
+donneesRegionales:
+  nom: Polynésie française
+  code: COM-987
+  depistes: 307
+  casConfirmes: 25 # +0
+  hospitalises: 1 # -1
+  deces: 0
+
