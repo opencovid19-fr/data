@@ -14,7 +14,7 @@ donneesDepartementales:
   - nom: Corse-du-Sud
     code: DEP-2A
     casConfirmes: 197 #+14 
-    hospitalises: 50 #41 confirmés et 9 en réanimations
+    hospitalises: 41 #41 confirmés dont 9 en réanimations
     deces: 19
     reanimation: 9
   - nom: Haute-Corse
