@@ -8,8 +8,9 @@ donneesRegionales:
   code: REG-53
   casConfirmes: 526 # + 19 ne residant pas en Bretagne. + 42 en cours de rattachement.
   deces: 25
-  hospitalises: 96 # 1 hospitalisation en service d’urgences.
+  hospitalises: 96
   hospitalisesReadaptation: 10
+  hospitalisesAuxUrgences: 1
   reanimation: 31
   gueris : 84 # "retours à domicile"
 donneesDepartementales:
