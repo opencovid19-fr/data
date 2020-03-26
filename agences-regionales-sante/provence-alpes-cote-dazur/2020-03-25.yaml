@@ -6,7 +6,7 @@ source:
 donneesRegionales:
   nom: Provence-Alpes-Côte d'Azur
   code: REG-93
-  casConfirmes: # Pas de chiffre aujourd'hui
+  #casConfirmes: # Pas de chiffre aujourd'hui
   hospitalise: 619
   reanimation: 144
   deces: 33
