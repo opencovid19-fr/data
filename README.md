@@ -22,8 +22,8 @@ Inutile de perdre du temps à écrire des scrappers, à ce stade il est plus eff
   - Merci de prendre les issues ouvertes pour traiter les `ARS x DATE`, et que ce travail ne soit pas fait en double.
 - Préfectures - :open_file_folder: [/prefectures](/prefectures)
 - Ministère des Solidarités et de la Santé - :open_file_folder: [/ministere-sante](/ministere-sante)
-  - [Vidéos](https://www.dailymotion.com/MinSoliSante)
-  - [Vidéos en direct](https://www.pscp.tv/MinSoliSante)
+  - [Vidéos](https://www.dailymotion.com/MinSoliSante) / [Vidéos en direct](https://www.pscp.tv/MinSoliSante)
+  - [Points de situation](https://solidarites-sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/points-de-situation-coronavirus-covid-19) (vidéos + PDF)
   - [Communiqués de presse](https://solidarites-sante.gouv.fr/actualites/presse/)
 
 ## Fichiers sources
