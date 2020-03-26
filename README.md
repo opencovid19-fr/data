@@ -126,6 +126,11 @@ Notez que le lien peut prendre du temps avant d'être fonctionnel. Il est égale
 
 ####  Autres données collectées (si elles sont mentionnées dans les sources)
 
+Sur les types d'hopitalisations:
+- `hospitalisesConventionnelle` : quand le bulletin indique patients en hospitalisation conventionnelle
+- `hospitalisesReadaptation` : patients "en soins de suite et réadaptation" (attention ce n'est pas réanimation)
+-  `hospitalisesAuxUrgences` : patients "en soins aux urgences"
+
 Sur la capacité de lits, la capacite totale de lits disponibles `capaciteTotaleLitsDisponibles` est définie par la somme de :    
 - `capaciteLitsReanimation` : capacite de lits de réanimation (équipés de respirateurs)
 - `capaciteLitsSoinsContinus` : capacité de lits de soins continus*
