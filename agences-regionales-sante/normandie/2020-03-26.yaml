@@ -15,16 +15,20 @@ donneesDepartementales:
   - nom: Calvados
     code: DEP-14
     hospitalises: 52
+    deces: 1 # 1 décès repris du fichier précédent
   - nom: Eure
     code: DEP-27
     hospitalises: 37
-    deces: 1 
+    deces: 2 # 1 décès repris du fichier précédent + 1 décès
   - nom: Manche
     code: DEP-50
     hospitalises: 22
+    deces: 3 # 3 décès repris du fichier précédent
   - nom: Orne
     code: DEP-61
     hospitalises: 14
+    deces: 1 # 1 décès dans le fichier précédent
   - nom: Seine-Maritime
     code: DEP-76
     hospitalises: 137
+    deces: 13 # 13 décès repris du fichier précédent
