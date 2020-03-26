@@ -1,0 +1,27 @@
+date: "2020-03-24"
+source:
+  nom: ARS Hauts-de-France
+  url: https://www.hauts-de-france.ars.sante.fr/coronavirus-covid-19-point-de-situation-dans-les-hauts-de-france
+  archive: https://web.archive.org/web/20200326071755/https://www.hauts-de-france.ars.sante.fr/coronavirus-covid-19-point-de-situation-dans-les-hauts-de-france
+  nom: Hauts-de-France
+  code: REG-32
+  casConfirmes: 1753
+  deces: 137
+donneesDepartementales:
+  - nom: Aisne
+    code: DEP-02
+    deces: 26
+  - nom: Nord
+    code: DEP-59
+    deces: 13
+  - nom: Oise
+    code: DEP-60 
+    deces: 65
+  - nom: Pas-de-Calais
+    code: DEP-62
+    deces: 4
+  - nom: Somme
+    code: DEP-80
+    deces: 29
+
+    # Données départementales manquantes sur les cas confirmés
