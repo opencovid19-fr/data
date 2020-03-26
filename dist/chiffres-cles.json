@@ -49000,6 +49000,19 @@
     "sourceType": "sante-publique-france-data"
   },
   {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200326183922/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+    },
+    "sourceType": "sante-publique-france",
+    "casConfirmes": 29155,
+    "deces": 1696,
+    "nom": "France",
+    "code": "FRA"
+  },
+  {
     "code": "FRA",
     "nom": "France",
     "date": "2020-03-26",
@@ -49245,5 +49258,18 @@
       "nom": "OpenCOVID19-fr"
     },
     "sourceType": "opencovid19-fr"
+  },
+  {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200326183922/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+    },
+    "sourceType": "sante-publique-france",
+    "casConfirmes": 467710,
+    "deces": 20947,
+    "nom": "Monde",
+    "code": "WORLD"
   }
 ]

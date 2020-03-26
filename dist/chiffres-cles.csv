@@ -3863,6 +3863,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,reanimation,hospital
 2020-03-26,departement,DEP-973,Guyane,,0,0,0,0,,Santé publique France Data,,sante-publique-france-data
 2020-03-26,departement,DEP-974,La Réunion,,0,3,3,0,,Santé publique France Data,,sante-publique-france-data
 2020-03-26,departement,DEP-976,Mayotte,,0,0,0,0,,Santé publique France Data,,sante-publique-france-data
+2020-03-26,pays,FRA,France,29155,1696,,,,,Santé publique France,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde,sante-publique-france
 2020-03-26,pays,FRA,France,,1696,3351,13879,4947,,OpenCOVID19-fr,,opencovid19-fr
 2020-03-26,region,REG-01,Guadeloupe,,0,7,21,4,,OpenCOVID19-fr,,opencovid19-fr
 2020-03-26,region,REG-02,Martinique,,1,11,29,13,,OpenCOVID19-fr,,opencovid19-fr
@@ -3882,3 +3883,4 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,reanimation,hospital
 2020-03-26,region,REG-84,Auvergne-Rhône-Alpes,,134,290,1422,496,,OpenCOVID19-fr,,opencovid19-fr
 2020-03-26,region,REG-93,Provence-Alpes-Côte d'Azur,,44,164,695,599,,OpenCOVID19-fr,,opencovid19-fr
 2020-03-26,region,REG-94,Corse,,19,13,95,63,,OpenCOVID19-fr,,opencovid19-fr
+2020-03-26,monde,WORLD,Monde,467710,20947,,,,,Santé publique France,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde,sante-publique-france
