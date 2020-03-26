@@ -1,0 +1,14 @@
+date: 2020-03-25
+source:
+  nom: ARS Provence-Alpes-Côte d'Azur
+  url: https://www.paca.ars.sante.fr/coronavirus-point-de-situation-du-25-mars-2020
+  archive: https://web.archive.org/web/20200326001051/https://www.paca.ars.sante.fr/coronavirus-point-de-situation-du-25-mars-2020
+donneesRegionales:
+  nom: Provence-Alpes-Côte d'Azur
+  code: REG-93
+  casConfirmes: # Pas de chiffre aujourd'hui
+  hospitalise: 619
+  reanimation: 144
+  deces: 33
+  
+  # Pas de données départementale.
