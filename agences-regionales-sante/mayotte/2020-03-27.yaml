@@ -1,0 +1,19 @@
+date: "2020-03-27"
+source:
+    nom: ARS Mayotte
+    url: http://www.mayotte.ars.sante.fr/system/files/2020-03/CP%2027%20mars%20COVID-19_0.pdf
+    archive: https://web.archive.org/save/http://www.mayotte.ars.sante.fr/system/files/2020-03/CP%2027%20mars%20COVID-19_0.pdf
+donneesRegionales:
+  nom: Mayotte
+  code: REG-06
+  casConfirmes: 50 # +8
+  hospitalises: 3
+  reanimation: 2 # 2 tjrs en réanimation indiqué
+  gueris: 4 # Officiel
+donneesDepartementales:
+  - nom: Mayotte
+    code: DEP-976
+    casConfirmes: 50 # +7
+    hospitalises: 3 #hospitalisés au Centre Hospitalier de Mayotte
+    reanimation: 2
+    gueris: 4 
