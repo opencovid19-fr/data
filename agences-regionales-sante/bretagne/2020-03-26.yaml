@@ -1,0 +1,33 @@
+date: 2020-03-26
+source:
+    nom: ARS Bretagne
+    url: https://www.bretagne.ars.sante.fr/system/files/2020-03/2020-03-26-bulletin%20information%20COVID-19.pdf
+    archive: https://web.archive.org/web/20200326204531/https://www.bretagne.ars.sante.fr/system/files/2020-03/2020-03-26-bulletin%20information%20COVID-19.pdf
+donneesRegionales:
+  nom: Bretagne
+  code: REG-53
+  casConfirmes: 707 # dont 32 ne residant pas en Bretagne et 61 en cours de rattachement.
+  deces: 29
+  hospitalises: 181 # 124+13+1+43
+  hospitalisesConventionnelle: 124
+  hospitalisesReadaptation: 13
+  hospitalisesAuxUrgences: 1
+  reanimation: 43
+  gueris : 108 # "retours à domicile"
+donneesDepartementales:
+  - nom: Côtes-d'Armor
+    code: DEP-22
+    casConfirmes: 60
+  - nom: Finistère
+    code: DEP-29
+    casConfirmes: 171
+  - nom: Ille-et-Vilaine
+    code: DEP-35
+    casConfirmes: 152
+  - nom: Morbihan
+    code: DEP-56
+    casConfirmes: 231
+
+# Auxquels s’ajoutent :
+# - 32 personnes ne résidant pas en Bretagne
+# - 61 personnes [...] dont les départements de résidence ne sont pas encore connus
