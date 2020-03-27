@@ -3779,6 +3779,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,reanimation,hospital
 2020-03-26,collectivite-outremer,COM-974,La Réunion,135,,4,,,,ARS La Réunion,https://www.lareunion.ars.sante.fr/coronavirus-covid-19-la-reunion-20-nouveaux-cas-confirmes,agences-regionales-sante
 2020-03-26,collectivite-outremer,COM-988,Nouvelle-Calédonie,14,,,,,622,Gouvernement de la Nouvelle-Calédonie,https://gouv.nc/sites/default/files/atoms/files/2020.03.26_point_de_situation_global.pdf,agences-regionales-sante
 2020-03-26,departement,DEP-01,Ain,,2,6,33,17,,Santé publique France Data,,sante-publique-france-data
+2020-03-26,departement,DEP-02,Aisne,,27,,,,,ARS Hauts-de-France,https://www.hauts-de-france.ars.sante.fr/system/files/2020-03/Point%20quotidien%20cas%20confirm%C3%A9s%20-%2026032020.pdf,agences-regionales-sante
 2020-03-26,departement,DEP-02,Aisne,,36,35,124,102,,Santé publique France Data,,sante-publique-france-data
 2020-03-26,departement,DEP-03,Allier,,2,1,15,26,,Santé publique France Data,,sante-publique-france-data
 2020-03-26,departement,DEP-04,Alpes-de-Haute-Provence,,0,1,9,16,,Santé publique France Data,,sante-publique-france-data
@@ -3786,11 +3787,15 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,reanimation,hospital
 2020-03-26,departement,DEP-06,Alpes-Maritimes,,12,18,85,95,,Santé publique France Data,,sante-publique-france-data
 2020-03-26,departement,DEP-07,Ardèche,,5,7,52,39,,Santé publique France Data,,sante-publique-france-data
 2020-03-26,departement,DEP-08,Ardennes,,0,7,13,2,,Santé publique France Data,,sante-publique-france-data
+2020-03-26,departement,DEP-09,Ariège,,0,3,7,4,,ARS Occitanie,https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo18_20200326.pdf,agences-regionales-sante
 2020-03-26,departement,DEP-09,Ariège,,0,3,7,4,,Santé publique France Data,,sante-publique-france-data
 2020-03-26,departement,DEP-10,Aube,,6,13,58,3,,Santé publique France Data,,sante-publique-france-data
+2020-03-26,departement,DEP-11,Aude,,15,12,39,23,,ARS Occitanie,https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo18_20200326.pdf,agences-regionales-sante
 2020-03-26,departement,DEP-11,Aude,,15,11,38,23,,Santé publique France Data,,sante-publique-france-data
+2020-03-26,departement,DEP-12,Aveyron,,4,5,21,10,,ARS Occitanie,https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo18_20200326.pdf,agences-regionales-sante
 2020-03-26,departement,DEP-12,Aveyron,,4,5,22,10,,Santé publique France Data,,sante-publique-france-data
 2020-03-26,departement,DEP-13,Bouches-du-Rhône,,16,97,434,309,,Santé publique France Data,,sante-publique-france-data
+2020-03-26,departement,DEP-14,Calvados,,1,,52,,,ARS Normandie,https://www.normandie.ars.sante.fr/coronavirus-point-de-situation-en-normandie-et-conduites-tenir,agences-regionales-sante
 2020-03-26,departement,DEP-14,Calvados,,1,16,51,11,,Santé publique France Data,,sante-publique-france-data
 2020-03-26,departement,DEP-15,Cantal,,0,4,6,2,,Santé publique France Data,,sante-publique-france-data
 2020-03-26,departement,DEP-16,Charente,,4,3,19,6,,Santé publique France Data,,sante-publique-france-data
@@ -3804,6 +3809,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,reanimation,hospital
 2020-03-26,departement,DEP-24,Dordogne,,0,4,33,16,,Santé publique France Data,,sante-publique-france-data
 2020-03-26,departement,DEP-25,Doubs,,18,29,84,52,,Santé publique France Data,,sante-publique-france-data
 2020-03-26,departement,DEP-26,Drôme,,18,30,116,26,,Santé publique France Data,,sante-publique-france-data
+2020-03-26,departement,DEP-27,Eure,,2,,37,,,ARS Normandie,https://www.normandie.ars.sante.fr/coronavirus-point-de-situation-en-normandie-et-conduites-tenir,agences-regionales-sante
 2020-03-26,departement,DEP-27,Eure,,1,9,35,0,,Santé publique France Data,,sante-publique-france-data
 2020-03-26,departement,DEP-28,Eure-et-Loir,104,8,,,,,ARS Centre-Val de Loire,https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-26-bulletin%20information%20COVID-19_0.pdf,agences-regionales-sante
 2020-03-26,departement,DEP-28,Eure-et-Loir,,8,20,58,10,,Santé publique France Data,,sante-publique-france-data
@@ -3812,10 +3818,14 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,reanimation,hospital
 2020-03-26,departement,DEP-2A,Corse-du-Sud,,17,13,88,22,,Santé publique France Data,,sante-publique-france-data
 2020-03-26,departement,DEP-2B,Haute-Corse,53,2,0,7,,,ARS Corse,https://www.corse.ars.sante.fr/informations-utiles-et-point-de-situation,agences-regionales-sante
 2020-03-26,departement,DEP-2B,Haute-Corse,,2,0,7,41,,Santé publique France Data,,sante-publique-france-data
+2020-03-26,departement,DEP-30,Gard,,5,11,17,17,,ARS Occitanie,https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo18_20200326.pdf,agences-regionales-sante
 2020-03-26,departement,DEP-30,Gard,,5,11,17,17,,Santé publique France Data,,sante-publique-france-data
+2020-03-26,departement,DEP-31,Haute-Garonne,,3,54,141,49,,ARS Occitanie,https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo18_20200326.pdf,agences-regionales-sante
 2020-03-26,departement,DEP-31,Haute-Garonne,,3,55,140,49,,Santé publique France Data,,sante-publique-france-data
+2020-03-26,departement,DEP-32,Gers,,0,3,10,1,,ARS Occitanie,https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo18_20200326.pdf,agences-regionales-sante
 2020-03-26,departement,DEP-32,Gers,,0,3,10,1,,Santé publique France Data,,sante-publique-france-data
 2020-03-26,departement,DEP-33,Gironde,,11,46,166,72,,Santé publique France Data,,sante-publique-france-data
+2020-03-26,departement,DEP-34,Hérault,,16,37,152,78,,ARS Occitanie,https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo18_20200326.pdf,agences-regionales-sante
 2020-03-26,departement,DEP-34,Hérault,,16,37,152,70,,Santé publique France Data,,sante-publique-france-data
 2020-03-26,departement,DEP-35,Ille-et-Vilaine,,2,14,50,34,,Santé publique France Data,,sante-publique-france-data
 2020-03-26,departement,DEP-36,Indre,80,5,,,,,ARS Centre-Val de Loire,https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-26-bulletin%20information%20COVID-19_0.pdf,agences-regionales-sante
@@ -3832,10 +3842,13 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,reanimation,hospital
 2020-03-26,departement,DEP-44,Loire-Atlantique,,9,20,91,29,,Santé publique France Data,,sante-publique-france-data
 2020-03-26,departement,DEP-45,Loiret,258,3,,,,,ARS Centre-Val de Loire,https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-26-bulletin%20information%20COVID-19_0.pdf,agences-regionales-sante
 2020-03-26,departement,DEP-45,Loiret,,3,25,59,18,,Santé publique France Data,,sante-publique-france-data
+2020-03-26,departement,DEP-46,Lot,,0,1,3,5,,ARS Occitanie,https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo18_20200326.pdf,agences-regionales-sante
 2020-03-26,departement,DEP-46,Lot,,0,1,3,5,,Santé publique France Data,,sante-publique-france-data
 2020-03-26,departement,DEP-47,Lot-et-Garonne,,3,3,16,4,,Santé publique France Data,,sante-publique-france-data
+2020-03-26,departement,DEP-48,Lozère,,0,2,7,3,,ARS Occitanie,https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo18_20200326.pdf,agences-regionales-sante
 2020-03-26,departement,DEP-48,Lozère,,0,2,7,3,,Santé publique France Data,,sante-publique-france-data
 2020-03-26,departement,DEP-49,Maine-et-Loire,,8,20,79,65,,Santé publique France Data,,sante-publique-france-data
+2020-03-26,departement,DEP-50,Manche,,3,,22,,,ARS Normandie,https://www.normandie.ars.sante.fr/coronavirus-point-de-situation-en-normandie-et-conduites-tenir,agences-regionales-sante
 2020-03-26,departement,DEP-50,Manche,,3,6,22,9,,Santé publique France Data,,sante-publique-france-data
 2020-03-26,departement,DEP-51,Marne,,19,44,199,71,,Santé publique France Data,,sante-publique-france-data
 2020-03-26,departement,DEP-52,Haute-Marne,,7,9,36,13,,Santé publique France Data,,sante-publique-france-data
@@ -3845,13 +3858,19 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,reanimation,hospital
 2020-03-26,departement,DEP-56,Morbihan,,21,18,89,57,,Santé publique France Data,,sante-publique-france-data
 2020-03-26,departement,DEP-57,Moselle,,99,120,642,144,,Santé publique France Data,,sante-publique-france-data
 2020-03-26,departement,DEP-58,Nièvre,,0,2,4,0,,Santé publique France Data,,sante-publique-france-data
+2020-03-26,departement,DEP-59,Nord,,14,,,,,ARS Hauts-de-France,https://www.hauts-de-france.ars.sante.fr/system/files/2020-03/Point%20quotidien%20cas%20confirm%C3%A9s%20-%2026032020.pdf,agences-regionales-sante
 2020-03-26,departement,DEP-59,Nord,,27,106,283,50,,Santé publique France Data,,sante-publique-france-data
+2020-03-26,departement,DEP-60,Oise,,68,,,,,ARS Hauts-de-France,https://www.hauts-de-france.ars.sante.fr/system/files/2020-03/Point%20quotidien%20cas%20confirm%C3%A9s%20-%2026032020.pdf,agences-regionales-sante
 2020-03-26,departement,DEP-60,Oise,,58,45,224,109,,Santé publique France Data,,sante-publique-france-data
+2020-03-26,departement,DEP-61,Orne,,1,,14,,,ARS Normandie,https://www.normandie.ars.sante.fr/coronavirus-point-de-situation-en-normandie-et-conduites-tenir,agences-regionales-sante
 2020-03-26,departement,DEP-61,Orne,,1,5,14,24,,Santé publique France Data,,sante-publique-france-data
+2020-03-26,departement,DEP-62,Pas-de-Calais,,6,,,,,ARS Hauts-de-France,https://www.hauts-de-france.ars.sante.fr/system/files/2020-03/Point%20quotidien%20cas%20confirm%C3%A9s%20-%2026032020.pdf,agences-regionales-sante
 2020-03-26,departement,DEP-62,Pas-de-Calais,,9,43,119,52,,Santé publique France Data,,sante-publique-france-data
 2020-03-26,departement,DEP-63,Puy-de-Dôme,,0,4,21,13,,Santé publique France Data,,sante-publique-france-data
 2020-03-26,departement,DEP-64,Pyrénées-Atlantiques,,4,9,39,18,,Santé publique France Data,,sante-publique-france-data
+2020-03-26,departement,DEP-65,Hautes-Pyrénées,,1,2,17,4,,ARS Occitanie,https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo18_20200326.pdf,agences-regionales-sante
 2020-03-26,departement,DEP-65,Hautes-Pyrénées,,1,2,15,5,,Santé publique France Data,,sante-publique-france-data
+2020-03-26,departement,DEP-66,Pyrénées-Orientales,,8,34,110,30,,ARS Occitanie,https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo18_20200326.pdf,agences-regionales-sante
 2020-03-26,departement,DEP-66,Pyrénées-Orientales,,8,35,113,29,,Santé publique France Data,,sante-publique-france-data
 2020-03-26,departement,DEP-67,Bas-Rhin,,93,204,727,224,,Santé publique France Data,,sante-publique-france-data
 2020-03-26,departement,DEP-68,Haut-Rhin,,268,119,878,373,,Santé publique France Data,,sante-publique-france-data
@@ -3862,12 +3881,16 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,reanimation,hospital
 2020-03-26,departement,DEP-73,Savoie,,2,13,52,19,,Santé publique France Data,,sante-publique-france-data
 2020-03-26,departement,DEP-74,Haute-Savoie,,16,37,135,97,,Santé publique France Data,,sante-publique-france-data
 2020-03-26,departement,DEP-75,Paris,,139,375,1493,353,,Santé publique France Data,,sante-publique-france-data
+2020-03-26,departement,DEP-76,Seine-Maritime,,13,,137,,,ARS Normandie,https://www.normandie.ars.sante.fr/coronavirus-point-de-situation-en-normandie-et-conduites-tenir,agences-regionales-sante
 2020-03-26,departement,DEP-76,Seine-Maritime,,14,39,151,18,,Santé publique France Data,,sante-publique-france-data
 2020-03-26,departement,DEP-77,Seine-et-Marne,,20,98,271,85,,Santé publique France Data,,sante-publique-france-data
 2020-03-26,departement,DEP-78,Yvelines,,43,100,414,112,,Santé publique France Data,,sante-publique-france-data
 2020-03-26,departement,DEP-79,Deux-Sèvres,,1,1,15,13,,Santé publique France Data,,sante-publique-france-data
+2020-03-26,departement,DEP-80,Somme,,32,,,,,ARS Hauts-de-France,https://www.hauts-de-france.ars.sante.fr/system/files/2020-03/Point%20quotidien%20cas%20confirm%C3%A9s%20-%2026032020.pdf,agences-regionales-sante
 2020-03-26,departement,DEP-80,Somme,,20,42,169,47,,Santé publique France Data,,sante-publique-france-data
+2020-03-26,departement,DEP-81,Tarn,,1,10,24,6,,ARS Occitanie,https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo18_20200326.pdf,agences-regionales-sante
 2020-03-26,departement,DEP-81,Tarn,,1,10,24,6,,Santé publique France Data,,sante-publique-france-data
+2020-03-26,departement,DEP-82,Tarn-et-Garonne,,1,2,3,3,,ARS Occitanie,https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo18_20200326.pdf,agences-regionales-sante
 2020-03-26,departement,DEP-82,Tarn-et-Garonne,,1,2,3,2,,Santé publique France Data,,sante-publique-france-data
 2020-03-26,departement,DEP-83,Var,,12,32,103,132,,Santé publique France Data,,sante-publique-france-data
 2020-03-26,departement,DEP-84,Vaucluse,,3,10,35,27,,Santé publique France Data,,sante-publique-france-data
@@ -3903,12 +3926,15 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,reanimation,hospital
 2020-03-26,region,REG-24,Centre-Val de Loire,,20,69,198,50,,OpenCOVID19-fr,,opencovid19-fr
 2020-03-26,region,REG-27,Bourgogne-Franche-Comté,,123,166,619,400,,ARS Bourgogne-Franche-Comté,https://www.bourgogne-franche-comte.ars.sante.fr/system/files/2020-03/2020.03.26_COVID19_SITUATION%20BFC.pdf,agences-regionales-sante
 2020-03-26,region,REG-27,Bourgogne-Franche-Comté,,123,166,679,402,,OpenCOVID19-fr,,opencovid19-fr
+2020-03-26,region,REG-28,Normandie,789,20,67,262,59,,ARS Normandie,https://www.normandie.ars.sante.fr/coronavirus-point-de-situation-en-normandie-et-conduites-tenir,agences-regionales-sante
 2020-03-26,region,REG-28,Normandie,,20,75,273,62,,OpenCOVID19-fr,,opencovid19-fr
+2020-03-26,region,REG-32,Hauts-de-France,1910,147,,,,,ARS Hauts-de-France,https://www.hauts-de-france.ars.sante.fr/system/files/2020-03/Point%20quotidien%20cas%20confirm%C3%A9s%20-%2026032020.pdf,agences-regionales-sante
 2020-03-26,region,REG-32,Hauts-de-France,,150,271,919,360,,OpenCOVID19-fr,,opencovid19-fr
 2020-03-26,region,REG-44,Grand Est,,584,636,2979,960,,OpenCOVID19-fr,,opencovid19-fr
 2020-03-26,region,REG-52,Pays de la Loire,,24,59,282,127,,OpenCOVID19-fr,,opencovid19-fr
 2020-03-26,region,REG-53,Bretagne,,29,45,202,114,,OpenCOVID19-fr,,opencovid19-fr
 2020-03-26,region,REG-75,Nouvelle-Aquitaine,,34,96,399,163,,OpenCOVID19-fr,,opencovid19-fr
+2020-03-26,region,REG-76,Occitanie,1285,54,176,551,233,,ARS Occitanie,https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo18_20200326.pdf,agences-regionales-sante
 2020-03-26,region,REG-76,Occitanie,,54,177,551,224,,OpenCOVID19-fr,,opencovid19-fr
 2020-03-26,region,REG-84,Auvergne-Rhône-Alpes,,134,290,1422,496,,OpenCOVID19-fr,,opencovid19-fr
 2020-03-26,region,REG-93,Provence-Alpes-Côte d'Azur,,44,164,,,,ARS Provence-Alpes-Côte d'Azur,https://www.paca.ars.sante.fr/coronavirus-en-provence-alpes-cote-dazur-point-de-situation-au-26-mars,agences-regionales-sante

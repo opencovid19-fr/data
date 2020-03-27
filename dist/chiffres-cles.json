@@ -47904,6 +47904,18 @@
     "sourceType": "sante-publique-france-data"
   },
   {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Hauts-de-France",
+      "url": "https://www.hauts-de-france.ars.sante.fr/system/files/2020-03/Point%20quotidien%20cas%20confirm%C3%A9s%20-%2026032020.pdf",
+      "archive": "https://web.archive.org/web/20200327085137/https://www.hauts-de-france.ars.sante.fr/system/files/2020-03/Point%20quotidien%20cas%20confirm%C3%A9s%20-%2026032020.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Aisne",
+    "code": "DEP-02",
+    "deces": 27
+  },
+  {
     "code": "DEP-02",
     "nom": "Aisne",
     "date": "2020-03-26",
@@ -47995,6 +48007,21 @@
     "sourceType": "sante-publique-france-data"
   },
   {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo18_20200326.pdf",
+      "archive": "https://archive.org/details/arsoccovid19bulletininfo1820200326"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Ariège",
+    "code": "DEP-09",
+    "hospitalises": 7,
+    "reanimation": 3,
+    "gueris": 4,
+    "deces": 0
+  },
+  {
     "code": "DEP-09",
     "nom": "Ariège",
     "date": "2020-03-26",
@@ -48021,6 +48048,21 @@
     "sourceType": "sante-publique-france-data"
   },
   {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo18_20200326.pdf",
+      "archive": "https://archive.org/details/arsoccovid19bulletininfo1820200326"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Aude",
+    "code": "DEP-11",
+    "hospitalises": 39,
+    "reanimation": 12,
+    "gueris": 23,
+    "deces": 15
+  },
+  {
     "code": "DEP-11",
     "nom": "Aude",
     "date": "2020-03-26",
@@ -48032,6 +48074,21 @@
       "nom": "Santé publique France Data"
     },
     "sourceType": "sante-publique-france-data"
+  },
+  {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo18_20200326.pdf",
+      "archive": "https://archive.org/details/arsoccovid19bulletininfo1820200326"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Aveyron",
+    "code": "DEP-12",
+    "hospitalises": 21,
+    "reanimation": 5,
+    "gueris": 10,
+    "deces": 4
   },
   {
     "code": "DEP-12",
@@ -48058,6 +48115,19 @@
       "nom": "Santé publique France Data"
     },
     "sourceType": "sante-publique-france-data"
+  },
+  {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Normandie",
+      "url": "https://www.normandie.ars.sante.fr/coronavirus-point-de-situation-en-normandie-et-conduites-tenir",
+      "archive": "https://web.archive.org/web/20200326190314/https://www.normandie.ars.sante.fr/coronavirus-point-de-situation-en-normandie-et-conduites-tenir"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Calvados",
+    "code": "DEP-14",
+    "hospitalises": 52,
+    "deces": 1
   },
   {
     "code": "DEP-14",
@@ -48229,6 +48299,19 @@
     "sourceType": "sante-publique-france-data"
   },
   {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Normandie",
+      "url": "https://www.normandie.ars.sante.fr/coronavirus-point-de-situation-en-normandie-et-conduites-tenir",
+      "archive": "https://web.archive.org/web/20200326190314/https://www.normandie.ars.sante.fr/coronavirus-point-de-situation-en-normandie-et-conduites-tenir"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Eure",
+    "code": "DEP-27",
+    "hospitalises": 37,
+    "deces": 2
+  },
+  {
     "code": "DEP-27",
     "nom": "Eure",
     "date": "2020-03-26",
@@ -48337,6 +48420,21 @@
     "sourceType": "sante-publique-france-data"
   },
   {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo18_20200326.pdf",
+      "archive": "https://archive.org/details/arsoccovid19bulletininfo1820200326"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Gard",
+    "code": "DEP-30",
+    "hospitalises": 17,
+    "reanimation": 11,
+    "gueris": 17,
+    "deces": 5
+  },
+  {
     "code": "DEP-30",
     "nom": "Gard",
     "date": "2020-03-26",
@@ -48350,6 +48448,21 @@
     "sourceType": "sante-publique-france-data"
   },
   {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo18_20200326.pdf",
+      "archive": "https://archive.org/details/arsoccovid19bulletininfo1820200326"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Haute-Garonne",
+    "code": "DEP-31",
+    "hospitalises": 141,
+    "reanimation": 54,
+    "gueris": 49,
+    "deces": 3
+  },
+  {
     "code": "DEP-31",
     "nom": "Haute-Garonne",
     "date": "2020-03-26",
@@ -48361,6 +48474,21 @@
       "nom": "Santé publique France Data"
     },
     "sourceType": "sante-publique-france-data"
+  },
+  {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo18_20200326.pdf",
+      "archive": "https://archive.org/details/arsoccovid19bulletininfo1820200326"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Gers",
+    "code": "DEP-32",
+    "hospitalises": 10,
+    "reanimation": 3,
+    "gueris": 1,
+    "deces": 0
   },
   {
     "code": "DEP-32",
@@ -48387,6 +48515,21 @@
       "nom": "Santé publique France Data"
     },
     "sourceType": "sante-publique-france-data"
+  },
+  {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo18_20200326.pdf",
+      "archive": "https://archive.org/details/arsoccovid19bulletininfo1820200326"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Hérault",
+    "code": "DEP-34",
+    "hospitalises": 152,
+    "reanimation": 37,
+    "gueris": 78,
+    "deces": 16
   },
   {
     "code": "DEP-34",
@@ -48597,6 +48740,21 @@
     "sourceType": "sante-publique-france-data"
   },
   {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo18_20200326.pdf",
+      "archive": "https://archive.org/details/arsoccovid19bulletininfo1820200326"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Lot",
+    "code": "DEP-46",
+    "hospitalises": 3,
+    "reanimation": 1,
+    "gueris": 5,
+    "deces": 0
+  },
+  {
     "code": "DEP-46",
     "nom": "Lot",
     "date": "2020-03-26",
@@ -48623,6 +48781,21 @@
     "sourceType": "sante-publique-france-data"
   },
   {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo18_20200326.pdf",
+      "archive": "https://archive.org/details/arsoccovid19bulletininfo1820200326"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Lozère",
+    "code": "DEP-48",
+    "hospitalises": 7,
+    "reanimation": 2,
+    "gueris": 3,
+    "deces": 0
+  },
+  {
     "code": "DEP-48",
     "nom": "Lozère",
     "date": "2020-03-26",
@@ -48647,6 +48820,19 @@
       "nom": "Santé publique France Data"
     },
     "sourceType": "sante-publique-france-data"
+  },
+  {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Normandie",
+      "url": "https://www.normandie.ars.sante.fr/coronavirus-point-de-situation-en-normandie-et-conduites-tenir",
+      "archive": "https://web.archive.org/web/20200326190314/https://www.normandie.ars.sante.fr/coronavirus-point-de-situation-en-normandie-et-conduites-tenir"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Manche",
+    "code": "DEP-50",
+    "hospitalises": 22,
+    "deces": 3
   },
   {
     "code": "DEP-50",
@@ -48766,6 +48952,18 @@
     "sourceType": "sante-publique-france-data"
   },
   {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Hauts-de-France",
+      "url": "https://www.hauts-de-france.ars.sante.fr/system/files/2020-03/Point%20quotidien%20cas%20confirm%C3%A9s%20-%2026032020.pdf",
+      "archive": "https://web.archive.org/web/20200327085137/https://www.hauts-de-france.ars.sante.fr/system/files/2020-03/Point%20quotidien%20cas%20confirm%C3%A9s%20-%2026032020.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Nord",
+    "code": "DEP-59",
+    "deces": 14
+  },
+  {
     "code": "DEP-59",
     "nom": "Nord",
     "date": "2020-03-26",
@@ -48777,6 +48975,18 @@
       "nom": "Santé publique France Data"
     },
     "sourceType": "sante-publique-france-data"
+  },
+  {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Hauts-de-France",
+      "url": "https://www.hauts-de-france.ars.sante.fr/system/files/2020-03/Point%20quotidien%20cas%20confirm%C3%A9s%20-%2026032020.pdf",
+      "archive": "https://web.archive.org/web/20200327085137/https://www.hauts-de-france.ars.sante.fr/system/files/2020-03/Point%20quotidien%20cas%20confirm%C3%A9s%20-%2026032020.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Oise",
+    "code": "DEP-60",
+    "deces": 68
   },
   {
     "code": "DEP-60",
@@ -48792,6 +49002,19 @@
     "sourceType": "sante-publique-france-data"
   },
   {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Normandie",
+      "url": "https://www.normandie.ars.sante.fr/coronavirus-point-de-situation-en-normandie-et-conduites-tenir",
+      "archive": "https://web.archive.org/web/20200326190314/https://www.normandie.ars.sante.fr/coronavirus-point-de-situation-en-normandie-et-conduites-tenir"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Orne",
+    "code": "DEP-61",
+    "hospitalises": 14,
+    "deces": 1
+  },
+  {
     "code": "DEP-61",
     "nom": "Orne",
     "date": "2020-03-26",
@@ -48803,6 +49026,18 @@
       "nom": "Santé publique France Data"
     },
     "sourceType": "sante-publique-france-data"
+  },
+  {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Hauts-de-France",
+      "url": "https://www.hauts-de-france.ars.sante.fr/system/files/2020-03/Point%20quotidien%20cas%20confirm%C3%A9s%20-%2026032020.pdf",
+      "archive": "https://web.archive.org/web/20200327085137/https://www.hauts-de-france.ars.sante.fr/system/files/2020-03/Point%20quotidien%20cas%20confirm%C3%A9s%20-%2026032020.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Pas-de-Calais",
+    "code": "DEP-62",
+    "deces": 6
   },
   {
     "code": "DEP-62",
@@ -48844,6 +49079,21 @@
     "sourceType": "sante-publique-france-data"
   },
   {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo18_20200326.pdf",
+      "archive": "https://archive.org/details/arsoccovid19bulletininfo1820200326"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Hautes-Pyrénées",
+    "code": "DEP-65",
+    "hospitalises": 17,
+    "reanimation": 2,
+    "gueris": 4,
+    "deces": 1
+  },
+  {
     "code": "DEP-65",
     "nom": "Hautes-Pyrénées",
     "date": "2020-03-26",
@@ -48855,6 +49105,21 @@
       "nom": "Santé publique France Data"
     },
     "sourceType": "sante-publique-france-data"
+  },
+  {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo18_20200326.pdf",
+      "archive": "https://archive.org/details/arsoccovid19bulletininfo1820200326"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Pyrénées-Orientales",
+    "code": "DEP-66",
+    "hospitalises": 110,
+    "reanimation": 34,
+    "gueris": 30,
+    "deces": 8
   },
   {
     "code": "DEP-66",
@@ -48987,6 +49252,19 @@
     "sourceType": "sante-publique-france-data"
   },
   {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Normandie",
+      "url": "https://www.normandie.ars.sante.fr/coronavirus-point-de-situation-en-normandie-et-conduites-tenir",
+      "archive": "https://web.archive.org/web/20200326190314/https://www.normandie.ars.sante.fr/coronavirus-point-de-situation-en-normandie-et-conduites-tenir"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Seine-Maritime",
+    "code": "DEP-76",
+    "hospitalises": 137,
+    "deces": 13
+  },
+  {
     "code": "DEP-76",
     "nom": "Seine-Maritime",
     "date": "2020-03-26",
@@ -49039,6 +49317,18 @@
     "sourceType": "sante-publique-france-data"
   },
   {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Hauts-de-France",
+      "url": "https://www.hauts-de-france.ars.sante.fr/system/files/2020-03/Point%20quotidien%20cas%20confirm%C3%A9s%20-%2026032020.pdf",
+      "archive": "https://web.archive.org/web/20200327085137/https://www.hauts-de-france.ars.sante.fr/system/files/2020-03/Point%20quotidien%20cas%20confirm%C3%A9s%20-%2026032020.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Somme",
+    "code": "DEP-80",
+    "deces": 32
+  },
+  {
     "code": "DEP-80",
     "nom": "Somme",
     "date": "2020-03-26",
@@ -49052,6 +49342,21 @@
     "sourceType": "sante-publique-france-data"
   },
   {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo18_20200326.pdf",
+      "archive": "https://archive.org/details/arsoccovid19bulletininfo1820200326"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Tarn",
+    "code": "DEP-81",
+    "hospitalises": 24,
+    "reanimation": 10,
+    "gueris": 6,
+    "deces": 1
+  },
+  {
     "code": "DEP-81",
     "nom": "Tarn",
     "date": "2020-03-26",
@@ -49063,6 +49368,21 @@
       "nom": "Santé publique France Data"
     },
     "sourceType": "sante-publique-france-data"
+  },
+  {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo18_20200326.pdf",
+      "archive": "https://archive.org/details/arsoccovid19bulletininfo1820200326"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Tarn-et-Garonne",
+    "code": "DEP-82",
+    "hospitalises": 3,
+    "reanimation": 2,
+    "gueris": 3,
+    "deces": 1
   },
   {
     "code": "DEP-82",
@@ -49529,6 +49849,22 @@
     "sourceType": "opencovid19-fr"
   },
   {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Normandie",
+      "url": "https://www.normandie.ars.sante.fr/coronavirus-point-de-situation-en-normandie-et-conduites-tenir",
+      "archive": "https://web.archive.org/web/20200326190314/https://www.normandie.ars.sante.fr/coronavirus-point-de-situation-en-normandie-et-conduites-tenir"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Normandie",
+    "code": "REG-28",
+    "casConfirmes": 789,
+    "deces": 20,
+    "hospitalises": 262,
+    "reanimation": 67,
+    "gueris": 59
+  },
+  {
     "code": "REG-28",
     "nom": "Normandie",
     "date": "2020-03-26",
@@ -49540,6 +49876,19 @@
       "nom": "OpenCOVID19-fr"
     },
     "sourceType": "opencovid19-fr"
+  },
+  {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Hauts-de-France",
+      "url": "https://www.hauts-de-france.ars.sante.fr/system/files/2020-03/Point%20quotidien%20cas%20confirm%C3%A9s%20-%2026032020.pdf",
+      "archive": "https://web.archive.org/web/20200327085137/https://www.hauts-de-france.ars.sante.fr/system/files/2020-03/Point%20quotidien%20cas%20confirm%C3%A9s%20-%2026032020.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Hauts-de-France",
+    "code": "REG-32",
+    "casConfirmes": 1910,
+    "deces": 147
   },
   {
     "code": "REG-32",
@@ -49605,6 +49954,22 @@
       "nom": "OpenCOVID19-fr"
     },
     "sourceType": "opencovid19-fr"
+  },
+  {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo18_20200326.pdf",
+      "archive": "https://archive.org/details/arsoccovid19bulletininfo1820200326"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Occitanie",
+    "code": "REG-76",
+    "casConfirmes": 1285,
+    "hospitalises": 551,
+    "reanimation": 176,
+    "gueris": 233,
+    "deces": 54
   },
   {
     "code": "REG-76",
