@@ -1,7 +1,7 @@
 date: "2020-03-26"
 source:
   nom: ARS Martinique
-  url: https://www.facebook.com/123793327666467/photos/rpp.123793327666467/2889865194392586/?type=3&theater
+  url: https://www.martinique.ars.sante.fr/system/files/2020-03/Point%20de%20situation%2026%20mars%202020.pdf
   archive: https://web.archive.org/web/20200327181716/https://www.facebook.com/123793327666467/photos/rpp.123793327666467/2889865194392586/?type=3&theater=
 donneesRegionales:
   nom: Martinique
@@ -10,3 +10,4 @@ donneesRegionales:
   reanimation: 11 # +1
   gueris: 2
   deces: 0
+# not working archive: https://web.archive.org/web/20200327191434/https://www.martinique.ars.sante.fr/system/files/2020-03/Point%20de%20situation%2026%20mars%202020.pdf
