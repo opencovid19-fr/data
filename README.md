@@ -75,7 +75,7 @@ Lorsque vous faites une pull request, il convient de respecter les règles de no
 - Pour l'ajout d'un nouveau fichier YAML : `ADD nom_de_de_source jj/mm`
   > Exemple avec le fichier du 24 mars de l'ARS de La Réunion : `ADD ARS La Réunion 24/03`
 
-- Pour une correction sur un fichier YAML existant :  `FIX nom_de_la_source jj/mm`
+- Pour une correction sur un fichier YAML existant : `FIX nom_de_la_source jj/mm`
   > Exemple avec le fichier du 20 mars de Santé Publique France : `FIX SPF 20/03`
 
 
@@ -90,12 +90,17 @@ Consignes générales :
 Voici un exemple de bloc YAML pour une entête de fichier :
 ```yaml
 date: 2020-03-10
+time: 15:00 # champ optionnel
 source:
   nom: nom-de-la-source-de-donnees
   url: https://site.web/lien-vers-le-bulletin.pdf
   archive: https://web.archive.org/web/XXXXXX/https://site.web/lien-vers-le-bulletin
 ```
-Le fichier YAML doit commencer par la date du bulletin, suivi pour un bloc source. Il convient de mettre le nom et l'url de la source (de préférence un bulletin PDF ou à defaut une page web). Pour les pages web, il convient de rajouter une `archive:`, voir section suivante.
+Le fichier YAML doit commencer par la `date` du bulletin, suivi pour un bloc `source`. Il convient de mettre le `nom` et l'`url` de la source (de préférence un bulletin PDF ou à defaut une page web). Pour les pages web et les PDF, il convient de rajouter une `archive:`, voir section suivante.
+
+:bulb: Le champ `time` est optionnel. L'heure au format `hh:mm` peut être précisée, si elle est indiquée dans le bulletin. Exemple 'Chiffres retenus à 15h00 le 27 mars'.
+
+:warning: Attention, un seul fichier par date. S'il existe plusieurs bulletins pour le même jour à des heures différents, il conviendra de regrouper les données dans un seul fichier en prenant les données les plus récentes. Notez que ce n'est pas toujours possible de regrouper ces données.
 
 ##### Comment créer une 'archive'
 1. Rendez-vous sur le site https://web.archive.org/save
