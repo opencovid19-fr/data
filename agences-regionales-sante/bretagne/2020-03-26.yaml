@@ -8,6 +8,7 @@ donneesRegionales:
   code: REG-53
   casConfirmes: 707 # dont 32 ne residant pas en Bretagne et 61 en cours de rattachement.
   deces: 29
+  hospitalises: 181 # 124+13+1+43
   hospitalisesConventionnelle: 124
   hospitalisesReadaptation: 13
   hospitalisesAuxUrgences: 1
@@ -26,3 +27,7 @@ donneesDepartementales:
   - nom: Morbihan
     code: DEP-56
     casConfirmes: 231
+
+# Auxquels s’ajoutent :
+# - 32 personnes ne résidant pas en Bretagne
+# - 61 personnes [...] dont les départements de résidence ne sont pas encore connus
