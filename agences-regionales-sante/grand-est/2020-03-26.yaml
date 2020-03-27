@@ -1,0 +1,13 @@
+date: 2020-03-26
+time: 14:00
+source:
+  nom: ARS Grand Est
+  url: https://www.grand-est.ars.sante.fr/system/files/2020-03/CP_Coronavirus_GrandEst_260320.pdf
+  archive: https://web.archive.org/web/20200327140532/https://www.grand-est.ars.sante.fr/system/files/2020-03/CP_Coronavirus_GrandEst_260320.pdf
+donneesRegionales:
+  nom: Grand Est
+  code: REG-44
+  hospitalises: 3292
+  reanimation: 701 # +50 depuis hier
+  gueris: 961 # "961 personnes sont d’ores et déjà sorties d’hospitalisation, leur état de santé ayant été considéré comme rassurant."
+  deces: 580
