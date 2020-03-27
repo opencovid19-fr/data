@@ -1,0 +1,12 @@
+date: "2020-03-26"
+source:
+  nom: ARS Pays de la Loire
+  url: https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-03/2020-03-26-bulletin%20information%20COVID-19_1.pdf
+  archive: https://web.archive.org/web/20200326193819/https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-03/2020-03-26-bulletin%20information%20COVID-19_1.pdf
+donneesRegionales:
+  nom: Pays de la Loire
+  code: REG-52
+  casConfirmes: 459
+  reanimation: 60 # +20 patient accueillis par train sanitaire
+  deces: 31 # 24 personnes décédées en centre Hospitalier et 7 en EHPAD
+  gueris: 119
