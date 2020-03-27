@@ -47867,6 +47867,19 @@
   {
     "date": "2020-03-26",
     "source": {
+      "nom": "ARS La Réunion",
+      "url": "https://www.lareunion.ars.sante.fr/coronavirus-covid-19-la-reunion-20-nouveaux-cas-confirmes",
+      "archive": "https://web.archive.org/web/20200326173657/https://www.lareunion.ars.sante.fr/coronavirus-covid-19-la-reunion-20-nouveaux-cas-confirmes"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "La Réunion",
+    "code": "COM-974",
+    "casConfirmes": 135,
+    "reanimation": 4
+  },
+  {
+    "date": "2020-03-26",
+    "source": {
       "nom": "Gouvernement de la Nouvelle-Calédonie",
       "url": "https://gouv.nc/sites/default/files/atoms/files/2020.03.26_point_de_situation_global.pdf",
       "archive": "https://web.archive.org/web/20200326084421/https://gouv.nc/sites/default/files/atoms/files/2020.03.26_point_de_situation_global.pdf"
@@ -48099,6 +48112,19 @@
     "sourceType": "sante-publique-france-data"
   },
   {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Centre-Val de Loire",
+      "url": "https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-26-bulletin%20information%20COVID-19_0.pdf",
+      "archive": "https://web.archive.org/web/20200326203535/https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-26-bulletin%20information%20COVID-19_0.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Cher",
+    "code": "DEP-18",
+    "casConfirmes": 25,
+    "deces": 1
+  },
+  {
     "code": "DEP-18",
     "nom": "Cher",
     "date": "2020-03-26",
@@ -48214,6 +48240,19 @@
       "nom": "Santé publique France Data"
     },
     "sourceType": "sante-publique-france-data"
+  },
+  {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Centre-Val de Loire",
+      "url": "https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-26-bulletin%20information%20COVID-19_0.pdf",
+      "archive": "https://web.archive.org/web/20200326203535/https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-26-bulletin%20information%20COVID-19_0.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Eure-et-Loir",
+    "code": "DEP-28",
+    "casConfirmes": 104,
+    "deces": 8
   },
   {
     "code": "DEP-28",
@@ -48376,6 +48415,19 @@
     "sourceType": "sante-publique-france-data"
   },
   {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Centre-Val de Loire",
+      "url": "https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-26-bulletin%20information%20COVID-19_0.pdf",
+      "archive": "https://web.archive.org/web/20200326203535/https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-26-bulletin%20information%20COVID-19_0.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Indre",
+    "code": "DEP-36",
+    "casConfirmes": 80,
+    "deces": 5
+  },
+  {
     "code": "DEP-36",
     "nom": "Indre",
     "date": "2020-03-26",
@@ -48387,6 +48439,19 @@
       "nom": "Santé publique France Data"
     },
     "sourceType": "sante-publique-france-data"
+  },
+  {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Centre-Val de Loire",
+      "url": "https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-26-bulletin%20information%20COVID-19_0.pdf",
+      "archive": "https://web.archive.org/web/20200326203535/https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-26-bulletin%20information%20COVID-19_0.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Indre-et-Loire",
+    "code": "DEP-37",
+    "casConfirmes": 123,
+    "deces": 3
   },
   {
     "code": "DEP-37",
@@ -48441,6 +48506,19 @@
     "sourceType": "sante-publique-france-data"
   },
   {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Centre-Val de Loire",
+      "url": "https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-26-bulletin%20information%20COVID-19_0.pdf",
+      "archive": "https://web.archive.org/web/20200326203535/https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-26-bulletin%20information%20COVID-19_0.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Loir-et-Cher",
+    "code": "DEP-41",
+    "casConfirmes": 55,
+    "deces": 0
+  },
+  {
     "code": "DEP-41",
     "nom": "Loir-et-Cher",
     "date": "2020-03-26",
@@ -48491,6 +48569,19 @@
       "nom": "Santé publique France Data"
     },
     "sourceType": "sante-publique-france-data"
+  },
+  {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Centre-Val de Loire",
+      "url": "https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-26-bulletin%20information%20COVID-19_0.pdf",
+      "archive": "https://web.archive.org/web/20200326203535/https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-26-bulletin%20information%20COVID-19_0.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Loiret",
+    "code": "DEP-45",
+    "casConfirmes": 258,
+    "deces": 3
   },
   {
     "code": "DEP-45",
@@ -49182,6 +49273,20 @@
     "sourceType": "sante-publique-france-data"
   },
   {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Guyane",
+      "url": "https://pbs.twimg.com/media/EUEUjOeWkAA_LnI?format=jpg&name=large",
+      "archive": "https://web.archive.org/web/20200326235548/https://pbs.twimg.com/media/EUEUjOeWkAA_LnI?format=jpg&name=large"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Guyane",
+    "code": "DEP-973",
+    "casConfirmes": 31,
+    "reanimation": 0,
+    "gueris": 10
+  },
+  {
     "code": "DEP-973",
     "nom": "Guyane",
     "date": "2020-03-26",
@@ -49288,6 +49393,20 @@
     "sourceType": "opencovid19-fr"
   },
   {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Guyane",
+      "url": "https://pbs.twimg.com/media/EUEUjOeWkAA_LnI?format=jpg&name=large",
+      "archive": "https://web.archive.org/web/20200326235548/https://pbs.twimg.com/media/EUEUjOeWkAA_LnI?format=jpg&name=large"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Guyane",
+    "code": "REG-03",
+    "casConfirmes": 31,
+    "gueris": 10,
+    "reanimation": 0
+  },
+  {
     "code": "REG-03",
     "nom": "Guyane",
     "date": "2020-03-26",
@@ -49355,6 +49474,20 @@
     "sourceType": "opencovid19-fr"
   },
   {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Centre-Val de Loire",
+      "url": "https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-26-bulletin%20information%20COVID-19_0.pdf",
+      "archive": "https://web.archive.org/web/20200326203535/https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-26-bulletin%20information%20COVID-19_0.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Centre-Val de Loire",
+    "code": "REG-24",
+    "casConfirmes": 645,
+    "deces": 20,
+    "reanimation": 67
+  },
+  {
     "code": "REG-24",
     "nom": "Centre-Val de Loire",
     "date": "2020-03-26",
@@ -49366,6 +49499,21 @@
       "nom": "OpenCOVID19-fr"
     },
     "sourceType": "opencovid19-fr"
+  },
+  {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Bourgogne-Franche-Comté",
+      "url": "https://www.bourgogne-franche-comte.ars.sante.fr/system/files/2020-03/2020.03.26_COVID19_SITUATION%20BFC.pdf",
+      "archive": "https://web.archive.org/web/20200326201335/https://www.bourgogne-franche-comte.ars.sante.fr/system/files/2020-03/2020.03.26_COVID19_SITUATION%20BFC.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Bourgogne-Franche-Comté",
+    "code": "REG-27",
+    "gueris": 400,
+    "reanimation": 166,
+    "hospitalises": 619,
+    "deces": 123
   },
   {
     "code": "REG-27",
@@ -49483,6 +49631,20 @@
       "nom": "OpenCOVID19-fr"
     },
     "sourceType": "opencovid19-fr"
+  },
+  {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Provence-Alpes-Côte d'Azur",
+      "url": "https://www.paca.ars.sante.fr/coronavirus-en-provence-alpes-cote-dazur-point-de-situation-au-26-mars",
+      "archive": "https://web.archive.org/web/20200326204057/https://www.paca.ars.sante.fr/coronavirus-en-provence-alpes-cote-dazur-point-de-situation-au-26-mars"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Provence-Alpes-Côte d'Azur",
+    "code": "REG-93",
+    "hospitalise": 720,
+    "reanimation": 164,
+    "deces": 44
   },
   {
     "code": "REG-93",

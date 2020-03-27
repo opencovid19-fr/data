@@ -3776,6 +3776,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,reanimation,hospital
 2020-03-25,region,REG-94,Corse,,15,9,81,54,,OpenCOVID19-fr,,opencovid19-fr
 2020-03-25,monde,WORLD,Monde,416916,18865,,,,,Santé publique France,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde,sante-publique-france
 2020-03-25,monde,WORLD,Monde,441000,20000,,,,,Ministère des Solidarités et de la Santé,https://www.dailymotion.com/video/x7sxnzg,ministere-sante
+2020-03-26,collectivite-outremer,COM-974,La Réunion,135,,4,,,,ARS La Réunion,https://www.lareunion.ars.sante.fr/coronavirus-covid-19-la-reunion-20-nouveaux-cas-confirmes,agences-regionales-sante
 2020-03-26,collectivite-outremer,COM-988,Nouvelle-Calédonie,14,,,,,622,Gouvernement de la Nouvelle-Calédonie,https://gouv.nc/sites/default/files/atoms/files/2020.03.26_point_de_situation_global.pdf,agences-regionales-sante
 2020-03-26,departement,DEP-01,Ain,,2,6,33,17,,Santé publique France Data,,sante-publique-france-data
 2020-03-26,departement,DEP-02,Aisne,,36,35,124,102,,Santé publique France Data,,sante-publique-france-data
@@ -3794,6 +3795,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,reanimation,hospital
 2020-03-26,departement,DEP-15,Cantal,,0,4,6,2,,Santé publique France Data,,sante-publique-france-data
 2020-03-26,departement,DEP-16,Charente,,4,3,19,6,,Santé publique France Data,,sante-publique-france-data
 2020-03-26,departement,DEP-17,Charente-Maritime,,0,11,36,15,,Santé publique France Data,,sante-publique-france-data
+2020-03-26,departement,DEP-18,Cher,25,1,,,,,ARS Centre-Val de Loire,https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-26-bulletin%20information%20COVID-19_0.pdf,agences-regionales-sante
 2020-03-26,departement,DEP-18,Cher,,1,6,9,1,,Santé publique France Data,,sante-publique-france-data
 2020-03-26,departement,DEP-19,Corrèze,,3,6,16,1,,Santé publique France Data,,sante-publique-france-data
 2020-03-26,departement,DEP-21,Côte-d'Or,,32,40,163,139,,Santé publique France Data,,sante-publique-france-data
@@ -3803,6 +3805,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,reanimation,hospital
 2020-03-26,departement,DEP-25,Doubs,,18,29,84,52,,Santé publique France Data,,sante-publique-france-data
 2020-03-26,departement,DEP-26,Drôme,,18,30,116,26,,Santé publique France Data,,sante-publique-france-data
 2020-03-26,departement,DEP-27,Eure,,1,9,35,0,,Santé publique France Data,,sante-publique-france-data
+2020-03-26,departement,DEP-28,Eure-et-Loir,104,8,,,,,ARS Centre-Val de Loire,https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-26-bulletin%20information%20COVID-19_0.pdf,agences-regionales-sante
 2020-03-26,departement,DEP-28,Eure-et-Loir,,8,20,58,10,,Santé publique France Data,,sante-publique-france-data
 2020-03-26,departement,DEP-29,Finistère,,5,9,41,20,,Santé publique France Data,,sante-publique-france-data
 2020-03-26,departement,DEP-2A,Corse-du-Sud,197,19,9,41,,,ARS Corse,https://www.corse.ars.sante.fr/informations-utiles-et-point-de-situation,agences-regionales-sante
@@ -3815,15 +3818,19 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,reanimation,hospital
 2020-03-26,departement,DEP-33,Gironde,,11,46,166,72,,Santé publique France Data,,sante-publique-france-data
 2020-03-26,departement,DEP-34,Hérault,,16,37,152,70,,Santé publique France Data,,sante-publique-france-data
 2020-03-26,departement,DEP-35,Ille-et-Vilaine,,2,14,50,34,,Santé publique France Data,,sante-publique-france-data
+2020-03-26,departement,DEP-36,Indre,80,5,,,,,ARS Centre-Val de Loire,https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-26-bulletin%20information%20COVID-19_0.pdf,agences-regionales-sante
 2020-03-26,departement,DEP-36,Indre,,5,7,23,1,,Santé publique France Data,,sante-publique-france-data
+2020-03-26,departement,DEP-37,Indre-et-Loire,123,3,,,,,ARS Centre-Val de Loire,https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-26-bulletin%20information%20COVID-19_0.pdf,agences-regionales-sante
 2020-03-26,departement,DEP-37,Indre-et-Loire,,3,9,33,12,,Santé publique France Data,,sante-publique-france-data
 2020-03-26,departement,DEP-38,Isère,,4,18,88,46,,Santé publique France Data,,sante-publique-france-data
 2020-03-26,departement,DEP-39,Jura,,0,9,45,4,,Santé publique France Data,,sante-publique-france-data
 2020-03-26,departement,DEP-40,Landes,,0,3,8,2,,Santé publique France Data,,sante-publique-france-data
+2020-03-26,departement,DEP-41,Loir-et-Cher,55,0,,,,,ARS Centre-Val de Loire,https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-26-bulletin%20information%20COVID-19_0.pdf,agences-regionales-sante
 2020-03-26,departement,DEP-41,Loir-et-Cher,,0,2,16,8,,Santé publique France Data,,sante-publique-france-data
 2020-03-26,departement,DEP-42,Loire,,19,50,247,32,,Santé publique France Data,,sante-publique-france-data
 2020-03-26,departement,DEP-43,Haute-Loire,,0,6,13,11,,Santé publique France Data,,sante-publique-france-data
 2020-03-26,departement,DEP-44,Loire-Atlantique,,9,20,91,29,,Santé publique France Data,,sante-publique-france-data
+2020-03-26,departement,DEP-45,Loiret,258,3,,,,,ARS Centre-Val de Loire,https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-26-bulletin%20information%20COVID-19_0.pdf,agences-regionales-sante
 2020-03-26,departement,DEP-45,Loiret,,3,25,59,18,,Santé publique France Data,,sante-publique-france-data
 2020-03-26,departement,DEP-46,Lot,,0,1,3,5,,Santé publique France Data,,sante-publique-france-data
 2020-03-26,departement,DEP-47,Lot-et-Garonne,,3,3,16,4,,Santé publique France Data,,sante-publique-france-data
@@ -3877,6 +3884,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,reanimation,hospital
 2020-03-26,departement,DEP-95,Val-d'Oise,,67,110,489,184,,Santé publique France Data,,sante-publique-france-data
 2020-03-26,departement,DEP-971,Guadeloupe,,0,7,21,4,,Santé publique France Data,,sante-publique-france-data
 2020-03-26,departement,DEP-972,Martinique,,1,11,29,13,,Santé publique France Data,,sante-publique-france-data
+2020-03-26,departement,DEP-973,Guyane,31,,0,,10,,ARS Guyane,https://pbs.twimg.com/media/EUEUjOeWkAA_LnI?format=jpg&name=large,agences-regionales-sante
 2020-03-26,departement,DEP-973,Guyane,,0,0,0,0,,Santé publique France Data,,sante-publique-france-data
 2020-03-26,departement,DEP-974,La Réunion,,0,3,3,0,,Santé publique France Data,,sante-publique-france-data
 2020-03-26,departement,DEP-976,Mayotte,42,,2,4,1,,ARS Mayotte,https://www.mayotte.ars.sante.fr/system/files/2020-03/CP%2026%20mars%20COVID-19.pdf,agences-regionales-sante
@@ -3885,12 +3893,15 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,reanimation,hospital
 2020-03-26,pays,FRA,France,,1696,3351,13879,4947,,OpenCOVID19-fr,,opencovid19-fr
 2020-03-26,region,REG-01,Guadeloupe,,0,7,21,4,,OpenCOVID19-fr,,opencovid19-fr
 2020-03-26,region,REG-02,Martinique,,1,11,29,13,,OpenCOVID19-fr,,opencovid19-fr
+2020-03-26,region,REG-03,Guyane,31,,0,,10,,ARS Guyane,https://pbs.twimg.com/media/EUEUjOeWkAA_LnI?format=jpg&name=large,agences-regionales-sante
 2020-03-26,region,REG-03,Guyane,,0,0,0,0,,OpenCOVID19-fr,,opencovid19-fr
 2020-03-26,region,REG-04,La Réunion,,0,3,3,0,,OpenCOVID19-fr,,opencovid19-fr
 2020-03-26,region,REG-06,Mayotte,42,,2,4,1,,ARS Mayotte,https://www.mayotte.ars.sante.fr/system/files/2020-03/CP%2026%20mars%20COVID-19.pdf,agences-regionales-sante
 2020-03-26,region,REG-06,Mayotte,,0,0,0,0,,OpenCOVID19-fr,,opencovid19-fr
 2020-03-26,region,REG-11,Île-de-France,,460,1269,5132,1310,,OpenCOVID19-fr,,opencovid19-fr
+2020-03-26,region,REG-24,Centre-Val de Loire,645,20,67,,,,ARS Centre-Val de Loire,https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-26-bulletin%20information%20COVID-19_0.pdf,agences-regionales-sante
 2020-03-26,region,REG-24,Centre-Val de Loire,,20,69,198,50,,OpenCOVID19-fr,,opencovid19-fr
+2020-03-26,region,REG-27,Bourgogne-Franche-Comté,,123,166,619,400,,ARS Bourgogne-Franche-Comté,https://www.bourgogne-franche-comte.ars.sante.fr/system/files/2020-03/2020.03.26_COVID19_SITUATION%20BFC.pdf,agences-regionales-sante
 2020-03-26,region,REG-27,Bourgogne-Franche-Comté,,123,166,679,402,,OpenCOVID19-fr,,opencovid19-fr
 2020-03-26,region,REG-28,Normandie,,20,75,273,62,,OpenCOVID19-fr,,opencovid19-fr
 2020-03-26,region,REG-32,Hauts-de-France,,150,271,919,360,,OpenCOVID19-fr,,opencovid19-fr
@@ -3900,6 +3911,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,reanimation,hospital
 2020-03-26,region,REG-75,Nouvelle-Aquitaine,,34,96,399,163,,OpenCOVID19-fr,,opencovid19-fr
 2020-03-26,region,REG-76,Occitanie,,54,177,551,224,,OpenCOVID19-fr,,opencovid19-fr
 2020-03-26,region,REG-84,Auvergne-Rhône-Alpes,,134,290,1422,496,,OpenCOVID19-fr,,opencovid19-fr
+2020-03-26,region,REG-93,Provence-Alpes-Côte d'Azur,,44,164,,,,ARS Provence-Alpes-Côte d'Azur,https://www.paca.ars.sante.fr/coronavirus-en-provence-alpes-cote-dazur-point-de-situation-au-26-mars,agences-regionales-sante
 2020-03-26,region,REG-93,Provence-Alpes-Côte d'Azur,,44,164,695,599,,OpenCOVID19-fr,,opencovid19-fr
 2020-03-26,region,REG-94,Corse,250,21,9,48,,,ARS Corse,https://www.corse.ars.sante.fr/informations-utiles-et-point-de-situation,agences-regionales-sante
 2020-03-26,region,REG-94,Corse,,19,13,95,63,,OpenCOVID19-fr,,opencovid19-fr
