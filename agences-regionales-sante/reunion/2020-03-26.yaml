@@ -1,6 +1,7 @@
 date: 2020-03-26
 source:
   nom: ARS La Réunion
+  # Attention, la source indique "ce jeudi 25 mars", mais à priori c'est une erreur. Il semblerait que ce soit les données du 26/03
   url: https://www.lareunion.ars.sante.fr/coronavirus-covid-19-la-reunion-20-nouveaux-cas-confirmes
   archive: https://web.archive.org/web/20200326173657/https://www.lareunion.ars.sante.fr/coronavirus-covid-19-la-reunion-20-nouveaux-cas-confirmes
 donneesRegionales:
