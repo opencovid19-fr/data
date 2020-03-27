@@ -1,0 +1,34 @@
+date: 2020-03-27
+source:
+  nom: ARS Normandie
+  url: https://www.normandie.ars.sante.fr/coronavirus-point-de-situation-en-normandie-et-conduites-tenir
+  archive: https://web.archive.org/web/20200327190642/https://www.normandie.ars.sante.fr/coronavirus-point-de-situation-en-normandie-et-conduites-tenir
+donneesRegionales:
+  nom: Normandie
+  code: REG-28
+  casConfirmes: 912     # +123
+  deces: 25             # 17 hommes et 8 femmes, avec un âge médian de 80 ans
+  hospitalises: 314
+  reanimation: 91
+  gueris : 73           # "sont sorties de l’hôpital."
+donneesDepartementales:
+  - nom: Calvados
+    code: DEP-14
+    hospitalises: 65
+    deces: 1 
+  - nom: Eure
+    code: DEP-27
+    hospitalises: 39
+    deces: 2 
+  - nom: Manche
+    code: DEP-50
+    hospitalises: 25
+    deces: 1 
+  - nom: Orne
+    code: DEP-61
+    hospitalises: 15
+    deces: 0
+  - nom: Seine-Maritime
+    code: DEP-76
+    hospitalises: 170
+    deces: 3 
