@@ -48234,6 +48234,18 @@
     "sourceType": "sante-publique-france-data"
   },
   {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Bretagne",
+      "url": "https://www.bretagne.ars.sante.fr/system/files/2020-03/2020-03-26-bulletin%20information%20COVID-19.pdf",
+      "archive": "https://web.archive.org/web/20200326204531/https://www.bretagne.ars.sante.fr/system/files/2020-03/2020-03-26-bulletin%20information%20COVID-19.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Côtes-d'Armor",
+    "code": "DEP-22",
+    "casConfirmes": 60
+  },
+  {
     "code": "DEP-22",
     "nom": "Côtes-d'Armor",
     "date": "2020-03-26",
@@ -48349,6 +48361,18 @@
       "nom": "Santé publique France Data"
     },
     "sourceType": "sante-publique-france-data"
+  },
+  {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Bretagne",
+      "url": "https://www.bretagne.ars.sante.fr/system/files/2020-03/2020-03-26-bulletin%20information%20COVID-19.pdf",
+      "archive": "https://web.archive.org/web/20200326204531/https://www.bretagne.ars.sante.fr/system/files/2020-03/2020-03-26-bulletin%20information%20COVID-19.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Finistère",
+    "code": "DEP-29",
+    "casConfirmes": 171
   },
   {
     "code": "DEP-29",
@@ -48543,6 +48567,18 @@
       "nom": "Santé publique France Data"
     },
     "sourceType": "sante-publique-france-data"
+  },
+  {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Bretagne",
+      "url": "https://www.bretagne.ars.sante.fr/system/files/2020-03/2020-03-26-bulletin%20information%20COVID-19.pdf",
+      "archive": "https://web.archive.org/web/20200326204531/https://www.bretagne.ars.sante.fr/system/files/2020-03/2020-03-26-bulletin%20information%20COVID-19.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Ille-et-Vilaine",
+    "code": "DEP-35",
+    "casConfirmes": 152
   },
   {
     "code": "DEP-35",
@@ -48911,6 +48947,18 @@
       "nom": "Santé publique France Data"
     },
     "sourceType": "sante-publique-france-data"
+  },
+  {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Bretagne",
+      "url": "https://www.bretagne.ars.sante.fr/system/files/2020-03/2020-03-26-bulletin%20information%20COVID-19.pdf",
+      "archive": "https://web.archive.org/web/20200326204531/https://www.bretagne.ars.sante.fr/system/files/2020-03/2020-03-26-bulletin%20information%20COVID-19.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Morbihan",
+    "code": "DEP-56",
+    "casConfirmes": 231
   },
   {
     "code": "DEP-56",
@@ -49917,6 +49965,21 @@
     "sourceType": "opencovid19-fr"
   },
   {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Pays de la Loire",
+      "url": "https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-03/2020-03-26-bulletin%20information%20COVID-19_1.pdf",
+      "archive": "https://web.archive.org/web/20200326193819/https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-03/2020-03-26-bulletin%20information%20COVID-19_1.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Pays de la Loire",
+    "code": "REG-52",
+    "casConfirmes": 459,
+    "reanimation": 60,
+    "deces": 31,
+    "gueris": 119
+  },
+  {
     "code": "REG-52",
     "nom": "Pays de la Loire",
     "date": "2020-03-26",
@@ -49928,6 +49991,25 @@
       "nom": "OpenCOVID19-fr"
     },
     "sourceType": "opencovid19-fr"
+  },
+  {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Bretagne",
+      "url": "https://www.bretagne.ars.sante.fr/system/files/2020-03/2020-03-26-bulletin%20information%20COVID-19.pdf",
+      "archive": "https://web.archive.org/web/20200326204531/https://www.bretagne.ars.sante.fr/system/files/2020-03/2020-03-26-bulletin%20information%20COVID-19.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Bretagne",
+    "code": "REG-53",
+    "casConfirmes": 707,
+    "deces": 29,
+    "hospitalises": 181,
+    "hospitalisesConventionnelle": 124,
+    "hospitalisesReadaptation": 13,
+    "hospitalisesAuxUrgences": 1,
+    "reanimation": 43,
+    "gueris": 108
   },
   {
     "code": "REG-53",
@@ -50062,6 +50144,32 @@
     "sourceType": "sante-publique-france",
     "casConfirmes": 467710,
     "deces": 20947,
+    "nom": "Monde",
+    "code": "WORLD"
+  },
+  {
+    "date": "2020-03-27",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200327182518/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+    },
+    "sourceType": "sante-publique-france",
+    "casConfirmes": 32964,
+    "deces": 1995,
+    "nom": "France",
+    "code": "FRA"
+  },
+  {
+    "date": "2020-03-27",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200327182518/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+    },
+    "sourceType": "sante-publique-france",
+    "casConfirmes": 528025,
+    "deces": 23672,
     "nom": "Monde",
     "code": "WORLD"
   }
