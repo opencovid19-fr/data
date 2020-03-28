@@ -1,6 +1,6 @@
 [🇬🇧 English](README.en.md)
 
-# Données nationales concernant l'épidémie de COVID19
+# Données nationales concernant la COVID-19
 
 L'information officielle sur la progression de l'épidémie en France est assez fragmentée, et n'est presque jamais structurée sous forme de données.
 

@@ -12,7 +12,7 @@ donneesRegionales:
   hospitalisesReadaptation: 29
   reanimation: 257
   deces: 104 # +18 par rapport à la veille.
-  gueris: 404 # +80 entre hier et aujourd'hui. 404 patients atteints de COVID-19 rentrés à domicile.
+  gueris: 404 # +80 entre hier et aujourd'hui. 404 patients atteints par la COVID-19 rentrés à domicile.
 donneesDepartementales:
   - nom: Ain
     code: DEP-01
