@@ -1,0 +1,12 @@
+date: "2020-03-27"
+source:
+  nom: ARS Martinique
+  url: http://www.martinique.ars.sante.fr/system/files/2020-03/Point%20de%20situation%2027%20mars%202020.pdf
+  archive: https://web.archive.org/web/20200327202456/https://www.martinique.ars.sante.fr/system/files/2020-03/Point%20de%20situation%2027%20mars%202020.pdf
+donneesRegionales:
+  nom: Martinique
+  code: REG-02
+  casConfirmes: 93 # +13
+  reanimation: 11 # 
+  gueris: 2
+  deces: 0
