@@ -47880,6 +47880,21 @@
   {
     "date": "2020-03-26",
     "source": {
+      "nom": "DSP Polynésie française",
+      "url": "https://www.service-public.pf/dsp/wp-content/uploads/sites/12/2020/03/2020-03-25-Point-de-situation-COVID-8h00.pdf",
+      "archive": "https://web.archive.org/web/20200327183152/https://www.service-public.pf/dsp/wp-content/uploads/sites/12/2020/03/2020-03-25-Point-de-situation-COVID-8h00.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Polynésie française",
+    "code": "COM-987",
+    "depistes": 330,
+    "casConfirmes": 30,
+    "hospitalises": 1,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-26",
+    "source": {
       "nom": "Gouvernement de la Nouvelle-Calédonie",
       "url": "https://gouv.nc/sites/default/files/atoms/files/2020.03.26_point_de_situation_global.pdf",
       "archive": "https://web.archive.org/web/20200326084421/https://gouv.nc/sites/default/files/atoms/files/2020.03.26_point_de_situation_global.pdf"
@@ -47889,6 +47904,20 @@
     "code": "COM-988",
     "casConfirmes": 14,
     "depistes": 622
+  },
+  {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Auvergne-Rhône-Alpes",
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/covid-19-en-auvergne-rhone-alpes-point-de-situation-jeudi-26-mars",
+      "archive": "https://web.archive.org/web/20200327134733/https://www.auvergne-rhone-alpes.ars.sante.fr/covid-19-en-auvergne-rhone-alpes-point-de-situation-jeudi-26-mars"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Ain",
+    "code": "DEP-01",
+    "hospitalises": 33,
+    "gueris": 17,
+    "deces": 2
   },
   {
     "code": "DEP-01",
@@ -47927,6 +47956,20 @@
       "nom": "Santé publique France Data"
     },
     "sourceType": "sante-publique-france-data"
+  },
+  {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Auvergne-Rhône-Alpes",
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/covid-19-en-auvergne-rhone-alpes-point-de-situation-jeudi-26-mars",
+      "archive": "https://web.archive.org/web/20200327134733/https://www.auvergne-rhone-alpes.ars.sante.fr/covid-19-en-auvergne-rhone-alpes-point-de-situation-jeudi-26-mars"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Allier",
+    "code": "DEP-03",
+    "hospitalises": 15,
+    "gueris": 26,
+    "deces": 2
   },
   {
     "code": "DEP-03",
@@ -47979,6 +48022,20 @@
       "nom": "Santé publique France Data"
     },
     "sourceType": "sante-publique-france-data"
+  },
+  {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Auvergne-Rhône-Alpes",
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/covid-19-en-auvergne-rhone-alpes-point-de-situation-jeudi-26-mars",
+      "archive": "https://web.archive.org/web/20200327134733/https://www.auvergne-rhone-alpes.ars.sante.fr/covid-19-en-auvergne-rhone-alpes-point-de-situation-jeudi-26-mars"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Ardèche",
+    "code": "DEP-07",
+    "hospitalises": 52,
+    "gueris": 39,
+    "deces": 5
   },
   {
     "code": "DEP-07",
@@ -48143,6 +48200,20 @@
     "sourceType": "sante-publique-france-data"
   },
   {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Auvergne-Rhône-Alpes",
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/covid-19-en-auvergne-rhone-alpes-point-de-situation-jeudi-26-mars",
+      "archive": "https://web.archive.org/web/20200327134733/https://www.auvergne-rhone-alpes.ars.sante.fr/covid-19-en-auvergne-rhone-alpes-point-de-situation-jeudi-26-mars"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Cantal",
+    "code": "DEP-15",
+    "hospitalises": 6,
+    "gueris": 2,
+    "deces": 0
+  },
+  {
     "code": "DEP-15",
     "nom": "Cantal",
     "date": "2020-03-26",
@@ -48296,6 +48367,20 @@
       "nom": "Santé publique France Data"
     },
     "sourceType": "sante-publique-france-data"
+  },
+  {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Auvergne-Rhône-Alpes",
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/covid-19-en-auvergne-rhone-alpes-point-de-situation-jeudi-26-mars",
+      "archive": "https://web.archive.org/web/20200327134733/https://www.auvergne-rhone-alpes.ars.sante.fr/covid-19-en-auvergne-rhone-alpes-point-de-situation-jeudi-26-mars"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Drôme",
+    "code": "DEP-26",
+    "hospitalises": 116,
+    "gueris": 26,
+    "deces": 18
   },
   {
     "code": "DEP-26",
@@ -48646,6 +48731,20 @@
     "sourceType": "sante-publique-france-data"
   },
   {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Auvergne-Rhône-Alpes",
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/covid-19-en-auvergne-rhone-alpes-point-de-situation-jeudi-26-mars",
+      "archive": "https://web.archive.org/web/20200327134733/https://www.auvergne-rhone-alpes.ars.sante.fr/covid-19-en-auvergne-rhone-alpes-point-de-situation-jeudi-26-mars"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Isère",
+    "code": "DEP-38",
+    "hospitalises": 88,
+    "gueris": 51,
+    "deces": 4
+  },
+  {
     "code": "DEP-38",
     "nom": "Isère",
     "date": "2020-03-26",
@@ -48711,6 +48810,20 @@
     "sourceType": "sante-publique-france-data"
   },
   {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Auvergne-Rhône-Alpes",
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/covid-19-en-auvergne-rhone-alpes-point-de-situation-jeudi-26-mars",
+      "archive": "https://web.archive.org/web/20200327134733/https://www.auvergne-rhone-alpes.ars.sante.fr/covid-19-en-auvergne-rhone-alpes-point-de-situation-jeudi-26-mars"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Loire",
+    "code": "DEP-42",
+    "hospitalises": 248,
+    "gueris": 34,
+    "deces": 19
+  },
+  {
     "code": "DEP-42",
     "nom": "Loire",
     "date": "2020-03-26",
@@ -48722,6 +48835,20 @@
       "nom": "Santé publique France Data"
     },
     "sourceType": "sante-publique-france-data"
+  },
+  {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Auvergne-Rhône-Alpes",
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/covid-19-en-auvergne-rhone-alpes-point-de-situation-jeudi-26-mars",
+      "archive": "https://web.archive.org/web/20200327134733/https://www.auvergne-rhone-alpes.ars.sante.fr/covid-19-en-auvergne-rhone-alpes-point-de-situation-jeudi-26-mars"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Haute-Loire",
+    "code": "DEP-43",
+    "hospitalises": 13,
+    "gueris": 11,
+    "deces": 0
   },
   {
     "code": "DEP-43",
@@ -49101,6 +49228,20 @@
     "sourceType": "sante-publique-france-data"
   },
   {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Auvergne-Rhône-Alpes",
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/covid-19-en-auvergne-rhone-alpes-point-de-situation-jeudi-26-mars",
+      "archive": "https://web.archive.org/web/20200327134733/https://www.auvergne-rhone-alpes.ars.sante.fr/covid-19-en-auvergne-rhone-alpes-point-de-situation-jeudi-26-mars"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Puy-de-Dôme",
+    "code": "DEP-63",
+    "hospitalises": 21,
+    "gueris": 13,
+    "deces": 0
+  },
+  {
     "code": "DEP-63",
     "nom": "Puy-de-Dôme",
     "date": "2020-03-26",
@@ -49209,6 +49350,20 @@
     "sourceType": "sante-publique-france-data"
   },
   {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Auvergne-Rhône-Alpes",
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/covid-19-en-auvergne-rhone-alpes-point-de-situation-jeudi-26-mars",
+      "archive": "https://web.archive.org/web/20200327134733/https://www.auvergne-rhone-alpes.ars.sante.fr/covid-19-en-auvergne-rhone-alpes-point-de-situation-jeudi-26-mars"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Rhône",
+    "code": "DEP-69",
+    "hospitalises": 658,
+    "gueris": 160,
+    "deces": 65
+  },
+  {
     "code": "DEP-69",
     "nom": "Rhône",
     "date": "2020-03-26",
@@ -49261,6 +49416,20 @@
     "sourceType": "sante-publique-france-data"
   },
   {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Auvergne-Rhône-Alpes",
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/covid-19-en-auvergne-rhone-alpes-point-de-situation-jeudi-26-mars",
+      "archive": "https://web.archive.org/web/20200327134733/https://www.auvergne-rhone-alpes.ars.sante.fr/covid-19-en-auvergne-rhone-alpes-point-de-situation-jeudi-26-mars"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Savoie",
+    "code": "DEP-73",
+    "hospitalises": 52,
+    "gueris": 19,
+    "deces": 2
+  },
+  {
     "code": "DEP-73",
     "nom": "Savoie",
     "date": "2020-03-26",
@@ -49272,6 +49441,20 @@
       "nom": "Santé publique France Data"
     },
     "sourceType": "sante-publique-france-data"
+  },
+  {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Auvergne-Rhône-Alpes",
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/covid-19-en-auvergne-rhone-alpes-point-de-situation-jeudi-26-mars",
+      "archive": "https://web.archive.org/web/20200327134733/https://www.auvergne-rhone-alpes.ars.sante.fr/covid-19-en-auvergne-rhone-alpes-point-de-situation-jeudi-26-mars"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Haute-Savoie",
+    "code": "DEP-74",
+    "hospitalises": 135,
+    "gueris": 97,
+    "deces": 16
   },
   {
     "code": "DEP-74",
@@ -49761,6 +49944,21 @@
     "sourceType": "opencovid19-fr"
   },
   {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Martinique",
+      "url": "https://www.martinique.ars.sante.fr/system/files/2020-03/Point%20de%20situation%2026%20mars%202020.pdf",
+      "archive": "https://web.archive.org/web/20200327191434/https://www.martinique.ars.sante.fr/system/files/2020-03/Point%20de%20situation%2026%20mars%202020.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Martinique",
+    "code": "REG-02",
+    "casConfirmes": 80,
+    "reanimation": 11,
+    "gueris": 2,
+    "deces": 0
+  },
+  {
     "code": "REG-02",
     "nom": "Martinique",
     "date": "2020-03-26",
@@ -49965,6 +50163,21 @@
     "sourceType": "opencovid19-fr"
   },
   {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Grand Est",
+      "url": "https://www.grand-est.ars.sante.fr/system/files/2020-03/CP_Coronavirus_GrandEst_260320.pdf",
+      "archive": "https://web.archive.org/web/20200327140532/https://www.grand-est.ars.sante.fr/system/files/2020-03/CP_Coronavirus_GrandEst_260320.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Grand Est",
+    "code": "REG-44",
+    "hospitalises": 3292,
+    "reanimation": 701,
+    "gueris": 961,
+    "deces": 580
+  },
+  {
     "code": "REG-44",
     "nom": "Grand Est",
     "date": "2020-03-26",
@@ -50038,6 +50251,22 @@
     "sourceType": "opencovid19-fr"
   },
   {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Nouvelle-Aquitaine",
+      "url": "https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_26_03_2020_0.pdf",
+      "archive": "https://web.archive.org/web/20200327184143/https://www.nouvelle-aquitaine.ars.sante.fr/system/files/2020-03/CP_Covid19_ARSNA_26_03_2020_0.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Nouvelle-Aquitaine",
+    "code": "REG-75",
+    "casConfirmes": 1007,
+    "hospitalisation": 236,
+    "gueris": 163,
+    "reanimation": 75,
+    "deces": 34
+  },
+  {
     "code": "REG-75",
     "nom": "Nouvelle-Aquitaine",
     "date": "2020-03-26",
@@ -50078,6 +50307,23 @@
       "nom": "OpenCOVID19-fr"
     },
     "sourceType": "opencovid19-fr"
+  },
+  {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Auvergne-Rhône-Alpes",
+      "url": "https://www.auvergne-rhone-alpes.ars.sante.fr/covid-19-en-auvergne-rhone-alpes-point-de-situation-jeudi-26-mars",
+      "archive": "https://web.archive.org/web/20200327134733/https://www.auvergne-rhone-alpes.ars.sante.fr/covid-19-en-auvergne-rhone-alpes-point-de-situation-jeudi-26-mars"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Auvergne-Rhône-Alpes",
+    "code": "REG-84",
+    "hospitalises": 1437,
+    "hospitalisesConventionnelle": 1106,
+    "hospitalisesReadaptation": 44,
+    "reanimation": 286,
+    "deces": 133,
+    "gueris": 495
   },
   {
     "code": "REG-84",
@@ -50330,6 +50576,19 @@
     "sourceType": "sante-publique-france-data"
   },
   {
+    "date": "2020-03-27",
+    "source": {
+      "nom": "ARS Normandie",
+      "url": "https://www.normandie.ars.sante.fr/coronavirus-point-de-situation-en-normandie-et-conduites-tenir",
+      "archive": "https://web.archive.org/web/20200327190642/https://www.normandie.ars.sante.fr/coronavirus-point-de-situation-en-normandie-et-conduites-tenir"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Calvados",
+    "code": "DEP-14",
+    "hospitalises": 65,
+    "deces": 2
+  },
+  {
     "code": "DEP-14",
     "nom": "Calvados",
     "date": "2020-03-27",
@@ -50484,6 +50743,19 @@
       "nom": "Santé publique France Data"
     },
     "sourceType": "sante-publique-france-data"
+  },
+  {
+    "date": "2020-03-27",
+    "source": {
+      "nom": "ARS Normandie",
+      "url": "https://www.normandie.ars.sante.fr/coronavirus-point-de-situation-en-normandie-et-conduites-tenir",
+      "archive": "https://web.archive.org/web/20200327190642/https://www.normandie.ars.sante.fr/coronavirus-point-de-situation-en-normandie-et-conduites-tenir"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Eure",
+    "code": "DEP-27",
+    "hospitalises": 39,
+    "deces": 2
   },
   {
     "code": "DEP-27",
@@ -50811,6 +51083,19 @@
     "sourceType": "sante-publique-france-data"
   },
   {
+    "date": "2020-03-27",
+    "source": {
+      "nom": "ARS Normandie",
+      "url": "https://www.normandie.ars.sante.fr/coronavirus-point-de-situation-en-normandie-et-conduites-tenir",
+      "archive": "https://web.archive.org/web/20200327190642/https://www.normandie.ars.sante.fr/coronavirus-point-de-situation-en-normandie-et-conduites-tenir"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Manche",
+    "code": "DEP-50",
+    "hospitalises": 25,
+    "deces": 4
+  },
+  {
     "code": "DEP-50",
     "nom": "Manche",
     "date": "2020-03-27",
@@ -50952,6 +51237,19 @@
       "nom": "Santé publique France Data"
     },
     "sourceType": "sante-publique-france-data"
+  },
+  {
+    "date": "2020-03-27",
+    "source": {
+      "nom": "ARS Normandie",
+      "url": "https://www.normandie.ars.sante.fr/coronavirus-point-de-situation-en-normandie-et-conduites-tenir",
+      "archive": "https://web.archive.org/web/20200327190642/https://www.normandie.ars.sante.fr/coronavirus-point-de-situation-en-normandie-et-conduites-tenir"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Orne",
+    "code": "DEP-61",
+    "hospitalises": 15,
+    "deces": 1
   },
   {
     "code": "DEP-61",
@@ -51147,6 +51445,19 @@
       "nom": "Santé publique France Data"
     },
     "sourceType": "sante-publique-france-data"
+  },
+  {
+    "date": "2020-03-27",
+    "source": {
+      "nom": "ARS Normandie",
+      "url": "https://www.normandie.ars.sante.fr/coronavirus-point-de-situation-en-normandie-et-conduites-tenir",
+      "archive": "https://web.archive.org/web/20200327190642/https://www.normandie.ars.sante.fr/coronavirus-point-de-situation-en-normandie-et-conduites-tenir"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Seine-Maritime",
+    "code": "DEP-76",
+    "hospitalises": 170,
+    "deces": 16
   },
   {
     "code": "DEP-76",
@@ -51461,6 +51772,21 @@
     "sourceType": "sante-publique-france-data"
   },
   {
+    "date": "2020-03-27",
+    "source": {
+      "nom": "ARS Mayotte",
+      "url": "http://www.mayotte.ars.sante.fr/system/files/2020-03/CP%2027%20mars%20COVID-19_0.pdf",
+      "archive": "https://web.archive.org/save/http://www.mayotte.ars.sante.fr/system/files/2020-03/CP%2027%20mars%20COVID-19_0.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Mayotte",
+    "code": "DEP-976",
+    "casConfirmes": 50,
+    "hospitalises": 3,
+    "reanimation": 2,
+    "gueris": 4
+  },
+  {
     "code": "DEP-976",
     "nom": "Mayotte",
     "date": "2020-03-27",
@@ -51526,6 +51852,21 @@
     "sourceType": "opencovid19-fr"
   },
   {
+    "date": "2020-03-27",
+    "source": {
+      "nom": "ARS Martinique",
+      "url": "http://www.martinique.ars.sante.fr/system/files/2020-03/Point%20de%20situation%2027%20mars%202020.pdf",
+      "archive": "https://web.archive.org/web/20200327202456/https://www.martinique.ars.sante.fr/system/files/2020-03/Point%20de%20situation%2027%20mars%202020.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Martinique",
+    "code": "REG-02",
+    "casConfirmes": 93,
+    "reanimation": 11,
+    "gueris": 2,
+    "deces": 0
+  },
+  {
     "code": "REG-02",
     "nom": "Martinique",
     "date": "2020-03-27",
@@ -51563,6 +51904,21 @@
       "nom": "OpenCOVID19-fr"
     },
     "sourceType": "opencovid19-fr"
+  },
+  {
+    "date": "2020-03-27",
+    "source": {
+      "nom": "ARS Mayotte",
+      "url": "http://www.mayotte.ars.sante.fr/system/files/2020-03/CP%2027%20mars%20COVID-19_0.pdf",
+      "archive": "https://web.archive.org/save/http://www.mayotte.ars.sante.fr/system/files/2020-03/CP%2027%20mars%20COVID-19_0.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Mayotte",
+    "code": "REG-06",
+    "casConfirmes": 50,
+    "hospitalises": 3,
+    "reanimation": 2,
+    "gueris": 4
   },
   {
     "code": "REG-06",
@@ -51615,6 +51971,22 @@
       "nom": "OpenCOVID19-fr"
     },
     "sourceType": "opencovid19-fr"
+  },
+  {
+    "date": "2020-03-27",
+    "source": {
+      "nom": "ARS Normandie",
+      "url": "https://www.normandie.ars.sante.fr/coronavirus-point-de-situation-en-normandie-et-conduites-tenir",
+      "archive": "https://web.archive.org/web/20200327190642/https://www.normandie.ars.sante.fr/coronavirus-point-de-situation-en-normandie-et-conduites-tenir"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Normandie",
+    "code": "REG-28",
+    "casConfirmes": 912,
+    "deces": 25,
+    "hospitalises": 314,
+    "reanimation": 91,
+    "gueris": 73
   },
   {
     "code": "REG-28",
