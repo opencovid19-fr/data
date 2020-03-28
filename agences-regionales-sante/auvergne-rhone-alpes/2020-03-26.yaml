@@ -1,0 +1,77 @@
+date: 2020-03-26
+source:
+  nom: ARS Auvergne-Rhône-Alpes
+  url: https://www.auvergne-rhone-alpes.ars.sante.fr/covid-19-en-auvergne-rhone-alpes-point-de-situation-jeudi-26-mars
+  archive: https://web.archive.org/web/20200327134733/https://www.auvergne-rhone-alpes.ars.sante.fr/covid-19-en-auvergne-rhone-alpes-point-de-situation-jeudi-26-mars
+donneesRegionales: 
+  nom: Auvergne-Rhône-Alpes
+  code: REG-84
+  hospitalises: 1437 # + 198
+  hospitalisesConventionnelle: 1106
+  hospitalisesReadaptation: 44
+  reanimation: 286
+  deces: 133 # + 29. "deces hospitaliers"
+  gueris: 495 # + 91. "retournés à la maison"
+donneesDepartementales:
+  - nom: Ain
+    code: DEP-01
+    hospitalises: 33
+    gueris: 17
+    deces: 2
+  - nom: Allier
+    code: DEP-03
+    hospitalises: 15
+    gueris: 26
+    deces: 2
+  - nom: Ardèche
+    code: DEP-07
+    hospitalises: 52
+    gueris: 39
+    deces: 5
+  - nom: Cantal
+    code: DEP-15
+    hospitalises: 6
+    gueris: 2
+    deces: 0
+  - nom: Drôme
+    code: DEP-26
+    hospitalises: 116
+    gueris: 26
+    deces: 18
+  - nom: Isère
+    code: DEP-38
+    hospitalises: 88
+    gueris: 51
+    deces: 4
+  - nom: Loire
+    code: DEP-42
+    hospitalises: 248
+    gueris: 34
+    deces: 19
+  - nom: Haute-Loire
+    code: DEP-43
+    hospitalises: 13 
+    gueris: 11
+    deces: 0
+  - nom: Puy-de-Dôme
+    code: DEP-63
+    hospitalises: 21
+    gueris: 13
+    deces: 0
+  - nom: Rhône
+    code: DEP-69
+    hospitalises: 658
+    gueris: 160
+    deces: 65
+  - nom: Savoie
+    code: DEP-73
+    hospitalises: 52
+    gueris: 19
+    deces: 2
+  - nom: Haute-Savoie
+    code: DEP-74
+    hospitalises: 135
+    gueris: 97
+    deces: 16
+
+# Info supplémentaire : "2 083 patients atteints de Covid-19 ont été ou sont prises en charge à l’hôpital dans la région"
