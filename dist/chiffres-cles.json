@@ -45000,6 +45000,31 @@
   {
     "date": "2020-03-25",
     "source": {
+      "nom": "Ministère des Solidarités et de la Santé",
+      "url": "https://www.dailymotion.com/video/x7sxnzg"
+    },
+    "sourceType": "ministere-sante",
+    "nom": "Saint-Barthélemy",
+    "code": "COM-977",
+    "casConfirmes": 3
+  },
+  {
+    "date": "2020-03-25",
+    "source": {
+      "nom": "ARS Guadeloupe",
+      "url": "https://scontent-mrs2-2.xx.fbcdn.net/v/t1.0-9/90178281_2817708848343215_4437162165543108608_n.jpg?_nc_cat=107&_nc_sid=730e14&_nc_ohc=r5JTKBOt_rkAX-1gqOj&_nc_ht=scontent-mrs2-2.xx&oh=7b1d016cde25b7e1d62b47ac985d812c&oe=5EA2D698",
+      "archive": "https://web.archive.org/web/20200326124735/https://scontent-mrs2-2.xx.fbcdn.net/v/t1.0-9/90178281_2817708848343215_4437162165543108608_n.jpg?_nc_cat=107&_nc_sid=730e14&_nc_ohc=r5JTKBOt_rkAX-1gqOj&_nc_ht=scontent-mrs2-2.xx&oh=7b1d016cde25b7e1d62b47ac985d812c&oe=5EA2D698"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Saint-Martin",
+    "code": "COM-978",
+    "casConfirmes": 11,
+    "hospitalises": 5,
+    "gueris": 2
+  },
+  {
+    "date": "2020-03-25",
+    "source": {
       "nom": "Santé publique France",
       "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200325185410/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
@@ -45008,6 +45033,18 @@
     "nom": "Saint-Martin",
     "code": "COM-978",
     "casConfirmes": 11
+  },
+  {
+    "date": "2020-03-25",
+    "source": {
+      "nom": "Ministère des Solidarités et de la Santé",
+      "url": "https://www.dailymotion.com/video/x7sxnzg"
+    },
+    "sourceType": "ministere-sante",
+    "nom": "Saint-Martin",
+    "code": "COM-978",
+    "casConfirmes": 13,
+    "hospitalises": 3
   },
   {
     "date": "2020-03-25",
@@ -45429,6 +45466,18 @@
     "sourceType": "sante-publique-france-data"
   },
   {
+    "date": "2020-03-25",
+    "source": {
+      "nom": "ARS Bretagne",
+      "url": "https://www.bretagne.ars.sante.fr/system/files/2020-03/CP%20Coronavirus_Bretagne_point%20de%20situation%2017h30_200325.pdf",
+      "archive": "https://web.archive.org/web/20200326204930/https://www.bretagne.ars.sante.fr/coronavirus-en-bretagne-point-de-situation-sanitaire-du-mercredi-25-mars-2020-et-mesures-destinees"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Côtes-d'Armor",
+    "code": "DEP-22",
+    "casConfirmes": 47
+  },
+  {
     "code": "DEP-22",
     "nom": "Côtes-d'Armor",
     "date": "2020-03-25",
@@ -45556,6 +45605,18 @@
       "nom": "Santé publique France Data"
     },
     "sourceType": "sante-publique-france-data"
+  },
+  {
+    "date": "2020-03-25",
+    "source": {
+      "nom": "ARS Bretagne",
+      "url": "https://www.bretagne.ars.sante.fr/system/files/2020-03/CP%20Coronavirus_Bretagne_point%20de%20situation%2017h30_200325.pdf",
+      "archive": "https://web.archive.org/web/20200326204930/https://www.bretagne.ars.sante.fr/coronavirus-en-bretagne-point-de-situation-sanitaire-du-mercredi-25-mars-2020-et-mesures-destinees"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Finistère",
+    "code": "DEP-29",
+    "casConfirmes": 143
   },
   {
     "code": "DEP-29",
@@ -45750,6 +45811,18 @@
       "nom": "Santé publique France Data"
     },
     "sourceType": "sante-publique-france-data"
+  },
+  {
+    "date": "2020-03-25",
+    "source": {
+      "nom": "ARS Bretagne",
+      "url": "https://www.bretagne.ars.sante.fr/system/files/2020-03/CP%20Coronavirus_Bretagne_point%20de%20situation%2017h30_200325.pdf",
+      "archive": "https://web.archive.org/web/20200326204930/https://www.bretagne.ars.sante.fr/coronavirus-en-bretagne-point-de-situation-sanitaire-du-mercredi-25-mars-2020-et-mesures-destinees"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Ille-et-Vilaine",
+    "code": "DEP-35",
+    "casConfirmes": 135
   },
   {
     "code": "DEP-35",
@@ -46156,6 +46229,18 @@
     "sourceType": "sante-publique-france-data"
   },
   {
+    "date": "2020-03-25",
+    "source": {
+      "nom": "ARS Bretagne",
+      "url": "https://www.bretagne.ars.sante.fr/system/files/2020-03/CP%20Coronavirus_Bretagne_point%20de%20situation%2017h30_200325.pdf",
+      "archive": "https://web.archive.org/web/20200326204930/https://www.bretagne.ars.sante.fr/coronavirus-en-bretagne-point-de-situation-sanitaire-du-mercredi-25-mars-2020-et-mesures-destinees"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Morbihan",
+    "code": "DEP-56",
+    "casConfirmes": 206
+  },
+  {
     "code": "DEP-56",
     "nom": "Morbihan",
     "date": "2020-03-25",
@@ -46423,7 +46508,7 @@
       "archive": "https://web.archive.org/web/20200326081649/https://www.auvergne-rhone-alpes.ars.sante.fr/covid-19-en-auvergne-rhone-alpes-point-de-situation-mercredi-25-mars"
     },
     "sourceType": "agences-regionales-sante",
-    "nom": "Rhone",
+    "nom": "Rhône",
     "code": "DEP-69",
     "casConfirmes": 532
   },
@@ -46977,6 +47062,22 @@
     "code": "FRA"
   },
   {
+    "date": "2020-03-25",
+    "source": {
+      "nom": "Ministère des Solidarités et de la Santé",
+      "url": "https://www.dailymotion.com/video/x7sxnzg"
+    },
+    "sourceType": "ministere-sante",
+    "casConfirmes": 25233,
+    "deces": 1331,
+    "hospitalises": 11539,
+    "reanimation": 2827,
+    "gueris": 3900,
+    "capaciteLitsReanimation": 8000,
+    "nom": "France",
+    "code": "FRA"
+  },
+  {
     "code": "FRA",
     "nom": "France",
     "date": "2020-03-25",
@@ -47015,6 +47116,20 @@
     "nom": "Guadeloupe",
     "code": "REG-01",
     "casConfirmes": 76
+  },
+  {
+    "date": "2020-03-25",
+    "source": {
+      "nom": "Ministère des Solidarités et de la Santé",
+      "url": "https://www.dailymotion.com/video/x7sxnzg"
+    },
+    "sourceType": "ministere-sante",
+    "nom": "Guadeloupe",
+    "code": "REG-01",
+    "casConfirmes": 76,
+    "hospitalises": 14,
+    "reanimations": 7,
+    "deces": 1
   },
   {
     "code": "REG-01",
@@ -47057,6 +47172,18 @@
     "casConfirmes": 66
   },
   {
+    "date": "2020-03-25",
+    "source": {
+      "nom": "Ministère des Solidarités et de la Santé",
+      "url": "https://www.dailymotion.com/video/x7sxnzg"
+    },
+    "sourceType": "ministere-sante",
+    "nom": "Martinique",
+    "code": "REG-02",
+    "casConfirmes": 66,
+    "reanimations": 10
+  },
+  {
     "code": "REG-02",
     "nom": "Martinique",
     "date": "2020-03-25",
@@ -47096,6 +47223,17 @@
     "casConfirmes": 28
   },
   {
+    "date": "2020-03-25",
+    "source": {
+      "nom": "Ministère des Solidarités et de la Santé",
+      "url": "https://www.dailymotion.com/video/x7sxnzg"
+    },
+    "sourceType": "ministere-sante",
+    "nom": "Guyane",
+    "code": "REG-03",
+    "casConfirmes": 28
+  },
+  {
     "code": "REG-03",
     "nom": "Guyane",
     "date": "2020-03-25",
@@ -47116,6 +47254,17 @@
       "archive": "https://web.archive.org/web/20200325185410/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
+    "nom": "La Réunion",
+    "code": "REG-04",
+    "casConfirmes": 94
+  },
+  {
+    "date": "2020-03-25",
+    "source": {
+      "nom": "Ministère des Solidarités et de la Santé",
+      "url": "https://www.dailymotion.com/video/x7sxnzg"
+    },
+    "sourceType": "ministere-sante",
     "nom": "La Réunion",
     "code": "REG-04",
     "casConfirmes": 94
@@ -47153,6 +47302,17 @@
       "archive": "https://web.archive.org/web/20200325185410/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
     },
     "sourceType": "sante-publique-france",
+    "nom": "Mayotte",
+    "code": "REG-06",
+    "casConfirmes": 35
+  },
+  {
+    "date": "2020-03-25",
+    "source": {
+      "nom": "Ministère des Solidarités et de la Santé",
+      "url": "https://www.dailymotion.com/video/x7sxnzg"
+    },
+    "sourceType": "ministere-sante",
     "nom": "Mayotte",
     "code": "REG-06",
     "casConfirmes": 35
@@ -47435,6 +47595,24 @@
   {
     "date": "2020-03-25",
     "source": {
+      "nom": "ARS Bretagne",
+      "url": "https://www.bretagne.ars.sante.fr/system/files/2020-03/CP%20Coronavirus_Bretagne_point%20de%20situation%2017h30_200325.pdf",
+      "archive": "https://web.archive.org/web/20200326204930/https://www.bretagne.ars.sante.fr/coronavirus-en-bretagne-point-de-situation-sanitaire-du-mercredi-25-mars-2020-et-mesures-destinees"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Bretagne",
+    "code": "REG-53",
+    "casConfirmes": 603,
+    "deces": 28,
+    "hospitalises": 153,
+    "hospitalisesConventionnelle": 103,
+    "hospitalisesReadaptation": 12,
+    "reanimation": 38,
+    "gueris": 99
+  },
+  {
+    "date": "2020-03-25",
+    "source": {
       "nom": "Santé publique France",
       "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
       "archive": "https://web.archive.org/web/20200325185410/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
@@ -47674,6 +47852,32 @@
     "code": "WORLD"
   },
   {
+    "date": "2020-03-25",
+    "source": {
+      "nom": "Ministère des Solidarités et de la Santé",
+      "url": "https://www.dailymotion.com/video/x7sxnzg"
+    },
+    "sourceType": "ministere-sante",
+    "casConfirmes": 441000,
+    "paysTouches": 172,
+    "deces": 20000,
+    "nom": "Monde",
+    "code": "WORLD"
+  },
+  {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS La Réunion",
+      "url": "https://www.lareunion.ars.sante.fr/coronavirus-covid-19-la-reunion-20-nouveaux-cas-confirmes",
+      "archive": "https://web.archive.org/web/20200326173657/https://www.lareunion.ars.sante.fr/coronavirus-covid-19-la-reunion-20-nouveaux-cas-confirmes"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "La Réunion",
+    "code": "COM-974",
+    "casConfirmes": 135,
+    "reanimation": 4
+  },
+  {
     "date": "2020-03-26",
     "source": {
       "nom": "Gouvernement de la Nouvelle-Calédonie",
@@ -47698,6 +47902,18 @@
       "nom": "Santé publique France Data"
     },
     "sourceType": "sante-publique-france-data"
+  },
+  {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Hauts-de-France",
+      "url": "https://www.hauts-de-france.ars.sante.fr/system/files/2020-03/Point%20quotidien%20cas%20confirm%C3%A9s%20-%2026032020.pdf",
+      "archive": "https://web.archive.org/web/20200327085137/https://www.hauts-de-france.ars.sante.fr/system/files/2020-03/Point%20quotidien%20cas%20confirm%C3%A9s%20-%2026032020.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Aisne",
+    "code": "DEP-02",
+    "deces": 27
   },
   {
     "code": "DEP-02",
@@ -47791,6 +48007,21 @@
     "sourceType": "sante-publique-france-data"
   },
   {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo18_20200326.pdf",
+      "archive": "https://archive.org/details/arsoccovid19bulletininfo1820200326"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Ariège",
+    "code": "DEP-09",
+    "hospitalises": 7,
+    "reanimation": 3,
+    "gueris": 4,
+    "deces": 0
+  },
+  {
     "code": "DEP-09",
     "nom": "Ariège",
     "date": "2020-03-26",
@@ -47817,6 +48048,21 @@
     "sourceType": "sante-publique-france-data"
   },
   {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo18_20200326.pdf",
+      "archive": "https://archive.org/details/arsoccovid19bulletininfo1820200326"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Aude",
+    "code": "DEP-11",
+    "hospitalises": 39,
+    "reanimation": 12,
+    "gueris": 23,
+    "deces": 15
+  },
+  {
     "code": "DEP-11",
     "nom": "Aude",
     "date": "2020-03-26",
@@ -47828,6 +48074,21 @@
       "nom": "Santé publique France Data"
     },
     "sourceType": "sante-publique-france-data"
+  },
+  {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo18_20200326.pdf",
+      "archive": "https://archive.org/details/arsoccovid19bulletininfo1820200326"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Aveyron",
+    "code": "DEP-12",
+    "hospitalises": 21,
+    "reanimation": 5,
+    "gueris": 10,
+    "deces": 4
   },
   {
     "code": "DEP-12",
@@ -47854,6 +48115,19 @@
       "nom": "Santé publique France Data"
     },
     "sourceType": "sante-publique-france-data"
+  },
+  {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Normandie",
+      "url": "https://www.normandie.ars.sante.fr/coronavirus-point-de-situation-en-normandie-et-conduites-tenir",
+      "archive": "https://web.archive.org/web/20200326190314/https://www.normandie.ars.sante.fr/coronavirus-point-de-situation-en-normandie-et-conduites-tenir"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Calvados",
+    "code": "DEP-14",
+    "hospitalises": 52,
+    "deces": 1
   },
   {
     "code": "DEP-14",
@@ -47908,6 +48182,19 @@
     "sourceType": "sante-publique-france-data"
   },
   {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Centre-Val de Loire",
+      "url": "https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-26-bulletin%20information%20COVID-19_0.pdf",
+      "archive": "https://web.archive.org/web/20200326203535/https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-26-bulletin%20information%20COVID-19_0.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Cher",
+    "code": "DEP-18",
+    "casConfirmes": 25,
+    "deces": 1
+  },
+  {
     "code": "DEP-18",
     "nom": "Cher",
     "date": "2020-03-26",
@@ -47945,6 +48232,18 @@
       "nom": "Santé publique France Data"
     },
     "sourceType": "sante-publique-france-data"
+  },
+  {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Bretagne",
+      "url": "https://www.bretagne.ars.sante.fr/system/files/2020-03/2020-03-26-bulletin%20information%20COVID-19.pdf",
+      "archive": "https://web.archive.org/web/20200326204531/https://www.bretagne.ars.sante.fr/system/files/2020-03/2020-03-26-bulletin%20information%20COVID-19.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Côtes-d'Armor",
+    "code": "DEP-22",
+    "casConfirmes": 60
   },
   {
     "code": "DEP-22",
@@ -48012,6 +48311,19 @@
     "sourceType": "sante-publique-france-data"
   },
   {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Normandie",
+      "url": "https://www.normandie.ars.sante.fr/coronavirus-point-de-situation-en-normandie-et-conduites-tenir",
+      "archive": "https://web.archive.org/web/20200326190314/https://www.normandie.ars.sante.fr/coronavirus-point-de-situation-en-normandie-et-conduites-tenir"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Eure",
+    "code": "DEP-27",
+    "hospitalises": 37,
+    "deces": 2
+  },
+  {
     "code": "DEP-27",
     "nom": "Eure",
     "date": "2020-03-26",
@@ -48023,6 +48335,19 @@
       "nom": "Santé publique France Data"
     },
     "sourceType": "sante-publique-france-data"
+  },
+  {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Centre-Val de Loire",
+      "url": "https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-26-bulletin%20information%20COVID-19_0.pdf",
+      "archive": "https://web.archive.org/web/20200326203535/https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-26-bulletin%20information%20COVID-19_0.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Eure-et-Loir",
+    "code": "DEP-28",
+    "casConfirmes": 104,
+    "deces": 8
   },
   {
     "code": "DEP-28",
@@ -48038,6 +48363,18 @@
     "sourceType": "sante-publique-france-data"
   },
   {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Bretagne",
+      "url": "https://www.bretagne.ars.sante.fr/system/files/2020-03/2020-03-26-bulletin%20information%20COVID-19.pdf",
+      "archive": "https://web.archive.org/web/20200326204531/https://www.bretagne.ars.sante.fr/system/files/2020-03/2020-03-26-bulletin%20information%20COVID-19.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Finistère",
+    "code": "DEP-29",
+    "casConfirmes": 171
+  },
+  {
     "code": "DEP-29",
     "nom": "Finistère",
     "date": "2020-03-26",
@@ -48049,6 +48386,21 @@
       "nom": "Santé publique France Data"
     },
     "sourceType": "sante-publique-france-data"
+  },
+  {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Corse",
+      "url": "https://www.corse.ars.sante.fr/informations-utiles-et-point-de-situation",
+      "archive": "https://web.archive.org/web/20200326172657/https://www.corse.ars.sante.fr/informations-utiles-et-point-de-situation"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Corse-du-Sud",
+    "code": "DEP-2A",
+    "casConfirmes": 197,
+    "hospitalises": 41,
+    "deces": 19,
+    "reanimation": 9
   },
   {
     "code": "DEP-2A",
@@ -48064,6 +48416,21 @@
     "sourceType": "sante-publique-france-data"
   },
   {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Corse",
+      "url": "https://www.corse.ars.sante.fr/informations-utiles-et-point-de-situation",
+      "archive": "https://web.archive.org/web/20200326172657/https://www.corse.ars.sante.fr/informations-utiles-et-point-de-situation"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Haute-Corse",
+    "code": "DEP-2B",
+    "casConfirmes": 53,
+    "hospitalises": 7,
+    "deces": 2,
+    "reanimation": 0
+  },
+  {
     "code": "DEP-2B",
     "nom": "Haute-Corse",
     "date": "2020-03-26",
@@ -48075,6 +48442,21 @@
       "nom": "Santé publique France Data"
     },
     "sourceType": "sante-publique-france-data"
+  },
+  {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo18_20200326.pdf",
+      "archive": "https://archive.org/details/arsoccovid19bulletininfo1820200326"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Gard",
+    "code": "DEP-30",
+    "hospitalises": 17,
+    "reanimation": 11,
+    "gueris": 17,
+    "deces": 5
   },
   {
     "code": "DEP-30",
@@ -48090,6 +48472,21 @@
     "sourceType": "sante-publique-france-data"
   },
   {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo18_20200326.pdf",
+      "archive": "https://archive.org/details/arsoccovid19bulletininfo1820200326"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Haute-Garonne",
+    "code": "DEP-31",
+    "hospitalises": 141,
+    "reanimation": 54,
+    "gueris": 49,
+    "deces": 3
+  },
+  {
     "code": "DEP-31",
     "nom": "Haute-Garonne",
     "date": "2020-03-26",
@@ -48101,6 +48498,21 @@
       "nom": "Santé publique France Data"
     },
     "sourceType": "sante-publique-france-data"
+  },
+  {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo18_20200326.pdf",
+      "archive": "https://archive.org/details/arsoccovid19bulletininfo1820200326"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Gers",
+    "code": "DEP-32",
+    "hospitalises": 10,
+    "reanimation": 3,
+    "gueris": 1,
+    "deces": 0
   },
   {
     "code": "DEP-32",
@@ -48129,6 +48541,21 @@
     "sourceType": "sante-publique-france-data"
   },
   {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo18_20200326.pdf",
+      "archive": "https://archive.org/details/arsoccovid19bulletininfo1820200326"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Hérault",
+    "code": "DEP-34",
+    "hospitalises": 152,
+    "reanimation": 37,
+    "gueris": 78,
+    "deces": 16
+  },
+  {
     "code": "DEP-34",
     "nom": "Hérault",
     "date": "2020-03-26",
@@ -48140,6 +48567,18 @@
       "nom": "Santé publique France Data"
     },
     "sourceType": "sante-publique-france-data"
+  },
+  {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Bretagne",
+      "url": "https://www.bretagne.ars.sante.fr/system/files/2020-03/2020-03-26-bulletin%20information%20COVID-19.pdf",
+      "archive": "https://web.archive.org/web/20200326204531/https://www.bretagne.ars.sante.fr/system/files/2020-03/2020-03-26-bulletin%20information%20COVID-19.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Ille-et-Vilaine",
+    "code": "DEP-35",
+    "casConfirmes": 152
   },
   {
     "code": "DEP-35",
@@ -48155,6 +48594,19 @@
     "sourceType": "sante-publique-france-data"
   },
   {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Centre-Val de Loire",
+      "url": "https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-26-bulletin%20information%20COVID-19_0.pdf",
+      "archive": "https://web.archive.org/web/20200326203535/https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-26-bulletin%20information%20COVID-19_0.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Indre",
+    "code": "DEP-36",
+    "casConfirmes": 80,
+    "deces": 5
+  },
+  {
     "code": "DEP-36",
     "nom": "Indre",
     "date": "2020-03-26",
@@ -48166,6 +48618,19 @@
       "nom": "Santé publique France Data"
     },
     "sourceType": "sante-publique-france-data"
+  },
+  {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Centre-Val de Loire",
+      "url": "https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-26-bulletin%20information%20COVID-19_0.pdf",
+      "archive": "https://web.archive.org/web/20200326203535/https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-26-bulletin%20information%20COVID-19_0.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Indre-et-Loire",
+    "code": "DEP-37",
+    "casConfirmes": 123,
+    "deces": 3
   },
   {
     "code": "DEP-37",
@@ -48220,6 +48685,19 @@
     "sourceType": "sante-publique-france-data"
   },
   {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Centre-Val de Loire",
+      "url": "https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-26-bulletin%20information%20COVID-19_0.pdf",
+      "archive": "https://web.archive.org/web/20200326203535/https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-26-bulletin%20information%20COVID-19_0.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Loir-et-Cher",
+    "code": "DEP-41",
+    "casConfirmes": 55,
+    "deces": 0
+  },
+  {
     "code": "DEP-41",
     "nom": "Loir-et-Cher",
     "date": "2020-03-26",
@@ -48272,6 +48750,19 @@
     "sourceType": "sante-publique-france-data"
   },
   {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Centre-Val de Loire",
+      "url": "https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-26-bulletin%20information%20COVID-19_0.pdf",
+      "archive": "https://web.archive.org/web/20200326203535/https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-26-bulletin%20information%20COVID-19_0.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Loiret",
+    "code": "DEP-45",
+    "casConfirmes": 258,
+    "deces": 3
+  },
+  {
     "code": "DEP-45",
     "nom": "Loiret",
     "date": "2020-03-26",
@@ -48283,6 +48774,21 @@
       "nom": "Santé publique France Data"
     },
     "sourceType": "sante-publique-france-data"
+  },
+  {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo18_20200326.pdf",
+      "archive": "https://archive.org/details/arsoccovid19bulletininfo1820200326"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Lot",
+    "code": "DEP-46",
+    "hospitalises": 3,
+    "reanimation": 1,
+    "gueris": 5,
+    "deces": 0
   },
   {
     "code": "DEP-46",
@@ -48311,6 +48817,21 @@
     "sourceType": "sante-publique-france-data"
   },
   {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo18_20200326.pdf",
+      "archive": "https://archive.org/details/arsoccovid19bulletininfo1820200326"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Lozère",
+    "code": "DEP-48",
+    "hospitalises": 7,
+    "reanimation": 2,
+    "gueris": 3,
+    "deces": 0
+  },
+  {
     "code": "DEP-48",
     "nom": "Lozère",
     "date": "2020-03-26",
@@ -48335,6 +48856,19 @@
       "nom": "Santé publique France Data"
     },
     "sourceType": "sante-publique-france-data"
+  },
+  {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Normandie",
+      "url": "https://www.normandie.ars.sante.fr/coronavirus-point-de-situation-en-normandie-et-conduites-tenir",
+      "archive": "https://web.archive.org/web/20200326190314/https://www.normandie.ars.sante.fr/coronavirus-point-de-situation-en-normandie-et-conduites-tenir"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Manche",
+    "code": "DEP-50",
+    "hospitalises": 22,
+    "deces": 3
   },
   {
     "code": "DEP-50",
@@ -48415,6 +48949,18 @@
     "sourceType": "sante-publique-france-data"
   },
   {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Bretagne",
+      "url": "https://www.bretagne.ars.sante.fr/system/files/2020-03/2020-03-26-bulletin%20information%20COVID-19.pdf",
+      "archive": "https://web.archive.org/web/20200326204531/https://www.bretagne.ars.sante.fr/system/files/2020-03/2020-03-26-bulletin%20information%20COVID-19.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Morbihan",
+    "code": "DEP-56",
+    "casConfirmes": 231
+  },
+  {
     "code": "DEP-56",
     "nom": "Morbihan",
     "date": "2020-03-26",
@@ -48454,6 +49000,18 @@
     "sourceType": "sante-publique-france-data"
   },
   {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Hauts-de-France",
+      "url": "https://www.hauts-de-france.ars.sante.fr/system/files/2020-03/Point%20quotidien%20cas%20confirm%C3%A9s%20-%2026032020.pdf",
+      "archive": "https://web.archive.org/web/20200327085137/https://www.hauts-de-france.ars.sante.fr/system/files/2020-03/Point%20quotidien%20cas%20confirm%C3%A9s%20-%2026032020.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Nord",
+    "code": "DEP-59",
+    "deces": 14
+  },
+  {
     "code": "DEP-59",
     "nom": "Nord",
     "date": "2020-03-26",
@@ -48465,6 +49023,18 @@
       "nom": "Santé publique France Data"
     },
     "sourceType": "sante-publique-france-data"
+  },
+  {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Hauts-de-France",
+      "url": "https://www.hauts-de-france.ars.sante.fr/system/files/2020-03/Point%20quotidien%20cas%20confirm%C3%A9s%20-%2026032020.pdf",
+      "archive": "https://web.archive.org/web/20200327085137/https://www.hauts-de-france.ars.sante.fr/system/files/2020-03/Point%20quotidien%20cas%20confirm%C3%A9s%20-%2026032020.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Oise",
+    "code": "DEP-60",
+    "deces": 68
   },
   {
     "code": "DEP-60",
@@ -48480,6 +49050,19 @@
     "sourceType": "sante-publique-france-data"
   },
   {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Normandie",
+      "url": "https://www.normandie.ars.sante.fr/coronavirus-point-de-situation-en-normandie-et-conduites-tenir",
+      "archive": "https://web.archive.org/web/20200326190314/https://www.normandie.ars.sante.fr/coronavirus-point-de-situation-en-normandie-et-conduites-tenir"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Orne",
+    "code": "DEP-61",
+    "hospitalises": 14,
+    "deces": 1
+  },
+  {
     "code": "DEP-61",
     "nom": "Orne",
     "date": "2020-03-26",
@@ -48491,6 +49074,18 @@
       "nom": "Santé publique France Data"
     },
     "sourceType": "sante-publique-france-data"
+  },
+  {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Hauts-de-France",
+      "url": "https://www.hauts-de-france.ars.sante.fr/system/files/2020-03/Point%20quotidien%20cas%20confirm%C3%A9s%20-%2026032020.pdf",
+      "archive": "https://web.archive.org/web/20200327085137/https://www.hauts-de-france.ars.sante.fr/system/files/2020-03/Point%20quotidien%20cas%20confirm%C3%A9s%20-%2026032020.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Pas-de-Calais",
+    "code": "DEP-62",
+    "deces": 6
   },
   {
     "code": "DEP-62",
@@ -48532,6 +49127,21 @@
     "sourceType": "sante-publique-france-data"
   },
   {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo18_20200326.pdf",
+      "archive": "https://archive.org/details/arsoccovid19bulletininfo1820200326"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Hautes-Pyrénées",
+    "code": "DEP-65",
+    "hospitalises": 17,
+    "reanimation": 2,
+    "gueris": 4,
+    "deces": 1
+  },
+  {
     "code": "DEP-65",
     "nom": "Hautes-Pyrénées",
     "date": "2020-03-26",
@@ -48543,6 +49153,21 @@
       "nom": "Santé publique France Data"
     },
     "sourceType": "sante-publique-france-data"
+  },
+  {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo18_20200326.pdf",
+      "archive": "https://archive.org/details/arsoccovid19bulletininfo1820200326"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Pyrénées-Orientales",
+    "code": "DEP-66",
+    "hospitalises": 110,
+    "reanimation": 34,
+    "gueris": 30,
+    "deces": 8
   },
   {
     "code": "DEP-66",
@@ -48675,6 +49300,19 @@
     "sourceType": "sante-publique-france-data"
   },
   {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Normandie",
+      "url": "https://www.normandie.ars.sante.fr/coronavirus-point-de-situation-en-normandie-et-conduites-tenir",
+      "archive": "https://web.archive.org/web/20200326190314/https://www.normandie.ars.sante.fr/coronavirus-point-de-situation-en-normandie-et-conduites-tenir"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Seine-Maritime",
+    "code": "DEP-76",
+    "hospitalises": 137,
+    "deces": 13
+  },
+  {
     "code": "DEP-76",
     "nom": "Seine-Maritime",
     "date": "2020-03-26",
@@ -48727,6 +49365,18 @@
     "sourceType": "sante-publique-france-data"
   },
   {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Hauts-de-France",
+      "url": "https://www.hauts-de-france.ars.sante.fr/system/files/2020-03/Point%20quotidien%20cas%20confirm%C3%A9s%20-%2026032020.pdf",
+      "archive": "https://web.archive.org/web/20200327085137/https://www.hauts-de-france.ars.sante.fr/system/files/2020-03/Point%20quotidien%20cas%20confirm%C3%A9s%20-%2026032020.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Somme",
+    "code": "DEP-80",
+    "deces": 32
+  },
+  {
     "code": "DEP-80",
     "nom": "Somme",
     "date": "2020-03-26",
@@ -48740,6 +49390,21 @@
     "sourceType": "sante-publique-france-data"
   },
   {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo18_20200326.pdf",
+      "archive": "https://archive.org/details/arsoccovid19bulletininfo1820200326"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Tarn",
+    "code": "DEP-81",
+    "hospitalises": 24,
+    "reanimation": 10,
+    "gueris": 6,
+    "deces": 1
+  },
+  {
     "code": "DEP-81",
     "nom": "Tarn",
     "date": "2020-03-26",
@@ -48751,6 +49416,21 @@
       "nom": "Santé publique France Data"
     },
     "sourceType": "sante-publique-france-data"
+  },
+  {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo18_20200326.pdf",
+      "archive": "https://archive.org/details/arsoccovid19bulletininfo1820200326"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Tarn-et-Garonne",
+    "code": "DEP-82",
+    "hospitalises": 3,
+    "reanimation": 2,
+    "gueris": 3,
+    "deces": 1
   },
   {
     "code": "DEP-82",
@@ -48961,6 +49641,20 @@
     "sourceType": "sante-publique-france-data"
   },
   {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Guyane",
+      "url": "https://pbs.twimg.com/media/EUEUjOeWkAA_LnI?format=jpg&name=large",
+      "archive": "https://web.archive.org/web/20200326235548/https://pbs.twimg.com/media/EUEUjOeWkAA_LnI?format=jpg&name=large"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Guyane",
+    "code": "DEP-973",
+    "casConfirmes": 31,
+    "reanimation": 0,
+    "gueris": 10
+  },
+  {
     "code": "DEP-973",
     "nom": "Guyane",
     "date": "2020-03-26",
@@ -48987,6 +49681,21 @@
     "sourceType": "sante-publique-france-data"
   },
   {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Mayotte",
+      "url": "https://www.mayotte.ars.sante.fr/system/files/2020-03/CP%2026%20mars%20COVID-19.pdf",
+      "archive": "https://web.archive.org/web/20200326175657/https://www.mayotte.ars.sante.fr/system/files/2020-03/CP%2026%20mars%20COVID-19.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Mayotte",
+    "code": "DEP-976",
+    "casConfirmes": 42,
+    "hospitalises": 4,
+    "reanimation": 2,
+    "gueris": 1
+  },
+  {
     "code": "DEP-976",
     "nom": "Mayotte",
     "date": "2020-03-26",
@@ -49009,6 +49718,19 @@
     "sourceType": "sante-publique-france",
     "casConfirmes": 29155,
     "deces": 1696,
+    "nom": "France",
+    "code": "FRA"
+  },
+  {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "Ministère des Solidarités et de la Santé"
+    },
+    "sourceType": "ministere-sante",
+    "deces": 1696,
+    "hospitalises": 13904,
+    "reanimation": 3375,
+    "gueris": 4948,
     "nom": "France",
     "code": "FRA"
   },
@@ -49052,6 +49774,20 @@
     "sourceType": "opencovid19-fr"
   },
   {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Guyane",
+      "url": "https://pbs.twimg.com/media/EUEUjOeWkAA_LnI?format=jpg&name=large",
+      "archive": "https://web.archive.org/web/20200326235548/https://pbs.twimg.com/media/EUEUjOeWkAA_LnI?format=jpg&name=large"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Guyane",
+    "code": "REG-03",
+    "casConfirmes": 31,
+    "gueris": 10,
+    "reanimation": 0
+  },
+  {
     "code": "REG-03",
     "nom": "Guyane",
     "date": "2020-03-26",
@@ -49076,6 +49812,21 @@
       "nom": "OpenCOVID19-fr"
     },
     "sourceType": "opencovid19-fr"
+  },
+  {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Mayotte",
+      "url": "https://www.mayotte.ars.sante.fr/system/files/2020-03/CP%2026%20mars%20COVID-19.pdf",
+      "archive": "https://web.archive.org/web/20200326175657/https://www.mayotte.ars.sante.fr/system/files/2020-03/CP%2026%20mars%20COVID-19.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Mayotte",
+    "code": "REG-06",
+    "casConfirmes": 42,
+    "hospitalises": 4,
+    "reanimation": 2,
+    "gueris": 1
   },
   {
     "code": "REG-06",
@@ -49104,6 +49855,20 @@
     "sourceType": "opencovid19-fr"
   },
   {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Centre-Val de Loire",
+      "url": "https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-26-bulletin%20information%20COVID-19_0.pdf",
+      "archive": "https://web.archive.org/web/20200326203535/https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-26-bulletin%20information%20COVID-19_0.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Centre-Val de Loire",
+    "code": "REG-24",
+    "casConfirmes": 645,
+    "deces": 20,
+    "reanimation": 67
+  },
+  {
     "code": "REG-24",
     "nom": "Centre-Val de Loire",
     "date": "2020-03-26",
@@ -49115,6 +49880,21 @@
       "nom": "OpenCOVID19-fr"
     },
     "sourceType": "opencovid19-fr"
+  },
+  {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Bourgogne-Franche-Comté",
+      "url": "https://www.bourgogne-franche-comte.ars.sante.fr/system/files/2020-03/2020.03.26_COVID19_SITUATION%20BFC.pdf",
+      "archive": "https://web.archive.org/web/20200326201335/https://www.bourgogne-franche-comte.ars.sante.fr/system/files/2020-03/2020.03.26_COVID19_SITUATION%20BFC.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Bourgogne-Franche-Comté",
+    "code": "REG-27",
+    "gueris": 400,
+    "reanimation": 166,
+    "hospitalises": 619,
+    "deces": 123
   },
   {
     "code": "REG-27",
@@ -49130,6 +49910,22 @@
     "sourceType": "opencovid19-fr"
   },
   {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Normandie",
+      "url": "https://www.normandie.ars.sante.fr/coronavirus-point-de-situation-en-normandie-et-conduites-tenir",
+      "archive": "https://web.archive.org/web/20200326190314/https://www.normandie.ars.sante.fr/coronavirus-point-de-situation-en-normandie-et-conduites-tenir"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Normandie",
+    "code": "REG-28",
+    "casConfirmes": 789,
+    "deces": 20,
+    "hospitalises": 262,
+    "reanimation": 67,
+    "gueris": 59
+  },
+  {
     "code": "REG-28",
     "nom": "Normandie",
     "date": "2020-03-26",
@@ -49141,6 +49937,19 @@
       "nom": "OpenCOVID19-fr"
     },
     "sourceType": "opencovid19-fr"
+  },
+  {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Hauts-de-France",
+      "url": "https://www.hauts-de-france.ars.sante.fr/system/files/2020-03/Point%20quotidien%20cas%20confirm%C3%A9s%20-%2026032020.pdf",
+      "archive": "https://web.archive.org/web/20200327085137/https://www.hauts-de-france.ars.sante.fr/system/files/2020-03/Point%20quotidien%20cas%20confirm%C3%A9s%20-%2026032020.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Hauts-de-France",
+    "code": "REG-32",
+    "casConfirmes": 1910,
+    "deces": 147
   },
   {
     "code": "REG-32",
@@ -49169,6 +49978,21 @@
     "sourceType": "opencovid19-fr"
   },
   {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Pays de la Loire",
+      "url": "https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-03/2020-03-26-bulletin%20information%20COVID-19_1.pdf",
+      "archive": "https://web.archive.org/web/20200326193819/https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-03/2020-03-26-bulletin%20information%20COVID-19_1.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Pays de la Loire",
+    "code": "REG-52",
+    "casConfirmes": 459,
+    "reanimation": 60,
+    "deces": 31,
+    "gueris": 119
+  },
+  {
     "code": "REG-52",
     "nom": "Pays de la Loire",
     "date": "2020-03-26",
@@ -49180,6 +50004,25 @@
       "nom": "OpenCOVID19-fr"
     },
     "sourceType": "opencovid19-fr"
+  },
+  {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Bretagne",
+      "url": "https://www.bretagne.ars.sante.fr/system/files/2020-03/2020-03-26-bulletin%20information%20COVID-19.pdf",
+      "archive": "https://web.archive.org/web/20200326204531/https://www.bretagne.ars.sante.fr/system/files/2020-03/2020-03-26-bulletin%20information%20COVID-19.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Bretagne",
+    "code": "REG-53",
+    "casConfirmes": 707,
+    "deces": 29,
+    "hospitalises": 181,
+    "hospitalisesConventionnelle": 124,
+    "hospitalisesReadaptation": 13,
+    "hospitalisesAuxUrgences": 1,
+    "reanimation": 43,
+    "gueris": 108
   },
   {
     "code": "REG-53",
@@ -49208,6 +50051,22 @@
     "sourceType": "opencovid19-fr"
   },
   {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo18_20200326.pdf",
+      "archive": "https://archive.org/details/arsoccovid19bulletininfo1820200326"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Occitanie",
+    "code": "REG-76",
+    "casConfirmes": 1285,
+    "hospitalises": 551,
+    "reanimation": 176,
+    "gueris": 233,
+    "deces": 54
+  },
+  {
     "code": "REG-76",
     "nom": "Occitanie",
     "date": "2020-03-26",
@@ -49234,6 +50093,20 @@
     "sourceType": "opencovid19-fr"
   },
   {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Provence-Alpes-Côte d'Azur",
+      "url": "https://www.paca.ars.sante.fr/coronavirus-en-provence-alpes-cote-dazur-point-de-situation-au-26-mars",
+      "archive": "https://web.archive.org/web/20200326204057/https://www.paca.ars.sante.fr/coronavirus-en-provence-alpes-cote-dazur-point-de-situation-au-26-mars"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Provence-Alpes-Côte d'Azur",
+    "code": "REG-93",
+    "hospitalise": 720,
+    "reanimation": 164,
+    "deces": 44
+  },
+  {
     "code": "REG-93",
     "nom": "Provence-Alpes-Côte d'Azur",
     "date": "2020-03-26",
@@ -49245,6 +50118,21 @@
       "nom": "OpenCOVID19-fr"
     },
     "sourceType": "opencovid19-fr"
+  },
+  {
+    "date": "2020-03-26",
+    "source": {
+      "nom": "ARS Corse",
+      "url": "https://www.corse.ars.sante.fr/informations-utiles-et-point-de-situation",
+      "archive": "https://web.archive.org/web/20200326172657/https://www.corse.ars.sante.fr/informations-utiles-et-point-de-situation"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Corse",
+    "code": "REG-94",
+    "casConfirmes": 250,
+    "deces": 21,
+    "hospitalises": 48,
+    "reanimation": 9
   },
   {
     "code": "REG-94",
@@ -49269,6 +50157,1605 @@
     "sourceType": "sante-publique-france",
     "casConfirmes": 467710,
     "deces": 20947,
+    "nom": "Monde",
+    "code": "WORLD"
+  },
+  {
+    "code": "DEP-01",
+    "nom": "Ain",
+    "date": "2020-03-27",
+    "hospitalises": 49,
+    "reanimation": 9,
+    "deces": 2,
+    "gueris": 17,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-02",
+    "nom": "Aisne",
+    "date": "2020-03-27",
+    "hospitalises": 132,
+    "reanimation": 35,
+    "deces": 37,
+    "gueris": 90,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-03",
+    "nom": "Allier",
+    "date": "2020-03-27",
+    "hospitalises": 18,
+    "reanimation": 2,
+    "deces": 4,
+    "gueris": 27,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-04",
+    "nom": "Alpes-de-Haute-Provence",
+    "date": "2020-03-27",
+    "hospitalises": 11,
+    "reanimation": 1,
+    "deces": 0,
+    "gueris": 18,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-05",
+    "nom": "Hautes-Alpes",
+    "date": "2020-03-27",
+    "hospitalises": 32,
+    "reanimation": 7,
+    "deces": 1,
+    "gueris": 22,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-06",
+    "nom": "Alpes-Maritimes",
+    "date": "2020-03-27",
+    "hospitalises": 99,
+    "reanimation": 22,
+    "deces": 12,
+    "gueris": 99,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-07",
+    "nom": "Ardèche",
+    "date": "2020-03-27",
+    "hospitalises": 54,
+    "reanimation": 9,
+    "deces": 9,
+    "gueris": 45,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-08",
+    "nom": "Ardennes",
+    "date": "2020-03-27",
+    "hospitalises": 14,
+    "reanimation": 8,
+    "deces": 0,
+    "gueris": 2,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-09",
+    "nom": "Ariège",
+    "date": "2020-03-27",
+    "hospitalises": 8,
+    "reanimation": 1,
+    "deces": 0,
+    "gueris": 4,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-10",
+    "nom": "Aube",
+    "date": "2020-03-27",
+    "hospitalises": 61,
+    "reanimation": 13,
+    "deces": 6,
+    "gueris": 3,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-11",
+    "nom": "Aude",
+    "date": "2020-03-27",
+    "hospitalises": 45,
+    "reanimation": 14,
+    "deces": 15,
+    "gueris": 26,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-12",
+    "nom": "Aveyron",
+    "date": "2020-03-27",
+    "hospitalises": 24,
+    "reanimation": 6,
+    "deces": 5,
+    "gueris": 13,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-13",
+    "nom": "Bouches-du-Rhône",
+    "date": "2020-03-27",
+    "hospitalises": 525,
+    "reanimation": 110,
+    "deces": 20,
+    "gueris": 334,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-14",
+    "nom": "Calvados",
+    "date": "2020-03-27",
+    "hospitalises": 63,
+    "reanimation": 21,
+    "deces": 2,
+    "gueris": 12,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-15",
+    "nom": "Cantal",
+    "date": "2020-03-27",
+    "hospitalises": 7,
+    "reanimation": 4,
+    "deces": 0,
+    "gueris": 2,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-16",
+    "nom": "Charente",
+    "date": "2020-03-27",
+    "hospitalises": 27,
+    "reanimation": 5,
+    "deces": 4,
+    "gueris": 8,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-17",
+    "nom": "Charente-Maritime",
+    "date": "2020-03-27",
+    "hospitalises": 36,
+    "reanimation": 13,
+    "deces": 0,
+    "gueris": 16,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-18",
+    "nom": "Cher",
+    "date": "2020-03-27",
+    "hospitalises": 12,
+    "reanimation": 4,
+    "deces": 2,
+    "gueris": 3,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-19",
+    "nom": "Corrèze",
+    "date": "2020-03-27",
+    "hospitalises": 16,
+    "reanimation": 6,
+    "deces": 3,
+    "gueris": 1,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-21",
+    "nom": "Côte-d'Or",
+    "date": "2020-03-27",
+    "hospitalises": 170,
+    "reanimation": 42,
+    "deces": 34,
+    "gueris": 138,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-22",
+    "nom": "Côtes-d'Armor",
+    "date": "2020-03-27",
+    "hospitalises": 32,
+    "reanimation": 5,
+    "deces": 1,
+    "gueris": 3,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-23",
+    "nom": "Creuse",
+    "date": "2020-03-27",
+    "hospitalises": 6,
+    "reanimation": 2,
+    "deces": 0,
+    "gueris": 0,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-24",
+    "nom": "Dordogne",
+    "date": "2020-03-27",
+    "hospitalises": 41,
+    "reanimation": 5,
+    "deces": 0,
+    "gueris": 16,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-25",
+    "nom": "Doubs",
+    "date": "2020-03-27",
+    "hospitalises": 100,
+    "reanimation": 37,
+    "deces": 21,
+    "gueris": 60,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-26",
+    "nom": "Drôme",
+    "date": "2020-03-27",
+    "hospitalises": 129,
+    "reanimation": 35,
+    "deces": 21,
+    "gueris": 39,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-27",
+    "nom": "Eure",
+    "date": "2020-03-27",
+    "hospitalises": 37,
+    "reanimation": 10,
+    "deces": 1,
+    "gueris": 0,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-28",
+    "nom": "Eure-et-Loir",
+    "date": "2020-03-27",
+    "hospitalises": 68,
+    "reanimation": 25,
+    "deces": 10,
+    "gueris": 13,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-29",
+    "nom": "Finistère",
+    "date": "2020-03-27",
+    "hospitalises": 41,
+    "reanimation": 9,
+    "deces": 5,
+    "gueris": 23,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-2A",
+    "nom": "Corse-du-Sud",
+    "date": "2020-03-27",
+    "hospitalises": 95,
+    "reanimation": 12,
+    "deces": 17,
+    "gueris": 24,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-2B",
+    "nom": "Haute-Corse",
+    "date": "2020-03-27",
+    "hospitalises": 7,
+    "reanimation": 1,
+    "deces": 2,
+    "gueris": 46,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-30",
+    "nom": "Gard",
+    "date": "2020-03-27",
+    "hospitalises": 25,
+    "reanimation": 11,
+    "deces": 6,
+    "gueris": 19,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-31",
+    "nom": "Haute-Garonne",
+    "date": "2020-03-27",
+    "hospitalises": 156,
+    "reanimation": 56,
+    "deces": 5,
+    "gueris": 52,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-32",
+    "nom": "Gers",
+    "date": "2020-03-27",
+    "hospitalises": 15,
+    "reanimation": 4,
+    "deces": 0,
+    "gueris": 1,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-33",
+    "nom": "Gironde",
+    "date": "2020-03-27",
+    "hospitalises": 204,
+    "reanimation": 53,
+    "deces": 15,
+    "gueris": 91,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-34",
+    "nom": "Hérault",
+    "date": "2020-03-27",
+    "hospitalises": 177,
+    "reanimation": 43,
+    "deces": 18,
+    "gueris": 81,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-35",
+    "nom": "Ille-et-Vilaine",
+    "date": "2020-03-27",
+    "hospitalises": 53,
+    "reanimation": 16,
+    "deces": 3,
+    "gueris": 38,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-36",
+    "nom": "Indre",
+    "date": "2020-03-27",
+    "hospitalises": 29,
+    "reanimation": 7,
+    "deces": 7,
+    "gueris": 2,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-37",
+    "nom": "Indre-et-Loire",
+    "date": "2020-03-27",
+    "hospitalises": 51,
+    "reanimation": 15,
+    "deces": 3,
+    "gueris": 18,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-38",
+    "nom": "Isère",
+    "date": "2020-03-27",
+    "hospitalises": 114,
+    "reanimation": 29,
+    "deces": 4,
+    "gueris": 52,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-39",
+    "nom": "Jura",
+    "date": "2020-03-27",
+    "hospitalises": 48,
+    "reanimation": 12,
+    "deces": 0,
+    "gueris": 5,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-40",
+    "nom": "Landes",
+    "date": "2020-03-27",
+    "hospitalises": 10,
+    "reanimation": 3,
+    "deces": 0,
+    "gueris": 2,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-41",
+    "nom": "Loir-et-Cher",
+    "date": "2020-03-27",
+    "hospitalises": 24,
+    "reanimation": 4,
+    "deces": 0,
+    "gueris": 8,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-42",
+    "nom": "Loire",
+    "date": "2020-03-27",
+    "hospitalises": 262,
+    "reanimation": 51,
+    "deces": 20,
+    "gueris": 44,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-43",
+    "nom": "Haute-Loire",
+    "date": "2020-03-27",
+    "hospitalises": 14,
+    "reanimation": 6,
+    "deces": 1,
+    "gueris": 12,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-44",
+    "nom": "Loire-Atlantique",
+    "date": "2020-03-27",
+    "hospitalises": 128,
+    "reanimation": 33,
+    "deces": 12,
+    "gueris": 33,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-45",
+    "nom": "Loiret",
+    "date": "2020-03-27",
+    "hospitalises": 63,
+    "reanimation": 25,
+    "deces": 4,
+    "gueris": 20,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-46",
+    "nom": "Lot",
+    "date": "2020-03-27",
+    "hospitalises": 3,
+    "reanimation": 1,
+    "deces": 0,
+    "gueris": 5,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-47",
+    "nom": "Lot-et-Garonne",
+    "date": "2020-03-27",
+    "hospitalises": 17,
+    "reanimation": 5,
+    "deces": 3,
+    "gueris": 5,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-48",
+    "nom": "Lozère",
+    "date": "2020-03-27",
+    "hospitalises": 7,
+    "reanimation": 2,
+    "deces": 0,
+    "gueris": 3,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-49",
+    "nom": "Maine-et-Loire",
+    "date": "2020-03-27",
+    "hospitalises": 91,
+    "reanimation": 22,
+    "deces": 10,
+    "gueris": 73,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-50",
+    "nom": "Manche",
+    "date": "2020-03-27",
+    "hospitalises": 26,
+    "reanimation": 7,
+    "deces": 4,
+    "gueris": 11,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-51",
+    "nom": "Marne",
+    "date": "2020-03-27",
+    "hospitalises": 218,
+    "reanimation": 47,
+    "deces": 20,
+    "gueris": 80,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-52",
+    "nom": "Haute-Marne",
+    "date": "2020-03-27",
+    "hospitalises": 49,
+    "reanimation": 10,
+    "deces": 8,
+    "gueris": 17,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-53",
+    "nom": "Mayenne",
+    "date": "2020-03-27",
+    "hospitalises": 45,
+    "reanimation": 6,
+    "deces": 3,
+    "gueris": 3,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-54",
+    "nom": "Meurthe-et-Moselle",
+    "date": "2020-03-27",
+    "hospitalises": 253,
+    "reanimation": 109,
+    "deces": 35,
+    "gueris": 54,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-55",
+    "nom": "Meuse",
+    "date": "2020-03-27",
+    "hospitalises": 128,
+    "reanimation": 13,
+    "deces": 13,
+    "gueris": 37,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-56",
+    "nom": "Morbihan",
+    "date": "2020-03-27",
+    "hospitalises": 89,
+    "reanimation": 19,
+    "deces": 25,
+    "gueris": 67,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-57",
+    "nom": "Moselle",
+    "date": "2020-03-27",
+    "hospitalises": 691,
+    "reanimation": 127,
+    "deces": 122,
+    "gueris": 171,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-58",
+    "nom": "Nièvre",
+    "date": "2020-03-27",
+    "hospitalises": 6,
+    "reanimation": 3,
+    "deces": 0,
+    "gueris": 0,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-59",
+    "nom": "Nord",
+    "date": "2020-03-27",
+    "hospitalises": 331,
+    "reanimation": 129,
+    "deces": 35,
+    "gueris": 77,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-60",
+    "nom": "Oise",
+    "date": "2020-03-27",
+    "hospitalises": 232,
+    "reanimation": 52,
+    "deces": 66,
+    "gueris": 120,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-61",
+    "nom": "Orne",
+    "date": "2020-03-27",
+    "hospitalises": 15,
+    "reanimation": 5,
+    "deces": 1,
+    "gueris": 25,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-62",
+    "nom": "Pas-de-Calais",
+    "date": "2020-03-27",
+    "hospitalises": 121,
+    "reanimation": 44,
+    "deces": 9,
+    "gueris": 61,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-63",
+    "nom": "Puy-de-Dôme",
+    "date": "2020-03-27",
+    "hospitalises": 27,
+    "reanimation": 5,
+    "deces": 0,
+    "gueris": 14,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-64",
+    "nom": "Pyrénées-Atlantiques",
+    "date": "2020-03-27",
+    "hospitalises": 48,
+    "reanimation": 11,
+    "deces": 5,
+    "gueris": 21,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-65",
+    "nom": "Hautes-Pyrénées",
+    "date": "2020-03-27",
+    "hospitalises": 17,
+    "reanimation": 3,
+    "deces": 1,
+    "gueris": 5,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-66",
+    "nom": "Pyrénées-Orientales",
+    "date": "2020-03-27",
+    "hospitalises": 112,
+    "reanimation": 32,
+    "deces": 9,
+    "gueris": 37,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-67",
+    "nom": "Bas-Rhin",
+    "date": "2020-03-27",
+    "hospitalises": 787,
+    "reanimation": 223,
+    "deces": 107,
+    "gueris": 234,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-68",
+    "nom": "Haut-Rhin",
+    "date": "2020-03-27",
+    "hospitalises": 963,
+    "reanimation": 128,
+    "deces": 290,
+    "gueris": 409,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-69",
+    "nom": "Rhône",
+    "date": "2020-03-27",
+    "hospitalises": 741,
+    "reanimation": 139,
+    "deces": 82,
+    "gueris": 224,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-70",
+    "nom": "Haute-Saône",
+    "date": "2020-03-27",
+    "hospitalises": 67,
+    "reanimation": 23,
+    "deces": 6,
+    "gueris": 22,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-71",
+    "nom": "Saône-et-Loire",
+    "date": "2020-03-27",
+    "hospitalises": 165,
+    "reanimation": 27,
+    "deces": 32,
+    "gueris": 145,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-72",
+    "nom": "Sarthe",
+    "date": "2020-03-27",
+    "hospitalises": 53,
+    "reanimation": 12,
+    "deces": 3,
+    "gueris": 22,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-73",
+    "nom": "Savoie",
+    "date": "2020-03-27",
+    "hospitalises": 61,
+    "reanimation": 15,
+    "deces": 3,
+    "gueris": 24,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-74",
+    "nom": "Haute-Savoie",
+    "date": "2020-03-27",
+    "hospitalises": 162,
+    "reanimation": 40,
+    "deces": 19,
+    "gueris": 106,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-75",
+    "nom": "Paris",
+    "date": "2020-03-27",
+    "hospitalises": 1656,
+    "reanimation": 441,
+    "deces": 180,
+    "gueris": 433,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-76",
+    "nom": "Seine-Maritime",
+    "date": "2020-03-27",
+    "hospitalises": 172,
+    "reanimation": 50,
+    "deces": 16,
+    "gueris": 25,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-77",
+    "nom": "Seine-et-Marne",
+    "date": "2020-03-27",
+    "hospitalises": 321,
+    "reanimation": 110,
+    "deces": 21,
+    "gueris": 108,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-78",
+    "nom": "Yvelines",
+    "date": "2020-03-27",
+    "hospitalises": 452,
+    "reanimation": 100,
+    "deces": 53,
+    "gueris": 135,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-79",
+    "nom": "Deux-Sèvres",
+    "date": "2020-03-27",
+    "hospitalises": 16,
+    "reanimation": 1,
+    "deces": 2,
+    "gueris": 13,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-80",
+    "nom": "Somme",
+    "date": "2020-03-27",
+    "hospitalises": 177,
+    "reanimation": 42,
+    "deces": 22,
+    "gueris": 53,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-81",
+    "nom": "Tarn",
+    "date": "2020-03-27",
+    "hospitalises": 25,
+    "reanimation": 12,
+    "deces": 1,
+    "gueris": 8,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-82",
+    "nom": "Tarn-et-Garonne",
+    "date": "2020-03-27",
+    "hospitalises": 4,
+    "reanimation": 2,
+    "deces": 1,
+    "gueris": 2,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-83",
+    "nom": "Var",
+    "date": "2020-03-27",
+    "hospitalises": 114,
+    "reanimation": 33,
+    "deces": 12,
+    "gueris": 138,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-84",
+    "nom": "Vaucluse",
+    "date": "2020-03-27",
+    "hospitalises": 42,
+    "reanimation": 13,
+    "deces": 3,
+    "gueris": 31,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-85",
+    "nom": "Vendée",
+    "date": "2020-03-27",
+    "hospitalises": 54,
+    "reanimation": 11,
+    "deces": 3,
+    "gueris": 10,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-86",
+    "nom": "Vienne",
+    "date": "2020-03-27",
+    "hospitalises": 28,
+    "reanimation": 8,
+    "deces": 6,
+    "gueris": 15,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-87",
+    "nom": "Haute-Vienne",
+    "date": "2020-03-27",
+    "hospitalises": 33,
+    "reanimation": 4,
+    "deces": 4,
+    "gueris": 3,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-88",
+    "nom": "Vosges",
+    "date": "2020-03-27",
+    "hospitalises": 126,
+    "reanimation": 21,
+    "deces": 56,
+    "gueris": 67,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-89",
+    "nom": "Yonne",
+    "date": "2020-03-27",
+    "hospitalises": 37,
+    "reanimation": 12,
+    "deces": 3,
+    "gueris": 2,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-90",
+    "nom": "Territoire de Belfort",
+    "date": "2020-03-27",
+    "hospitalises": 147,
+    "reanimation": 30,
+    "deces": 43,
+    "gueris": 60,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-91",
+    "nom": "Essonne",
+    "date": "2020-03-27",
+    "hospitalises": 453,
+    "reanimation": 100,
+    "deces": 18,
+    "gueris": 80,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-92",
+    "nom": "Hauts-de-Seine",
+    "date": "2020-03-27",
+    "hospitalises": 967,
+    "reanimation": 234,
+    "deces": 74,
+    "gueris": 261,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-93",
+    "nom": "Seine-Saint-Denis",
+    "date": "2020-03-27",
+    "hospitalises": 680,
+    "reanimation": 133,
+    "deces": 82,
+    "gueris": 125,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-94",
+    "nom": "Val-de-Marne",
+    "date": "2020-03-27",
+    "hospitalises": 760,
+    "reanimation": 158,
+    "deces": 69,
+    "gueris": 210,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-95",
+    "nom": "Val-d'Oise",
+    "date": "2020-03-27",
+    "hospitalises": 504,
+    "reanimation": 113,
+    "deces": 81,
+    "gueris": 246,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-971",
+    "nom": "Guadeloupe",
+    "date": "2020-03-27",
+    "hospitalises": 29,
+    "reanimation": 13,
+    "deces": 1,
+    "gueris": 6,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-972",
+    "nom": "Martinique",
+    "date": "2020-03-27",
+    "hospitalises": 44,
+    "reanimation": 15,
+    "deces": 1,
+    "gueris": 13,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-973",
+    "nom": "Guyane",
+    "date": "2020-03-27",
+    "hospitalises": 0,
+    "reanimation": 0,
+    "deces": 0,
+    "gueris": 0,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-974",
+    "nom": "La Réunion",
+    "date": "2020-03-27",
+    "hospitalises": 3,
+    "reanimation": 2,
+    "deces": 0,
+    "gueris": 0,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-976",
+    "nom": "Mayotte",
+    "date": "2020-03-27",
+    "hospitalises": 0,
+    "reanimation": 0,
+    "deces": 0,
+    "gueris": 0,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "date": "2020-03-27",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200327182518/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+    },
+    "sourceType": "sante-publique-france",
+    "casConfirmes": 32964,
+    "deces": 1995,
+    "nom": "France",
+    "code": "FRA"
+  },
+  {
+    "date": "2020-03-27",
+    "source": {
+      "nom": "Ministère des Solidarités et de la Santé"
+    },
+    "sourceType": "ministere-sante",
+    "casConfirmes": 32964,
+    "deces": 1995,
+    "hospitalises": 15732,
+    "reanimation": 3787,
+    "nom": "France",
+    "code": "FRA"
+  },
+  {
+    "code": "FRA",
+    "nom": "France",
+    "date": "2020-03-27",
+    "hospitalises": 15701,
+    "reanimation": 3758,
+    "deces": 1995,
+    "gueris": 5698,
+    "source": {
+      "nom": "OpenCOVID19-fr"
+    },
+    "sourceType": "opencovid19-fr"
+  },
+  {
+    "code": "REG-01",
+    "nom": "Guadeloupe",
+    "date": "2020-03-27",
+    "hospitalises": 29,
+    "reanimation": 13,
+    "deces": 1,
+    "gueris": 6,
+    "source": {
+      "nom": "OpenCOVID19-fr"
+    },
+    "sourceType": "opencovid19-fr"
+  },
+  {
+    "code": "REG-02",
+    "nom": "Martinique",
+    "date": "2020-03-27",
+    "hospitalises": 44,
+    "reanimation": 15,
+    "deces": 1,
+    "gueris": 13,
+    "source": {
+      "nom": "OpenCOVID19-fr"
+    },
+    "sourceType": "opencovid19-fr"
+  },
+  {
+    "code": "REG-03",
+    "nom": "Guyane",
+    "date": "2020-03-27",
+    "hospitalises": 0,
+    "reanimation": 0,
+    "deces": 0,
+    "gueris": 0,
+    "source": {
+      "nom": "OpenCOVID19-fr"
+    },
+    "sourceType": "opencovid19-fr"
+  },
+  {
+    "code": "REG-04",
+    "nom": "La Réunion",
+    "date": "2020-03-27",
+    "hospitalises": 3,
+    "reanimation": 2,
+    "deces": 0,
+    "gueris": 0,
+    "source": {
+      "nom": "OpenCOVID19-fr"
+    },
+    "sourceType": "opencovid19-fr"
+  },
+  {
+    "code": "REG-06",
+    "nom": "Mayotte",
+    "date": "2020-03-27",
+    "hospitalises": 0,
+    "reanimation": 0,
+    "deces": 0,
+    "gueris": 0,
+    "source": {
+      "nom": "OpenCOVID19-fr"
+    },
+    "sourceType": "opencovid19-fr"
+  },
+  {
+    "code": "REG-11",
+    "nom": "Île-de-France",
+    "date": "2020-03-27",
+    "hospitalises": 5793,
+    "reanimation": 1389,
+    "deces": 578,
+    "gueris": 1598,
+    "source": {
+      "nom": "OpenCOVID19-fr"
+    },
+    "sourceType": "opencovid19-fr"
+  },
+  {
+    "code": "REG-24",
+    "nom": "Centre-Val de Loire",
+    "date": "2020-03-27",
+    "hospitalises": 247,
+    "reanimation": 80,
+    "deces": 26,
+    "gueris": 64,
+    "source": {
+      "nom": "OpenCOVID19-fr"
+    },
+    "sourceType": "opencovid19-fr"
+  },
+  {
+    "code": "REG-27",
+    "nom": "Bourgogne-Franche-Comté",
+    "date": "2020-03-27",
+    "hospitalises": 740,
+    "reanimation": 186,
+    "deces": 139,
+    "gueris": 432,
+    "source": {
+      "nom": "OpenCOVID19-fr"
+    },
+    "sourceType": "opencovid19-fr"
+  },
+  {
+    "code": "REG-28",
+    "nom": "Normandie",
+    "date": "2020-03-27",
+    "hospitalises": 313,
+    "reanimation": 93,
+    "deces": 24,
+    "gueris": 73,
+    "source": {
+      "nom": "OpenCOVID19-fr"
+    },
+    "sourceType": "opencovid19-fr"
+  },
+  {
+    "code": "REG-32",
+    "nom": "Hauts-de-France",
+    "date": "2020-03-27",
+    "hospitalises": 993,
+    "reanimation": 302,
+    "deces": 169,
+    "gueris": 401,
+    "source": {
+      "nom": "OpenCOVID19-fr"
+    },
+    "sourceType": "opencovid19-fr"
+  },
+  {
+    "code": "REG-44",
+    "nom": "Grand Est",
+    "date": "2020-03-27",
+    "hospitalises": 3290,
+    "reanimation": 699,
+    "deces": 657,
+    "gueris": 1074,
+    "source": {
+      "nom": "OpenCOVID19-fr"
+    },
+    "sourceType": "opencovid19-fr"
+  },
+  {
+    "code": "REG-52",
+    "nom": "Pays de la Loire",
+    "date": "2020-03-27",
+    "hospitalises": 371,
+    "reanimation": 84,
+    "deces": 31,
+    "gueris": 141,
+    "source": {
+      "nom": "OpenCOVID19-fr"
+    },
+    "sourceType": "opencovid19-fr"
+  },
+  {
+    "code": "REG-53",
+    "nom": "Bretagne",
+    "date": "2020-03-27",
+    "hospitalises": 215,
+    "reanimation": 49,
+    "deces": 34,
+    "gueris": 131,
+    "source": {
+      "nom": "OpenCOVID19-fr"
+    },
+    "sourceType": "opencovid19-fr"
+  },
+  {
+    "code": "REG-75",
+    "nom": "Nouvelle-Aquitaine",
+    "date": "2020-03-27",
+    "hospitalises": 482,
+    "reanimation": 116,
+    "deces": 42,
+    "gueris": 191,
+    "source": {
+      "nom": "OpenCOVID19-fr"
+    },
+    "sourceType": "opencovid19-fr"
+  },
+  {
+    "code": "REG-76",
+    "nom": "Occitanie",
+    "date": "2020-03-27",
+    "hospitalises": 618,
+    "reanimation": 187,
+    "deces": 61,
+    "gueris": 256,
+    "source": {
+      "nom": "OpenCOVID19-fr"
+    },
+    "sourceType": "opencovid19-fr"
+  },
+  {
+    "code": "REG-84",
+    "nom": "Auvergne-Rhône-Alpes",
+    "date": "2020-03-27",
+    "hospitalises": 1638,
+    "reanimation": 344,
+    "deces": 165,
+    "gueris": 606,
+    "source": {
+      "nom": "OpenCOVID19-fr"
+    },
+    "sourceType": "opencovid19-fr"
+  },
+  {
+    "code": "REG-93",
+    "nom": "Provence-Alpes-Côte d'Azur",
+    "date": "2020-03-27",
+    "hospitalises": 823,
+    "reanimation": 186,
+    "deces": 48,
+    "gueris": 642,
+    "source": {
+      "nom": "OpenCOVID19-fr"
+    },
+    "sourceType": "opencovid19-fr"
+  },
+  {
+    "code": "REG-94",
+    "nom": "Corse",
+    "date": "2020-03-27",
+    "hospitalises": 102,
+    "reanimation": 13,
+    "deces": 19,
+    "gueris": 70,
+    "source": {
+      "nom": "OpenCOVID19-fr"
+    },
+    "sourceType": "opencovid19-fr"
+  },
+  {
+    "date": "2020-03-27",
+    "source": {
+      "nom": "Santé publique France",
+      "url": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde",
+      "archive": "https://web.archive.org/web/20200327182518/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde"
+    },
+    "sourceType": "sante-publique-france",
+    "casConfirmes": 528025,
+    "deces": 23672,
     "nom": "Monde",
     "code": "WORLD"
   }
