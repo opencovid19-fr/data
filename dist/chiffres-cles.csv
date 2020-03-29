@@ -4199,6 +4199,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,reanimation,hospital
 2020-03-28,departement,DEP-973,Guyane,,0,0,0,0,,Santé publique France Data,,,sante-publique-france-data
 2020-03-28,departement,DEP-974,La Réunion,,0,3,15,0,,Santé publique France Data,,,sante-publique-france-data
 2020-03-28,departement,DEP-976,Mayotte,,0,0,0,0,,Santé publique France Data,,,sante-publique-france-data
+2020-03-28,pays,FRA,France,37575,2314,,,,,Santé publique France,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde,https://web.archive.org/web/20200328214724/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde,sante-publique-france
 2020-03-28,pays,FRA,France,37575,2314,4273,17620,,,Ministère des Solidarités et de la Santé,,,ministere-sante
 2020-03-28,pays,FRA,France,,2314,4236,17580,6624,,OpenCOVID19-fr,,,opencovid19-fr
 2020-03-28,region,REG-01,Guadeloupe,,1,13,44,9,,OpenCOVID19-fr,,,opencovid19-fr
@@ -4219,3 +4220,4 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,reanimation,hospital
 2020-03-28,region,REG-84,Auvergne-Rhône-Alpes,,195,432,1904,700,,OpenCOVID19-fr,,,opencovid19-fr
 2020-03-28,region,REG-93,Provence-Alpes-Côte d'Azur,,55,208,934,691,,OpenCOVID19-fr,,,opencovid19-fr
 2020-03-28,region,REG-94,Corse,,19,18,108,71,,OpenCOVID19-fr,,,opencovid19-fr
+2020-03-28,monde,WORLD,Monde,591971,27090,,,,,Santé publique France,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde,https://web.archive.org/web/20200328214724/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde,sante-publique-france
