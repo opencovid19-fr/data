@@ -1,0 +1,21 @@
+date: 2020-03-27
+source:
+  nom: ARS La Réunion
+  url: https://www.lareunion.ars.sante.fr/coronavirus-covid-19-la-reunion-10-nouveaux-cas-confirmes
+  archive: https://web.archive.org/web/20200329084307/https://www.lareunion.ars.sante.fr/coronavirus-covid-19-la-reunion-10-nouveaux-cas-confirmes
+donneesRegionales:
+  nom: La Réunion
+  code: COM-974
+  casConfirmes: 122 # hier 108 cas importés / 7 transmissions locales / 7 transmissions locales avec voyageurs non diag ou personnes en contact de personnes confirmées
+  reanimation: 4
+  
+  #url2 : https://www.lareunion.ars.sante.fr/system/files/2020-03/2020-03-27_CP_145%20cas%20averes.pdf
+  #archive2 : https://web.archive.org/web/20200329084351/https://www.lareunion.ars.sante.fr/system/files/2020-03/2020-03-27_CP_145%20cas%20averes.pdf
+  
+  #Détails des cas par tranches d'age
+  #4 cas sont des mineurs
+  #118 cas sont des majeurs
+  #53% cas ont moins de 50 ans
+  #28% cas ont entre 50 et 65 ans
+  #19% cas ont plus de 65 ans (il est écrit moins mais c'est plus) 
+  #23 cas sont toujours en investigation
