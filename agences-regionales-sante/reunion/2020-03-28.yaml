@@ -1,0 +1,18 @@
+date: 2020-03-28
+source:
+  nom: ARS La Réunion
+  url: https://www.lareunion.ars.sante.fr/coronavirus-covid-19-la-reunion-38-nouveaux-cas-confirmes
+  archive: https://web.archive.org/web/20200329083947/https://www.lareunion.ars.sante.fr/coronavirus-covid-19-la-reunion-38-nouveaux-cas-confirmes
+donneesRegionales:
+  nom: La Réunion
+  code: COM-974
+  casConfirmes: 143 # hier 126 cas importés / 8 transmissions locales / 9 transmissions locales avec voyageurs non diag ou personnes en contact de personnes confirmées
+  reanimation: 3
+  hospitalisesConventionnelle: 1
+  #url2 : https://www.lareunion.ars.sante.fr/system/files/2020-03/2020-03-28_CP_183%20cas.pdf
+  #archive2 : https://web.archive.org/web/20200329083915/https://www.lareunion.ars.sante.fr/system/files/2020-03/2020-03-28_CP_183%20cas.pdf
+  
+  #Détails des cas par tranches d'age
+  #5 cas sont des mineurs
+  #138 cas sont des majeurs
+  #40 cas sont en cours d'investigations
