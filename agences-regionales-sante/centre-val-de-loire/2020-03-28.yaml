@@ -1,0 +1,37 @@
+date: 2020-03-28
+time: 20:00
+source:
+  nom: ARS Centre-Val de Loire
+  url: https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-28-bulletin%20information%20COVID-19_0.pdf
+  archive: https://web.archive.org/web/20200328224338/https://www.centre-val-de-loire.ars.sante.fr/system/files/2020-03/2020-03-28-bulletin%20information%20COVID-19_0.pdf
+donneesRegionales:
+  nom: Centre-Val de Loire
+  code: REG-24
+  casConfirmes: 1030 # test pcr
+  deces: 35
+  reanimation: 89
+donneesDepartementales:
+  - nom: Cher
+    code: DEP-18
+    # casConfirmes: data non fournie
+    deces: 4
+  - nom: Eure-et-Loir
+    code: DEP-28
+    # casConfirmes: data non fournie
+    deces: 10
+  - nom: Indre
+    code: DEP-36
+    # casConfirmes: data non fournie
+    deces: 8
+  - nom: Indre-et-Loire
+    code: DEP-37
+    # casConfirmes: data non fournie
+    deces: 4
+  - nom: Loir-et-Cher
+    code: DEP-41
+    # casConfirmes: data non fournie
+    deces: 3
+  - nom: Loiret
+    code: DEP-45
+    # casConfirmes: data non fournie
+    deces: 6
