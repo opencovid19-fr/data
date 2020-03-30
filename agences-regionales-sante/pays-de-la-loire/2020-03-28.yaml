@@ -11,5 +11,19 @@ donneesRegionales:
   reanimation: 103 # +20
   deces: 42 
   gueris: 163
-# details des deces en hopitaux
-#  (2 au CH de St Nazaire, 9 au CHU de Nantes , 6 à l’Hôpital privé du Confluent, 2 au CH de Châteaubriant, 1 au CH de Cholet, 2 au CH de Saumur, 7 au CHU d’Angers , 4 au CH de Laval, 1 à la Polyclinique du Maine, 4 au CH du Mans, 1 au CH de la Rochesur-Yon, 2 au CH Loire Vendée Océan, 1 au CH Côte de Lumière)
+donneesDepartementales:
+  - nom: Mayenne
+    code: DEP-53
+    deces: 5 # 4 au CH de Laval, 1 à la Polyclinique du Maine
+  - nom: Sarthe
+    code: DEP-72
+    deces: 4 # 4 au CH du Mans
+  - nom: Maine-et-Loire
+    code: DEP-49
+    deces: 10 # 1 au CH de Cholet, 2 au CH de Saumur, 7 au CHU d’Angers
+  - nom: Loire-Atlantique
+    code: DEP-44
+    deces: 19 # 2 au CH de St Nazaire, 9 au CHU de Nantes , 6 à l’Hôpital privé du Confluent, 2 au CH de Châteaubriant
+  - nom: Vendée
+    code: DEP-85
+    deces: 4 #1 au CH de la Rochesur-Yon, 2 au CH Loire Vendée Océan, 1 au CH Côte de Lumière
