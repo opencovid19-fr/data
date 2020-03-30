@@ -2555,6 +2555,7 @@
     },
     "sourceType": "ministere-sante",
     "casConfirmes": 57,
+    "deces": 2,
     "nom": "France",
     "code": "FRA"
   },
@@ -52361,6 +52362,21 @@
     "sourceType": "opencovid19-fr"
   },
   {
+    "date": "2020-03-27",
+    "source": {
+      "nom": "ARS Pays de la Loire",
+      "url": "https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-03/2020-03-27-bulletin%20information%20COVID-19_0.pdf",
+      "archive": "https://web.archive.org/web/20200328083336/https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-03/2020-03-27-bulletin%20information%20COVID-19_0.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Pays de la Loire",
+    "code": "REG-52",
+    "casConfirmes": 530,
+    "reanimation": 83,
+    "deces": 42,
+    "gueris": 139
+  },
+  {
     "code": "REG-52",
     "nom": "Pays de la Loire",
     "date": "2020-03-27",
@@ -55871,6 +55887,21 @@
       "nom": "OpenCOVID19-fr"
     },
     "sourceType": "opencovid19-fr"
+  },
+  {
+    "date": "2020-03-29",
+    "source": {
+      "nom": "ARS Martinique",
+      "url": "http://www.martinique.ars.sante.fr/system/files/2020-03/Point%20de%20situation%2029%20mars%202020_0.pdf",
+      "archive": "https://web.archive.org/web/20200330115303/https://www.martinique.ars.sante.fr/system/files/2020-03/Point%20de%20situation%2029%20mars%202020_0.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Martinique",
+    "code": "REG-02",
+    "casConfirmes": 111,
+    "reanimation": 12,
+    "gueris": 2,
+    "deces": 2
   },
   {
     "code": "REG-02",
