@@ -1,0 +1,28 @@
+date: 2020-03-29
+source:
+  nom: ARS Guadeloupe
+  url: https://www.guadeloupe.ars.sante.fr/system/files/2020-03/29032020%20Point%20de%20situation%20ARS.pdf
+  archive: https://web.archive.org/web/20200329222323/https://www.guadeloupe.ars.sante.fr/system/files/2020-03/29032020%20Point%20de%20situation%20ARS.pdf
+donneesRegionales:
+  nom: Guadeloupe
+  code: REG-01
+  casConfirmes: 106 #4 de plus qu’hier. 57 sont des femmes et 49 sont des hommes
+  hospitalises: 26 #23 au CHUG et 3 au CHBT
+  reanimation: 10
+  deces: 4 #2 de plus ce jour
+  gueris: 20
+donneesDepartementales:
+  - nom: Guadeloupe
+    code: DEP-971
+    casConfirmes: 106
+    hospitalises: 26
+    reanimation: 10
+    deces: 4
+    gueris: 20
+    victimes:
+      - date: 29-03-20
+        age: 80
+        sexe: femme 
+      - date: 29-03-20
+        age: 89
+        sexe: femme 
