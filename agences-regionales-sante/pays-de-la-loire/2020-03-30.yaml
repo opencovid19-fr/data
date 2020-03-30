@@ -1,0 +1,29 @@
+date: 2020-03-30
+time: 16:00
+source:
+  nom: ARS Pays de la Loire
+  url: https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-03/2020-03-30-bulletin%20information%20COVID-19_0.pdf
+  archive: https://web.archive.org/web/20200330201157/https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-03/2020-03-30-bulletin%20information%20COVID-19_0.pdf
+donneesRegionales:
+  nom: Pays de la Loire
+  code: REG-52
+  casConfirmes: 852
+  reanimation: 116 # +9
+  deces: 58 # 24 personnes décédées en centre Hospitalier et 7 en EHPAD
+  gueris: 195
+donneesDepartementales:
+  - nom: Mayenne
+    code: DEP-53
+    deces: 7
+  - nom: Sarthe
+    code: DEP-72
+    deces: 5
+  - nom: Maine-et-Loire
+    code: DEP-49
+    deces: 14
+  - nom: Loire-Atlantique
+    code: DEP-44
+    deces: 28
+  - nom: Vendée
+    code: DEP-85
+    deces: 4
