@@ -1,0 +1,31 @@
+date: 2020-03-27
+source:
+  nom: ARS Centre-Val de Loire
+  url: #Fichier récupéré en local. Donc pas d'url car invalide mais j'ai pu faire une archive du fichier récupéré.
+  archive: https://ia601408.us.archive.org/14/items/20200327bulletininformationcovid19/2020-03-27-bulletin%20information%20COVID-19.pdf
+donneesRegionales:
+  nom: Centre-Val de Loire
+  code: REG-24
+  casConfirmes: 830
+  deces: 26
+  reanimation: 81
+  capaciteReanimation: 223
+donneesDepartementales:
+  - nom: Cher
+    code: DEP-18
+    deces: 2
+  - nom: Eure-et-Loir
+    code: DEP-28
+    deces: 10
+  - nom: Indre
+    code: DEP-36
+    deces: 7
+  - nom: Indre-et-Loire
+    code: DEP-37
+    deces: 3
+  - nom: Loir-et-Cher
+    code: DEP-41
+    deces: 0
+  - nom: Loiret
+    code: DEP-45
+    deces: 4
