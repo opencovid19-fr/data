@@ -1,0 +1,19 @@
+date: "2020-03-29"
+source:
+    nom: ARS Guyane
+    url: https://www.guyane.ars.sante.fr/system/files/2020-03/2020_03_29_CP%20COVID-19.jpg
+    archive: https://web.archive.org/web/20200330114200/https://www.guyane.ars.sante.fr/system/files/2020-03/2020_03_29_CP%20COVID-19.jpg
+donneesRegionales:
+  nom: Guyane
+  code: REG-03
+  casConfirmes: 43 # +6 cas. 
+  gueris: 15
+  reanimation: 0
+donneesDepartementales:
+  - nom: Guyane
+    code: DEP-973
+    casConfirmes: 43
+    reanimation: 0
+    gueris: 15
+    
+# https://www.guyane.ars.sante.fr/coronavirus-6-nouveaux-cas-4-importe-et-2-secondaires-declares-positifs-en-guyane
