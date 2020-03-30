@@ -1,0 +1,25 @@
+date: "2020-03-02"
+source:
+  nom: ARS Pays de la Loire
+  url: https://www.chu-angers.fr/medias/fichier/2020-03-02-bulletin-d-information-covid-19_1583338248472-pdf?ID_FICHE=3873&INLINE=FALSE
+  archive: https://web.archive.org/web/20200329230617/https://www.chu-angers.fr/medias/fichier/2020-03-02-bulletin-d-information-covid-19_1583338248472-pdf?ID_FICHE=3873&INLINE=FALSE
+donneesRegionales:
+  nom: Pays de la Loire
+  code: REG-52
+  casConfirmes: 4 # 5-1 car 1 cas non résidant dans la région
+donneesDepartementales:
+  - nom: Mayenne
+    code: DEP-53
+    casConfirmes: 1
+  - nom: Sarthe
+    code: DEP-72
+    casConfirmes: 1
+  - nom: Maine-et-Loire
+    code: DEP-49
+    casConfirmes: 2
+  - nom: Loire-Atlantique
+    code: DEP-44
+    casConfirmes: 0
+  - nom: Vendée
+    code: DEP-85
+    casConfirmes: 0
