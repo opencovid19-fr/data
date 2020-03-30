@@ -1,4 +1,5 @@
 date: 2020-03-27
+time: 15:00
 source:
   nom: ARS La Réunion
   url: https://www.lareunion.ars.sante.fr/coronavirus-covid-19-la-reunion-10-nouveaux-cas-confirmes
@@ -6,7 +7,7 @@ source:
 donneesRegionales:
   nom: La Réunion
   code: COM-974
-  casConfirmes: 122 # hier 108 cas importés / 7 transmissions locales / 7 transmissions locales avec voyageurs non diag ou personnes en contact de personnes confirmées
+  casConfirmes: 145 # hier 108 cas importés / 7 transmissions locales / 7 transmissions locales avec voyageurs non diag ou personnes en contact de personnes confirmées / 23 en investigation
   reanimation: 4
   
   #url2 : https://www.lareunion.ars.sante.fr/system/files/2020-03/2020-03-27_CP_145%20cas%20averes.pdf
