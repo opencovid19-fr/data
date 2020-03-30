@@ -1,4 +1,4 @@
-date: 2020-03-26
+date: 2020-03-27
 source:
   nom: ARS Auvergne-Rhône-Alpes
   url: http://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200327_ARSARA_PrefARA_CP_COVID-19_Point_Situation.pdf
@@ -36,8 +36,8 @@ donneesDepartementales:
   - nom: Drôme
     code: DEP-26
     hospitalises: 129
-    gueris: 46
-    deces: 20
+    gueris: 39
+    deces: 21
   - nom: Isère
     code: DEP-38
     hospitalises: 115
@@ -50,7 +50,7 @@ donneesDepartementales:
     deces: 20
   - nom: Haute-Loire
     code: DEP-43
-    hospitalises: 114
+    hospitalises: 14
     gueris: 12
     deces: 1
   - nom: Puy-de-Dôme
@@ -60,7 +60,7 @@ donneesDepartementales:
     deces: 0
   - nom: Rhône
     code: DEP-69
-    hospitalises: 6749
+    hospitalises: 749
     gueris: 224
     deces: 83
   - nom: Savoie
