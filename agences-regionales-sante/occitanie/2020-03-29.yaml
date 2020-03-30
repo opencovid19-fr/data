@@ -1,0 +1,93 @@
+date: 2020-03-29
+time: 20:30
+source:
+  nom: ARS Occitanie
+  url: https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo21_20200329.pdf
+  archive: https://web.archive.org/web/20200330213312/https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo21_20200329.pdf
+donneesRegionales:
+  nom: Occitanie
+  code: REG-76
+  casConfirmes: 2002 # "La stratégie de tests ciblés rend désormais l’indicateur du nombre de cas confirmés moins pertinent."
+  hospitalises: 798
+  reanimation: 227
+  gueris: 325
+  deces: 72
+donneesDepartementales:
+  - nom: Ariège
+    code: DEP-09
+    hospitalises: 9
+    reanimation: 1
+    gueris: 4
+    deces: 0
+  - nom: Aude
+    code: DEP-11
+    hospitalises: 69
+    reanimation: 18
+    gueris: 35
+    deces: 17
+  - nom: Aveyron
+    code: DEP-12
+    hospitalises: 34
+    reanimation: 6
+    gueris: 16
+    deces: 6
+  - nom: Gard
+    code: DEP-30
+    hospitalises: 37
+    reanimation: 14
+    gueris: 19
+    deces: 6
+  - nom: Haute-Garonne
+    code: DEP-31
+    hospitalises: 187
+    reanimation: 65
+    gueris: 65
+    deces: 7
+  - nom: Gers
+    code: DEP-32
+    hospitalises: 20
+    reanimation: 4
+    gueris: 1
+    deces: 0
+  - nom: Hérault
+    code: DEP-34
+    hospitalises: 232
+    reanimation: 58
+    gueris: 108
+    deces: 22
+  - nom: Lot
+    code: DEP-46
+    hospitalises: 6
+    reanimation: 2
+    gueris: 6
+    deces: 0
+  - nom: Lozère
+    code: DEP-48
+    hospitalises: 9
+    reanimation: 2
+    gueris: 4
+    deces: 0
+  - nom: Hautes-Pyrénées
+    code: DEP-65
+    hospitalises: 25
+    reanimation: 5
+    gueris: 7
+    deces: 1
+  - nom: Pyrénées-Orientales
+    code: DEP-66
+    hospitalises: 128
+    reanimation: 33
+    gueris: 50
+    deces: 11
+  - nom: Tarn
+    code: DEP-81
+    hospitalises: 38
+    reanimation: 17
+    gueris: 7
+    deces: 1
+  - nom: Tarn-et-Garonne
+    code: DEP-82
+    hospitalises: 4
+    reanimation: 2
+    gueris: 3
+    deces: 1
