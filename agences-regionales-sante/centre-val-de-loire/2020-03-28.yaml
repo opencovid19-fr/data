@@ -9,7 +9,7 @@ donneesRegionales:
   code: REG-24
   casConfirmes: 1030 # test pcr
   deces: 35
-  reanimation: 87
+  reanimation: 89
 donneesDepartementales:
   - nom: Cher
     code: DEP-18
