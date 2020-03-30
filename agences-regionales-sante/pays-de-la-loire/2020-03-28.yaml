@@ -1,0 +1,15 @@
+date: "2020-03-28"
+time: "16:00"
+source:
+  nom: ARS Pays de la Loire
+  url: https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-03/2020-03-28-bulletin%20information%20COVID-19.pdf
+  archive: https://web.archive.org/web/20200330202211/https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-03/2020-03-28-bulletin%20information%20COVID-19.pdf
+donneesRegionales:
+  nom: Pays de la Loire
+  code: REG-52
+  casConfirmes: 637
+  reanimation: 103 # +20
+  deces: 42 
+  gueris: 163
+# details des deces en hopitaux
+#  (2 au CH de St Nazaire, 9 au CHU de Nantes , 6 à l’Hôpital privé du Confluent, 2 au CH de Châteaubriant, 1 au CH de Cholet, 2 au CH de Saumur, 7 au CHU d’Angers , 4 au CH de Laval, 1 à la Polyclinique du Maine, 4 au CH du Mans, 1 au CH de la Rochesur-Yon, 2 au CH Loire Vendée Océan, 1 au CH Côte de Lumière)
