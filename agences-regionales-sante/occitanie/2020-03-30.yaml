@@ -1,0 +1,93 @@
+date: 2020-03-30
+time: 19:00
+source:
+  nom: ARS Occitanie
+  url: https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo22_20200330.pdf
+  archive: https://web.archive.org/web/20200330215504/https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo22_20200330.pdf
+donneesRegionales:
+  nom: Occitanie
+  code: REG-76
+  casConfirmes: 2126 # "La stratégie de tests ciblés rend désormais l’indicateur du nombre de cas confirmés moins pertinent."
+  hospitalises: 846
+  reanimation: 263
+  gueris: 365
+  deces: 81
+donneesDepartementales:
+  - nom: Ariège
+    code: DEP-09
+    hospitalises: 11
+    reanimation: 3
+    gueris: 4
+    deces: 0
+  - nom: Aude
+    code: DEP-11
+    hospitalises: 60
+    reanimation: 18
+    gueris: 36
+    deces: 18
+  - nom: Aveyron
+    code: DEP-12
+    hospitalises: 40
+    reanimation: 8
+    gueris: 19
+    deces: 6
+  - nom: Gard
+    code: DEP-30
+    hospitalises: 44
+    reanimation: 17
+    gueris: 19
+    deces: 9
+  - nom: Haute-Garonne
+    code: DEP-31
+    hospitalises: 213
+    reanimation: 78
+    gueris: 70
+    deces: 7
+  - nom: Gers
+    code: DEP-32
+    hospitalises: 20
+    reanimation: 4
+    gueris: 1
+    deces: 1
+  - nom: Hérault
+    code: DEP-34
+    hospitalises: 244
+    reanimation: 65
+    gueris: 121
+    deces: 24
+  - nom: Lot
+    code: DEP-46
+    hospitalises: 5
+    reanimation: 2
+    gueris: 7
+    deces: 0
+  - nom: Lozère
+    code: DEP-48
+    hospitalises: 8
+    reanimation: 2
+    gueris: 6
+    deces: 0
+  - nom: Hautes-Pyrénées
+    code: DEP-65
+    hospitalises: 29
+    reanimation: 7
+    gueris: 9
+    deces: 1
+  - nom: Pyrénées-Orientales
+    code: DEP-66
+    hospitalises: 126
+    reanimation: 37
+    gueris: 59
+    deces: 12
+  - nom: Tarn
+    code: DEP-81
+    hospitalises: 39
+    reanimation: 17
+    gueris: 10
+    deces: 2
+  - nom: Tarn-et-Garonne
+    code: DEP-82
+    hospitalises: 7
+    reanimation: 5
+    gueris: 4
+    deces: 1
