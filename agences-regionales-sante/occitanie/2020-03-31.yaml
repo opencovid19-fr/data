@@ -1,0 +1,94 @@
+date: 2020-03-31
+time: 20:30
+source:
+  nom: ARS Occitanie
+  url: https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo23_20200331.png
+  archive: https://web.archive.org/web/20200330215504/https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo23_20200331.png
+donneesRegionales:
+  nom: Occitanie
+  code: REG-76
+  casConfirmes: 2374 # "La stratégie de tests ciblés rend désormais l’indicateur du nombre de cas confirmés moins pertinent."
+  hospitalises: 887
+  reanimation: 278
+  gueris: 450
+  deces: 88
+donneesDepartementales:
+  - nom: Ariège
+    code: DEP-09
+    hospitalises: 12
+    reanimation: 3
+    gueris: 6
+    deces: 0
+  - nom: Aude
+    code: DEP-11
+    hospitalises: 70
+    reanimation: 19
+    gueris: 39
+    deces: 17
+  - nom: Aveyron
+    code: DEP-12
+    hospitalises: 43
+    reanimation: 10
+    gueris: 21
+    deces: 6
+  - nom: Gard
+    code: DEP-30
+    hospitalises: 56
+    reanimation: 20
+    gueris: 23
+    deces: 10
+  - nom: Haute-Garonne
+    code: DEP-31
+    hospitalises: 223
+    reanimation: 83
+    gueris: 89
+    deces: 7
+  - nom: Gers
+    code: DEP-32
+    hospitalises: 20
+    reanimation: 4
+    gueris: 3
+    deces: 1
+  - nom: Hérault
+    code: DEP-34
+    hospitalises: 241
+    reanimation: 70
+    gueris: 156
+    deces: 29
+  - nom: Lot
+    code: DEP-46
+    hospitalises: 5
+    reanimation: 2
+    gueris: 7
+    deces: 0
+  - nom: Lozère
+    code: DEP-48
+    hospitalises: 7
+    reanimation: 2
+    gueris: 7
+    deces: 0
+  - nom: Hautes-Pyrénées
+    code: DEP-65
+    hospitalises: 28
+    reanimation: 7
+    gueris: 12
+    deces: 1
+  - nom: Pyrénées-Orientales
+    code: DEP-66
+    hospitalises: 129
+    reanimation: 35
+    gueris: 72
+    deces: 14
+  - nom: Tarn
+    code: DEP-81
+    hospitalises: 45
+    reanimation: 18
+    gueris: 11
+    deces: 2
+  - nom: Tarn-et-Garonne
+    code: DEP-82
+    hospitalises: 8
+    reanimation: 5
+    gueris: 4
+    deces: 1
+
