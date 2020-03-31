@@ -1,9 +1,10 @@
 date: 2020-03-31
 source:
   nom: Ministère des Solidarités et de la Santé
-  # PDF confidentiel
+  # PDF confidentiel et échanges directs avec la DGS
 donneesNationales:
   casConfirmes: 52128
   deces: 3523
   hospitalises: 22757
   reanimation: 5565
+  gueris: 9444
