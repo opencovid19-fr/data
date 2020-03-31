@@ -1,0 +1,27 @@
+date: 2020-03-27
+time: 16:00
+source:
+  nom: ARS Corse #point le 27 à 16h
+  url: https://www.corse.ars.sante.fr/informations-utiles-et-point-de-situation
+  archive: https://web.archive.org/web/20200329154938/https://www.corse.ars.sante.fr/informations-utiles-et-point-de-situation
+donneesRegionales:
+  nom: Corse
+  code: REG-94
+  casConfirmes: 263
+  deces: 21
+  hospitalises: 80
+  reanimation: 13
+donneesDepartementales:
+  - nom: Corse-du-Sud
+    code: DEP-2A
+    casConfirmes: 207 #+10 
+    hospitalises: 74
+    reanimation: 12
+  - nom: Haute-Corse
+    code: DEP-2B
+    casConfirmes: 56 # +3
+    hospitalises: 6
+    reanimation: 1
+	
+#prochaine point lundi 30
+#8 résidents dans 2 EHPAD testés positifs et un décès.

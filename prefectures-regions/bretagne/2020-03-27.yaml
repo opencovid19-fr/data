@@ -1,0 +1,33 @@
+date: 2020-03-27
+time: 17:30
+source:
+    nom: Préfecture région Bretagne
+    url: http://www.prefectures-regions.gouv.fr/bretagne/Actualites/Coronavirus-informations-recommandations-et-mesures-sanitaires
+    archive: https://web.archive.org/web/20200327175432/http://www.prefectures-regions.gouv.fr/bretagne/Actualites/Coronavirus-informations-recommandations-et-mesures-sanitaires
+donneesRegionales:
+  nom: Bretagne
+  code: REG-53
+  casConfirmes: 797
+  deces: 32
+  hospitalises: 214 # 152+47+15
+  hospitalisesConventionnelle: 152
+  hospitalisesReadaptation: 15
+  reanimation: 47
+  gueris : 127 # "retours à domicile"
+donneesDepartementales:
+  - nom: Côtes-d'Armor
+    code: DEP-22
+    casConfirmes: 77
+  - nom: Finistère
+    code: DEP-29
+    casConfirmes: 191
+  - nom: Ille-et-Vilaine
+    code: DEP-35
+    casConfirmes: 167
+  - nom: Morbihan
+    code: DEP-56
+    casConfirmes: 256
+
+# auxquelles s’ajoutent :
+# - 39 personnes ne résidant pas en Bretagne
+# - 67 personnes [...] dont les départements de résidence ne sont pas encore connus
