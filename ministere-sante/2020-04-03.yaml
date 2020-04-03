@@ -1,0 +1,10 @@
+date: 2020-04-03
+source:
+  nom: Ministère des Solidarités et de la Santé
+  # PDF confidentiel et échanges directs avec la DGS
+donneesNationales:
+  casConfirmes: 64338
+  deces: 5091
+  hospitalises: 27432
+  reanimation: 6662
+  gueris: 14008
