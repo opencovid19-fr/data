@@ -1,0 +1,21 @@
+date: "2020-03-30"
+source:
+    nom: ARS Mayotte
+    url: https://www.mayotte.ars.sante.fr/system/files/2020-03/CP%2030%20mars%20COVID-19_0.pdf
+    archive: https://web.archive.org/web/20200403135244/https://www.mayotte.ars.sante.fr/system/files/2020-03/CP%2030%20mars%20COVID-19_0.pdf
+donneesRegionales:
+  nom: Mayotte
+  code: REG-06
+  casConfirmes: 82 # +8
+  hospitalises: 10
+  reanimation: 3
+  gueris: 10
+  depistes: 479
+donneesDepartementales:
+  - nom: Mayotte
+    code: DEP-976
+    casConfirmes: 82
+    hospitalises: 10
+    reanimation: 3
+    gueris: 10
+    depistes: 479
