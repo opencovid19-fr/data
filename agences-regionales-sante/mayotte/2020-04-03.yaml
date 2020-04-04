@@ -1,0 +1,23 @@
+date: "2020-04-03"
+source:
+    nom: ARS Mayotte
+    url: https://www.mayotte.ars.sante.fr/system/files/2020-04/CP%203%20avril%20COVID-19.pdf
+    archive: https://web.archive.org/web/20200403140340/https://www.mayotte.ars.sante.fr/system/files/2020-04/CP%203%20avril%20COVID-19.pdf
+donneesRegionales:
+  nom: Mayotte
+  code: REG-06
+  casConfirmes: 128 # +12
+  hospitalises: 14
+  reanimation: 3
+  gueris: 13
+  deces: 2
+  depistes: 800 # + de 800 tests (chiffre exact non communiqué)
+donneesDepartementales:
+  - nom: Mayotte
+    code: DEP-976
+    casConfirmes: 128
+    hospitalises: 14
+    reanimation: 3
+    gueris: 13
+    deces: 2
+    depistes: 800
