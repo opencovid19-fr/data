@@ -52317,7 +52317,7 @@
     "source": {
       "nom": "ARS Mayotte",
       "url": "http://www.mayotte.ars.sante.fr/system/files/2020-03/CP%2027%20mars%20COVID-19_0.pdf",
-      "archive": "https://web.archive.org/save/http://www.mayotte.ars.sante.fr/system/files/2020-03/CP%2027%20mars%20COVID-19_0.pdf"
+      "archive": "https://web.archive.org/web/20200403133131/https://www.mayotte.ars.sante.fr/system/files/2020-03/CP%2027%20mars%20COVID-19_0.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Mayotte",
@@ -52465,7 +52465,7 @@
     "source": {
       "nom": "ARS Mayotte",
       "url": "http://www.mayotte.ars.sante.fr/system/files/2020-03/CP%2027%20mars%20COVID-19_0.pdf",
-      "archive": "https://web.archive.org/save/http://www.mayotte.ars.sante.fr/system/files/2020-03/CP%2027%20mars%20COVID-19_0.pdf"
+      "archive": "https://web.archive.org/web/20200403133131/https://www.mayotte.ars.sante.fr/system/files/2020-03/CP%2027%20mars%20COVID-19_0.pdf"
     },
     "sourceType": "agences-regionales-sante",
     "nom": "Mayotte",
@@ -54561,6 +54561,22 @@
     "sourceType": "sante-publique-france-data"
   },
   {
+    "date": "2020-03-28",
+    "source": {
+      "nom": "ARS Mayotte",
+      "url": "http://www.mayotte.ars.sante.fr/system/files/2020-03/CP%2028%20mars%20COVID-19.pdf",
+      "archive": "https://web.archive.org/web/20200404115908/https://www.mayotte.ars.sante.fr/system/files/2020-03/CP%2028%20mars%20COVID-19.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Mayotte",
+    "code": "DEP-976",
+    "casConfirmes": 63,
+    "hospitalises": 5,
+    "reanimation": 2,
+    "gueris": 7,
+    "depistes": 349
+  },
+  {
     "code": "DEP-976",
     "nom": "Mayotte",
     "date": "2020-03-28",
@@ -54692,6 +54708,22 @@
       "nom": "OpenCOVID19-fr"
     },
     "sourceType": "opencovid19-fr"
+  },
+  {
+    "date": "2020-03-28",
+    "source": {
+      "nom": "ARS Mayotte",
+      "url": "http://www.mayotte.ars.sante.fr/system/files/2020-03/CP%2028%20mars%20COVID-19.pdf",
+      "archive": "https://web.archive.org/web/20200404115908/https://www.mayotte.ars.sante.fr/system/files/2020-03/CP%2028%20mars%20COVID-19.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Mayotte",
+    "code": "REG-06",
+    "casConfirmes": 63,
+    "hospitalises": 7,
+    "reanimation": 2,
+    "gueris": 7,
+    "depistes": 349
   },
   {
     "code": "REG-06",
@@ -59036,6 +59068,21 @@
     "sourceType": "sante-publique-france-data"
   },
   {
+    "date": "2020-03-31",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo23_20200331.png",
+      "archive": "https://archive.org/download/arsoccovid19bulletininfo2320200331/%40ARSOC_%23COVID-19_BulletinInfo23_20200331.png"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Ariège",
+    "code": "DEP-09",
+    "hospitalises": 12,
+    "reanimation": 3,
+    "gueris": 6,
+    "deces": 0
+  },
+  {
     "code": "DEP-09",
     "nom": "Ariège",
     "date": "2020-03-31",
@@ -59062,6 +59109,21 @@
     "sourceType": "sante-publique-france-data"
   },
   {
+    "date": "2020-03-31",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo23_20200331.png",
+      "archive": "https://archive.org/download/arsoccovid19bulletininfo2320200331/%40ARSOC_%23COVID-19_BulletinInfo23_20200331.png"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Aude",
+    "code": "DEP-11",
+    "hospitalises": 70,
+    "reanimation": 19,
+    "gueris": 39,
+    "deces": 17
+  },
+  {
     "code": "DEP-11",
     "nom": "Aude",
     "date": "2020-03-31",
@@ -59073,6 +59135,21 @@
       "nom": "Santé publique France Data"
     },
     "sourceType": "sante-publique-france-data"
+  },
+  {
+    "date": "2020-03-31",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo23_20200331.png",
+      "archive": "https://archive.org/download/arsoccovid19bulletininfo2320200331/%40ARSOC_%23COVID-19_BulletinInfo23_20200331.png"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Aveyron",
+    "code": "DEP-12",
+    "hospitalises": 43,
+    "reanimation": 10,
+    "gueris": 21,
+    "deces": 6
   },
   {
     "code": "DEP-12",
@@ -59322,6 +59399,21 @@
     "sourceType": "sante-publique-france-data"
   },
   {
+    "date": "2020-03-31",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo23_20200331.png",
+      "archive": "https://archive.org/download/arsoccovid19bulletininfo2320200331/%40ARSOC_%23COVID-19_BulletinInfo23_20200331.png"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Gard",
+    "code": "DEP-30",
+    "hospitalises": 56,
+    "reanimation": 20,
+    "gueris": 23,
+    "deces": 10
+  },
+  {
     "code": "DEP-30",
     "nom": "Gard",
     "date": "2020-03-31",
@@ -59335,6 +59427,21 @@
     "sourceType": "sante-publique-france-data"
   },
   {
+    "date": "2020-03-31",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo23_20200331.png",
+      "archive": "https://archive.org/download/arsoccovid19bulletininfo2320200331/%40ARSOC_%23COVID-19_BulletinInfo23_20200331.png"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Haute-Garonne",
+    "code": "DEP-31",
+    "hospitalises": 223,
+    "reanimation": 83,
+    "gueris": 89,
+    "deces": 7
+  },
+  {
     "code": "DEP-31",
     "nom": "Haute-Garonne",
     "date": "2020-03-31",
@@ -59346,6 +59453,21 @@
       "nom": "Santé publique France Data"
     },
     "sourceType": "sante-publique-france-data"
+  },
+  {
+    "date": "2020-03-31",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo23_20200331.png",
+      "archive": "https://archive.org/download/arsoccovid19bulletininfo2320200331/%40ARSOC_%23COVID-19_BulletinInfo23_20200331.png"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Gers",
+    "code": "DEP-32",
+    "hospitalises": 20,
+    "reanimation": 4,
+    "gueris": 3,
+    "deces": 1
   },
   {
     "code": "DEP-32",
@@ -59372,6 +59494,21 @@
       "nom": "Santé publique France Data"
     },
     "sourceType": "sante-publique-france-data"
+  },
+  {
+    "date": "2020-03-31",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo23_20200331.png",
+      "archive": "https://archive.org/download/arsoccovid19bulletininfo2320200331/%40ARSOC_%23COVID-19_BulletinInfo23_20200331.png"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Hérault",
+    "code": "DEP-34",
+    "hospitalises": 241,
+    "reanimation": 70,
+    "gueris": 156,
+    "deces": 29
   },
   {
     "code": "DEP-34",
@@ -59530,6 +59667,21 @@
     "sourceType": "sante-publique-france-data"
   },
   {
+    "date": "2020-03-31",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo23_20200331.png",
+      "archive": "https://archive.org/download/arsoccovid19bulletininfo2320200331/%40ARSOC_%23COVID-19_BulletinInfo23_20200331.png"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Lot",
+    "code": "DEP-46",
+    "hospitalises": 5,
+    "reanimation": 2,
+    "gueris": 7,
+    "deces": 0
+  },
+  {
     "code": "DEP-46",
     "nom": "Lot",
     "date": "2020-03-31",
@@ -59554,6 +59706,21 @@
       "nom": "Santé publique France Data"
     },
     "sourceType": "sante-publique-france-data"
+  },
+  {
+    "date": "2020-03-31",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo23_20200331.png",
+      "archive": "https://archive.org/download/arsoccovid19bulletininfo2320200331/%40ARSOC_%23COVID-19_BulletinInfo23_20200331.png"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Lozère",
+    "code": "DEP-48",
+    "hospitalises": 7,
+    "reanimation": 2,
+    "gueris": 7,
+    "deces": 0
   },
   {
     "code": "DEP-48",
@@ -59777,6 +59944,21 @@
     "sourceType": "sante-publique-france-data"
   },
   {
+    "date": "2020-03-31",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo23_20200331.png",
+      "archive": "https://archive.org/download/arsoccovid19bulletininfo2320200331/%40ARSOC_%23COVID-19_BulletinInfo23_20200331.png"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Hautes-Pyrénées",
+    "code": "DEP-65",
+    "hospitalises": 28,
+    "reanimation": 7,
+    "gueris": 12,
+    "deces": 1
+  },
+  {
     "code": "DEP-65",
     "nom": "Hautes-Pyrénées",
     "date": "2020-03-31",
@@ -59788,6 +59970,21 @@
       "nom": "Santé publique France Data"
     },
     "sourceType": "sante-publique-france-data"
+  },
+  {
+    "date": "2020-03-31",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo23_20200331.png",
+      "archive": "https://archive.org/download/arsoccovid19bulletininfo2320200331/%40ARSOC_%23COVID-19_BulletinInfo23_20200331.png"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Pyrénées-Orientales",
+    "code": "DEP-66",
+    "hospitalises": 129,
+    "reanimation": 35,
+    "gueris": 72,
+    "deces": 14
   },
   {
     "code": "DEP-66",
@@ -59985,6 +60182,21 @@
     "sourceType": "sante-publique-france-data"
   },
   {
+    "date": "2020-03-31",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo23_20200331.png",
+      "archive": "https://archive.org/download/arsoccovid19bulletininfo2320200331/%40ARSOC_%23COVID-19_BulletinInfo23_20200331.png"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Tarn",
+    "code": "DEP-81",
+    "hospitalises": 45,
+    "reanimation": 18,
+    "gueris": 11,
+    "deces": 2
+  },
+  {
     "code": "DEP-81",
     "nom": "Tarn",
     "date": "2020-03-31",
@@ -59996,6 +60208,21 @@
       "nom": "Santé publique France Data"
     },
     "sourceType": "sante-publique-france-data"
+  },
+  {
+    "date": "2020-03-31",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo23_20200331.png",
+      "archive": "https://archive.org/download/arsoccovid19bulletininfo2320200331/%40ARSOC_%23COVID-19_BulletinInfo23_20200331.png"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Tarn-et-Garonne",
+    "code": "DEP-82",
+    "hospitalises": 8,
+    "reanimation": 5,
+    "gueris": 4,
+    "deces": 1
   },
   {
     "code": "DEP-82",
@@ -60452,6 +60679,22 @@
       "nom": "OpenCOVID19-fr"
     },
     "sourceType": "opencovid19-fr"
+  },
+  {
+    "date": "2020-03-31",
+    "source": {
+      "nom": "ARS Occitanie",
+      "url": "https://www.occitanie.ars.sante.fr/system/files/2020-03/%40ARSOC_%23COVID-19_BulletinInfo23_20200331.png",
+      "archive": "https://archive.org/download/arsoccovid19bulletininfo2320200331/%40ARSOC_%23COVID-19_BulletinInfo23_20200331.png"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Occitanie",
+    "code": "REG-76",
+    "casConfirmes": 2374,
+    "hospitalises": 887,
+    "reanimation": 278,
+    "gueris": 450,
+    "deces": 88
   },
   {
     "code": "REG-76",
@@ -63391,6 +63634,20 @@
       "nom": "Santé publique France Data"
     },
     "sourceType": "sante-publique-france-data"
+  },
+  {
+    "date": "2020-04-02",
+    "source": {
+      "nom": "Ministère des Solidarités et de la Santé"
+    },
+    "sourceType": "ministere-sante",
+    "casConfirmes": 59105,
+    "deces": 4503,
+    "hospitalises": 26246,
+    "reanimation": 6399,
+    "gueris": 12428,
+    "nom": "France",
+    "code": "FRA"
   },
   {
     "date": "2020-04-02",
