@@ -6,7 +6,7 @@ source:
 donneesRegionales: 
   nom: Auvergne-Rhône-Alpes
   code: REG-84
-  hospitalises: 1943 
+  hospitalises: 1943 # 5(0,3%) en psychiatrie.
   hospitalisesConventionnelle: 1416
   hospitalisesReadaptation: 81
   reanimation: 441
