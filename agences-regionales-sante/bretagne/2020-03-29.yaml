@@ -1,0 +1,36 @@
+date: 2020-03-29
+time: 16:00
+source:
+    nom: ARS Bretagne
+    url: https://www.bretagne.ars.sante.fr/coronavirus-en-bretagne-point-de-situation-sanitaire-du-dimanche-29-mars-2020
+    archive: https://web.archive.org/web/20200329174827/https://www.bretagne.ars.sante.fr/coronavirus-en-bretagne-point-de-situation-sanitaire-du-dimanche-29-mars-2020
+donneesRegionales:
+  nom: Bretagne
+  code: REG-53
+  casConfirmes: 962 # dont 48 ne residant pas en Bretagne et 56 en cours de rattachement.
+  deces: 39
+  hospitalises: 263 # 191+57+15+0
+  hospitalisesConventionnelle: 191
+  hospitalisesReadaptation: 15
+  hospitalisesAuxUrgences: 0
+  reanimation: 57
+  gueris : 162 # "retours à domicile"
+donneesDepartementales:
+  - nom: Côtes-d'Armor
+    code: DEP-22
+    casConfirmes: 107
+  - nom: Finistère
+    code: DEP-29
+    casConfirmes: 230
+  - nom: Ille-et-Vilaine
+    code: DEP-35
+    casConfirmes: 208
+  - nom: Morbihan
+    code: DEP-56
+    casConfirmes: 313
+
+# Auxquels s’ajoutent :
+# - 48 personnes ne résidant pas en Bretagne
+# - 56 personnes [...] dont les départements de résidence ne sont pas encore connus
+# - https://www.bretagne.ars.sante.fr/system/files/2020-03/CP%20Coronavirus_Bretagne_point%20de%20situation%2016h_200329.pdf
+# - https://web.archive.org/web/20200404123047/https://www.bretagne.ars.sante.fr/system/files/2020-03/CP%20Coronavirus_Bretagne_point%20de%20situation%2016h_200329.pdf
