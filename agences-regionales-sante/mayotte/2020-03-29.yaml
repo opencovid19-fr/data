@@ -1,0 +1,20 @@
+date: "2020-03-29"
+source:
+    nom: ARS Mayotte
+    url: https://www.mayotte.ars.sante.fr/system/files/2020-03/CP%2029%20mars%20COVID-19.pdf
+    archive: https://web.archive.org/web/20200403133328/https://www.mayotte.ars.sante.fr/system/files/2020-03/CP%2029%20mars%20COVID-19.pdf
+donneesRegionales:
+  nom: Mayotte
+  code: REG-06
+  casConfirmes: 74 # +11  
+  hospitalises: 8
+  reanimation: 2
+  gueris: 8
+  depistes: # +130 en 48h (le 30, 479 au total)
+donneesDepartementales:
+  - nom: Mayotte
+    code: DEP-976
+    casConfirmes: 74
+    hospitalises: 8
+    reanimation: 2
+    gueris: 8
