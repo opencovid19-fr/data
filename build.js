@@ -84,7 +84,7 @@ async function main() {
   const flattenedData = chain(sourcesData)
     .map(flattenSourcesData)
     .flatten()
-    .filter(r => 'casConfirmes' in r || 'deces' in r || 'reanimation' in r || 'hospitalises' in r || 'gueris' in r)
+    .filter(r => 'casConfirmes' in r || 'decesEhpad' in r || 'deces' in r || 'reanimation' in r || 'hospitalises' in r || 'gueris' in r)
     .concat(await loadData())
     .sortBy(r => `${r.date}-${r.code}`)
     .value()

@@ -117,6 +117,7 @@ Notez que le lien peut prendre du temps avant d'être fonctionnel. Il est égale
 
 * `casConfirmes` : total cumulé du nombre de cas confirmés
 * `deces` : total cumulé du nombre de décès
+* `decesEhpad` : total cumulé du nombre de décès en EHPAD (si indiqué)
 * `hospitalises` : nombre de personnes hospitalisées **le jour du bulletin**
 * `reanimation` : nombre de personnes en réanimation **le jour du bulletin**
 * `gueris` : total cumulé du nombre de personnes guéries (sorties de l'hôpital)
