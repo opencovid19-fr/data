@@ -1,0 +1,11 @@
+date: 2020-03-28
+time: 15:00
+source:
+  nom: Gouvernement de la Nouvelle-Calédonie
+  url: https://gouv.nc/sites/default/files/atoms/files/2020.03.28_cp_point_de_situation_sanitaire_global.pdf
+  archive: https://web.archive.org/web/20200407214212/https://gouv.nc/sites/default/files/atoms/files/2020.03.28_cp_point_de_situation_sanitaire_global.pdf
+donneesRegionales:
+  nom: Nouvelle-Calédonie
+  code: COM-988
+  casConfirmes: 15 # +0
+  depistes: 907 # +98
