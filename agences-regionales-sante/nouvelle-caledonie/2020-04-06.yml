@@ -1,0 +1,12 @@
+date: 2020-04-06
+source:
+  nom: Gouvernement de la Nouvelle-Calédonie
+  url: https://gouv.nc/sites/default/files/atoms/files/2020.04.06_cp_point_de_situation_sanitaire_global_du_6_avril.pdf
+  archive: https://web.archive.org/web/20200408111530/https://gouv.nc/sites/default/files/atoms/files/2020.04.06_cp_point_de_situation_sanitaire_global_du_6_avril.pdf
+donneesRegionales:
+  nom: Nouvelle-Calédonie
+  code: COM-988
+  casConfirmes: 19 # une erreur de lheure paar de dire 18, y avait deja 18 plus un nouveau cas 04/04
+  gueris: 3 # +0
+  reanimations: 1 # Toujour pas de sortie à l'hopital ni aucun déces donc je suppose la personne en réa y est tjr
+  depistes: 2135 # +152 encore
