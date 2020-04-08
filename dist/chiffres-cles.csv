@@ -3967,6 +3967,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,deces_ehpad,reanimat
 2020-03-26,region,REG-94,Corse,,19,,13,95,63,,OpenCOVID19-fr,,,opencovid19-fr
 2020-03-26,monde,WORLD,Monde,467710,20947,,,,,,Santé publique France,https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde,https://web.archive.org/web/20200326183922/https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde,sante-publique-france
 2020-03-27,collectivite-outremer,COM-974,La Réunion,145,,,4,,,,ARS La Réunion,https://www.lareunion.ars.sante.fr/coronavirus-covid-19-la-reunion-10-nouveaux-cas-confirmes,https://web.archive.org/web/20200329084307/https://www.lareunion.ars.sante.fr/coronavirus-covid-19-la-reunion-10-nouveaux-cas-confirmes,agences-regionales-sante
+2020-03-27,collectivite-outremer,COM-988,Nouvelle-Calédonie,15,,,,,,726,Gouvernement de la Nouvelle-Calédonie,https://gouv.nc/sites/default/files/atoms/files/2020.03.27_point_de_situation_intermediaire_du_vendredi_27_mars.pdf,https://web.archive.org/web/20200407213203/https://gouv.nc/sites/default/files/atoms/files/2020.03.27_point_de_situation_intermediaire_du_vendredi_27_mars.pdf,agences-regionales-sante
 2020-03-27,departement,DEP-01,Ain,,2,,,49,17,,ARS Auvergne-Rhône-Alpes,http://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200327_ARSARA_PrefARA_CP_COVID-19_Point_Situation.pdf,https://web.archive.org/web/20200328220232/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200327_ARSARA_PrefARA_CP_COVID-19_Point_Situation.pdf,agences-regionales-sante
 2020-03-27,departement,DEP-01,Ain,,2,,9,49,17,,Santé publique France Data,,,sante-publique-france-data
 2020-03-27,departement,DEP-02,Aisne,,29,,,,,,ARS Hauts-de-France,https://www.hauts-de-france.ars.sante.fr/coronavirus-covid-19-point-de-situation-dans-les-hauts-de-france,https://web.archive.org/web/20200327201122/https://www.hauts-de-france.ars.sante.fr/coronavirus-covid-19-point-de-situation-dans-les-hauts-de-france,agences-regionales-sante
@@ -5453,15 +5454,18 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,deces_ehpad,reanimat
 2020-04-06,departement,DEP-41,Loir-et-Cher,,13,,14,83,37,,Santé publique France Data,,,sante-publique-france-data
 2020-04-06,departement,DEP-42,Loire,,77,,107,487,187,,Santé publique France Data,,,sante-publique-france-data
 2020-04-06,departement,DEP-43,Haute-Loire,,3,,6,30,29,,Santé publique France Data,,,sante-publique-france-data
+2020-04-06,departement,DEP-44,Loire-Atlantique,556,47,,69,,138,,ARS Pays de la Loire,https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-04/2020-04-06-bulletin%20information%20COVID-19%20%281%29.pdf,https://web.archive.org/web/20200407060703/https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-04/2020-04-06-bulletin%20information%20COVID-19%20%281%29.pdf,agences-regionales-sante
 2020-04-06,departement,DEP-44,Loire-Atlantique,,47,,69,261,138,,Santé publique France Data,,,sante-publique-france-data
 2020-04-06,departement,DEP-45,Loiret,,25,,77,245,107,,Santé publique France Data,,,sante-publique-france-data
 2020-04-06,departement,DEP-46,Lot,,0,,8,19,28,,Santé publique France Data,,,sante-publique-france-data
 2020-04-06,departement,DEP-47,Lot-et-Garonne,,3,,7,31,12,,Santé publique France Data,,,sante-publique-france-data
 2020-04-06,departement,DEP-48,Lozère,,0,,1,8,9,,Santé publique France Data,,,sante-publique-france-data
+2020-04-06,departement,DEP-49,Maine-et-Loire,194,39,,53,,176,,ARS Pays de la Loire,https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-04/2020-04-06-bulletin%20information%20COVID-19%20%281%29.pdf,https://web.archive.org/web/20200407060703/https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-04/2020-04-06-bulletin%20information%20COVID-19%20%281%29.pdf,agences-regionales-sante
 2020-04-06,departement,DEP-49,Maine-et-Loire,,39,,53,165,176,,Santé publique France Data,,,sante-publique-france-data
 2020-04-06,departement,DEP-50,Manche,,15,,24,70,32,,Santé publique France Data,,,sante-publique-france-data
 2020-04-06,departement,DEP-51,Marne,,80,,67,389,271,,Santé publique France Data,,,sante-publique-france-data
 2020-04-06,departement,DEP-52,Haute-Marne,,27,,18,109,50,,Santé publique France Data,,,sante-publique-france-data
+2020-04-06,departement,DEP-53,Mayenne,158,11,,14,,17,,ARS Pays de la Loire,https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-04/2020-04-06-bulletin%20information%20COVID-19%20%281%29.pdf,https://web.archive.org/web/20200407060703/https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-04/2020-04-06-bulletin%20information%20COVID-19%20%281%29.pdf,agences-regionales-sante
 2020-04-06,departement,DEP-53,Mayenne,,11,,14,76,17,,Santé publique France Data,,,sante-publique-france-data
 2020-04-06,departement,DEP-54,Meurthe-et-Moselle,,117,,171,512,242,,Santé publique France Data,,,sante-publique-france-data
 2020-04-06,departement,DEP-55,Meuse,,31,,23,169,124,,Santé publique France Data,,,sante-publique-france-data
@@ -5481,6 +5485,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,deces_ehpad,reanimat
 2020-04-06,departement,DEP-69,Rhône,,233,,295,1223,640,,Santé publique France Data,,,sante-publique-france-data
 2020-04-06,departement,DEP-70,Haute-Saône,,44,,16,79,72,,Santé publique France Data,,,sante-publique-france-data
 2020-04-06,departement,DEP-71,Saône-et-Loire,,69,,38,193,170,,Santé publique France Data,,,sante-publique-france-data
+2020-04-06,departement,DEP-72,Sarthe,372,21,,24,,87,,ARS Pays de la Loire,https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-04/2020-04-06-bulletin%20information%20COVID-19%20%281%29.pdf,https://web.archive.org/web/20200407060703/https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-04/2020-04-06-bulletin%20information%20COVID-19%20%281%29.pdf,agences-regionales-sante
 2020-04-06,departement,DEP-72,Sarthe,,21,,24,106,87,,Santé publique France Data,,,sante-publique-france-data
 2020-04-06,departement,DEP-73,Savoie,,18,,34,118,127,,Santé publique France Data,,,sante-publique-france-data
 2020-04-06,departement,DEP-74,Haute-Savoie,,64,,95,292,269,,Santé publique France Data,,,sante-publique-france-data
@@ -5494,6 +5499,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,deces_ehpad,reanimat
 2020-04-06,departement,DEP-82,Tarn-et-Garonne,,3,,10,18,6,,Santé publique France Data,,,sante-publique-france-data
 2020-04-06,departement,DEP-83,Var,,41,,62,240,246,,Santé publique France Data,,,sante-publique-france-data
 2020-04-06,departement,DEP-84,Vaucluse,,16,,22,87,69,,Santé publique France Data,,,sante-publique-france-data
+2020-04-06,departement,DEP-85,Vendée,131,16,,22,,38,,ARS Pays de la Loire,https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-04/2020-04-06-bulletin%20information%20COVID-19%20%281%29.pdf,https://web.archive.org/web/20200407060703/https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-04/2020-04-06-bulletin%20information%20COVID-19%20%281%29.pdf,agences-regionales-sante
 2020-04-06,departement,DEP-85,Vendée,,16,,22,77,38,,Santé publique France Data,,,sante-publique-france-data
 2020-04-06,departement,DEP-86,Vienne,,17,,28,61,37,,Santé publique France Data,,,sante-publique-france-data
 2020-04-06,departement,DEP-87,Haute-Vienne,,10,,20,66,29,,Santé publique France Data,,,sante-publique-france-data
@@ -5523,6 +5529,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,deces_ehpad,reanimat
 2020-04-06,region,REG-28,Normandie,,127,,223,712,338,,OpenCOVID19-fr,,,opencovid19-fr
 2020-04-06,region,REG-32,Hauts-de-France,,577,,567,2227,1219,,OpenCOVID19-fr,,,opencovid19-fr
 2020-04-06,region,REG-44,Grand Est,,1574,,937,4801,3115,,OpenCOVID19-fr,,,opencovid19-fr
+2020-04-06,region,REG-52,Pays de la Loire,1412,164,,182,685,456,,ARS Pays de la Loire,https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-04/2020-04-06-bulletin%20information%20COVID-19%20%281%29.pdf,https://web.archive.org/web/20200407060703/https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-04/2020-04-06-bulletin%20information%20COVID-19%20%281%29.pdf,agences-regionales-sante
 2020-04-06,region,REG-52,Pays de la Loire,,134,,182,685,456,,OpenCOVID19-fr,,,opencovid19-fr
 2020-04-06,region,REG-53,Bretagne,,88,,141,471,296,,OpenCOVID19-fr,,,opencovid19-fr
 2020-04-06,region,REG-75,Nouvelle-Aquitaine,,138,,247,783,610,,OpenCOVID19-fr,,,opencovid19-fr
@@ -5574,15 +5581,18 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,deces_ehpad,reanimat
 2020-04-07,departement,DEP-41,Loir-et-Cher,,14,,14,86,43,,Santé publique France Data,,,sante-publique-france-data
 2020-04-07,departement,DEP-42,Loire,,88,,103,478,217,,Santé publique France Data,,,sante-publique-france-data
 2020-04-07,departement,DEP-43,Haute-Loire,,4,,7,27,33,,Santé publique France Data,,,sante-publique-france-data
+2020-04-07,departement,DEP-44,Loire-Atlantique,575,51,,64,,160,,ARS Pays de la Loire,https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-04/2020-04-07-bulletin%20information%20COVID-19.pdf,https://web.archive.org/web/20200408070202/https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-04/2020-04-07-bulletin%20information%20COVID-19.pdf,agences-regionales-sante
 2020-04-07,departement,DEP-44,Loire-Atlantique,,51,,64,264,160,,Santé publique France Data,,,sante-publique-france-data
 2020-04-07,departement,DEP-45,Loiret,,27,,75,248,125,,Santé publique France Data,,,sante-publique-france-data
 2020-04-07,departement,DEP-46,Lot,,0,,8,19,33,,Santé publique France Data,,,sante-publique-france-data
 2020-04-07,departement,DEP-47,Lot-et-Garonne,,3,,7,30,15,,Santé publique France Data,,,sante-publique-france-data
 2020-04-07,departement,DEP-48,Lozère,,0,,1,6,11,,Santé publique France Data,,,sante-publique-france-data
+2020-04-07,departement,DEP-49,Maine-et-Loire,202,44,,53,,196,,ARS Pays de la Loire,https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-04/2020-04-07-bulletin%20information%20COVID-19.pdf,https://web.archive.org/web/20200408070202/https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-04/2020-04-07-bulletin%20information%20COVID-19.pdf,agences-regionales-sante
 2020-04-07,departement,DEP-49,Maine-et-Loire,,44,,53,174,196,,Santé publique France Data,,,sante-publique-france-data
 2020-04-07,departement,DEP-50,Manche,,17,,23,66,40,,Santé publique France Data,,,sante-publique-france-data
 2020-04-07,departement,DEP-51,Marne,,88,,71,391,313,,Santé publique France Data,,,sante-publique-france-data
 2020-04-07,departement,DEP-52,Haute-Marne,,35,,17,115,55,,Santé publique France Data,,,sante-publique-france-data
+2020-04-07,departement,DEP-53,Mayenne,159,12,,14,,22,,ARS Pays de la Loire,https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-04/2020-04-07-bulletin%20information%20COVID-19.pdf,https://web.archive.org/web/20200408070202/https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-04/2020-04-07-bulletin%20information%20COVID-19.pdf,agences-regionales-sante
 2020-04-07,departement,DEP-53,Mayenne,,12,,14,71,22,,Santé publique France Data,,,sante-publique-france-data
 2020-04-07,departement,DEP-54,Meurthe-et-Moselle,,126,,173,496,287,,Santé publique France Data,,,sante-publique-france-data
 2020-04-07,departement,DEP-55,Meuse,,33,,23,168,141,,Santé publique France Data,,,sante-publique-france-data
@@ -5602,6 +5612,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,deces_ehpad,reanimat
 2020-04-07,departement,DEP-69,Rhône,,249,,273,1174,757,,Santé publique France Data,,,sante-publique-france-data
 2020-04-07,departement,DEP-70,Haute-Saône,,45,,17,84,82,,Santé publique France Data,,,sante-publique-france-data
 2020-04-07,departement,DEP-71,Saône-et-Loire,,74,,36,191,192,,Santé publique France Data,,,sante-publique-france-data
+2020-04-07,departement,DEP-72,Sarthe,394,21,,23,,95,,ARS Pays de la Loire,https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-04/2020-04-07-bulletin%20information%20COVID-19.pdf,https://web.archive.org/web/20200408070202/https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-04/2020-04-07-bulletin%20information%20COVID-19.pdf,agences-regionales-sante
 2020-04-07,departement,DEP-72,Sarthe,,21,,23,113,95,,Santé publique France Data,,,sante-publique-france-data
 2020-04-07,departement,DEP-73,Savoie,,19,,32,123,140,,Santé publique France Data,,,sante-publique-france-data
 2020-04-07,departement,DEP-74,Haute-Savoie,,68,,88,285,296,,Santé publique France Data,,,sante-publique-france-data
@@ -5615,6 +5626,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,deces_ehpad,reanimat
 2020-04-07,departement,DEP-82,Tarn-et-Garonne,,3,,9,18,6,,Santé publique France Data,,,sante-publique-france-data
 2020-04-07,departement,DEP-83,Var,,46,,61,233,264,,Santé publique France Data,,,sante-publique-france-data
 2020-04-07,departement,DEP-84,Vaucluse,,16,,23,86,85,,Santé publique France Data,,,sante-publique-france-data
+2020-04-07,departement,DEP-85,Vendée,140,16,,22,,44,,ARS Pays de la Loire,https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-04/2020-04-07-bulletin%20information%20COVID-19.pdf,https://web.archive.org/web/20200408070202/https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-04/2020-04-07-bulletin%20information%20COVID-19.pdf,agences-regionales-sante
 2020-04-07,departement,DEP-85,Vendée,,16,,22,72,44,,Santé publique France Data,,,sante-publique-france-data
 2020-04-07,departement,DEP-86,Vienne,,19,,25,59,40,,Santé publique France Data,,,sante-publique-france-data
 2020-04-07,departement,DEP-87,Haute-Vienne,,10,,19,68,32,,Santé publique France Data,,,sante-publique-france-data
@@ -5644,6 +5656,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,deces_ehpad,reanimat
 2020-04-07,region,REG-28,Normandie,,147,,225,713,392,,OpenCOVID19-fr,,,opencovid19-fr
 2020-04-07,region,REG-32,Hauts-de-France,,635,,583,2336,1393,,OpenCOVID19-fr,,,opencovid19-fr
 2020-04-07,region,REG-44,Grand Est,,1674,,950,4819,3461,,OpenCOVID19-fr,,,opencovid19-fr
+2020-04-07,region,REG-52,Pays de la Loire,1494,182,,176,694,517,,ARS Pays de la Loire,https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-04/2020-04-07-bulletin%20information%20COVID-19.pdf,https://web.archive.org/web/20200408070202/https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-04/2020-04-07-bulletin%20information%20COVID-19.pdf,agences-regionales-sante
 2020-04-07,region,REG-52,Pays de la Loire,,144,,176,694,517,,OpenCOVID19-fr,,,opencovid19-fr
 2020-04-07,region,REG-53,Bretagne,,97,,133,461,335,,OpenCOVID19-fr,,,opencovid19-fr
 2020-04-07,region,REG-75,Nouvelle-Aquitaine,,152,,243,792,669,,OpenCOVID19-fr,,,opencovid19-fr

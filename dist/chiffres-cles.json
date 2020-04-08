@@ -50425,6 +50425,19 @@
   {
     "date": "2020-03-27",
     "source": {
+      "nom": "Gouvernement de la Nouvelle-Calédonie",
+      "url": "https://gouv.nc/sites/default/files/atoms/files/2020.03.27_point_de_situation_intermediaire_du_vendredi_27_mars.pdf",
+      "archive": "https://web.archive.org/web/20200407213203/https://gouv.nc/sites/default/files/atoms/files/2020.03.27_point_de_situation_intermediaire_du_vendredi_27_mars.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Nouvelle-Calédonie",
+    "code": "COM-988",
+    "casConfirmes": 15,
+    "depistes": 726
+  },
+  {
+    "date": "2020-03-27",
+    "source": {
       "nom": "ARS Auvergne-Rhône-Alpes",
       "url": "http://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200327_ARSARA_PrefARA_CP_COVID-19_Point_Situation.pdf",
       "archive": "https://web.archive.org/web/20200328220232/https://www.auvergne-rhone-alpes.ars.sante.fr/system/files/2020-03/200327_ARSARA_PrefARA_CP_COVID-19_Point_Situation.pdf"
@@ -69977,6 +69990,22 @@
     "sourceType": "sante-publique-france-data"
   },
   {
+    "date": "2020-04-06",
+    "source": {
+      "nom": "ARS Pays de la Loire",
+      "url": "https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-04/2020-04-06-bulletin%20information%20COVID-19%20%281%29.pdf",
+      "archive": "https://web.archive.org/web/20200407060703/https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-04/2020-04-06-bulletin%20information%20COVID-19%20%281%29.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Loire-Atlantique",
+    "code": "DEP-44",
+    "casConfirmes": 556,
+    "hospitalisation": 261,
+    "reanimation": 69,
+    "gueris": 138,
+    "deces": 47
+  },
+  {
     "code": "DEP-44",
     "nom": "Loire-Atlantique",
     "date": "2020-04-06",
@@ -70042,6 +70071,22 @@
     "sourceType": "sante-publique-france-data"
   },
   {
+    "date": "2020-04-06",
+    "source": {
+      "nom": "ARS Pays de la Loire",
+      "url": "https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-04/2020-04-06-bulletin%20information%20COVID-19%20%281%29.pdf",
+      "archive": "https://web.archive.org/web/20200407060703/https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-04/2020-04-06-bulletin%20information%20COVID-19%20%281%29.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Maine-et-Loire",
+    "code": "DEP-49",
+    "casConfirmes": 194,
+    "hospitalisation": 165,
+    "reanimation": 53,
+    "gueris": 176,
+    "deces": 39
+  },
+  {
     "code": "DEP-49",
     "nom": "Maine-et-Loire",
     "date": "2020-04-06",
@@ -70092,6 +70137,22 @@
       "nom": "Santé publique France Data"
     },
     "sourceType": "sante-publique-france-data"
+  },
+  {
+    "date": "2020-04-06",
+    "source": {
+      "nom": "ARS Pays de la Loire",
+      "url": "https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-04/2020-04-06-bulletin%20information%20COVID-19%20%281%29.pdf",
+      "archive": "https://web.archive.org/web/20200407060703/https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-04/2020-04-06-bulletin%20information%20COVID-19%20%281%29.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Mayenne",
+    "code": "DEP-53",
+    "casConfirmes": 158,
+    "hospitalisation": 76,
+    "reanimation": 14,
+    "gueris": 17,
+    "deces": 11
   },
   {
     "code": "DEP-53",
@@ -70341,6 +70402,22 @@
     "sourceType": "sante-publique-france-data"
   },
   {
+    "date": "2020-04-06",
+    "source": {
+      "nom": "ARS Pays de la Loire",
+      "url": "https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-04/2020-04-06-bulletin%20information%20COVID-19%20%281%29.pdf",
+      "archive": "https://web.archive.org/web/20200407060703/https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-04/2020-04-06-bulletin%20information%20COVID-19%20%281%29.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Sarthe",
+    "code": "DEP-72",
+    "casConfirmes": 372,
+    "hospitalisation": 106,
+    "reanimation": 24,
+    "gueris": 87,
+    "deces": 21
+  },
+  {
     "code": "DEP-72",
     "nom": "Sarthe",
     "date": "2020-04-06",
@@ -70508,6 +70585,22 @@
       "nom": "Santé publique France Data"
     },
     "sourceType": "sante-publique-france-data"
+  },
+  {
+    "date": "2020-04-06",
+    "source": {
+      "nom": "ARS Pays de la Loire",
+      "url": "https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-04/2020-04-06-bulletin%20information%20COVID-19%20%281%29.pdf",
+      "archive": "https://web.archive.org/web/20200407060703/https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-04/2020-04-06-bulletin%20information%20COVID-19%20%281%29.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Vendée",
+    "code": "DEP-85",
+    "casConfirmes": 131,
+    "hospitalisation": 77,
+    "reanimation": 22,
+    "gueris": 38,
+    "deces": 16
   },
   {
     "code": "DEP-85",
@@ -70887,6 +70980,22 @@
       "nom": "OpenCOVID19-fr"
     },
     "sourceType": "opencovid19-fr"
+  },
+  {
+    "date": "2020-04-06",
+    "source": {
+      "nom": "ARS Pays de la Loire",
+      "url": "https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-04/2020-04-06-bulletin%20information%20COVID-19%20%281%29.pdf",
+      "archive": "https://web.archive.org/web/20200407060703/https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-04/2020-04-06-bulletin%20information%20COVID-19%20%281%29.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Pays de la Loire",
+    "code": "REG-52",
+    "casConfirmes": 1412,
+    "hospitalises": 685,
+    "reanimation": 182,
+    "deces": 164,
+    "gueris": 456
   },
   {
     "code": "REG-52",
@@ -71552,6 +71661,22 @@
     "sourceType": "sante-publique-france-data"
   },
   {
+    "date": "2020-04-07",
+    "source": {
+      "nom": "ARS Pays de la Loire",
+      "url": "https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-04/2020-04-07-bulletin%20information%20COVID-19.pdf",
+      "archive": "https://web.archive.org/web/20200408070202/https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-04/2020-04-07-bulletin%20information%20COVID-19.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Loire-Atlantique",
+    "code": "DEP-44",
+    "casConfirmes": 575,
+    "hospitalisation": 264,
+    "reanimation": 64,
+    "gueris": 160,
+    "deces": 51
+  },
+  {
     "code": "DEP-44",
     "nom": "Loire-Atlantique",
     "date": "2020-04-07",
@@ -71617,6 +71742,22 @@
     "sourceType": "sante-publique-france-data"
   },
   {
+    "date": "2020-04-07",
+    "source": {
+      "nom": "ARS Pays de la Loire",
+      "url": "https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-04/2020-04-07-bulletin%20information%20COVID-19.pdf",
+      "archive": "https://web.archive.org/web/20200408070202/https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-04/2020-04-07-bulletin%20information%20COVID-19.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Maine-et-Loire",
+    "code": "DEP-49",
+    "casConfirmes": 202,
+    "hospitalisation": 174,
+    "reanimation": 53,
+    "gueris": 196,
+    "deces": 44
+  },
+  {
     "code": "DEP-49",
     "nom": "Maine-et-Loire",
     "date": "2020-04-07",
@@ -71667,6 +71808,22 @@
       "nom": "Santé publique France Data"
     },
     "sourceType": "sante-publique-france-data"
+  },
+  {
+    "date": "2020-04-07",
+    "source": {
+      "nom": "ARS Pays de la Loire",
+      "url": "https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-04/2020-04-07-bulletin%20information%20COVID-19.pdf",
+      "archive": "https://web.archive.org/web/20200408070202/https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-04/2020-04-07-bulletin%20information%20COVID-19.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Mayenne",
+    "code": "DEP-53",
+    "casConfirmes": 159,
+    "hospitalisation": 71,
+    "reanimation": 14,
+    "gueris": 22,
+    "deces": 12
   },
   {
     "code": "DEP-53",
@@ -71916,6 +72073,22 @@
     "sourceType": "sante-publique-france-data"
   },
   {
+    "date": "2020-04-07",
+    "source": {
+      "nom": "ARS Pays de la Loire",
+      "url": "https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-04/2020-04-07-bulletin%20information%20COVID-19.pdf",
+      "archive": "https://web.archive.org/web/20200408070202/https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-04/2020-04-07-bulletin%20information%20COVID-19.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Sarthe",
+    "code": "DEP-72",
+    "casConfirmes": 394,
+    "hospitalisation": 113,
+    "reanimation": 23,
+    "gueris": 95,
+    "deces": 21
+  },
+  {
     "code": "DEP-72",
     "nom": "Sarthe",
     "date": "2020-04-07",
@@ -72083,6 +72256,22 @@
       "nom": "Santé publique France Data"
     },
     "sourceType": "sante-publique-france-data"
+  },
+  {
+    "date": "2020-04-07",
+    "source": {
+      "nom": "ARS Pays de la Loire",
+      "url": "https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-04/2020-04-07-bulletin%20information%20COVID-19.pdf",
+      "archive": "https://web.archive.org/web/20200408070202/https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-04/2020-04-07-bulletin%20information%20COVID-19.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Vendée",
+    "code": "DEP-85",
+    "casConfirmes": 140,
+    "hospitalisation": 72,
+    "reanimation": 22,
+    "gueris": 44,
+    "deces": 16
   },
   {
     "code": "DEP-85",
@@ -72462,6 +72651,22 @@
       "nom": "OpenCOVID19-fr"
     },
     "sourceType": "opencovid19-fr"
+  },
+  {
+    "date": "2020-04-07",
+    "source": {
+      "nom": "ARS Pays de la Loire",
+      "url": "https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-04/2020-04-07-bulletin%20information%20COVID-19.pdf",
+      "archive": "https://web.archive.org/web/20200408070202/https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-04/2020-04-07-bulletin%20information%20COVID-19.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Pays de la Loire",
+    "code": "REG-52",
+    "casConfirmes": 1494,
+    "hospitalises": 694,
+    "reanimation": 176,
+    "deces": 182,
+    "gueris": 517
   },
   {
     "code": "REG-52",
