@@ -10,8 +10,8 @@ donneesRegionales:
   hospitalises: 11
   reanimation: 2
   gueris: 10
-  deces: 3 #+1
-  depistes: 700 # + de 700 tests (chiffre exact non communiqué)
+  deces: 2 #+1
+  depistes: 650 # + de 700 tests (chiffre exact non communiqué)
 donneesDepartementales:
   - nom: Mayotte
     code: DEP-976
@@ -19,5 +19,5 @@ donneesDepartementales:
     hospitalises: 10
     reanimation: 2
     gueris: 10
-    deces: 3 #+1
+    deces: 2 #+1
     depistes: 650
