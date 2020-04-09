@@ -1,0 +1,50 @@
+date: 2020-04-08
+time: 16:00
+source:
+  nom: ARS Pays de la Loire
+  url: https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-04/2020-04-08-bulletin%20information%20COVID-19.pdf
+  archive: https://web.archive.org/web/20200409071050/https://www.pays-de-la-loire.ars.sante.fr/system/files/2020-04/2020-04-08-bulletin%20information%20COVID-19.pdf
+donneesRegionales:
+  nom: Pays de la Loire
+  code: REG-52
+  casConfirmes: 1630
+  hospitalises: 700
+  reanimation: 178 # dont 41 d'IDF et 10 du Grand Est
+  deces:  194 # 153 personnes décédées en centre Hospitalier et 41 en EHPAD
+  gueris: 570
+donneesDepartementales:
+  - nom: Loire-Atlantique
+    code: DEP-44
+    casConfirmes: 633
+    hospitalisation: 263
+    reanimation: 66
+    gueris: 179
+    deces: 54
+  - nom: Maine-et-Loire
+    code: DEP-49
+    casConfirmes: 222
+    hospitalisation: 182
+    reanimation: 52
+    gueris: 206
+    deces: 47
+  - nom: Mayenne
+    code: DEP-53
+    casConfirmes: 182
+    hospitalisation: 74
+    reanimation: 15
+    gueris: 25
+    deces: 13
+  - nom: Sarthe
+    code: DEP-72
+    casConfirmes: 422
+    hospitalisation: 116
+    reanimation: 24
+    gueris: 105
+    deces: 22
+  - nom: Vendée
+    code: DEP-85
+    casConfirmes: 147
+    hospitalisation: 65
+    reanimation: 21
+    gueris: 55
+    deces: 17
