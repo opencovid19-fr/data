@@ -1,0 +1,13 @@
+date: 2020-04-06
+time: 08:00
+source:
+  nom: DSP Polynésie française
+  url: https://www.service-public.pf/dsp/wp-content/uploads/sites/12/2020/04/2020-04-06-Point-de-situation-COVID-8h00.pdf
+  archive: https://web.archive.org/web/20200409111810/https://www.service-public.pf/dsp/wp-content/uploads/sites/12/2020/04/2020-04-06-Point-de-situation-COVID-8h00.pdf
+donneesRegionales:
+  nom: Polynésie française
+  code: COM-987
+  depistes: 618
+  casConfirmes: 42 # +1
+  hospitalises: 2 # +1
+  deces: 0 # +0
