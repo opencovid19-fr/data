@@ -16,7 +16,7 @@ donneesDepartementales:
   - nom: Mayotte
     code: DEP-976
     casConfirmes: 101
-    hospitalises: 10
+    hospitalises: 11
     reanimation: 2
     gueris: 10
     deces: 2 #+1
