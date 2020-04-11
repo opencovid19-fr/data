@@ -4658,6 +4658,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,deces_ehpad,reanimat
 2020-03-30,region,REG-84,Auvergne-Rhône-Alpes,,264,,583,2333,842,,OpenCOVID19-fr,,,opencovid19-fr
 2020-03-30,region,REG-93,Provence-Alpes-Côte d'Azur,,80,,287,1220,759,,OpenCOVID19-fr,,,opencovid19-fr
 2020-03-30,region,REG-94,Corse,,19,,20,99,91,,OpenCOVID19-fr,,,opencovid19-fr
+2020-03-31,collectivite-outremer,COM-987,Polynésie française,37,0,,,1,,463,DSP Polynésie française,https://www.service-public.pf/dsp/wp-content/uploads/sites/12/2020/03/2020-03-31-Point-de-situation-COVID-8h00.pdf,https://web.archive.org/save/https://www.service-public.pf/dsp/wp-content/uploads/sites/12/2020/03/2020-03-31-Point-de-situation-COVID-8h00.pdf,agences-regionales-sante
 2020-03-31,collectivite-outremer,COM-988,Nouvelle-Calédonie,16,,,,,,1261,Gouvernement de la Nouvelle-Calédonie,https://gouv.nc/sites/default/files/atoms/files/2020.03.31_cp_point_de_situation_sanitaire_global.pdf,https://web.archive.org/web/20200407215156/https://gouv.nc/sites/default/files/atoms/files/2020.03.31_cp_point_de_situation_sanitaire_global.pdf,agences-regionales-sante
 2020-03-31,departement,DEP-01,Ain,,10,,16,72,33,,Santé publique France Data,,,sante-publique-france-data
 2020-03-31,departement,DEP-02,Aisne,,51,,37,144,108,,Santé publique France Data,,,sante-publique-france-data
@@ -4908,6 +4909,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,deces_ehpad,reanimat
 2020-04-01,departement,DEP-972,Martinique,,3,,19,63,25,,Santé publique France Data,,,sante-publique-france-data
 2020-04-01,departement,DEP-973,Guyane,,0,,0,5,5,,Santé publique France Data,,,sante-publique-france-data
 2020-04-01,departement,DEP-974,La Réunion,,0,,3,53,20,,Santé publique France Data,,,sante-publique-france-data
+2020-04-01,departement,DEP-976,Mayotte,101,2,,2,11,10,650,ARS Mayotte,http://www.mayotte.ars.sante.fr/system/files/2020-04/CP%201er%20avril%20COVID-19_1.pdf,https://web.archive.org/web/20200408103133/https://www.mayotte.ars.sante.fr/system/files/2020-04/CP%201er%20avril%20COVID-19_1.pdf,agences-regionales-sante
 2020-04-01,departement,DEP-976,Mayotte,,0,,0,0,1,,Santé publique France Data,,,sante-publique-france-data
 2020-04-01,pays,FRA,France,56989,4032,371,6017,24639,10935,,Ministère des Solidarités et de la Santé,,,ministere-sante
 2020-04-01,pays,FRA,France,,4032,,5940,24543,10934,,OpenCOVID19-fr,,,opencovid19-fr
@@ -4915,6 +4917,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,deces_ehpad,reanimat
 2020-04-01,region,REG-02,Martinique,,3,,19,63,25,,OpenCOVID19-fr,,,opencovid19-fr
 2020-04-01,region,REG-03,Guyane,,0,,0,5,5,,OpenCOVID19-fr,,,opencovid19-fr
 2020-04-01,region,REG-04,La Réunion,,0,,3,53,20,,OpenCOVID19-fr,,,opencovid19-fr
+2020-04-01,region,REG-06,Mayotte,101,2,,2,11,10,650,ARS Mayotte,http://www.mayotte.ars.sante.fr/system/files/2020-04/CP%201er%20avril%20COVID-19_1.pdf,https://web.archive.org/web/20200408103133/https://www.mayotte.ars.sante.fr/system/files/2020-04/CP%201er%20avril%20COVID-19_1.pdf,agences-regionales-sante
 2020-04-01,region,REG-06,Mayotte,,0,,0,0,1,,OpenCOVID19-fr,,,opencovid19-fr
 2020-04-01,region,REG-11,Île-de-France,,1369,,2204,9609,3432,,OpenCOVID19-fr,,,opencovid19-fr
 2020-04-01,region,REG-24,Centre-Val de Loire,,77,,153,562,138,,OpenCOVID19-fr,,,opencovid19-fr
@@ -5054,6 +5057,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,deces_ehpad,reanimat
 2020-04-02,region,REG-84,Auvergne-Rhône-Alpes,,404,,700,2706,1374,,OpenCOVID19-fr,,,opencovid19-fr
 2020-04-02,region,REG-93,Provence-Alpes-Côte d'Azur,,141,,370,1492,1075,,OpenCOVID19-fr,,,opencovid19-fr
 2020-04-02,region,REG-94,Corse,,23,,25,86,110,,OpenCOVID19-fr,,,opencovid19-fr
+2020-04-03,collectivite-outremer,COM-987,Polynésie française,39,0,,,1,,554,DSP Polynésie française,https://www.service-public.pf/dsp/wp-content/uploads/sites/12/2020/04/2020-04-03-Point-de-situation-COVID-8h00.pdf,https://web.archive.org/web/20200409111249/https://www.service-public.pf/dsp/wp-content/uploads/sites/12/2020/04/2020-04-03-Point-de-situation-COVID-8h00.pdf,agences-regionales-sante
 2020-04-03,departement,DEP-01,Ain,,17,,31,100,74,,Santé publique France Data,,,sante-publique-france-data
 2020-04-03,departement,DEP-02,Aisne,,85,,39,210,162,,Santé publique France Data,,,sante-publique-france-data
 2020-04-03,departement,DEP-03,Allier,,7,,13,40,54,,Santé publique France Data,,,sante-publique-france-data
@@ -5177,6 +5181,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,deces_ehpad,reanimat
 2020-04-03,region,REG-84,Auvergne-Rhône-Alpes,,448,,725,2838,1537,,OpenCOVID19-fr,,,opencovid19-fr
 2020-04-03,region,REG-93,Provence-Alpes-Côte d'Azur,,161,,397,1593,1177,,OpenCOVID19-fr,,,opencovid19-fr
 2020-04-03,region,REG-94,Corse,,26,,25,88,116,,OpenCOVID19-fr,,,opencovid19-fr
+2020-04-04,collectivite-outremer,COM-987,Polynésie française,40,0,,,1,,583,DSP Polynésie française,https://www.service-public.pf/dsp/wp-content/uploads/sites/12/2020/04/2020-04-04-Point-de-situation-COVID-8h00.pdf,https://web.archive.org/web/20200409193616/https://www.service-public.pf/dsp/wp-content/uploads/sites/12/2020/04/2020-04-04-Point-de-situation-COVID-8h00.pdf,agences-regionales-sante
 2020-04-04,departement,DEP-01,Ain,,22,,32,109,83,,Santé publique France Data,,,sante-publique-france-data
 2020-04-04,departement,DEP-02,Aisne,,94,,40,223,180,,Santé publique France Data,,,sante-publique-france-data
 2020-04-04,departement,DEP-03,Allier,,7,,12,44,56,,Santé publique France Data,,,sante-publique-france-data
@@ -5548,6 +5553,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,deces_ehpad,reanimat
 2020-04-06,region,REG-84,Auvergne-Rhône-Alpes,,555,,783,3030,1866,,OpenCOVID19-fr,,,opencovid19-fr
 2020-04-06,region,REG-93,Provence-Alpes-Côte d'Azur,,231,,440,1827,1383,,OpenCOVID19-fr,,,opencovid19-fr
 2020-04-06,region,REG-94,Corse,,30,,24,92,115,,OpenCOVID19-fr,,,opencovid19-fr
+2020-04-07,collectivite-outremer,COM-987,Polynésie française,47,0,,,3,,694,DSP Polynésie française,https://www.service-public.pf/dsp/wp-content/uploads/sites/12/2020/04/2020-04-07-Point-de-situation-COVID-8h00.pdf,https://web.archive.org/web/20200409193503/https://www.service-public.pf/dsp/wp-content/uploads/sites/12/2020/04/2020-04-07-Point-de-situation-COVID-8h00.pdf,agences-regionales-sante
 2020-04-07,departement,DEP-01,Ain,,27,,32,119,97,,Santé publique France Data,,,sante-publique-france-data
 2020-04-07,departement,DEP-02,Aisne,,115,,35,255,218,,Santé publique France Data,,,sante-publique-france-data
 2020-04-07,departement,DEP-03,Allier,,8,,19,52,65,,Santé publique France Data,,,sante-publique-france-data
@@ -6146,7 +6152,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,deces,deces_ehpad,reanimat
 2020-04-11,departement,DEP-973,Guyane,,0,,1,9,13,,Santé publique France Data,,,sante-publique-france-data
 2020-04-11,departement,DEP-974,La Réunion,,0,,3,30,70,,Santé publique France Data,,,sante-publique-france-data
 2020-04-11,departement,DEP-976,Mayotte,,3,,3,20,25,,Santé publique France Data,,,sante-publique-france-data
-2020-04-11,pays,FRA,France,90676,8943,4889,6883,31320,26391,,Ministère des Solidarités et de la Santé,,,ministere-sante
+2020-04-11,pays,FRA,France,93790,8943,4889,6883,31320,26391,,Ministère des Solidarités et de la Santé,,,ministere-sante
 2020-04-11,pays,FRA,France,,8943,,6752,31159,26390,,OpenCOVID19-fr,,,opencovid19-fr
 2020-04-11,region,REG-01,Guadeloupe,,10,,20,37,50,,OpenCOVID19-fr,,,opencovid19-fr
 2020-04-11,region,REG-02,Martinique,,5,,15,41,50,,OpenCOVID19-fr,,,opencovid19-fr

@@ -59591,6 +59591,21 @@
   {
     "date": "2020-03-31",
     "source": {
+      "nom": "DSP Polynésie française",
+      "url": "https://www.service-public.pf/dsp/wp-content/uploads/sites/12/2020/03/2020-03-31-Point-de-situation-COVID-8h00.pdf",
+      "archive": "https://web.archive.org/save/https://www.service-public.pf/dsp/wp-content/uploads/sites/12/2020/03/2020-03-31-Point-de-situation-COVID-8h00.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Polynésie française",
+    "code": "COM-987",
+    "depistes": 463,
+    "casConfirmes": 37,
+    "hospitalises": 1,
+    "deces": 0
+  },
+  {
+    "date": "2020-03-31",
+    "source": {
       "nom": "Gouvernement de la Nouvelle-Calédonie",
       "url": "https://gouv.nc/sites/default/files/atoms/files/2020.03.31_cp_point_de_situation_sanitaire_global.pdf",
       "archive": "https://web.archive.org/web/20200407215156/https://gouv.nc/sites/default/files/atoms/files/2020.03.31_cp_point_de_situation_sanitaire_global.pdf"
@@ -62872,6 +62887,23 @@
     "sourceType": "sante-publique-france-data"
   },
   {
+    "date": "2020-04-01",
+    "source": {
+      "nom": "ARS Mayotte",
+      "url": "http://www.mayotte.ars.sante.fr/system/files/2020-04/CP%201er%20avril%20COVID-19_1.pdf",
+      "archive": "https://web.archive.org/web/20200408103133/https://www.mayotte.ars.sante.fr/system/files/2020-04/CP%201er%20avril%20COVID-19_1.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Mayotte",
+    "code": "DEP-976",
+    "casConfirmes": 101,
+    "hospitalises": 11,
+    "reanimation": 2,
+    "gueris": 10,
+    "deces": 2,
+    "depistes": 650
+  },
+  {
     "code": "DEP-976",
     "nom": "Mayotte",
     "date": "2020-04-01",
@@ -62963,6 +62995,23 @@
       "nom": "OpenCOVID19-fr"
     },
     "sourceType": "opencovid19-fr"
+  },
+  {
+    "date": "2020-04-01",
+    "source": {
+      "nom": "ARS Mayotte",
+      "url": "http://www.mayotte.ars.sante.fr/system/files/2020-04/CP%201er%20avril%20COVID-19_1.pdf",
+      "archive": "https://web.archive.org/web/20200408103133/https://www.mayotte.ars.sante.fr/system/files/2020-04/CP%201er%20avril%20COVID-19_1.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Mayotte",
+    "code": "REG-06",
+    "casConfirmes": 101,
+    "hospitalises": 11,
+    "reanimation": 2,
+    "gueris": 10,
+    "deces": 2,
+    "depistes": 650
   },
   {
     "code": "REG-06",
@@ -64786,6 +64835,21 @@
     "sourceType": "opencovid19-fr"
   },
   {
+    "date": "2020-04-03",
+    "source": {
+      "nom": "DSP Polynésie française",
+      "url": "https://www.service-public.pf/dsp/wp-content/uploads/sites/12/2020/04/2020-04-03-Point-de-situation-COVID-8h00.pdf",
+      "archive": "https://web.archive.org/web/20200409111249/https://www.service-public.pf/dsp/wp-content/uploads/sites/12/2020/04/2020-04-03-Point-de-situation-COVID-8h00.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Polynésie française",
+    "code": "COM-987",
+    "depistes": 554,
+    "casConfirmes": 39,
+    "hospitalises": 1,
+    "deces": 0
+  },
+  {
     "code": "DEP-01",
     "nom": "Ain",
     "date": "2020-04-03",
@@ -66393,6 +66457,21 @@
       "nom": "OpenCOVID19-fr"
     },
     "sourceType": "opencovid19-fr"
+  },
+  {
+    "date": "2020-04-04",
+    "source": {
+      "nom": "DSP Polynésie française",
+      "url": "https://www.service-public.pf/dsp/wp-content/uploads/sites/12/2020/04/2020-04-04-Point-de-situation-COVID-8h00.pdf",
+      "archive": "https://web.archive.org/web/20200409193616/https://www.service-public.pf/dsp/wp-content/uploads/sites/12/2020/04/2020-04-04-Point-de-situation-COVID-8h00.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Polynésie française",
+    "code": "COM-987",
+    "depistes": 583,
+    "casConfirmes": 40,
+    "hospitalises": 1,
+    "deces": 0
   },
   {
     "code": "DEP-01",
@@ -71244,6 +71323,21 @@
       "nom": "OpenCOVID19-fr"
     },
     "sourceType": "opencovid19-fr"
+  },
+  {
+    "date": "2020-04-07",
+    "source": {
+      "nom": "DSP Polynésie française",
+      "url": "https://www.service-public.pf/dsp/wp-content/uploads/sites/12/2020/04/2020-04-07-Point-de-situation-COVID-8h00.pdf",
+      "archive": "https://web.archive.org/web/20200409193503/https://www.service-public.pf/dsp/wp-content/uploads/sites/12/2020/04/2020-04-07-Point-de-situation-COVID-8h00.pdf"
+    },
+    "sourceType": "agences-regionales-sante",
+    "nom": "Polynésie française",
+    "code": "COM-987",
+    "depistes": 694,
+    "casConfirmes": 47,
+    "hospitalises": 3,
+    "deces": 0
   },
   {
     "code": "DEP-01",
@@ -79071,7 +79165,7 @@
       "nom": "Ministère des Solidarités et de la Santé"
     },
     "sourceType": "ministere-sante",
-    "casConfirmes": 90676,
+    "casConfirmes": 93790,
     "deces": 8943,
     "decesEhpad": 4889,
     "hospitalises": 31320,
