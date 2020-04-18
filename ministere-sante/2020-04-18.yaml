@@ -1,0 +1,14 @@
+date: 2020-04-18
+source:
+  nom: Ministère des Solidarités et de la Santé
+  # PDF confidentiel et échanges directs avec la DGS
+donneesNationales:
+  casConfirmes: 111821
+  deces: 11842
+  decesEhpad: 7481
+  hospitalises: 30639
+  reanimation: 5833
+  gueris: 35983
+  casEhpad: 62135
+  casConfirmesEhpad: 22163
+  casPossiblesEhpad: 39972
