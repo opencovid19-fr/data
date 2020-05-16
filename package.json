@@ -12,6 +12,8 @@
   },
   "dependencies": {
     "@etalab/decoupage-administratif": "^0.7.0",
+    "airtable": "^0.8.1",
+    "dotenv": "^8.2.0",
     "fs-extra": "^8.1.0",
     "glob": "^7.1.6",
     "js-yaml": "^3.13.1",
@@ -23,6 +25,9 @@
   },
   "xo": {
     "semicolon": false,
-    "space": 2
+    "space": 2,
+    "rules": {
+      "unicorn/string-content": "off"
+    }
   }
 }
