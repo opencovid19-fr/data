@@ -142527,5 +142527,1582 @@
       "nom": "OpenCOVID19-fr"
     },
     "sourceType": "opencovid19-fr"
+  },
+  {
+    "code": "DEP-01",
+    "nom": "Ain",
+    "date": "2020-05-22",
+    "hospitalises": 113,
+    "reanimation": 2,
+    "deces": 94,
+    "gueris": 352,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-02",
+    "nom": "Aisne",
+    "date": "2020-05-22",
+    "hospitalises": 181,
+    "reanimation": 14,
+    "deces": 252,
+    "gueris": 882,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-03",
+    "nom": "Allier",
+    "date": "2020-05-22",
+    "hospitalises": 16,
+    "reanimation": 0,
+    "deces": 37,
+    "gueris": 159,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-04",
+    "nom": "Alpes-de-Haute-Provence",
+    "date": "2020-05-22",
+    "hospitalises": 16,
+    "reanimation": 1,
+    "deces": 11,
+    "gueris": 115,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-05",
+    "nom": "Hautes-Alpes",
+    "date": "2020-05-22",
+    "hospitalises": 27,
+    "reanimation": 2,
+    "deces": 17,
+    "gueris": 108,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-06",
+    "nom": "Alpes-Maritimes",
+    "date": "2020-05-22",
+    "hospitalises": 134,
+    "reanimation": 11,
+    "deces": 174,
+    "gueris": 616,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-07",
+    "nom": "Ardèche",
+    "date": "2020-05-22",
+    "hospitalises": 78,
+    "reanimation": 6,
+    "deces": 101,
+    "gueris": 353,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-08",
+    "nom": "Ardennes",
+    "date": "2020-05-22",
+    "hospitalises": 72,
+    "reanimation": 5,
+    "deces": 53,
+    "gueris": 133,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-09",
+    "nom": "Ariège",
+    "date": "2020-05-22",
+    "hospitalises": 3,
+    "reanimation": 1,
+    "deces": 2,
+    "gueris": 31,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-10",
+    "nom": "Aube",
+    "date": "2020-05-22",
+    "hospitalises": 95,
+    "reanimation": 2,
+    "deces": 126,
+    "gueris": 544,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-11",
+    "nom": "Aude",
+    "date": "2020-05-22",
+    "hospitalises": 22,
+    "reanimation": 5,
+    "deces": 55,
+    "gueris": 212,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-12",
+    "nom": "Aveyron",
+    "date": "2020-05-22",
+    "hospitalises": 13,
+    "reanimation": 0,
+    "deces": 23,
+    "gueris": 132,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-13",
+    "nom": "Bouches-du-Rhône",
+    "date": "2020-05-22",
+    "hospitalises": 647,
+    "reanimation": 75,
+    "deces": 512,
+    "gueris": 2809,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-14",
+    "nom": "Calvados",
+    "date": "2020-05-22",
+    "hospitalises": 110,
+    "reanimation": 8,
+    "deces": 77,
+    "gueris": 247,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-15",
+    "nom": "Cantal",
+    "date": "2020-05-22",
+    "hospitalises": 19,
+    "reanimation": 1,
+    "deces": 9,
+    "gueris": 40,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-16",
+    "nom": "Charente",
+    "date": "2020-05-22",
+    "hospitalises": 5,
+    "reanimation": 1,
+    "deces": 12,
+    "gueris": 47,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-17",
+    "nom": "Charente-Maritime",
+    "date": "2020-05-22",
+    "hospitalises": 34,
+    "reanimation": 4,
+    "deces": 46,
+    "gueris": 119,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-18",
+    "nom": "Cher",
+    "date": "2020-05-22",
+    "hospitalises": 58,
+    "reanimation": 0,
+    "deces": 74,
+    "gueris": 142,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-19",
+    "nom": "Corrèze",
+    "date": "2020-05-22",
+    "hospitalises": 52,
+    "reanimation": 6,
+    "deces": 34,
+    "gueris": 106,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-21",
+    "nom": "Côte-d'Or",
+    "date": "2020-05-22",
+    "hospitalises": 98,
+    "reanimation": 17,
+    "deces": 239,
+    "gueris": 806,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-22",
+    "nom": "Côtes-d'Armor",
+    "date": "2020-05-22",
+    "hospitalises": 46,
+    "reanimation": 2,
+    "deces": 31,
+    "gueris": 172,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-23",
+    "nom": "Creuse",
+    "date": "2020-05-22",
+    "hospitalises": 20,
+    "reanimation": 8,
+    "deces": 8,
+    "gueris": 50,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-24",
+    "nom": "Dordogne",
+    "date": "2020-05-22",
+    "hospitalises": 15,
+    "reanimation": 1,
+    "deces": 12,
+    "gueris": 77,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-25",
+    "nom": "Doubs",
+    "date": "2020-05-22",
+    "hospitalises": 80,
+    "reanimation": 12,
+    "deces": 146,
+    "gueris": 553,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-26",
+    "nom": "Drôme",
+    "date": "2020-05-22",
+    "hospitalises": 59,
+    "reanimation": 6,
+    "deces": 128,
+    "gueris": 465,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-27",
+    "nom": "Eure",
+    "date": "2020-05-22",
+    "hospitalises": 90,
+    "reanimation": 3,
+    "deces": 74,
+    "gueris": 157,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-28",
+    "nom": "Eure-et-Loir",
+    "date": "2020-05-22",
+    "hospitalises": 176,
+    "reanimation": 11,
+    "deces": 116,
+    "gueris": 422,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-29",
+    "nom": "Finistère",
+    "date": "2020-05-22",
+    "hospitalises": 30,
+    "reanimation": 2,
+    "deces": 42,
+    "gueris": 159,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-2A",
+    "nom": "Corse-du-Sud",
+    "date": "2020-05-22",
+    "hospitalises": 30,
+    "reanimation": 2,
+    "deces": 47,
+    "gueris": 115,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-2B",
+    "nom": "Haute-Corse",
+    "date": "2020-05-22",
+    "hospitalises": 5,
+    "reanimation": 2,
+    "deces": 10,
+    "gueris": 103,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-30",
+    "nom": "Gard",
+    "date": "2020-05-22",
+    "hospitalises": 71,
+    "reanimation": 9,
+    "deces": 88,
+    "gueris": 278,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-31",
+    "nom": "Haute-Garonne",
+    "date": "2020-05-22",
+    "hospitalises": 74,
+    "reanimation": 24,
+    "deces": 64,
+    "gueris": 583,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-32",
+    "nom": "Gers",
+    "date": "2020-05-22",
+    "hospitalises": 9,
+    "reanimation": 2,
+    "deces": 23,
+    "gueris": 79,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-33",
+    "nom": "Gironde",
+    "date": "2020-05-22",
+    "hospitalises": 148,
+    "reanimation": 23,
+    "deces": 141,
+    "gueris": 809,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-34",
+    "nom": "Hérault",
+    "date": "2020-05-22",
+    "hospitalises": 46,
+    "reanimation": 11,
+    "deces": 117,
+    "gueris": 639,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-35",
+    "nom": "Ille-et-Vilaine",
+    "date": "2020-05-22",
+    "hospitalises": 94,
+    "reanimation": 5,
+    "deces": 82,
+    "gueris": 382,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-36",
+    "nom": "Indre",
+    "date": "2020-05-22",
+    "hospitalises": 94,
+    "reanimation": 4,
+    "deces": 75,
+    "gueris": 100,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-37",
+    "nom": "Indre-et-Loire",
+    "date": "2020-05-22",
+    "hospitalises": 107,
+    "reanimation": 10,
+    "deces": 77,
+    "gueris": 279,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-38",
+    "nom": "Isère",
+    "date": "2020-05-22",
+    "hospitalises": 111,
+    "reanimation": 15,
+    "deces": 135,
+    "gueris": 592,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-39",
+    "nom": "Jura",
+    "date": "2020-05-22",
+    "hospitalises": 55,
+    "reanimation": 0,
+    "deces": 59,
+    "gueris": 228,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-40",
+    "nom": "Landes",
+    "date": "2020-05-22",
+    "hospitalises": 10,
+    "reanimation": 1,
+    "deces": 12,
+    "gueris": 63,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-41",
+    "nom": "Loir-et-Cher",
+    "date": "2020-05-22",
+    "hospitalises": 123,
+    "reanimation": 9,
+    "deces": 60,
+    "gueris": 196,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-42",
+    "nom": "Loire",
+    "date": "2020-05-22",
+    "hospitalises": 234,
+    "reanimation": 31,
+    "deces": 232,
+    "gueris": 811,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-43",
+    "nom": "Haute-Loire",
+    "date": "2020-05-22",
+    "hospitalises": 17,
+    "reanimation": 1,
+    "deces": 14,
+    "gueris": 88,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-44",
+    "nom": "Loire-Atlantique",
+    "date": "2020-05-22",
+    "hospitalises": 132,
+    "reanimation": 6,
+    "deces": 143,
+    "gueris": 529,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-45",
+    "nom": "Loiret",
+    "date": "2020-05-22",
+    "hospitalises": 139,
+    "reanimation": 16,
+    "deces": 91,
+    "gueris": 518,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-46",
+    "nom": "Lot",
+    "date": "2020-05-22",
+    "hospitalises": 8,
+    "reanimation": 1,
+    "deces": 22,
+    "gueris": 62,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-47",
+    "nom": "Lot-et-Garonne",
+    "date": "2020-05-22",
+    "hospitalises": 19,
+    "reanimation": 2,
+    "deces": 9,
+    "gueris": 56,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-48",
+    "nom": "Lozère",
+    "date": "2020-05-22",
+    "hospitalises": 1,
+    "reanimation": 0,
+    "deces": 1,
+    "gueris": 22,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-49",
+    "nom": "Maine-et-Loire",
+    "date": "2020-05-22",
+    "hospitalises": 117,
+    "reanimation": 13,
+    "deces": 129,
+    "gueris": 491,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-50",
+    "nom": "Manche",
+    "date": "2020-05-22",
+    "hospitalises": 46,
+    "reanimation": 3,
+    "deces": 46,
+    "gueris": 119,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-51",
+    "nom": "Marne",
+    "date": "2020-05-22",
+    "hospitalises": 174,
+    "reanimation": 14,
+    "deces": 248,
+    "gueris": 884,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-52",
+    "nom": "Haute-Marne",
+    "date": "2020-05-22",
+    "hospitalises": 74,
+    "reanimation": 5,
+    "deces": 76,
+    "gueris": 191,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-53",
+    "nom": "Mayenne",
+    "date": "2020-05-22",
+    "hospitalises": 36,
+    "reanimation": 3,
+    "deces": 40,
+    "gueris": 141,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-54",
+    "nom": "Meurthe-et-Moselle",
+    "date": "2020-05-22",
+    "hospitalises": 180,
+    "reanimation": 21,
+    "deces": 333,
+    "gueris": 970,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-55",
+    "nom": "Meuse",
+    "date": "2020-05-22",
+    "hospitalises": 128,
+    "reanimation": 5,
+    "deces": 93,
+    "gueris": 348,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-56",
+    "nom": "Morbihan",
+    "date": "2020-05-22",
+    "hospitalises": 66,
+    "reanimation": 11,
+    "deces": 87,
+    "gueris": 371,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-57",
+    "nom": "Moselle",
+    "date": "2020-05-22",
+    "hospitalises": 492,
+    "reanimation": 49,
+    "deces": 790,
+    "gueris": 2067,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-58",
+    "nom": "Nièvre",
+    "date": "2020-05-22",
+    "hospitalises": 24,
+    "reanimation": 2,
+    "deces": 25,
+    "gueris": 73,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-59",
+    "nom": "Nord",
+    "date": "2020-05-22",
+    "hospitalises": 653,
+    "reanimation": 77,
+    "deces": 551,
+    "gueris": 1784,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-60",
+    "nom": "Oise",
+    "date": "2020-05-22",
+    "hospitalises": 346,
+    "reanimation": 14,
+    "deces": 380,
+    "gueris": 928,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-61",
+    "nom": "Orne",
+    "date": "2020-05-22",
+    "hospitalises": 54,
+    "reanimation": 3,
+    "deces": 36,
+    "gueris": 181,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-62",
+    "nom": "Pas-de-Calais",
+    "date": "2020-05-22",
+    "hospitalises": 298,
+    "reanimation": 41,
+    "deces": 277,
+    "gueris": 1135,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-63",
+    "nom": "Puy-de-Dôme",
+    "date": "2020-05-22",
+    "hospitalises": 31,
+    "reanimation": 4,
+    "deces": 40,
+    "gueris": 158,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-64",
+    "nom": "Pyrénées-Atlantiques",
+    "date": "2020-05-22",
+    "hospitalises": 26,
+    "reanimation": 3,
+    "deces": 26,
+    "gueris": 193,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-65",
+    "nom": "Hautes-Pyrénées",
+    "date": "2020-05-22",
+    "hospitalises": 21,
+    "reanimation": 3,
+    "deces": 25,
+    "gueris": 140,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-66",
+    "nom": "Pyrénées-Orientales",
+    "date": "2020-05-22",
+    "hospitalises": 1,
+    "reanimation": 0,
+    "deces": 34,
+    "gueris": 276,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-67",
+    "nom": "Bas-Rhin",
+    "date": "2020-05-22",
+    "hospitalises": 605,
+    "reanimation": 54,
+    "deces": 613,
+    "gueris": 2122,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-68",
+    "nom": "Haut-Rhin",
+    "date": "2020-05-22",
+    "hospitalises": 636,
+    "reanimation": 50,
+    "deces": 767,
+    "gueris": 2275,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-69",
+    "nom": "Rhône",
+    "date": "2020-05-22",
+    "hospitalises": 685,
+    "reanimation": 74,
+    "deces": 606,
+    "gueris": 2411,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-70",
+    "nom": "Haute-Saône",
+    "date": "2020-05-22",
+    "hospitalises": 72,
+    "reanimation": 1,
+    "deces": 77,
+    "gueris": 227,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-71",
+    "nom": "Saône-et-Loire",
+    "date": "2020-05-22",
+    "hospitalises": 162,
+    "reanimation": 10,
+    "deces": 191,
+    "gueris": 574,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-72",
+    "nom": "Sarthe",
+    "date": "2020-05-22",
+    "hospitalises": 105,
+    "reanimation": 3,
+    "deces": 75,
+    "gueris": 287,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-73",
+    "nom": "Savoie",
+    "date": "2020-05-22",
+    "hospitalises": 43,
+    "reanimation": 4,
+    "deces": 61,
+    "gueris": 363,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-74",
+    "nom": "Haute-Savoie",
+    "date": "2020-05-22",
+    "hospitalises": 126,
+    "reanimation": 8,
+    "deces": 158,
+    "gueris": 779,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-75",
+    "nom": "Paris",
+    "date": "2020-05-22",
+    "hospitalises": 1284,
+    "reanimation": 209,
+    "deces": 1660,
+    "gueris": 5277,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-76",
+    "nom": "Seine-Maritime",
+    "date": "2020-05-22",
+    "hospitalises": 135,
+    "reanimation": 16,
+    "deces": 174,
+    "gueris": 660,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-77",
+    "nom": "Seine-et-Marne",
+    "date": "2020-05-22",
+    "hospitalises": 477,
+    "reanimation": 70,
+    "deces": 601,
+    "gueris": 2221,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-78",
+    "nom": "Yvelines",
+    "date": "2020-05-22",
+    "hospitalises": 611,
+    "reanimation": 41,
+    "deces": 476,
+    "gueris": 1831,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-79",
+    "nom": "Deux-Sèvres",
+    "date": "2020-05-22",
+    "hospitalises": 12,
+    "reanimation": 2,
+    "deces": 20,
+    "gueris": 55,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-80",
+    "nom": "Somme",
+    "date": "2020-05-22",
+    "hospitalises": 159,
+    "reanimation": 15,
+    "deces": 208,
+    "gueris": 643,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-81",
+    "nom": "Tarn",
+    "date": "2020-05-22",
+    "hospitalises": 21,
+    "reanimation": 2,
+    "deces": 22,
+    "gueris": 101,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-82",
+    "nom": "Tarn-et-Garonne",
+    "date": "2020-05-22",
+    "hospitalises": 7,
+    "reanimation": 4,
+    "deces": 5,
+    "gueris": 37,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-83",
+    "nom": "Var",
+    "date": "2020-05-22",
+    "hospitalises": 156,
+    "reanimation": 12,
+    "deces": 125,
+    "gueris": 830,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-84",
+    "nom": "Vaucluse",
+    "date": "2020-05-22",
+    "hospitalises": 28,
+    "reanimation": 0,
+    "deces": 35,
+    "gueris": 224,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-85",
+    "nom": "Vendée",
+    "date": "2020-05-22",
+    "hospitalises": 62,
+    "reanimation": 7,
+    "deces": 35,
+    "gueris": 175,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-86",
+    "nom": "Vienne",
+    "date": "2020-05-22",
+    "hospitalises": 16,
+    "reanimation": 3,
+    "deces": 37,
+    "gueris": 121,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-87",
+    "nom": "Haute-Vienne",
+    "date": "2020-05-22",
+    "hospitalises": 17,
+    "reanimation": 3,
+    "deces": 24,
+    "gueris": 116,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-88",
+    "nom": "Vosges",
+    "date": "2020-05-22",
+    "hospitalises": 71,
+    "reanimation": 5,
+    "deces": 250,
+    "gueris": 649,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-89",
+    "nom": "Yonne",
+    "date": "2020-05-22",
+    "hospitalises": 94,
+    "reanimation": 9,
+    "deces": 82,
+    "gueris": 227,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-90",
+    "nom": "Territoire de Belfort",
+    "date": "2020-05-22",
+    "hospitalises": 76,
+    "reanimation": 11,
+    "deces": 169,
+    "gueris": 476,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-91",
+    "nom": "Essonne",
+    "date": "2020-05-22",
+    "hospitalises": 786,
+    "reanimation": 66,
+    "deces": 486,
+    "gueris": 1833,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-92",
+    "nom": "Hauts-de-Seine",
+    "date": "2020-05-22",
+    "hospitalises": 1236,
+    "reanimation": 115,
+    "deces": 997,
+    "gueris": 3677,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-93",
+    "nom": "Seine-Saint-Denis",
+    "date": "2020-05-22",
+    "hospitalises": 1066,
+    "reanimation": 101,
+    "deces": 936,
+    "gueris": 3039,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-94",
+    "nom": "Val-de-Marne",
+    "date": "2020-05-22",
+    "hospitalises": 1258,
+    "reanimation": 71,
+    "deces": 1081,
+    "gueris": 3303,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-95",
+    "nom": "Val-d'Oise",
+    "date": "2020-05-22",
+    "hospitalises": 615,
+    "reanimation": 30,
+    "deces": 661,
+    "gueris": 2154,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-971",
+    "nom": "Guadeloupe",
+    "date": "2020-05-22",
+    "hospitalises": 13,
+    "reanimation": 2,
+    "deces": 16,
+    "gueris": 73,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-972",
+    "nom": "Martinique",
+    "date": "2020-05-22",
+    "hospitalises": 18,
+    "reanimation": 2,
+    "deces": 14,
+    "gueris": 81,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-973",
+    "nom": "Guyane",
+    "date": "2020-05-22",
+    "hospitalises": 12,
+    "reanimation": 0,
+    "deces": 1,
+    "gueris": 51,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-974",
+    "nom": "La Réunion",
+    "date": "2020-05-22",
+    "hospitalises": 11,
+    "reanimation": 1,
+    "deces": 1,
+    "gueris": 116,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "code": "DEP-976",
+    "nom": "Mayotte",
+    "date": "2020-05-22",
+    "hospitalises": 49,
+    "reanimation": 12,
+    "deces": 18,
+    "gueris": 202,
+    "source": {
+      "nom": "Santé publique France Data"
+    },
+    "sourceType": "sante-publique-france-data"
+  },
+  {
+    "date": "2020-05-22",
+    "source": {
+      "nom": "Ministère des Solidarités et de la Santé"
+    },
+    "sourceType": "ministere-sante",
+    "casConfirmes": 144556,
+    "deces": 17944,
+    "decesEhpad": "NaN",
+    "hospitalises": 17383,
+    "reanimation": 1701,
+    "gueris": 64209,
+    "casEhpad": "NaN",
+    "casConfirmesEhpad": "NaN",
+    "nom": "France",
+    "code": "FRA"
+  },
+  {
+    "code": "FRA",
+    "nom": "France",
+    "date": "2020-05-22",
+    "hospitalises": 17327,
+    "reanimation": 1664,
+    "deces": 17925,
+    "gueris": 64200,
+    "source": {
+      "nom": "OpenCOVID19-fr"
+    },
+    "sourceType": "opencovid19-fr"
+  },
+  {
+    "code": "REG-01",
+    "nom": "Guadeloupe",
+    "date": "2020-05-22",
+    "hospitalises": 13,
+    "reanimation": 2,
+    "deces": 16,
+    "gueris": 73,
+    "source": {
+      "nom": "OpenCOVID19-fr"
+    },
+    "sourceType": "opencovid19-fr"
+  },
+  {
+    "code": "REG-02",
+    "nom": "Martinique",
+    "date": "2020-05-22",
+    "hospitalises": 18,
+    "reanimation": 2,
+    "deces": 14,
+    "gueris": 81,
+    "source": {
+      "nom": "OpenCOVID19-fr"
+    },
+    "sourceType": "opencovid19-fr"
+  },
+  {
+    "code": "REG-03",
+    "nom": "Guyane",
+    "date": "2020-05-22",
+    "hospitalises": 12,
+    "reanimation": 0,
+    "deces": 1,
+    "gueris": 51,
+    "source": {
+      "nom": "OpenCOVID19-fr"
+    },
+    "sourceType": "opencovid19-fr"
+  },
+  {
+    "code": "REG-04",
+    "nom": "La Réunion",
+    "date": "2020-05-22",
+    "hospitalises": 11,
+    "reanimation": 1,
+    "deces": 1,
+    "gueris": 116,
+    "source": {
+      "nom": "OpenCOVID19-fr"
+    },
+    "sourceType": "opencovid19-fr"
+  },
+  {
+    "code": "REG-06",
+    "nom": "Mayotte",
+    "date": "2020-05-22",
+    "hospitalises": 49,
+    "reanimation": 12,
+    "deces": 18,
+    "gueris": 202,
+    "source": {
+      "nom": "OpenCOVID19-fr"
+    },
+    "sourceType": "opencovid19-fr"
+  },
+  {
+    "code": "REG-11",
+    "nom": "Île-de-France",
+    "date": "2020-05-22",
+    "hospitalises": 7333,
+    "reanimation": 703,
+    "deces": 6898,
+    "gueris": 23335,
+    "source": {
+      "nom": "OpenCOVID19-fr"
+    },
+    "sourceType": "opencovid19-fr"
+  },
+  {
+    "code": "REG-24",
+    "nom": "Centre-Val de Loire",
+    "date": "2020-05-22",
+    "hospitalises": 697,
+    "reanimation": 50,
+    "deces": 493,
+    "gueris": 1657,
+    "source": {
+      "nom": "OpenCOVID19-fr"
+    },
+    "sourceType": "opencovid19-fr"
+  },
+  {
+    "code": "REG-27",
+    "nom": "Bourgogne-Franche-Comté",
+    "date": "2020-05-22",
+    "hospitalises": 661,
+    "reanimation": 62,
+    "deces": 988,
+    "gueris": 3164,
+    "source": {
+      "nom": "OpenCOVID19-fr"
+    },
+    "sourceType": "opencovid19-fr"
+  },
+  {
+    "code": "REG-28",
+    "nom": "Normandie",
+    "date": "2020-05-22",
+    "hospitalises": 435,
+    "reanimation": 33,
+    "deces": 407,
+    "gueris": 1364,
+    "source": {
+      "nom": "OpenCOVID19-fr"
+    },
+    "sourceType": "opencovid19-fr"
+  },
+  {
+    "code": "REG-32",
+    "nom": "Hauts-de-France",
+    "date": "2020-05-22",
+    "hospitalises": 1637,
+    "reanimation": 161,
+    "deces": 1668,
+    "gueris": 5372,
+    "source": {
+      "nom": "OpenCOVID19-fr"
+    },
+    "sourceType": "opencovid19-fr"
+  },
+  {
+    "code": "REG-44",
+    "nom": "Grand Est",
+    "date": "2020-05-22",
+    "hospitalises": 2527,
+    "reanimation": 210,
+    "deces": 3349,
+    "gueris": 10183,
+    "source": {
+      "nom": "OpenCOVID19-fr"
+    },
+    "sourceType": "opencovid19-fr"
+  },
+  {
+    "code": "REG-52",
+    "nom": "Pays de la Loire",
+    "date": "2020-05-22",
+    "hospitalises": 452,
+    "reanimation": 32,
+    "deces": 422,
+    "gueris": 1623,
+    "source": {
+      "nom": "OpenCOVID19-fr"
+    },
+    "sourceType": "opencovid19-fr"
+  },
+  {
+    "code": "REG-53",
+    "nom": "Bretagne",
+    "date": "2020-05-22",
+    "hospitalises": 236,
+    "reanimation": 20,
+    "deces": 242,
+    "gueris": 1084,
+    "source": {
+      "nom": "OpenCOVID19-fr"
+    },
+    "sourceType": "opencovid19-fr"
+  },
+  {
+    "code": "REG-75",
+    "nom": "Nouvelle-Aquitaine",
+    "date": "2020-05-22",
+    "hospitalises": 374,
+    "reanimation": 57,
+    "deces": 381,
+    "gueris": 1812,
+    "source": {
+      "nom": "OpenCOVID19-fr"
+    },
+    "sourceType": "opencovid19-fr"
+  },
+  {
+    "code": "REG-76",
+    "nom": "Occitanie",
+    "date": "2020-05-22",
+    "hospitalises": 297,
+    "reanimation": 62,
+    "deces": 481,
+    "gueris": 2592,
+    "source": {
+      "nom": "OpenCOVID19-fr"
+    },
+    "sourceType": "opencovid19-fr"
+  },
+  {
+    "code": "REG-84",
+    "nom": "Auvergne-Rhône-Alpes",
+    "date": "2020-05-22",
+    "hospitalises": 1532,
+    "reanimation": 152,
+    "deces": 1615,
+    "gueris": 6571,
+    "source": {
+      "nom": "OpenCOVID19-fr"
+    },
+    "sourceType": "opencovid19-fr"
+  },
+  {
+    "code": "REG-93",
+    "nom": "Provence-Alpes-Côte d'Azur",
+    "date": "2020-05-22",
+    "hospitalises": 1008,
+    "reanimation": 101,
+    "deces": 874,
+    "gueris": 4702,
+    "source": {
+      "nom": "OpenCOVID19-fr"
+    },
+    "sourceType": "opencovid19-fr"
+  },
+  {
+    "code": "REG-94",
+    "nom": "Corse",
+    "date": "2020-05-22",
+    "hospitalises": 35,
+    "reanimation": 4,
+    "deces": 57,
+    "gueris": 218,
+    "source": {
+      "nom": "OpenCOVID19-fr"
+    },
+    "sourceType": "opencovid19-fr"
   }
 ]
