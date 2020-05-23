@@ -145419,6 +145419,23 @@
     "sourceType": "sante-publique-france-data"
   },
   {
+    "date": "2020-05-23",
+    "source": {
+      "nom": "Ministère des Solidarités et de la Santé"
+    },
+    "sourceType": "ministere-sante",
+    "casConfirmes": 144806,
+    "deces": 17987,
+    "decesEhpad": "NaN",
+    "hospitalises": 17178,
+    "reanimation": 1665,
+    "gueris": 64547,
+    "casEhpad": "NaN",
+    "casConfirmesEhpad": "NaN",
+    "nom": "France",
+    "code": "FRA"
+  },
+  {
     "code": "FRA",
     "nom": "France",
     "date": "2020-05-23",
