@@ -30,7 +30,9 @@ donneesNationales:
   reanimation: ${parseValue(row['En réanimation'])}
   gueris: ${parseValue(row['Retours à domicile'])}
   casEhpad: ${parseValue(row['Cas total EHPAD / EMS'])}
-  casConfirmesEhpad: ${parseValue(row['Cas confirmés EHPAD/EMS'])}`
+  casConfirmesEhpad: ${parseValue(row['Cas confirmés EHPAD/EMS'])}
+  nouvellesHospitalisations: ${parseValue(row['Nouveaux patients hospitalises'])}
+  nouvellesReanimations: ${parseValue(row['nouveaux patients en reanimation'])}`
 
   await writeFile(join(MSS_PATH, `${date}.yaml`), content)
   console.log(`Nouvelles données du jour : ${date}`)
