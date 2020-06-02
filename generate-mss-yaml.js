@@ -29,7 +29,6 @@ donneesNationales:
   hospitalises: ${parseValue(row.Hospitalisations)}
   reanimation: ${parseValue(row['En réanimation'])}
   gueris: ${parseValue(row['Retours à domicile'])}
-  casEhpad: ${parseValue(row['Cas total EHPAD / EMS'])}
   casConfirmesEhpad: ${parseValue(row['Cas confirmés EHPAD/EMS'])}
   nouvellesHospitalisations: ${parseValue(row['Nouveaux patients hospitalises'])}
   nouvellesReanimations: ${parseValue(row['nouveaux patients en reanimation'])}`
