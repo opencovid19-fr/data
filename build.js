@@ -5,7 +5,7 @@ const {outputJson} = require('fs-extra')
 const glob = require('glob')
 const {ensureArray, readYamlFile, outputCsv} = require('./lib/util')
 const validate = require('./lib/validate')
-const {jsonToCsvRow} = require('./lib/csv')
+const {jsonToCsvRow, jsonMaskProductionToCsvRow} = require('./lib/csv')
 const {loadData} = require('./lib/data-sources/spf')
 
 const sources = [
@@ -15,6 +15,8 @@ const sources = [
   'prefectures',
   'lperez31-historical-data'
 ]
+
+const weeklySources = ['centre-crise-sanitaire']
 
 const distPath = join(__dirname, 'dist')
 
@@ -72,7 +74,26 @@ function showMetrics(rows) {
   console.log(`Nombre d’entrées sans source : ${woSource.length}`)
 }
 
-async function main() {
+async function weeklyData() {
+  const sourcesFiles = flatten(weeklySources.map(source => glob.sync(`${source}/**/*.yaml`)))
+
+  const sourcesData = await Promise.all(sourcesFiles.map(async sourceFile => {
+    const sourceType = sourceFile.split('/')[0]
+    const data = await readYamlFile(join(__dirname, sourceFile))
+    return {date: data.date, source: data.source, rows: [data.masquesSoignants], sourceType, sourceFile}
+  }))
+
+  const flattenedData = chain(sourcesData)
+    .map(flattenSourcesData)
+    .flatten()
+    .sortBy(r => `${r.date}`)
+    .value()
+
+  await outputJson(join(distPath, 'production-masques.json'), flattenedData.map(r => omit(r, 'sourceFile')), {spaces: 2})
+  await outputCsv(join(distPath, 'production-masques.csv'), flattenedData.map(jsonMaskProductionToCsvRow))
+}
+
+async function dailyData() {
   const sourcesFiles = flatten(sources.map(source => glob.sync(`${source}/**/*.yaml`)))
 
   const sourcesData = await Promise.all(sourcesFiles.map(async sourceFile => {
@@ -94,6 +115,11 @@ async function main() {
 
   await outputJson(join(distPath, 'chiffres-cles.json'), flattenedData.map(r => omit(r, 'sourceFile')), {spaces: 2})
   await outputCsv(join(distPath, 'chiffres-cles.csv'), flattenedData.map(jsonToCsvRow))
+}
+
+async function main() {
+  dailyData()
+  weeklyData()
 }
 
 main().catch(error => {

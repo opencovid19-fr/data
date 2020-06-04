@@ -1,0 +1,13 @@
+date: Semaine 13
+source:
+  nom: Centre de crise sanitaire
+masquesSoignants:
+  chirurgicauxFr: 0.6
+  ffp2Fr: 2.2
+  chirurgicauxChine: null
+  ffp2Chine: null
+  chirurgicauxDistribution: 30.1
+  ffp2Distribution: 6.5
+  totalFR: 2.8
+  totalImport: null
+  totalDistribution: 36.6
