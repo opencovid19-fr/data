@@ -20,11 +20,12 @@ function parseValue(string) {
 }
 
 function formatWeekNumber(week) {
-  return week.toLowerCase().replace(/\s/g, '-')
+  const weekNumber = week.split(' ')[1]
+  return `2020-S${weekNumber}`
 }
 
 async function buildFile(row) {
-  const week = row.Semaine
+  const week = formatWeekNumber(row.Semaine)
   const content = `date: ${week}
 source:
   nom: Centre de crise sanitaire
@@ -39,7 +40,7 @@ masquesSoignants:
   totalImport: ${parseValue(row.import)}
   totalDistribution: ${parseValue(row.distribution)}`
 
-  await writeFile(join(CCS_PATH, `${formatWeekNumber(week)}.yaml`), content)
+  await writeFile(join(CCS_PATH, `${week}.yaml`), content)
   console.log(`Nouvelles données du jour : ${week}`)
 }
 
