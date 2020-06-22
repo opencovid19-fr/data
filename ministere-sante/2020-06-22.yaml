@@ -1,0 +1,14 @@
+date: 2020-06-22
+source:
+  nom: Ministère des Solidarités et de la Santé
+  # Airtable complété par la DGS
+donneesNationales:
+  casConfirmes: 160750
+  deces: 19206
+  decesEhpad: 10457
+  hospitalises: 9693
+  reanimation: 701
+  gueris: 74612
+  casConfirmesEhpad: 37901
+  nouvellesHospitalisations: 142
+  nouvellesReanimations: 16
