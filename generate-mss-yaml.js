@@ -16,6 +16,24 @@ function parseValue(string) {
   return parseInt(string.replace(/\s/g, ''), 10)
 }
 
+const valuesMap = {
+  casConfirmes: 'Cas confirmés',
+  deces: 'Décès à l’hôpital',
+  decesEhpad: 'Décès en EHPAD et EMS',
+  hospitalises: 'Hospitalisations',
+  reanimation: 'En réanimation',
+  gueris: 'Retours à domicile',
+  casConfirmesEhpad: 'Cas confirmés EHPAD/EMS',
+  nouvellesHospitalisations: 'Nouveaux patients hospitalises',
+  nouvellesReanimations: 'nouveaux patients en reanimation'
+}
+
+function getKeyValuesMap(row) {
+  return Object.keys(valuesMap).filter(key => valuesMap[key] in row)
+    .map(key => `  ${key}: ${parseValue(row[valuesMap[key]])}`)
+    .join('\n')
+}
+
 async function buildFile(row) {
   const date = row.Date
   const content = `date: ${date}
@@ -23,15 +41,8 @@ source:
   nom: Ministère des Solidarités et de la Santé
   # Airtable complété par la DGS
 donneesNationales:
-  casConfirmes: ${parseValue(row['Cas confirmés'])}
-  deces: ${parseValue(row['Décès à l’hôpital'])}
-  decesEhpad: ${parseValue(row['Décès en EHPAD et EMS'])}
-  hospitalises: ${parseValue(row.Hospitalisations)}
-  reanimation: ${parseValue(row['En réanimation'])}
-  gueris: ${parseValue(row['Retours à domicile'])}
-  casConfirmesEhpad: ${parseValue(row['Cas confirmés EHPAD/EMS'])}
-  nouvellesHospitalisations: ${parseValue(row['Nouveaux patients hospitalises'])}
-  nouvellesReanimations: ${parseValue(row['nouveaux patients en reanimation'])}`
+${getKeyValuesMap(row)}
+`
 
   await writeFile(join(MSS_PATH, `${date}.yaml`), content)
   console.log(`Nouvelles données du jour : ${date}`)
