@@ -1,6 +1,5 @@
 #!/bin/bash
 git pull
-./fetch.sh
 node generate-mss-yaml
 yarn build
 git add .
