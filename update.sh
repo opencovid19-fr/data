@@ -1,4 +1,5 @@
 #!/bin/bash
+cd /home/ubuntu/covid19-data
 git pull
 node generate-mss-yaml
 yarn build
