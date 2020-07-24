@@ -4,11 +4,5 @@ source:
   # Airtable complété par la DGS
 donneesNationales:
   casConfirmes: 172089
-  deces: NaN
   decesEhpad: 10476
-  hospitalises: NaN
-  reanimation: NaN
-  gueris: NaN
   casConfirmesEhpad: 39256
-  nouvellesHospitalisations: NaN
-  nouvellesReanimations: NaN
