@@ -16608,7 +16608,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,cas_ehpad,cas_confirmes_eh
 2020-07-04,departement,DEP-973,Guyane,,,,,16,,23,144,19,2,473,,Santé publique France Data,,,sante-publique-france-data
 2020-07-04,departement,DEP-974,La Réunion,,,,,2,,3,20,1,0,143,,Santé publique France Data,,,sante-publique-france-data
 2020-07-04,departement,DEP-976,Mayotte,,,,,28,,4,26,0,0,371,,Santé publique France Data,,,sante-publique-france-data
-2020-07-04,pays,FRA,France,167711,,38107,,NaN,NaN,NaN,NaN,NaN,NaN,NaN,,Ministère des Solidarités et de la Santé,,,ministere-sante
+2020-07-04,pays,FRA,France,167711,,38107,,,,,,,,,,Ministère des Solidarités et de la Santé,,,ministere-sante
 2020-07-04,pays,FRA,France,,,,,19388,,517,7863,47,4,77160,,OpenCOVID19-fr,,,opencovid19-fr
 2020-07-04,region,REG-01,Guadeloupe,,,,,16,,4,10,0,0,80,,OpenCOVID19-fr,,,opencovid19-fr
 2020-07-04,region,REG-02,Martinique,,,,,14,,6,15,0,0,90,,OpenCOVID19-fr,,,opencovid19-fr
@@ -16729,7 +16729,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,cas_ehpad,cas_confirmes_eh
 2020-07-05,departement,DEP-973,Guyane,,,,,17,,26,145,12,3,483,,Santé publique France Data,,,sante-publique-france-data
 2020-07-05,departement,DEP-974,La Réunion,,,,,2,,3,21,3,0,144,,Santé publique France Data,,,sante-publique-france-data
 2020-07-05,departement,DEP-976,Mayotte,,,,,28,,4,28,1,0,371,,Santé publique France Data,,,sante-publique-france-data
-2020-07-05,pays,FRA,France,168159,,38107,,NaN,NaN,NaN,NaN,NaN,NaN,NaN,,Ministère des Solidarités et de la Santé,,,ministere-sante
+2020-07-05,pays,FRA,France,168159,,38107,,,,,,,,,,Ministère des Solidarités et de la Santé,,,ministere-sante
 2020-07-05,pays,FRA,France,,,,,19390,,521,7863,21,5,77179,,OpenCOVID19-fr,,,opencovid19-fr
 2020-07-05,region,REG-01,Guadeloupe,,,,,16,,4,10,0,0,80,,OpenCOVID19-fr,,,opencovid19-fr
 2020-07-05,region,REG-02,Martinique,,,,,14,,6,15,0,0,90,,OpenCOVID19-fr,,,opencovid19-fr
@@ -17455,7 +17455,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,cas_ehpad,cas_confirmes_eh
 2020-07-11,departement,DEP-973,Guyane,,,,,25,,23,153,19,1,599,,Santé publique France Data,,,sante-publique-france-data
 2020-07-11,departement,DEP-974,La Réunion,,,,,3,,3,20,2,0,150,,Santé publique France Data,,,sante-publique-france-data
 2020-07-11,departement,DEP-976,Mayotte,,,,,28,,3,13,0,0,390,,Santé publique France Data,,,sante-publique-france-data
-2020-07-11,pays,FRA,France,171504,,39256,,NaN,10476,NaN,NaN,NaN,NaN,NaN,,Ministère des Solidarités et de la Santé,,,ministere-sante
+2020-07-11,pays,FRA,France,171504,,39256,,,10476,,,,,,,Ministère des Solidarités et de la Santé,,,ministere-sante
 2020-07-11,pays,FRA,France,,,,,19514,,470,6995,57,7,78454,,OpenCOVID19-fr,,,opencovid19-fr
 2020-07-11,region,REG-01,Guadeloupe,,,,,16,,4,10,0,1,82,,OpenCOVID19-fr,,,opencovid19-fr
 2020-07-11,region,REG-02,Martinique,,,,,15,,5,14,0,0,90,,OpenCOVID19-fr,,,opencovid19-fr
@@ -17576,7 +17576,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,cas_ehpad,cas_confirmes_eh
 2020-07-12,departement,DEP-973,Guyane,,,,,25,,26,154,17,3,617,,Santé publique France Data,,,sante-publique-france-data
 2020-07-12,departement,DEP-974,La Réunion,,,,,3,,3,20,0,0,150,,Santé publique France Data,,,sante-publique-france-data
 2020-07-12,departement,DEP-976,Mayotte,,,,,28,,3,13,1,0,391,,Santé publique France Data,,,sante-publique-france-data
-2020-07-12,pays,FRA,France,172089,,39256,,NaN,10476,NaN,NaN,NaN,NaN,NaN,,Ministère des Solidarités et de la Santé,,,ministere-sante
+2020-07-12,pays,FRA,France,172089,,39256,,,10476,,,,,,,Ministère des Solidarités et de la Santé,,,ministere-sante
 2020-07-12,pays,FRA,France,,,,,19515,,473,6991,26,5,78486,,OpenCOVID19-fr,,,opencovid19-fr
 2020-07-12,region,REG-01,Guadeloupe,,,,,16,,4,10,0,0,82,,OpenCOVID19-fr,,,opencovid19-fr
 2020-07-12,region,REG-02,Martinique,,,,,15,,5,14,0,0,90,,OpenCOVID19-fr,,,opencovid19-fr
@@ -17818,7 +17818,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,cas_ehpad,cas_confirmes_eh
 2020-07-14,departement,DEP-973,Guyane,,,,,30,,25,150,28,4,656,,Santé publique France Data,,,sante-publique-france-data
 2020-07-14,departement,DEP-974,La Réunion,,,,,3,,2,20,1,0,152,,Santé publique France Data,,,sante-publique-france-data
 2020-07-14,departement,DEP-976,Mayotte,,,,,28,,1,13,1,0,391,,Santé publique France Data,,,sante-publique-france-data
-2020-07-14,pays,FRA,France,172888,,39256,,NaN,10476,NaN,NaN,NaN,NaN,NaN,,Ministère des Solidarités et de la Santé,,,ministere-sante
+2020-07-14,pays,FRA,France,172888,,39256,,,10476,,,,,,,Ministère des Solidarités et de la Santé,,,ministere-sante
 2020-07-14,pays,FRA,France,,,,,19539,,465,6907,61,7,78670,,OpenCOVID19-fr,,,opencovid19-fr
 2020-07-14,region,REG-01,Guadeloupe,,,,,16,,4,9,0,0,83,,OpenCOVID19-fr,,,opencovid19-fr
 2020-07-14,region,REG-02,Martinique,,,,,15,,5,14,0,0,90,,OpenCOVID19-fr,,,opencovid19-fr
@@ -17939,7 +17939,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,cas_ehpad,cas_confirmes_eh
 2020-07-15,departement,DEP-973,Guyane,,,,,32,,24,153,26,0,673,,Santé publique France Data,,,sante-publique-france-data
 2020-07-15,departement,DEP-974,La Réunion,,,,,3,,4,22,3,2,152,,Santé publique France Data,,,sante-publique-france-data
 2020-07-15,departement,DEP-976,Mayotte,,,,,28,,2,10,2,1,397,,Santé publique France Data,,,sante-publique-france-data
-2020-07-15,pays,FRA,France,173304,,39464,,19579,10541,482,6915,,,78820,,Ministère des Solidarités et de la Santé,,,ministere-sante
+2020-07-15,pays,FRA,France,173304,,39464,,19579,10541,482,6915,133,16,78820,,Ministère des Solidarités et de la Santé,,,ministere-sante
 2020-07-15,pays,FRA,France,,,,,19559,,457,6873,133,16,78809,,OpenCOVID19-fr,,,opencovid19-fr
 2020-07-15,region,REG-01,Guadeloupe,,,,,16,,4,9,0,0,83,,OpenCOVID19-fr,,,opencovid19-fr
 2020-07-15,region,REG-02,Martinique,,,,,15,,5,14,0,0,90,,OpenCOVID19-fr,,,opencovid19-fr
@@ -18302,7 +18302,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,cas_ehpad,cas_confirmes_eh
 2020-07-18,departement,DEP-973,Guyane,,,,,35,,23,142,15,1,748,,Santé publique France Data,,,sante-publique-france-data
 2020-07-18,departement,DEP-974,La Réunion,,,,,3,,4,24,2,0,152,,Santé publique France Data,,,sante-publique-france-data
 2020-07-18,departement,DEP-976,Mayotte,,,,,28,,2,10,0,0,399,,Santé publique France Data,,,sante-publique-france-data
-2020-07-18,pays,FRA,France,175639,,39464,,NaN,10541,NaN,NaN,NaN,NaN,NaN,,Ministère des Solidarités et de la Santé,,,ministere-sante
+2020-07-18,pays,FRA,France,175639,,39464,,,10541,,,,,,,Ministère des Solidarités et de la Santé,,,ministere-sante
 2020-07-18,pays,FRA,France,,,,,19599,,450,6614,68,6,79322,,OpenCOVID19-fr,,,opencovid19-fr
 2020-07-18,region,REG-01,Guadeloupe,,,,,17,,1,8,0,0,83,,OpenCOVID19-fr,,,opencovid19-fr
 2020-07-18,region,REG-02,Martinique,,,,,15,,5,13,0,0,91,,OpenCOVID19-fr,,,opencovid19-fr
@@ -18664,7 +18664,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,cas_ehpad,cas_confirmes_eh
 2020-07-21,departement,DEP-973,Guyane,,,,,37,,21,146,22,1,811,,Santé publique France Data,,,sante-publique-france-data
 2020-07-21,departement,DEP-974,La Réunion,,,,,3,,5,29,3,1,152,,Santé publique France Data,,,sante-publique-france-data
 2020-07-21,departement,DEP-976,Mayotte,,,,,28,,2,7,0,0,403,,Santé publique France Data,,,sante-publique-france-data
-2020-07-21,pays,FRA,France,177338,,39554,,19649,10516,455,6482,,,79734,,Ministère des Solidarités et de la Santé,,,ministere-sante
+2020-07-21,pays,FRA,France,177338,,39554,,19649,10516,455,6482,109,12,79734,,Ministère des Solidarités et de la Santé,,,ministere-sante
 2020-07-21,pays,FRA,France,,,,,19629,,430,6440,109,12,79723,,OpenCOVID19-fr,,,opencovid19-fr
 2020-07-21,region,REG-01,Guadeloupe,,,,,17,,1,8,0,0,83,,OpenCOVID19-fr,,,opencovid19-fr
 2020-07-21,region,REG-02,Martinique,,,,,15,,5,12,0,0,92,,OpenCOVID19-fr,,,opencovid19-fr
@@ -18785,7 +18785,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,cas_ehpad,cas_confirmes_eh
 2020-07-22,departement,DEP-973,Guyane,,,,,37,,23,146,31,2,836,,Santé publique France Data,,,sante-publique-france-data
 2020-07-22,departement,DEP-974,La Réunion,,,,,3,,5,27,0,0,154,,Santé publique France Data,,,sante-publique-france-data
 2020-07-22,departement,DEP-976,Mayotte,,,,,28,,3,11,6,2,405,,Santé publique France Data,,,sante-publique-france-data
-2020-07-22,pays,FRA,France,178336,,39554,,19656,10516,445,6366,,,79957,,Ministère des Solidarités et de la Santé,,,ministere-sante
+2020-07-22,pays,FRA,France,178336,,39554,,19656,10516,445,6366,132,17,79957,,Ministère des Solidarités et de la Santé,,,ministere-sante
 2020-07-22,pays,FRA,France,,,,,19636,,420,6324,132,17,79946,,OpenCOVID19-fr,,,opencovid19-fr
 2020-07-22,region,REG-01,Guadeloupe,,,,,17,,1,8,0,0,83,,OpenCOVID19-fr,,,opencovid19-fr
 2020-07-22,region,REG-02,Martinique,,,,,15,,5,12,0,0,92,,OpenCOVID19-fr,,,opencovid19-fr
@@ -18906,7 +18906,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,cas_ehpad,cas_confirmes_eh
 2020-07-23,departement,DEP-973,Guyane,,,,,38,,25,153,24,3,853,,Santé publique France Data,,,sante-publique-france-data
 2020-07-23,departement,DEP-974,La Réunion,,,,,3,,4,23,0,0,158,,Santé publique France Data,,,sante-publique-france-data
 2020-07-23,departement,DEP-976,Mayotte,,,,,28,,3,10,2,0,408,,Santé publique France Data,,,sante-publique-france-data
-2020-07-23,pays,FRA,France,179398,,39554,,19666,10516,436,5957,,,80472,,Ministère des Solidarités et de la Santé,,,ministere-sante
+2020-07-23,pays,FRA,France,179398,,39554,,19666,10516,436,5957,123,13,80472,,Ministère des Solidarités et de la Santé,,,ministere-sante
 2020-07-23,pays,FRA,France,,,,,19646,,411,5915,123,13,80461,,OpenCOVID19-fr,,,opencovid19-fr
 2020-07-23,region,REG-01,Guadeloupe,,,,,17,,1,8,0,0,83,,OpenCOVID19-fr,,,opencovid19-fr
 2020-07-23,region,REG-02,Martinique,,,,,15,,4,11,0,0,93,,OpenCOVID19-fr,,,opencovid19-fr
@@ -19027,7 +19027,7 @@ date,granularite,maille_code,maille_nom,cas_confirmes,cas_ehpad,cas_confirmes_eh
 2020-07-24,departement,DEP-973,Guyane,,,,,38,,26,136,17,2,887,,Santé publique France Data,,,sante-publique-france-data
 2020-07-24,departement,DEP-974,La Réunion,,,,,3,,4,22,0,0,159,,Santé publique France Data,,,sante-publique-france-data
 2020-07-24,departement,DEP-976,Mayotte,,,,,28,,2,13,5,0,410,,Santé publique France Data,,,sante-publique-france-data
-2020-07-24,pays,FRA,France,180528,,39554,,19676,10516,410,5720,,,80815,,Ministère des Solidarités et de la Santé,,,ministere-sante
+2020-07-24,pays,FRA,France,180528,,39554,,19676,10516,410,5720,126,16,80815,,Ministère des Solidarités et de la Santé,,,ministere-sante
 2020-07-24,pays,FRA,France,,,,,19656,,385,5678,126,16,80804,,OpenCOVID19-fr,,,opencovid19-fr
 2020-07-24,region,REG-01,Guadeloupe,,,,,17,,1,8,0,0,83,,OpenCOVID19-fr,,,opencovid19-fr
 2020-07-24,region,REG-02,Martinique,,,,,15,,4,11,0,0,93,,OpenCOVID19-fr,,,opencovid19-fr
