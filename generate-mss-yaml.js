@@ -29,7 +29,7 @@ const valuesMap = {
 }
 
 function getKeyValuesMap(row) {
-  return Object.keys(valuesMap).filter(key => valuesMap[key] in row)
+  return Object.keys(valuesMap).filter(key => valuesMap[key] in row && Number.isInteger(parseValue(row[valuesMap[key]])))
     .map(key => `  ${key}: ${parseValue(row[valuesMap[key]])}`)
     .join('\n')
 }
