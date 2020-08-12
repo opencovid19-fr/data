@@ -3,4 +3,12 @@ source:
   nom: Ministère des Solidarités et de la Santé
   # Airtable complété par la DGS
 donneesNationales:
-
+  casConfirmes: 204172
+  deces: 19849
+  decesEhpad: 10505
+  hospitalises: 5012
+  reanimation: 391
+  gueris: 83237
+  casConfirmesEhpad: 39744
+  nouvellesHospitalisations: 191
+  nouvellesReanimations: 21
