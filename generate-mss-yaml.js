@@ -51,7 +51,7 @@ ${getKeyValuesMap(row)}
 async function main() {
   const rows = await extractData('appvqjbgBnxfnGtka', 'Onglet vue d\'ensemble')
   const existingDates = await computeExistingDates()
-  const newRows = rows.filter(r => !existingDates.includes(r.Date))
+  const newRows = rows.filter(r => r.Date && !existingDates.includes(r.Date))
   await Promise.all(newRows.map(newRow => buildFile(newRow)))
 }
 
