@@ -1,0 +1,14 @@
+date: 2020-10-30
+source:
+  nom: Ministère des Solidarités et de la Santé
+  # Airtable complété par la DGS
+donneesNationales:
+  casConfirmes: 1331984
+  deces: 24914
+  decesEhpad: 11651
+  hospitalises: 22176
+  reanimation: 3377
+  gueris: 116533
+  casConfirmesEhpad: 68349
+  nouvellesHospitalisations: 2563
+  nouvellesReanimations: 422
