@@ -1,0 +1,12 @@
+date: 2020-11-07
+source:
+  nom: Ministère des Solidarités et de la Santé
+  # Airtable complété par la DGS
+donneesNationales:
+  deces: 27660
+  decesEhpad: 12509
+  hospitalises: 29421
+  reanimation: 4421
+  gueris: 127938
+  nouvellesHospitalisations: 2458
+  nouvellesReanimations: 394
