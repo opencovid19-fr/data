@@ -13,6 +13,7 @@ async function computeExistingDates() {
 }
 
 function parseValue(string) {
+console.log(string)
   return parseInt(string.replace(/\s/g, ''), 10)
 }
 
