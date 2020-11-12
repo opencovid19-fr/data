@@ -12,11 +12,6 @@ async function computeExistingDates() {
   return files.map(f => f.slice(0, 10))
 }
 
-function parseValue(string) {
-console.log(string)
-  return parseInt(string.replace(/\s/g, ''), 10)
-}
-
 const valuesMap = {
   casConfirmes: 'Cas confirmés',
   deces: 'Décès à l’hôpital',
@@ -30,8 +25,8 @@ const valuesMap = {
 }
 
 function getKeyValuesMap(row) {
-  return Object.keys(valuesMap).filter(key => valuesMap[key] in row && Number.isInteger(parseValue(row[valuesMap[key]])))
-    .map(key => `  ${key}: ${parseValue(row[valuesMap[key]])}`)
+  return Object.keys(valuesMap).filter(key => valuesMap[key] in row && Number.isInteger(row[valuesMap[key]]))
+    .map(key => `  ${key}: ${row[valuesMap[key]]}`)
     .join('\n')
 }
 
