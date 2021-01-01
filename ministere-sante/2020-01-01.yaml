@@ -1,0 +1,9 @@
+date: 2020-01-01
+source:
+  nom: Ministère des Solidarités et de la Santé
+  # Airtable complété par la DGS
+donneesNationales:
+  deces: 44985
+  decesEhpad: 19780
+  hospitalises: 24296
+  gueris: 194901
