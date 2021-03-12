@@ -1,0 +1,14 @@
+date: 2021-02-11
+source:
+  nom: Ministère des Solidarités et de la Santé
+  # Airtable complété par la DGS
+donneesNationales:
+  casConfirmes: 3406685
+  deces: 57132
+  decesEhpad: 23671
+  hospitalises: 27007
+  reanimation: 3337
+  gueris: 238753
+  casConfirmesEhpad: 181965
+  nouvellesHospitalisations: 1610
+  nouvellesReanimations: 269
