@@ -1,0 +1,11 @@
+date: 2020-04-02
+source:
+  nom: Gouvernement de la Nouvelle-Calédonie
+  url: https://gouv.nc/sites/default/files/atoms/files/2020.04.02_cp_point_de_situation_sanitaire_global.pdf
+  archive: https://web.archive.org/web/20200407220519/https://gouv.nc/sites/default/files/atoms/files/2020.04.02_cp_point_de_situation_sanitaire_global.pdf
+donneesRegionales:
+  nom: Nouvelle-Calédonie
+  code: COM-988
+  casConfirmes: 18 # +0
+  gueris: 2 # +1 en isolement à la maison
+  depistes: 1538 # +148
