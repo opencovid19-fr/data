@@ -1,0 +1,13 @@
+date: 2020-04-08
+time: 17:30
+source:
+  nom: Gouvernement de la Nouvelle-Calédonie
+  url: https://gouv.nc/sites/default/files/atoms/files/2020.04.08_point_de_situation_global.pdf
+  archive: https://web.archive.org/web/20200408112610/https://gouv.nc/sites/default/files/atoms/files/2020.04.08_point_de_situation_global.pdf
+donneesRegionales:
+  nom: Nouvelle-Calédonie
+  code: COM-988
+  casConfirmes: 18
+  gueris: 3 # +0
+  reanimations: 1 
+  depistes: 2477 # +157 encore
