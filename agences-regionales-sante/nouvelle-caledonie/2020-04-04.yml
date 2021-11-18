@@ -1,0 +1,12 @@
+date: 2020-04-04
+source:
+  nom: Gouvernement de la Nouvelle-Calédonie
+  url: https://gouv.nc/sites/default/files/atoms/files/2020.04.04_ip_point_de_situation_global_du_samedi_4_avril_0.pdf
+  archive: https://web.archive.org/web/20200408110051/https://gouv.nc/sites/default/files/atoms/files/2020.04.04_ip_point_de_situation_global_du_samedi_4_avril_0.pdf
+donneesRegionales:
+  nom: Nouvelle-Calédonie
+  code: COM-988
+  casConfirmes: 18 # danns le fichier il est marqué un nouveau cas mais il continue à marqué 18 jusqu'a 07/04
+  gueris: 3 # +0
+  reanimations: 1 # aucune sortie de l'hopital, aucun déces donc je suppose le gars en réa y est tjr
+  depistes: 1840 # +143
